@@ -10,3 +10,4 @@ package.json
 publish.sh
 src
 static
+.sass-cache/
