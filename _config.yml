@@ -1,0 +1,21 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               PMHC-MDS
+url:                 http://www.pmhc-mds.com
+
+# About/contact
+author:
+  name:              'Strategic Data'
+  email:             'info@strategicdata.com.au'
+
+exclude: [node_modules,vendor,src,gulpfile.js,bower_components,bower.json,README.md,static,package.json,'*.sh']
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+source:      _source
+destination: _deploy

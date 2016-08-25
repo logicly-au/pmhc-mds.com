@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Lato|Open+Sans:300");
+h1, h2, h3, h4, h5, h6 {
+  font-family: Open Sans,sans-serif; }
+
+body {
+  color: #000;
+  font-family: Lato,sans-serif; }
+
+body .main-container {
+  padding-left: 30px;
+  padding-right: 30px; }
+
+body .brand-text h1, body .brand-text h2, body .brand-text h3, body .brand-text h4, body .brand-text h5, body .brand-text h6, body .brand-text p {
+  color: #fff; }
+
+body .subhead {
+  margin-bottom: 30px; }
+
+/*# sourceMappingURL=typography.css.map */
