@@ -1,0 +1,65 @@
+@import "variables";
+
+.banner-header {
+  height: $header-height;
+  width: 100%;
+  background-image: $header-gradient;
+}
+
+.brand {
+  float: left;
+  height: 100%;
+  padding-top: 0;
+
+  .brand-link {
+    float: left;
+    height: 205px;
+    width: 233px;
+    background-color: $contrast-text-color;
+  }
+}
+
+.brand-text {
+  display: inline-block;
+  padding-top: 6%;
+  padding-left: $std-padding * 2;
+}
+
+.navbar-wrapper {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.navbar {
+  background: transparent;
+  border: 0;
+}
+
+.main-navigation .nav>li {
+
+    a {
+      border-left: 1px solid;
+      color: $contrast-text-color;
+    }
+
+    &.current {
+      background-color: $contrast-text-color;
+      a {
+        color: $std-text-color;
+      }
+      border-color: $contrast-text-color;
+      &:focus,
+      &:hover {
+        color: $contrast-text-color;
+      }
+    }
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  border-color: rgba(255, 255, 255, 0.2);
+  &:focus,
+  &:hover {
+    background: $color-base-bright;
+    color: $contrast-text-color
+  }
+}

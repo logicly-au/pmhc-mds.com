@@ -1,0 +1,36 @@
+@import "variables";
+@import url("https://fonts.googleapis.com/css?family=Lato|Open+Sans:300");
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  .main-container {
+    padding-left: $std-padding * 2;
+    padding-right: $std-padding * 2;
+  }
+  color: $std-text-color;
+  font-family: 'Lato', sans-serif;
+  .brand-text {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p {
+      color: $contrast-text-color;
+    }
+  }
+
+  .subhead {
+    margin-bottom: $std-padding * 2;
+  }
+}

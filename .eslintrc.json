@@ -1,0 +1,33 @@
+{
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es6": true,
+        "jasmine": true,
+        "phantomjs": true
+    },
+    "extends": ["eslint:recommended", "eslint-config-standard", "angular"],
+    "parser": "babel-eslint",
+    "parserOptions": {
+        "sourceType": "module"
+    },
+    "rules": {
+        "angular/controller-as": 0,
+        "angular/no-service-method": 0,
+        "angular/di": [2,"array"],
+        "linebreak-style": [
+            "error",
+            "unix"
+        ],
+        "semi": [
+            "error",
+            "always"
+        ],
+        "standard/object-curly-even-spacing": 0,
+        "quotes": [0],
+        "no-multi-spaces": 0,
+        "space-before-function-paren": 0,
+        "key-spacing": 0,
+        "no-multi-str": 0
+    }
+}

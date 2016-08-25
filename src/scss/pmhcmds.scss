@@ -1,0 +1,26 @@
+@import "../../bower_components/bootstrap-sass/assets/stylesheets/_bootstrap";
+
+@import "variables";
+@import "typography";
+@import "header";
+@import "footer";
+
+.main-container {
+  margin-top: 50px;
+}
+
+.invisible {
+  display: none;
+}
+
+.step {
+  p {
+    padding-top: $std-padding;
+    padding-bottom: $std-padding;
+  }
+  ul{
+    padding-bottom: $std-padding;
+  }
+  padding-top: $std-padding;
+  border-bottom: 1px dotted #CCC;
+}
