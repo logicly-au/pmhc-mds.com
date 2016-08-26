@@ -8,7 +8,7 @@ Funding by the Australian Government Department of Health has been provided to
 Primary Health Networks (PHNs) through a Primary Mental Health Care flexible
 funding pool to support commissioning of mental health and suicide prevention
 services in six key service delivery areas:
-          
+
 * low intensity psychological interventions for people with, or at risk of,
   mild mental illness;
 * psychological therapies delivered by mental health professionals to under
@@ -32,5 +32,5 @@ A draft specification of the data items to be collected in the PMHC MDS is
 available. If you would like to be notified of updates to this specification or
 notified about updates to the rollout of the PMHC MDS please subscribe to the
 PMHC MDS mailing list by sending an email to
-[sympa@lists.pmhc-mds.com](mailto:sympa@lists.pmhc-mds.com?subject=subscribe%20n
-ews) with the subject subscribe news@lists.pmhc-mds.com.
+[sympa@lists.pmhc-mds.com](mailto:sympa@lists.pmhc-mds.com?subject=subscribe%20news)
+with the subject subscribe news@lists.pmhc-mds.com.
