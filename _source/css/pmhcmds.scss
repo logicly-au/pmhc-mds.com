@@ -27,3 +27,11 @@
   padding-top: $std-padding;
   border-bottom: 1px dotted #CCC;
 }
+
+#wrapper {
+  min-height:100%;
+  position:relative;
+}
+#main {
+  padding-bottom: $footer-height; /* Height of the footer element */
+}

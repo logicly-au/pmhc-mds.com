@@ -16,21 +16,20 @@ services in six key service delivery areas:
 * early intervention services for children and young people with, or at risk of
   mental illness;
 * services for people with severe and complex mental illness who are being
-  managed in a primary care setting; enhanced Aboriginal and Torres Strait
-  Islander mental health services; and a regional approach to suicide
-  prevention activities with a focus on improved follow-up for people who have
-  attempted suicide or are at high risk of suicide.
+  managed in a primary care setting;
+* enhanced Aboriginal and Torres Strait Islander mental health services; and
+* a regional approach to suicide prevention activities with a focus on improved
+  follow-up for people who have attempted suicide or are at high risk of suicide.
 
 The Primary Mental Health Care Minimum Data Set (PMHC MDS) will provide the
-basis for monitoring and evaluation of these services.
+basis for PHNs and the Department of Health to monitor and report on the quantity and quality of service delivery, and to inform future improvements in the planning and funding of primary mental health care services funded by the Australian Government.
 
 The data reported by PHNs through the PMHC MDS will form the basis for
 production of key performance indicators used to monitor services delivered
 across the 31 PHN regions covered by PHNs.
 
-A draft specification of the data items to be collected in the PMHC MDS is
-available. If you would like to be notified of updates to this specification or
-notified about updates to the rollout of the PMHC MDS please subscribe to the
-PMHC MDS mailing list by sending an email to
-[sympa@lists.pmhc-mds.com](mailto:sympa@lists.pmhc-mds.com?subject=subscribe%20news)
-with the subject subscribe news@lists.pmhc-mds.com.
+<a href="//www.strategicdata.com.au/">Strategic Data Pty Ltd</a> has been contracted by the Department of Health to manage the PMHC MDS on its behalf.
+
+A <a href="//docs.pmhc-mds.com/">draft specification</a> of the data items to be collected in the PMHC MDS is available.
+
+Information about <a href="/getstarted/">how to get started</a> on the PMHC MDS is available and will be regularly updated.

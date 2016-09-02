@@ -11,8 +11,17 @@ Before the PMHC MDS goes live, each PHN, in conjunction with their provider
 organisations, will need to analyse the data requirements and either organise
 to have their client management systems altered to produce the files required
 for upload or understand how to manually create the required Excel spreadsheets.
+Please refer to the draft <a href="//docs.pmhc-mds.com/upload-specification.html">upload specification</a>.
 
-####  Step 2. Assign a primary contact
+#### Step 2. Update client forms
+
+Before the PMHC MDS goes live, each PHN, in conjunction with their provider
+organisations, will need to update their client forms in order to collect all
+the data required for the PMHC MDS. Please refer to the draft
+<a href="//docs.pmhc-mds.com/data-model-and-specifications.html">data specification</a> and notes on
+<a href="//docs.pmhc-mds.com/form-creation.html">creating forms</a>.
+
+#### Step 3. Assign a primary contact
 
 Before the PMHC MDS goes live each PHN needs to assign a primary contact. This
 is the person who will have overall responsibility for PMHC MDS data management
@@ -30,6 +39,8 @@ This letter must contain the following details for the primary contact:
 * Mobile phone number
 * Title/Position
 
+In addition, if any of your provider organisations will be exporting data from client systems could you please include the contact details of their software provider so that we can keep the software providers informed about the development of the PMHC MDS and offer them accounts that can be used to test upload their exports.
+
 This letter must be faxed to Strategic Data at (03) 9340 9090 or scanned then
 emailed to [support@pmhc-mds.com](mailto:support@pmhc-mds.com).
 
@@ -39,12 +50,15 @@ a forgotten password.
 
 #### Step 3. Initial login
 
+When the PMHC MDS is available, the primary contact will be given login details.
+
 The PMHC MDS model allows PHNs to setup provider organisations underneath the
 PHN.
 
-When the primary contact user initially logs into the PMHC MDS they will need
-to create each of these provider organisations. The information required about
-each provider organisation is defined in the PMHC MDS specifications.
+The primary contact user will initially need to login to the PMHC MDS and create each of these provider organisations.
+
+The information required about each provider organisation is defined in
+the draft <a href="//docs.pmhc-mds.com/data-model-and-specifications.html#provider-organisation-data-elements">PMHC MDS specifications</a>.
 
 At least one user within each provider organisation will also need to be
 created with the ‘Upload’ role so that provider organisations can upload data.
@@ -65,4 +79,4 @@ Once the primary user has set up the provider organisations and associated user
 accounts the PMHC MDS is ready for data upload. Separate data upload
 documentation will be available.
 
-Please contact support@pmhc-mds.com if you have any questions.
+Please contact [support@pmhc-mds.com](mailto:support@pmhc-mds.com) if you have any questions.

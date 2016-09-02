@@ -12,52 +12,62 @@
   </head>
 
   <body>
-    <div id="header" class="banner-header">
-      <div class="container">
-        <div class="brand">
-          <a class="brand-link" href="/index.html">
-            <img class="brand-logo" src="/img/doh_small.png" alt="Austrlian department of Health" />
-          </a>
-        </div>
-        <div class="brand-text">
-          <h1>Welcome to the PMHC-MDS</h1>
-          <h4>Primary Mental Health Care Minimum Data Set</h4>
-        </div>
-      </div>
-
-      <div class="navbar-wrapper">
+    <div id="wrapper">
+      <div id="header" class="banner-header">
         <div class="container">
-          <nav class="navbar navbar-inverse main-navigation" role="navigation">
-            <ul class ="nav navbar-nav navbar-left">
-              <li >
-                <a href="/index.html">Home</a>
-              </li>
-              <li  class="current" >
-                <a href="/getstarted/">Get Started</a>
-              </li>
-              <li>
-                <a href="//docs.pmhc-mds.com/" target="_blank" >Documentation</a>
-              </li>
-            </ul>
-          </nav>
+          <div class="brand">
+            <a class="brand-link" href="/index.html">
+              <img class="brand-logo" src="/img/doh_small.png" alt="Australian Government Department of Health" />
+            </a>
+          </div>
+          <div class="brand-text">
+            <h1>Welcome to the PMHC-MDS</h1>
+            <h4>Primary Mental Health Care Minimum Data Set</h4>
+          </div>
+        </div>
+
+        <div class="navbar-wrapper">
+          <div class="container">
+            <nav class="navbar navbar-inverse main-navigation" role="navigation">
+              <ul class ="nav navbar-nav navbar-left">
+                <li >
+                  <a href="/index.html">Home</a>
+                </li>
+                <li  class="current" >
+                  <a href="/getstarted/">Get Started</a>
+                </li>
+                <li>
+                  <a href="//docs.pmhc-mds.com/" target="_blank" >Documentation</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
         </div>
       </div>
-    </div>
-    <div id="main" class="container main-container">
-      <div class="row">
-        <h2 class="subhead">Getting Started on the PMHC MDS</h2>
-      </div>
-      <div class="row">
-        <h3 id="what-steps-does-each-phn-need-to-take-before-they-can-upload-data-to-the-pmhc-mds">What steps does each PHN need to take before they can upload data to the PMHC MDS?</h3>
+      <div id="main" class="container main-container">
+        <div class="row">
+          <h2 class="subhead">Getting Started on the PMHC MDS</h2>
+        </div>
+        <div class="row">
+          <h3 id="what-steps-does-each-phn-need-to-take-before-they-can-upload-data-to-the-pmhc-mds">What steps does each PHN need to take before they can upload data to the PMHC MDS?</h3>
 
 <h4 id="step-1-decide-how-to-create-upload-files-for-the-pmhc-mds">Step 1. Decide how to create upload files for the PMHC MDS</h4>
 
 <p>Before the PMHC MDS goes live, each PHN, in conjunction with their provider
 organisations, will need to analyse the data requirements and either organise
 to have their client management systems altered to produce the files required
-for upload or understand how to manually create the required Excel spreadsheets.</p>
+for upload or understand how to manually create the required Excel spreadsheets.
+Please refer to the draft <a href="//docs.pmhc-mds.com/upload-specification.html">upload specification</a>.</p>
 
-<h4 id="step-2-assign-a-primary-contact">Step 2. Assign a primary contact</h4>
+<h4 id="step-2-update-client-forms">Step 2. Update client forms</h4>
+
+<p>Before the PMHC MDS goes live, each PHN, in conjunction with their provider
+organisations, will need to update their client forms in order to collect all
+the data required for the PMHC MDS. Please refer to the draft
+<a href="//docs.pmhc-mds.com/data-model-and-specifications.html">data specification</a> and notes on
+<a href="//docs.pmhc-mds.com/form-creation.html">creating forms</a>.</p>
+
+<h4 id="step-3-assign-a-primary-contact">Step 3. Assign a primary contact</h4>
 
 <p>Before the PMHC MDS goes live each PHN needs to assign a primary contact. This
 is the person who will have overall responsibility for PMHC MDS data management
@@ -77,6 +87,8 @@ account is being created (i.e., the person’s manager or the CEO).</p>
   <li>Title/Position</li>
 </ul>
 
+<p>In addition, if any of your provider organisations will be exporting data from client systems could you please include the contact details of their software provider so that we can keep the software providers informed about the development of the PMHC MDS and offer them accounts that can be used to test upload their exports.</p>
+
 <p>This letter must be faxed to Strategic Data at (03) 9340 9090 or scanned then
 emailed to <a href="mailto:support@pmhc-mds.com">support@pmhc-mds.com</a>.</p>
 
@@ -86,12 +98,15 @@ a forgotten password.</p>
 
 <h4 id="step-3-initial-login">Step 3. Initial login</h4>
 
+<p>When the PMHC MDS is available, the primary contact will be given login details.</p>
+
 <p>The PMHC MDS model allows PHNs to setup provider organisations underneath the
 PHN.</p>
 
-<p>When the primary contact user initially logs into the PMHC MDS they will need
-to create each of these provider organisations. The information required about
-each provider organisation is defined in the PMHC MDS specifications.</p>
+<p>The primary contact user will initially need to login to the PMHC MDS and create each of these provider organisations.</p>
+
+<p>The information required about each provider organisation is defined in
+the draft <a href="//docs.pmhc-mds.com/data-model-and-specifications.html#provider-organisation-data-elements">PMHC MDS specifications</a>.</p>
 
 <p>At least one user within each provider organisation will also need to be
 created with the ‘Upload’ role so that provider organisations can upload data.</p>
@@ -112,28 +127,30 @@ need a new user added.</p>
 accounts the PMHC MDS is ready for data upload. Separate data upload
 documentation will be available.</p>
 
-<p>Please contact support@pmhc-mds.com if you have any questions.</p>
+<p>Please contact <a href="mailto:support@pmhc-mds.com">support@pmhc-mds.com</a> if you have any questions.</p>
 
+        </div>
       </div>
-    </div>
-    <div class="footer" id="footer">
-      <div class="banner-footer">
+      <div id="footer">
         <div class="container">
           <div class="row">
             <div class="col-xs-4">
-              <img src="/img/bar.png" alt="Department of Health colour brand"/>
-              <a class="doh-link" href="http://www.health.gov.au/"><img src="/img/doh_light.png" alt="Department of Health"/></a>
+              <img src="/img/bar.png" alt="Australia Government Department of Health colour brand"/>
+              <a class="doh-link" href="http://www.health.gov.au/"><img src="/img/doh_light.png" alt="Australian Government Department of Health"/></a>
+              <p class="sd-credit">PMHC-MDS managed by <a href="http://strategicdata.com.au">Strategic Data Pty Ltd</a></p>
             </div>
             <div class="col-xs-4">
             </div>
             <div class="col-xs-4">
-              <p class="sd-credit">
-                PMHC-MDS by <a href="http://strategicdata.com.au">Strategic Data Pty Ltd</a>
-              </p>
+              <div class="right-footer">
+                <p class="contact-support">
+                  <a id="email_support" href="mailto:support@pmhc-mds.com">&#x2709; Contact support</a>
+                </p>
+              </div>
             </div>
           </div>
         </div>
       </div>
     </div>
-</body>
+  </body>
 </html>

@@ -1,22 +1,38 @@
 @import "variables";
 
-.banner-footer {
+#footer {
   background-color: $color-base-dark;
-  position: absolute;
+  width:100%;
   height: $footer-height;
-  width: 100%;
-  bottom: 0;
+  position:absolute;
+  bottom:0;
+  left:0;
   color: $contrast-text-color;
   font-size: 8pt;
 
+  a {
+    color: $contrast-text-color;
+  }
+  
   .doh-link{
     img {
       padding-top: 5px;
+      padding-bottom: 5px;
     }
   }
   .sd-credit{
-    padding-top: $std-padding * 2;
-    bottom: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .right-footer{
+    /*padding-top: $std-padding * 2;*/
+    /* bottom: 0;*/
+    height: $footer-height;
+    display: table;
     float: right;
+  }
+  .contact-support{
+    display: table-cell;
+    vertical-align: middle;
   }
 }
