@@ -1,7 +1,7 @@
 @import "variables";
 
 .banner-header {
-  height: $header-height;
+  /* height: $header-height;*/
   width: 100%;
   background-image: $header-gradient;
 }
@@ -23,6 +23,10 @@
   display: inline-block;
   padding-top: 6%;
   padding-left: $std-padding * 2;
+
+  h2 {
+    font-size: $font-size-h4;
+  }
 }
 
 .navbar-wrapper {
@@ -33,6 +37,10 @@
 .navbar {
   background: transparent;
   border: 0;
+
+  .container-fluid {
+    padding-left: 0px;
+  }
 }
 
 .main-navigation .nav>li {

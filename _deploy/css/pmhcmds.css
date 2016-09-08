@@ -5833,7 +5833,7 @@ body {
     margin-bottom: 30px; }
 
 .banner-header {
-  height: 255px;
+  /* height: $header-height;*/
   width: 100%;
   background-image: linear-gradient(to bottom, #1179d2, #113184); }
 
@@ -5851,6 +5851,8 @@ body {
   display: inline-block;
   padding-top: 6%;
   padding-left: 30px; }
+  .brand-text h2 {
+    font-size: 18px; }
 
 .navbar-wrapper {
   width: 100%;
@@ -5859,6 +5861,8 @@ body {
 .navbar {
   background: transparent;
   border: 0; }
+  .navbar .container-fluid {
+    padding-left: 0px; }
 
 .main-navigation .nav > li a {
   border-left: 1px solid;
@@ -5924,3 +5928,10 @@ body {
 #main {
   padding-bottom: 125px;
   /* Height of the footer element */ }
+
+.navbar-collapse {
+  padding-right: 0px;
+  padding-left: 0px; }
+
+.navbar {
+  margin-bottom: 0px; }
