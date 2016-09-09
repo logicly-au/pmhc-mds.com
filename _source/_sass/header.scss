@@ -38,9 +38,7 @@
   background: transparent;
   border: 0;
 
-  .container-fluid {
-    padding-left: 0px;
-  }
+
 }
 
 .main-navigation .nav>li {
@@ -63,6 +61,9 @@
     }
 }
 
+.navbar-inverse {
+  background-color: $color-base-dark;
+}
 .navbar-inverse .navbar-nav > li > a {
   border-color: rgba(255, 255, 255, 0.2);
   &:focus,
