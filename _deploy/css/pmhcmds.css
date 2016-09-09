@@ -5807,8 +5807,6 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
-/* $color-base-dark: #144ea1; */
-/* $color-base-dark: #144ea1; */
 h1,
 h2,
 h3,
@@ -5834,7 +5832,6 @@ body {
   body .subhead {
     margin-bottom: 30px; }
 
-/* $color-base-dark: #144ea1; */
 .banner-header {
   /* height: $header-height;*/
   width: 100%;
@@ -5885,9 +5882,8 @@ body {
     background: #1150a5;
     color: #fff; }
 
-/* $color-base-dark: #144ea1; */
 #footer {
-  background-color: #113184;
+  background-color: #144ea1;
   width: 100%;
   height: 125px;
   color: #fff;
