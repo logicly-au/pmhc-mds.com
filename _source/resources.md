@@ -9,8 +9,8 @@ MDS, to describe all data collected and file formats required to upload the
 data.
 
 ### 1. Overview of purpose, design, scope and key decision issues
-This paper outlines the approach taken in the design of the PMHC MDS and
-associated reporting arrangements.
+[The overview paper](/doc/pmhc-mds-overview-20160916.pdf) outlines the approach taken
+in the design of the PMHC MDS and associated reporting arrangements.
 
 ### 2. Specifications
 [The documentation website](https://docs.pmhc-mds.com/) defines what data items
@@ -18,12 +18,14 @@ are collected in the PMHC MDS, what file formats are accepted for upload and
 associated reporting requirements.
 
 ### 3. Ongoing questions and answers
-This document provides the Department's responses to issues raised by PHNs
+[The ongoing questions and answers document](/doc/pmhc-mds-q-and-a-20160916.pdf)
+provides the Department's responses to issues raised by PHNs
 about the PMHC MDS. It will be updated regularly as new issues are raised by
 PMHC MDS users.
 
 ### 4. Draft client consent wording
-This document provides standard wording that PHNs may wish to include in draft
+The draft client consent wording
+provides standard wording that PHNs may wish to include in draft
 client consent forms provided that to referrers and providers to obtain consent
 from their clients for anonymised data to be supplied to the PHN and the
 Department of Health for statistical purposes in planning and improving mental
