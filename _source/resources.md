@@ -38,3 +38,12 @@ explanation of how they are scored.
 * Kessler 10+ (K10+)
 * Kessler 5 (K5)
 * Strengths and Difficulties Questionnaire (SDQ)
+
+### 6. Mailing list
+If you would like to be notified about updates to the specifications or
+announcements about the rollout of the PMHC MDS please subscribe to the
+PMHC MDS mailing list by sending an email to
+[sympa@lists.pmhc-mds.com](mailto:sympa@lists.pmhc-mds.com?subject=subscribe%20news) with the subject "subscribe news@lists.pmhc-mds.com".
+
+This is not a general discussion list. Only moderated users can send
+messages to this list.

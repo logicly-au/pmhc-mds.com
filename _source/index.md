@@ -32,4 +32,10 @@ across the 31 PHN regions covered by PHNs.
 
 A <a href="//docs.pmhc-mds.com/">draft specification</a> of the data items to be collected in the PMHC MDS is available.
 
+If you would like to be notified about updates to this specification or
+announcements about the rollout of the PMHC MDS please subscribe to the
+PMHC MDS mailing list by sending an email to
+[sympa@lists.pmhc-mds.com](mailto:sympa@lists.pmhc-mds.com?subject=subscribe%20news) with the subject "subscribe news@lists.pmhc-mds.com". This is not a general discussion list. Only moderated users can send
+messages to this list.
+
 Information about <a href="/getstarted/">how to get started</a> on the PMHC MDS is available and will be regularly updated.
