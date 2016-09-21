@@ -24,12 +24,11 @@ about the PMHC MDS. It will be updated regularly as new issues are raised by
 PMHC MDS users.
 
 ### 4. Draft client consent wording
-The draft client consent wording
-provides standard wording that PHNs may wish to include in draft
-client consent forms provided that to referrers and providers to obtain consent
-from their clients for anonymised data to be supplied to the PHN and the
-Department of Health for statistical purposes in planning and improving mental
-health services.
+The draft client consent wording provides standard wording that PHNs may
+wish to include in draft client consent forms provided to referrers and
+providers to obtain consent from their clients for anonymised data to be
+supplied to the PHN and the Department of Health for statistical purposes in
+planning and improving mental health services.
 
 ### 5. Outcome measures and scoring rules
 The following documents provide examples of each of the outcome measures and an

@@ -30,7 +30,7 @@ across the 31 PHN regions covered by PHNs.
 
 <a href="//www.strategicdata.com.au/">Strategic Data Pty Ltd</a> has been contracted by the Department of Health to manage the PMHC MDS on its behalf.
 
-A <a href="//docs.pmhc-mds.com/">draft specification</a> of the data items to be collected in the PMHC MDS is available.
+A <a href="//docs.pmhc-mds.com/">specification</a> of the data items to be collected in the PMHC MDS is available.
 
 If you would like to be notified about updates to this specification or
 announcements about the rollout of the PMHC MDS please subscribe to the
