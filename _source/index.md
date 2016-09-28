@@ -2,6 +2,7 @@
 title: Home - PMHC-MDS
 page-name: home
 sub-heading: About the PMHC-MDS
+layout: index
 ---
 
 Funding by the Australian Government Department of Health has been provided to

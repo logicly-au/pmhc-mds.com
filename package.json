@@ -4,8 +4,9 @@
   "description": "static website",
   "main": "index.html",
   "dependencies": {
+    "bower": "^1.7.9",
     "gulp": "^3.9.1",
-    "bower": "^1.7.9"
+    "i18n": "^0.8.3"
   },
   "devDependencies": {
     "autoprefixer": "^6.3.7",
