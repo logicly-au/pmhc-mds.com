@@ -2,7 +2,6 @@
 title: Communications - PMHC-MDS
 page-name: communications
 sub-heading: Communications
-layout: default
 ---
 
 <hr />
