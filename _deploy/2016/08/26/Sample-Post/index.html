@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title }}</title>
+    <title>Sample Post</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="alternate" type="application/rss+xml" title="PMHC-MDS RSS" href="/feed.xml">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -43,16 +43,16 @@
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
           <ul class ="nav navbar-nav">
-            <li {% if page.url == '/' %} class="current" {% endif %}>
+            <li >
               <a href="/index.html">Home</a>
             </li>
-            <li {% if page.url == '/getstarted/' %} class="current" {% endif %}>
+            <li >
               <a href="/getstarted/">Get Started</a>
             </li>
-            <li {% if page.url == '/resources/' %} class="current" {% endif %}>
+            <li >
               <a href="/resources/">Resources</a>
             </li>
-            <li {% if page.url == '/communications/' %} class="current" {% endif %}>
+            <li >
               <a href="/communications/">Communications</a>
             </li>
           </ul>
@@ -65,14 +65,12 @@
 
     <div id="main" class="container main-container" tabindex="-1">
       <div class="row">
-	  <div class="col-xs-12 col-sm-12 col-md-8">
-	  <div class="row">
-      <h2 class="subhead">{{ page.sub-heading }}</h2>
+	  <h2 class="subhead"></h2>
       </div>
-        {{ content }}
-	  </div>
-	  <div class="col-xs-12 col-sm-12 col-md-4">
-        {% include announcements.html %}
+      <div class="row">
+	  <div class="col-xs-12 col-sm-12 col-md-8">
+        
+
 	  </div>
       </div>
     </div>
