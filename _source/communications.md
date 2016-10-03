@@ -19,7 +19,7 @@ sub-heading: Communications
     <li>
     <div id = "{{ post.url }}"><h3>{{ post.title }}</h3></div>
     <h4>{{ post.date | date: '%B %d, %Y' }}</h4>
-	<p>{{ post.content }}</p>
+	{{ post.content }}
 	<hr />
 </li>
   {% endfor %}
