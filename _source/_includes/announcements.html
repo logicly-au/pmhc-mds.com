@@ -3,8 +3,8 @@
   <hr />
 <h3>Latest</h3>
   {% for post in site.posts limit:1 %}
-      <a href="/communications/#{{ post.title }}"><h4>{{ post.title }}</h4></a>
-      <p>{{ post.excerpt }}</p>
+      <a href="/communications/#{{ post.url }}"><h4>{{ post.title }}</h4></a>
+      {{ post.excerpt }}
   {% endfor %}
 
 {% if site.posts.size > 1 %}
