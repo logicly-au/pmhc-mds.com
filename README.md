@@ -15,6 +15,12 @@ YYYY-MM-DD-title.md
 
 For example: 2016-09-12-This-is-the-name-of-the-post.md
 
+All Posts must begin with YAML front matter, like so:
+
+---
+title: This is the name of the post.
+---
+
 The content of the file is simply the content of the post formatted using standard HTML tags.
 
 More information here:
