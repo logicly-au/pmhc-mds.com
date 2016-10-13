@@ -7,6 +7,24 @@
 		<atom:link href="http://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS Data Specifications - 6/10/2016</title>
+				        
+				
+					<description>&lt;p&gt;PMHC MDS Data Specifications Update v1.0.1 was released on October 6, 2016.&lt;/p&gt;
+&lt;p&gt;This update includes the following changes:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.pmhc-mds.com/data-model-and-specifications.html#episode-principal-focus-of-treatment-plan&quot;&gt;Episode - Principal Focus of Treatment Plan&lt;/a&gt; - Updated response 4 from ‘Complex care package for adults’ to ‘Complex care package’.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.pmhc-mds.com/data-model-and-specifications.html#episode-source-of-cash-income&quot;&gt;Episode - Source of Cash Income&lt;/a&gt; - Added 0 as a valid response. This is to be used when the client is aged less than 16 years.&lt;/li&gt;
+  &lt;li&gt;Added a field to all data items to specify whether a response value is required.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				
+				<pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2016/10/13/Update-to-the-PMHC-MDS-Data-Specifications-v1-0-1/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2016/10/13/Update-to-the-PMHC-MDS-Data-Specifications-v1-0-1/</guid>
+			</item>
+		
+			<item>
 				<title>Primary Mental Health Care Minimum Data Set Circular</title>
 				        
 				
