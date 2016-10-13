@@ -5941,5 +5941,11 @@ body {
   padding: 0px;
   list-style-type: none; }
 
+.l-communications {
+  list-style-type: none; }
+
+.l-communications-ul {
+  padding: 0px; }
+
 .archive {
   margin-top: 10px; }
