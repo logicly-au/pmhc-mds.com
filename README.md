@@ -9,7 +9,7 @@ https://hub.docker.com/r/stratdat/pmhc-mds.com/
 
 Posting announcements:
 
-To create a new post, all you need to do is create a file in the _posts directory. How you name files in this folder is important. Jekyll requires blog post files to be named according to the following format:
+To create a new post, all you need to do is create a file in the _source/_posts directory. How you name files in this folder is important. Jekyll requires blog post files to be named according to the following format:
 
 YYYY-MM-DD-title.md
 
