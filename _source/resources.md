@@ -18,14 +18,14 @@ are collected in the PMHC MDS, what file formats are accepted for upload and
 associated reporting requirements.
 
 ### 3. Ongoing questions and answers
-[The ongoing questions and answers document](/doc/pmhc-mds-q-and-a-20160916.pdf)
+[The ongoing questions and answers document](/doc/pmhc-mds-q-and-a-20161212.pdf)
 provides the Department's responses to issues raised by PHNs
 about the PMHC MDS. It will be updated regularly as new issues are raised by
 PMHC MDS users.
 
-### 4. Draft client consent wording
-The draft client consent wording provides standard wording that PHNs may
-wish to include in draft client consent forms provided to referrers and
+### 4. Guidance on client consent
+[The guidance on client consent](/doc/pmhc-consent-guidance-D16-1362220-20161202.pdf) provides suggested wording that PHNs may
+wish to include in client consent forms provided to referrers and
 providers to obtain consent from their clients for anonymised data to be
 supplied to the PHN and the Department of Health for statistical purposes in
 planning and improving mental health services.
@@ -34,9 +34,9 @@ planning and improving mental health services.
 The following documents provide examples of each of the outcome measures and an
 explanation of how they are scored.
 
-* Kessler 10+ (K10+)
+* [Kessler 10+ (K10+)](/doc/pmhc-scoring-k10p-20161201.pdf)
 * Kessler 5 (K5)
-* Strengths and Difficulties Questionnaire (SDQ)
+* [Strengths and Difficulties Questionnaire (SDQ)](/doc/pmhc-scoring-sdq-20161201.pdf)
 
 ### 6. Mailing list
 If you would like to be notified about updates to the specifications or
