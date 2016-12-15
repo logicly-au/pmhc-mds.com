@@ -35,7 +35,7 @@ The following documents provide examples of each of the outcome measures and an
 explanation of how they are scored.
 
 * [Kessler 10+ (K10+)](/doc/pmhc-scoring-k10p-20161201.pdf)
-* Kessler 5 (K5)
+* [Kessler 5 (K5)](/doc/pmhc-scoring-k5-20161215.pdf)
 * [Strengths and Difficulties Questionnaire (SDQ)](/doc/pmhc-scoring-sdq-20161201.pdf)
 
 ### 6. Mailing list
