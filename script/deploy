@@ -17,5 +17,5 @@ ssh-add .travis/deploy-key
 git config --global push.default simple
 git add -A
 git diff --quiet --exit-code --cached || git commit -m 'Add build artefacts'
-git remote add production git@github.com:strategicdata/ataps-mds.com.git
+git remote add production git@github.com:strategicdata/pmhc-mds.com.git
 git push production HEAD:production --force
