@@ -7,6 +7,28 @@
 		<atom:link href="http://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS - 30/12/2016</title>
+				        
+				
+					<description>&lt;p&gt;PMHC MDS Update v0.5.3 was released on December 30, 2016.&lt;/p&gt;
+&lt;p&gt;The following functionality has been added:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Organisations tab has been restructured so that only top level organisations are shown in the table on the Organisation tab. Suborganisations are now shown in their own table on the details page of their parent organisation.&lt;/li&gt;
+&lt;li&gt;A Test Mode has been added for uploads. If you select the ‘Upload as test data’ checkbox on the Uploads tab, your data will be verified but the PMHC MDS database will not be updated.&lt;/li&gt;
+&lt;li&gt;A ‘Status of Previous Uploads’ table has been added to the Uploads tab. This allows you to view the status of uploads through your web browser instead of having to rely on the generated emails. You are also able to download the original file associated with each upload.&lt;/li&gt;
+&lt;li&gt;Multiple organisations can now be included in the one upload.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The user guide has been updated to reflect these roles, available at &lt;a href=&quot;https://docs.pmhc-mds.com/user-documentation.html#user-guide&quot;&gt;https://docs.pmhc-mds.com/user-documentation.html#user-guide&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The PMHC MDS team would like to wish everyone a Happy New Year.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2016/12/30/Update-to-the-PMHC-MDS-v0-5-3/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2016/12/30/Update-to-the-PMHC-MDS-v0-5-3/</guid>
+			</item>
+		
+			<item>
 				<title>PMHC MDS Resources Documentation update - 16/12/2016</title>
 				        
 				
