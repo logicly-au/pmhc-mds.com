@@ -18,4 +18,4 @@ git config --global push.default simple
 git add -A
 git diff --quiet --exit-code --cached || git commit -m 'Add build artefacts'
 git remote add production git@github.com:strategicdata/pmhc-mds.com.git
-git push production HEAD:production --force
+git push --force production HEAD:production
