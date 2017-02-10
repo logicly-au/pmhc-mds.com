@@ -18,7 +18,7 @@ are collected in the PMHC MDS, what file formats are accepted for upload and
 associated reporting requirements.
 
 ### 3. Ongoing questions and answers
-[The ongoing questions and answers document](/doc/pmhc-mds-q-and-a-20161212.pdf)
+[The ongoing questions and answers document](https://docs.pmhc-mds.com/faqs/concepts-processes/)
 provides the Department's responses to issues raised by PHNs
 about the PMHC MDS. It will be updated regularly as new issues are raised by
 PMHC MDS users.
@@ -34,7 +34,7 @@ planning and improving mental health services.
 The following documents provide examples of each of the outcome measures and an
 explanation of how they are scored.
 
-* [Kessler 10+ (K10+)](/doc/pmhc-scoring-k10p-20161201.pdf)
+* [Kessler 10+ (K10+)](/doc/pmhc-scoring-k10p-20170210.pdf)
 * [Kessler 5 (K5)](/doc/pmhc-scoring-k5-20161215.pdf)
 * [Strengths and Difficulties Questionnaire (SDQ)](/doc/pmhc-scoring-sdq-20161201.pdf)
 

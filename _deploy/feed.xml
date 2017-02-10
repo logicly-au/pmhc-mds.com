@@ -7,6 +7,38 @@
 		<atom:link href="http://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS and Data Specifications - 10/2/2017</title>
+				        
+				
+					<description>&lt;p&gt;PMHC MDS Update v0.6.1 was released on February 10, 2017.&lt;/p&gt;
+
+&lt;p&gt;The following functionality has been added:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Sub tabs have been added to each of the ‘Organisations’, ‘Users’ and ‘Upload’ tabs in order to group information in a more user friendly manner.&lt;/li&gt;
+  &lt;li&gt;Uploads can now include a value of 9 - Missing/Not stated for Episode - Homelessness&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The user guide has been updated to reflect these updates. It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/user-documentation/&quot;&gt;https://docs.pmhc-mds.com/user-documentation/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;PMHC MDS Data Specifications Update v1.0.4 was released on February 10, 2017.&lt;/p&gt;
+
+&lt;p&gt;The updates includes the following changes:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Updated the data model diagram to explicitly show Primary Health Network Organisations and Provider Organisations&lt;/li&gt;
+  &lt;li&gt;Added more description to Organisation Path for Client, Episode, Service Contact, Collection Occasion and Practitioner records&lt;/li&gt;
+  &lt;li&gt;Episode - Homelessness Flag updated to include missing/not stated value of 9&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The Department of Health’s ‘Department response to issues raised by PHNs’ document has now been incorporated into the online Frequently Asked Questions section at &lt;a href=&quot;https://docs.pmhc-mds.com/faqs/concepts-processes/&quot;&gt;https://docs.pmhc-mds.com/faqs/concepts-processes/&lt;/a&gt;. Answers to questions will be added there. The existing PDF will no longer be maintained and will be removed from the website.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2017/02/10/Update-to-the-PMHC-MDS-and-Data-Specifications-v0-6-1/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/02/10/Update-to-the-PMHC-MDS-and-Data-Specifications-v0-6-1/</guid>
+			</item>
+		
+			<item>
 				<title>Update to the PMHC MDS - 30/12/2016</title>
 				        
 				
