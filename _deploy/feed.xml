@@ -51,7 +51,7 @@
 &lt;li&gt;A ‘Status of Previous Uploads’ table has been added to the Uploads tab. This allows you to view the status of uploads through your web browser instead of having to rely on the generated emails. You are also able to download the original file associated with each upload.&lt;/li&gt;
 &lt;li&gt;Multiple organisations can now be included in the one upload.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The user guide has been updated to reflect these roles, available at &lt;a href=&quot;https://docs.pmhc-mds.com/user-documentation.html#user-guide&quot;&gt;https://docs.pmhc-mds.com/user-documentation.html#user-guide&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The user guide has been updated to reflect these roles, available at &lt;a href=&quot;https://docs.pmhc-mds.com/user-documentation/&quot;&gt;https://docs.pmhc-mds.com/user-documentation/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The PMHC MDS team would like to wish everyone a Happy New Year.&lt;/p&gt;
 </description>
 				
@@ -94,7 +94,7 @@
 &lt;p&gt;The ‘User Management’ role now only allows a user to invite new users to use the PMHC MDS and also manage the roles that the user has. It no longer allows you to manage provider organisations.&lt;/p&gt;
 &lt;p&gt;The ‘Organisation Management’ role allows a user to add and manage provider organisations.&lt;/p&gt;
 &lt;p&gt;The Primary Contact user will need to provide any other users at their organisations with the ‘Organisation Management’ role if appropriate.&lt;/p&gt;
-&lt;p&gt;The user guide has been updated to reflect these roles, available at &lt;a href=&quot;https://docs.pmhc-mds.com/user-documentation.html#user-guide&quot;&gt;https://docs.pmhc-mds.com/user-documentation.html#user-guide&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The user guide has been updated to reflect these roles, available at &lt;a href=&quot;https://docs.pmhc-mds.com/user-documentation/&quot;&gt;https://docs.pmhc-mds.com/user-documentation/&lt;/a&gt;&lt;/p&gt;
 </description>
 				
 				<pubDate>Tue, 29 Nov 2016 00:00:00 +0000</pubDate>
@@ -152,8 +152,8 @@
 					<description>&lt;p&gt;PMHC MDS Data Specifications Update v1.0.1 was released on October 6, 2016.&lt;/p&gt;
 &lt;p&gt;This update includes the following changes:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.pmhc-mds.com/data-model-and-specifications.html#episode-principal-focus-of-treatment-plan&quot;&gt;Episode - Principal Focus of Treatment Plan&lt;/a&gt; - Updated response 4 from ‘Complex care package for adults’ to ‘Complex care package’.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.pmhc-mds.com/data-model-and-specifications.html#episode-source-of-cash-income&quot;&gt;Episode - Source of Cash Income&lt;/a&gt; - Added 0 as a valid response. This is to be used when the client is aged less than 16 years.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-principal-focus-of-treatment-plan&quot;&gt;Episode - Principal Focus of Treatment Plan&lt;/a&gt; - Updated response 4 from ‘Complex care package for adults’ to ‘Complex care package’.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-source-of-cash-income&quot;&gt;Episode - Source of Cash Income&lt;/a&gt; - Added 0 as a valid response. This is to be used when the client is aged less than 16 years.&lt;/li&gt;
   &lt;li&gt;Added a field to all data items to specify whether a response value is required.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
