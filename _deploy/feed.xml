@@ -15,7 +15,7 @@
 &lt;p&gt;The following functionality has been added:&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;Sub tabs have been added to each of the ‘Organisations’, ‘Users’ and ‘Upload’ tabs in order to group information in a more user friendly manner.&lt;/li&gt;
-  &lt;li&gt;Uploads can now include a value of 9 - Missing/Not stated for Episode - Homelessness&lt;/li&gt;
+  &lt;li&gt;Uploads can now include a value of 9 - Missing/Not stated for &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-homelessness-flag&quot;&gt;Episode - Homelessness&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;The user guide has been updated to reflect these updates. It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/user-documentation/&quot;&gt;https://docs.pmhc-mds.com/user-documentation/&lt;/a&gt;&lt;/p&gt;
@@ -24,13 +24,12 @@
 
 &lt;p&gt;The updates includes the following changes:&lt;/p&gt;
 &lt;ol&gt;
-  &lt;li&gt;Updated the data model diagram to explicitly show Primary Health Network Organisations and Provider Organisations&lt;/li&gt;
-  &lt;li&gt;Added more description to Organisation Path for Client, Episode, Service Contact, Collection Occasion and Practitioner records&lt;/li&gt;
-  &lt;li&gt;Episode - Homelessness Flag updated to include missing/not stated value of 9&lt;/li&gt;
+  &lt;li&gt;Updated the &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#data-model&quot;&gt;data model diagram&lt;/a&gt; to explicitly show Primary Health Network Organisations and Provider Organisations&lt;/li&gt;
+  &lt;li&gt;Added more description to &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#organisation-path&quot;&gt;Organisation Path&lt;/a&gt; for Client, Episode, Service Contact, Collection Occasion and Practitioner records&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-homelessness-flag&quot;&gt;Episode - Homelessness Flag&lt;/a&gt; updated to include missing/not stated value of 9&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;The Department of Health’s ‘Department response to issues raised by PHNs’ document has now been incorporated into the online Frequently Asked Questions section at &lt;a href=&quot;https://docs.pmhc-mds.com/faqs/concepts-processes/&quot;&gt;https://docs.pmhc-mds.com/faqs/concepts-processes/&lt;/a&gt;. Answers to questions will be added there. The existing PDF will no longer be maintained and will be removed from the website.&lt;/p&gt;
-
 </description>
 				
 				<pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
@@ -74,7 +73,7 @@
 &lt;p&gt;The following documents are now available:&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;&lt;a href=&quot;https://www.pmhc-mds.com/doc/pmhc-consent-guidance-D16-1362220-20161202.pdf&quot;&gt;Guidance on client consent&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;https://www.pmhc-mds.com/doc/pmhc-scoring-k10p-20161201.pdf&quot;&gt;Kessler 10+ (K10+)&lt;/a&gt; outcome measures and scoring rules&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.pmhc-mds.com/doc/pmhc-scoring-k10p-20170210.pdf&quot;&gt;Kessler 10+ (K10+)&lt;/a&gt; ouetcome measures and scoring rules&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;https://www.pmhc-mds.com/doc/pmhc-scoring-k5-20161215.pdf&quot;&gt;Kessler 5 (K5)&lt;/a&gt; outcome measures and scoring rules&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;https://www.pmhc-mds.com/doc/pmhc-scoring-sdq-20161201.pdf&quot;&gt;Strengths and Difficulties Questionnaire (SDQ)&lt;/a&gt; outcome measures and scoring rules&lt;/li&gt;
 &lt;/ul&gt;
