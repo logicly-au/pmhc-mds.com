@@ -7,6 +7,31 @@
 		<atom:link href="http://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS - 24/2/2017</title>
+				        
+				
+					<description>&lt;p&gt;PMHC MDS Update v0.7.5 was released on February 24, 2017.&lt;/p&gt;
+
+&lt;p&gt;The following functionality has been added:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;The ‘Reporting’ role has been added.&lt;/li&gt;
+  &lt;li&gt;A ‘Data Extraction’ tab is now available for users who have been granted the ‘Reporting’ role.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Data extraction allows users to select a Primary Health Network or Provider Organisation and a date range to download the data contained in the PMHC MDS for the criteria selected. The downloaded data conforms to the &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/upload-specification.html&quot;&gt;upload specification&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Users who have already been granted the ‘User Management’ role have automatically been granted the ‘Reporting’ role. These users will need to login to the PMHC MDS and grant the ‘Reporting’ role to any other users that should be able to download data.&lt;/p&gt;
+
+&lt;p&gt;The user guide has been updated to reflect these updates. It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/user-documentation/&quot;&gt;https://docs.pmhc-mds.com/user-documentation/&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2017/02/24/Update-to-the-PMHC-MDS-v0-7-5/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/02/24/Update-to-the-PMHC-MDS-v0-7-5/</guid>
+			</item>
+		
+			<item>
 				<title>Separate PMHC MDS now available for software developers to test upload files - 17/2/2017</title>
 				        
 				
