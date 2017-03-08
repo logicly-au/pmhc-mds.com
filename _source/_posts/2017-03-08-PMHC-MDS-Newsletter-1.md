@@ -1,9 +1,8 @@
-[
+---
+title: PMHC MDS Newsletter 1
+---
 
-	{
-		"title"    : "PMHC MDS Newsletter 1",
-		"date"     : "March 08, 2017",
-		"content"  : "<table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" width="100%">
+<table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" width="100%">
 <tr>
                     <td bgcolor="#ffffff">
                         <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" width="100%">
@@ -143,7 +142,7 @@
                                     <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="" width="100%" />
                                     <table role="presentation" aria-hidden="true" margin="0" cellspacing="0" cellpadding="0" border="0" align="center" width="100%">
                                       <tr>
-                                        <td width="20%"><img width="100%" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F7bd20110-ffe0-42a0-8c77-9b022fd300d0.jpg" title="" alt="" />
+                                        <td width="20%"><img width="100%" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F7bd20110-ffe0-42a0-8c77-9b022fd300d0.jpg" title="" alt=""/>
       </td>
                                         <td>
                                           <h4>
@@ -153,10 +152,10 @@
                                         How many commissioned provider organisations do you have?
                                     </p>
                                     <ul>
-                                      <li><a href="https://pmhc.websurvey.net.au/survey/q?page=start&amp;slot.comissioned_provider=1">1-25</a></li>
-                                      <li><a href="https://pmhc.websurvey.net.au/survey/q?page=start&amp;slot.comissioned_provider=2">26-50</a></li>
-                                      <li><a href="https://pmhc.websurvey.net.au/survey/q?page=start&amp;slot.comissioned_provider=3">51-100</a></li>
-                                      <li><a href="https://pmhc.websurvey.net.au/survey/q?page=start&amp;slot.comissioned_provider=4">100+ (Too many to count)</a></li>
+                                      <li><a href="https://pmhc.websurvey.net.au/survey/q?page=start&slot.comissioned_provider=1">1-25</a></li>
+                                      <li><a href="https://pmhc.websurvey.net.au/survey/q?page=start&slot.comissioned_provider=2">26-50</a></li>
+                                      <li><a href="https://pmhc.websurvey.net.au/survey/q?page=start&slot.comissioned_provider=3">51-100</a></li>
+                                      <li><a href="https://pmhc.websurvey.net.au/survey/q?page=start&slot.comissioned_provider=4">100+ (Too many to count)</a></li>
                                     </ul>
                                         </td>
                                       </tr>
@@ -213,7 +212,7 @@
                                       <tr>
                                         <td width="80%"><h4>
                         Who to contact?
-                                          </h4></td><td rowspan="3"><img width="128" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F2fcc4ec8-797f-433b-8455-02bf3adc61d5.png" title="" alt="" /></td>
+                                          </h4></td><td rowspan="3"><img width="100%" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F2fcc4ec8-797f-433b-8455-02bf3adc61d5.png" title="" alt="" width="128"></td>
                                       </tr>
                                       <tr>
                                         <td>
@@ -249,16 +248,16 @@
             <table width="100%">
                 <tr>
                     <td>
-                        <a href="https://docs.pmhc-mds.com/user-documentation/index.html#user-docs"><img width="100%" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2Fba8fcb99-271d-41fa-9c34-25ae0dd66f55.png" title="User Guide" alt="User Guide" /></a>
+                        <a href="https://docs.pmhc-mds.com/user-documentation/index.html#user-docs"><img width="100%" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2Fba8fcb99-271d-41fa-9c34-25ae0dd66f55.png" title="User Guide" alt="User Guide"></a>
                     </td>
                     <td>
-                        <a href="https://docs.pmhc-mds.com/faqs/index.html"><img width="100%" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F7656d922-3d40-46a1-9caf-975718e0eeb0.png" title="FAQs" alt="FAQs" /></a>
+                        <a href="https://docs.pmhc-mds.com/faqs/index.html"><img width="100%" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F7656d922-3d40-46a1-9caf-975718e0eeb0.png" title="FAQs" alt="FAQs"></a>
                     </td>
                     <td>
-                        <a href="https://docs.pmhc-mds.com/data-specification/index.html"><img width="100%" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8500a945-3991-4688-b3c0-04d8199deb49.png" title="Specifications" alt="Specifications" /></a>
+                        <a href="https://docs.pmhc-mds.com/data-specification/index.html"><img width="100%" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8500a945-3991-4688-b3c0-04d8199deb49.png" title="Specifications" alt="Specifications"></a>
                     </td>
                     <td>
-                        <a href="https://www.pmhc-mds.com/communications/"><img width="100%" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F7efbd585-d767-422d-97f7-885ea559e9a7.png" title="Announcements" alt="Announcements" /></a>
+                        <a href="https://www.pmhc-mds.com/communications/"><img width="100%" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F7efbd585-d767-422d-97f7-885ea559e9a7.png" title="Announcements" alt="Announcements"></a>
                     </td>
                 </tr>
             </table>
@@ -269,187 +268,3 @@
         </td>
         </tr>
 </table>
-"
-	}
-
-	{
-		"title"    : "Update to the PMHC MDS - 24/2/2017",
-		"date"     : "February 24, 2017",
-		"content"  : "<p>PMHC MDS Update v0.7.5 was released on February 24, 2017.</p>
-
-<p>The following functionality has been added:</p>
-<ol>
-  <li>The ‘Reporting’ role has been added.</li>
-  <li>A ‘Data Extraction’ tab is now available for users who have been granted the ‘Reporting’ role.</li>
-</ol>
-
-<p>Data extraction allows users to select a Primary Health Network or Provider Organisation and a date range to download the data contained in the PMHC MDS for the criteria selected. The downloaded data conforms to the <a href="https://docs.pmhc-mds.com/data-specification/upload-specification.html">upload specification</a>.</p>
-
-<p>Users who have already been granted the ‘User Management’ role have automatically been granted the ‘Reporting’ role. These users will need to login to the PMHC MDS and grant the ‘Reporting’ role to any other users that should be able to download data.</p>
-
-<p>The user guide has been updated to reflect these updates. It is available at <a href="https://docs.pmhc-mds.com/user-documentation/">https://docs.pmhc-mds.com/user-documentation/</a>.</p>
-
-"
-	}
-
-	{
-		"title"    : "Separate PMHC MDS now available for software developers to test upload files - 17/2/2017",
-		"date"     : "February 17, 2017",
-		"content"  : "<p>A new instance of the PMHC MDS is now available for third party software developers to test their upload files. This instance is available at <a href="https://developers.pmhc-mds.net/">https://developers.pmhc-mds.net/</a>.</p>
-
-<p>In order to obtain an account on <a href="https://developers.pmhc-mds.net/">https://developers.pmhc-mds.net/</a> developers will need to email <a href="mailto:support@pmhc-mds.com">support@pmhc-mds.com</a>  a Letter of Authority on their company’s letterhead containing the following details:</p>
-
-<ol>
-  <li>The name of the person the account is for</li>
-  <li>The email address of the person</li>
-  <li>Contact telephone number</li>
-  <li>Mobile phone number</li>
-  <li>Request access to the ‘Test [Your Company Name]’ Organisation</li>
-</ol>
-
-<p>Please note that real data should not be uploaded to <a href="https://developers.pmhc-mds.net/">https://developers.pmhc-mds.net/</a>. It is being provided for testing purposes only.</p>
-
-<p>PHN’s and their provider organisations are encouraged to forward this announcement onto any relevant third-party software developers.</p>
-"
-	}
-
-	{
-		"title"    : "Update to the PMHC MDS and Data Specifications - 10/2/2017",
-		"date"     : "February 10, 2017",
-		"content"  : "<p>PMHC MDS Update v0.6.1 was released on February 10, 2017.</p>
-
-<p>The following functionality has been added:</p>
-<ol>
-  <li>Sub tabs have been added to each of the ‘Organisations’, ‘Users’ and ‘Upload’ tabs in order to group information in a more user friendly manner.</li>
-  <li>Uploads can now include a value of 9 - Missing/Not stated for <a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-homelessness-flag">Episode - Homelessness</a></li>
-</ol>
-
-<p>The user guide has been updated to reflect these updates. It is available at <a href="https://docs.pmhc-mds.com/user-documentation/">https://docs.pmhc-mds.com/user-documentation/</a></p>
-
-<p>PMHC MDS Data Specifications Update v1.0.4 was released on February 10, 2017.</p>
-
-<p>The updates includes the following changes:</p>
-<ol>
-  <li>Updated the <a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#data-model">data model diagram</a> to explicitly show Primary Health Network Organisations and Provider Organisations</li>
-  <li>Added more description to <a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#organisation-path">Organisation Path</a> for Client, Episode, Service Contact, Collection Occasion and Practitioner records</li>
-  <li><a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-homelessness-flag">Episode - Homelessness Flag</a> updated to include missing/not stated value of 9</li>
-</ol>
-
-<p>The Department of Health’s ‘Department response to issues raised by PHNs’ document has now been incorporated into the online Frequently Asked Questions section at <a href="https://docs.pmhc-mds.com/faqs/concepts-processes/">https://docs.pmhc-mds.com/faqs/concepts-processes/</a>. Answers to questions will be added there. The existing PDF will no longer be maintained and will be removed from the website.</p>
-"
-	}
-
-	{
-		"title"    : "Update to the PMHC MDS - 30/12/2016",
-		"date"     : "December 30, 2016",
-		"content"  : "<p>PMHC MDS Update v0.5.3 was released on December 30, 2016.</p>
-<p>The following functionality has been added:</p>
-
-<ul>
-<li>The Organisations tab has been restructured so that only top level organisations are shown in the table on the Organisation tab. Suborganisations are now shown in their own table on the details page of their parent organisation.</li>
-<li>A Test Mode has been added for uploads. If you select the ‘Upload as test data’ checkbox on the Uploads tab, your data will be verified but the PMHC MDS database will not be updated.</li>
-<li>A ‘Status of Previous Uploads’ table has been added to the Uploads tab. This allows you to view the status of uploads through your web browser instead of having to rely on the generated emails. You are also able to download the original file associated with each upload.</li>
-<li>Multiple organisations can now be included in the one upload.</li>
-</ul>
-<p>The user guide has been updated to reflect these roles, available at <a href="https://docs.pmhc-mds.com/user-documentation/">https://docs.pmhc-mds.com/user-documentation/</a></p>
-<p>The PMHC MDS team would like to wish everyone a Happy New Year.</p>
-"
-	}
-
-	{
-		"title"    : "PMHC MDS Resources Documentation update - 16/12/2016",
-		"date"     : "December 16, 2016",
-		"content"  : "<p>The documentation at <a href="https://www.pmhc-mds.com/resources/">https://www.pmhc-mds.com/resources/</a> has been updated.</p>
-
-<p>The following documents have been updated:</p>
-<ul>
-    <li><a href="https://www.pmhc-mds.com/doc/pmhc-mds-q-and-a-20161212.pdf">Ongoing questions and answers.</a></li>
-</ul>
-
-<p>The following documents are now available:</p>
-<ul>
-    <li><a href="https://www.pmhc-mds.com/doc/pmhc-consent-guidance-D16-1362220-20161202.pdf">Guidance on client consent</a></li>
-    <li><a href="https://www.pmhc-mds.com/doc/pmhc-scoring-k10p-20170210.pdf">Kessler 10+ (K10+)</a> ouetcome measures and scoring rules</li>
-    <li><a href="https://www.pmhc-mds.com/doc/pmhc-scoring-k5-20161215.pdf">Kessler 5 (K5)</a> outcome measures and scoring rules</li>
-    <li><a href="https://www.pmhc-mds.com/doc/pmhc-scoring-sdq-20161201.pdf">Strengths and Difficulties Questionnaire (SDQ)</a> outcome measures and scoring rules</li>
-</ul>
-"
-	}
-
-	{
-		"title"    : "Update to the PMHC MDS - 29/11/2016",
-		"date"     : "November 29, 2016",
-		"content"  : "<p>PMHC MDS Update v0.4.2 was released on November 29, 2016.</p>
-<p>The ‘User Management’ role has been split with a new role ‘Organisation Management’ being created. Primary Contact users have had the ‘Organisation Management’ role added to their account.</p>
-<p>The ‘User Management’ role now only allows a user to invite new users to use the PMHC MDS and also manage the roles that the user has. It no longer allows you to manage provider organisations.</p>
-<p>The ‘Organisation Management’ role allows a user to add and manage provider organisations.</p>
-<p>The Primary Contact user will need to provide any other users at their organisations with the ‘Organisation Management’ role if appropriate.</p>
-<p>The user guide has been updated to reflect these roles, available at <a href="https://docs.pmhc-mds.com/user-documentation/">https://docs.pmhc-mds.com/user-documentation/</a></p>
-"
-	}
-
-	{
-		"title"    : "UPDATE regarding the Primary Mental Health Care Minimum Data Set - Request for nominations to be early adopters",
-		"date"     : "October 14, 2016",
-		"content"  : "<p>The below circular was sent to PHN CEOs on Friday 14 October 2016.</p>
-
-<p>-----------------------</p>
-
-<p>Dear PHN CEOs</p>
-
-<p>The Primary Mental Health Care Minimum Data Set (PMHC MDS) will be available for all Primary Health Networks (PHNs) to commence uploading data in early December. Prior to this we are looking for between 5 and 10 PHNs to volunteer as early adopters. These PHNs will commence upload from the 7th of November, and help us to streamline the system prior to making it available to all PHNs from the beginning of December.</p>
-
-<p>We would like some of the early adopters to be uploading zipped csv files and some to be uploading Excel spreadsheets. They will need to be willing to provide feedback on the process used to give the primary contact user access to the system, the usability of the system, and the documentation and training.</p>
-
-<p>Benefits of moving to the PMHC include:</p>
-<ul>
-<li>Early access to features which are not included in the ATAPS/MHSRRA MDS:</li>
-<li>Partitioning of provider organisations within a PHN so that provider organisations can only access their own data.</li>
-<li>Delegation of user management to each provider organisation.</li>
-<li>Reduced data collection burden due to not needing to collect data items that have been retired from the ATAPS/MHSRRA MDS.</li>
-</ul>
-
-<p>Please email <a href="mailto:support@pmhc-mds.com?Subject=PMHC%20MDS%20Request%20for%20early%20adopters" target="_top">support@pmhc-mds.com</a> by Friday the 28th of October, 2016 if you would like to volunteer. PHNs who have been selected to be early adopters will be notified on Wednesday the 2nd of November, 2016.</p>
-
-<p>Additionally there are still a few PHNs who have not yet submitted a 'Letter of Authority' it would be appreciated if you could address this as a matter of priority. If you are unsure we will be following up with individual PHN's in the next two weeks.</p>
-
-<p>Thank you.</p>
-
-<p>Kind regards,</p>
-
-<p>
-<span>Mental Health Data and Funding Section</span><br />
-<span>Mental Health Services Branch</span><br />
-<span>Health Services Division</span><br />
-<span>Department of Health</span>
-</p>
-"
-	}
-
-	{
-		"title"    : "Update to the PMHC MDS Data Specifications - 6/10/2016",
-		"date"     : "October 13, 2016",
-		"content"  : "<p>PMHC MDS Data Specifications Update v1.0.1 was released on October 6, 2016.</p>
-<p>This update includes the following changes:</p>
-<ul>
-  <li><a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-principal-focus-of-treatment-plan">Episode - Principal Focus of Treatment Plan</a> - Updated response 4 from ‘Complex care package for adults’ to ‘Complex care package’.</li>
-  <li><a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-source-of-cash-income">Episode - Source of Cash Income</a> - Added 0 as a valid response. This is to be used when the client is aged less than 16 years.</li>
-  <li>Added a field to all data items to specify whether a response value is required.</li>
-</ul>
-"
-	}
-
-	{
-		"title"    : "Primary Mental Health Care Minimum Data Set Circular",
-		"date"     : "September 28, 2016",
-		"content"  : "<p>Dear PMHC MDS Reference Group,</p>
-<p>Please find attached the Primary Mental Health Care Minimum Data Set (PMHC MDS) Circular, that was sent to PHN CEOs on Thursday 23 September 2016. This circular provides advice on the commencement and implementation arrangements for the PMHC MDS. This circular will also be available through the PHN website soon, at the following link: <a href="http://www.health.gov.au/internet/main/publishing.nsf/Content/PHN-Circulars">[Open URL]</a>.<br /></p>
-<p>Regards,</p>
-<p><span>Mental Health Data and Funding Section</span><br />
-<span>Mental Health Services Branch</span><br />
-<span>Health Services Division</span><br />
-<span>Department of Health</span></p>
-"
-	}
-
-]
