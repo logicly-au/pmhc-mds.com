@@ -2,10 +2,10 @@
 title: PMHC MDS Newsletter 1
 ---
 
-<table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" width="100%">
+<table role="presentation" aria-hidden="true">
 <tr>
                     <td bgcolor="#ffffff">
-                        <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" width="100%">
+                        <table role="presentation" aria-hidden="true">
 
 
                             <tr>
@@ -32,7 +32,7 @@ title: PMHC MDS Newsletter 1
                                 <td>
                                   <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="" width="100%" />
                                     
-                                    <table role="presentation" aria-hidden="true" margin="0" cellspacing="0" cellpadding="0" border="0" align="center" width="100%">
+                                    <table role="presentation" aria-hidden="true">
                                       <tr>
                                         <td width="90%">
                                           <h4>
@@ -140,7 +140,7 @@ title: PMHC MDS Newsletter 1
                             <tr>
                                 <td>
                                     <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="" width="100%" />
-                                    <table role="presentation" aria-hidden="true" margin="0" cellspacing="0" cellpadding="0" border="0" align="center" width="100%">
+                                    <table role="presentation" aria-hidden="true" margin="0">
                                       <tr>
                                         <td width="20%"><img width="100%" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F7bd20110-ffe0-42a0-8c77-9b022fd300d0.jpg" title="" alt=""/>
       </td>
@@ -208,11 +208,11 @@ title: PMHC MDS Newsletter 1
                             <tr>
                                 <td>
                                     <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="" width="100%" />
-                      <table role="presentation" aria-hidden="true" cellspacing="0" margin="0" cellpadding="0" border="0" align="center" width="100%">
+                      <table role="presentation" aria-hidden="true" margin="0">
                                       <tr>
                                         <td width="80%"><h4>
                         Who to contact?
-                                          </h4></td><td rowspan="3"><img width="100%" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F2fcc4ec8-797f-433b-8455-02bf3adc61d5.png" title="" alt="" width="128"></td>
+                                          </h4></td><td rowspan="3"><img width="100%" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F2fcc4ec8-797f-433b-8455-02bf3adc61d5.png" title="" alt=""></td>
                                       </tr>
                                       <tr>
                                         <td>
@@ -245,7 +245,7 @@ title: PMHC MDS Newsletter 1
           </td>
         </tr>
         <tr>
-            <table width="100%">
+            <table>
                 <tr>
                     <td>
                         <a href="https://docs.pmhc-mds.com/user-documentation/index.html#user-docs"><img width="100%" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2Fba8fcb99-271d-41fa-9c34-25ae0dd66f55.png" title="User Guide" alt="User Guide"></a>
