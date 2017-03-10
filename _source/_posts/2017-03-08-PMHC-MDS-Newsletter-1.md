@@ -22,10 +22,10 @@ title: PMHC MDS Newsletter 1
   </tr>
   <tr>
     <td>
-      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="" />
+      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
 
       <div class="section">
-        <img class="flame" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F5431bccf-3db3-45a7-b9b1-1da2315880ca.png" title="" alt="">
+        <img class="flame" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F5431bccf-3db3-45a7-b9b1-1da2315880ca.png" title="" alt="Flame Icon">
         <h4>
           Helpdesk's hottest tip.
         </h4>
@@ -43,7 +43,7 @@ title: PMHC MDS Newsletter 1
   </tr>
   <tr>
     <td>
-      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="" />
+      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
       <h4>What are the hot topics?</h4>
       <p class="large">
         The PMHC MDS Helpdesk has had a few similar enquiries from various PHNs recently, and we thought it would be valuable to share these.
@@ -101,9 +101,9 @@ title: PMHC MDS Newsletter 1
   </tr>
   <tr>
     <td>
-      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="" />
+      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
       <div class="section">
-        <img class="feedback" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F7bd20110-ffe0-42a0-8c77-9b022fd300d0.jpg" title="" alt=""/>
+        <img class="feedback" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F7bd20110-ffe0-42a0-8c77-9b022fd300d0.jpg" title="" alt="Feedback Icon" />
         <h4>We would like to know you better!</h4>
         <p>
           How many commissioned provider organisations do you have?
@@ -119,7 +119,7 @@ title: PMHC MDS Newsletter 1
   </tr>
   <tr>
     <td>
-      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="" />
+      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
       <h4>
         What to expect next?
       </h4>
@@ -157,9 +157,9 @@ title: PMHC MDS Newsletter 1
   </tr>
   <tr>
     <td>
-      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="" />
+      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
       <div class="section">
-        <img class="info" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F2fcc4ec8-797f-433b-8455-02bf3adc61d5.png" title="" alt="">
+        <img class="info" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F2fcc4ec8-797f-433b-8455-02bf3adc61d5.png" title="" alt="Information Icon">
         <h4>Who to contact?</h4>
         <p class="large">
           A dedicated PMHC MDS Helpdesk has been developed to be your first point of call for anything related to the PMHC MDS so please don't feel afraid to reach out and contact us.
@@ -180,7 +180,7 @@ title: PMHC MDS Newsletter 1
   </tr>
   <tr>
     <td>
-      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="" />
+      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
       <h4>Useful Links</h4>
     </td>
   </tr>
