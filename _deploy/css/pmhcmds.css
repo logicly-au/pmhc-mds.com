@@ -5952,3 +5952,21 @@ body {
 
 .iconspace {
   margin-right: 5px; }
+
+.flame {
+  float: right;
+  width: 10%; }
+
+.feedback {
+  float: left;
+  width: 20%; }
+
+.info {
+  float: right;
+  width: 20%; }
+
+.divider {
+  width: 100%; }
+
+td .useful {
+  width: 100%; }
