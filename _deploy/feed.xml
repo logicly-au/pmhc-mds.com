@@ -7,6 +7,47 @@
 		<atom:link href="http://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Master Client Index Volunteer Request - 29/3/2017</title>
+				        
+				
+					<description>&lt;p&gt;Stage 2 development of the Primary Mental Health Care Minimum Dataset (PMHC MDS)  is currently underway. A requirement of the PMHC MDS is that a client key must be unique within each Primary Health Network (PHN) independent of the treating organisation. It is the responsibility of PHNs and Provider Organisations to co-ordinate to maintain this identifier. Clients should not be assigned multiple keys within the same PHN.&lt;/p&gt;
+
+&lt;p&gt;In order to help maintain the client key, a component of Stage 2 is to develop a Master Client Index (MCI). It is envisaged that Provider Organisations will be able to access the MCI in order to locate existing clients at other Provider Organisations with the same PHN and match the client key, or create a new client if the client does not yet exist in the MCI.&lt;/p&gt;
+
+&lt;p&gt;In order to ensure that the MCI meets the needs of PHNs and Provider Organisations we would like to discuss the requirements with a volunteer group of PHNs and their Provider Organisations. These discussions would take the form of teleconferences and possibly one on one phone calls.&lt;/p&gt;
+
+&lt;p&gt;Organisations who are willing to volunteer are requested to email &lt;a title=&quot;PMHC MDS Support email&quot; href=&quot;mailto:support@pmhc-mds.com&quot;&gt;support@pmhc-mds.com&lt;/a&gt; by 7 April 2017.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2017/03/29/Master-Client-Index-Volunteer-Request/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/03/29/Master-Client-Index-Volunteer-Request/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 15/3/2017</title>
+				        
+				
+					<description>&lt;p&gt;PMHC MDS Update v0.8.1 was released on March 15, 2017.&lt;/p&gt;
+
+&lt;p&gt;The following functionality has been added:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Organisations have been limited to two levels - Primary Health Networks and Provider Organisations.&lt;/li&gt;
+  &lt;li&gt;Organisations can now be made inactive&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guide has been updated to reflect these updates. It is available at
+&lt;a href=&quot;https://docs.pmhc-mds.com/user-documentation/&quot;&gt;https://docs.pmhc-mds.com/user-documentation/&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2017/03/15/Update-to-the-PMHC-MDS-v0-8-1/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/03/15/Update-to-the-PMHC-MDS-v0-8-1/</guid>
+			</item>
+		
+			<item>
 				<title>PMHC MDS Newsletter 1</title>
 				        
 				
@@ -215,42 +256,6 @@
 				<pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
 				<link>http://www.pmhc-mds.com/2016/10/14/PMHC-MDS-Request-for-early-adopters/</link>
 				<guid isPermaLink="true">http://www.pmhc-mds.com/2016/10/14/PMHC-MDS-Request-for-early-adopters/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS Data Specifications - 6/10/2016</title>
-				        
-				
-					<description>&lt;p&gt;PMHC MDS Data Specifications Update v1.0.1 was released on October 6, 2016.&lt;/p&gt;
-&lt;p&gt;This update includes the following changes:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-principal-focus-of-treatment-plan&quot;&gt;Episode - Principal Focus of Treatment Plan&lt;/a&gt; - Updated response 4 from ‘Complex care package for adults’ to ‘Complex care package’.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-source-of-cash-income&quot;&gt;Episode - Source of Cash Income&lt;/a&gt; - Added 0 as a valid response. This is to be used when the client is aged less than 16 years.&lt;/li&gt;
-  &lt;li&gt;Added a field to all data items to specify whether a response value is required.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-				
-				<pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
-				<link>http://www.pmhc-mds.com/2016/10/13/Update-to-the-PMHC-MDS-Data-Specifications-v1-0-1/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2016/10/13/Update-to-the-PMHC-MDS-Data-Specifications-v1-0-1/</guid>
-			</item>
-		
-			<item>
-				<title>Primary Mental Health Care Minimum Data Set Circular</title>
-				        
-				
-					<description>&lt;p&gt;Dear PMHC MDS Reference Group,&lt;/p&gt;
-&lt;p&gt;Please find attached the Primary Mental Health Care Minimum Data Set (PMHC MDS) Circular, that was sent to PHN CEOs on Thursday 23 September 2016. This circular provides advice on the commencement and implementation arrangements for the PMHC MDS. This circular will also be available through the PHN website soon, at the following link: &lt;a href=&quot;http://www.health.gov.au/internet/main/publishing.nsf/Content/PHN-Circulars&quot;&gt;[Open URL]&lt;/a&gt;.&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;Regards,&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;Mental Health Data and Funding Section&lt;/span&gt;&lt;br /&gt;
-&lt;span&gt;Mental Health Services Branch&lt;/span&gt;&lt;br /&gt;
-&lt;span&gt;Health Services Division&lt;/span&gt;&lt;br /&gt;
-&lt;span&gt;Department of Health&lt;/span&gt;&lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
-				<link>http://www.pmhc-mds.com/2016/09/28/Primary-Mental-Health-Care-Minimum-Data-Set-Circular/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2016/09/28/Primary-Mental-Health-Care-Minimum-Data-Set-Circular/</guid>
 			</item>
 		
 	</channel>
