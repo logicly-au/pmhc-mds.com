@@ -1,6 +1,21 @@
 [
 
 	{
+		"title"    : "Update to the PMHC MDS Data Specifications - 1/5/2017",
+		"date"     : "May 01, 2017",
+		"content"  : "<p>PMHC MDS Data Specifications Update v1.0.5 was released on May 1, 2017.</p>
+
+<p>This update includes the following changes:</p>
+
+<ul>
+  <li>Episode - Added more description to <a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#dfn-client-consent">Episode - Client Consent to Anonymised Data</a></li>
+  <li>Service Contact - Changed wording of <a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#dfn-service-contact-no-show">Service Contact - No Show</a> to specify ‘intended participant(s)’ instead of ‘client’</li>
+  <li>Outcome Collection Occasion - <a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#k10p-data-elements">K10+</a> updated reference to Q11-14 ‘missing’ replacing ‘not applicable’</li>
+</ul>
+"
+	}
+
+	{
 		"title"    : "Master Client Index Volunteer Request - 29/3/2017",
 		"date"     : "March 29, 2017",
 		"content"  : "<p>Stage 2 development of the Primary Mental Health Care Minimum Dataset (PMHC MDS)  is currently underway. A requirement of the PMHC MDS is that a client key must be unique within each Primary Health Network (PHN) independent of the treating organisation. It is the responsibility of PHNs and Provider Organisations to co-ordinate to maintain this identifier. Clients should not be assigned multiple keys within the same PHN.</p>
