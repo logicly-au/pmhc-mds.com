@@ -1,5 +1,5 @@
 ---
-title: Communicationss - PMHC-MDS
+title: Communications - PMHC-MDS
 page-name: communications
 sub-heading: Communications
 ---
