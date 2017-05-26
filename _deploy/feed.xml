@@ -7,6 +7,40 @@
 		<atom:link href="http://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS - 26/5/2017</title>
+				        
+				
+					<description>&lt;p&gt;PMHC MDS Update v0.10.0 was released on May 26, 2017.&lt;/p&gt;
+
+&lt;p&gt;The following enhancements have been implemented:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Client search has been redesigned.&lt;/li&gt;
+    &lt;li&gt;Filters added to table of client search results.&lt;/li&gt;
+    &lt;li&gt;Search now allowed by date of birth only. Results can then be filtered by gender.&lt;/li&gt;
+    &lt;li&gt;Improved formatting upload errors and success messages.&lt;/li&gt;
+    &lt;li&gt;Added validation for &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#practitioner-atsi-cultural-training&quot;&gt;ATSI cultural training&lt;/a&gt;. Validation to &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#practitioner-aboriginal-and-torres-strait-islander-status&quot;&gt;Practitioner - Aboriginal and Torres Strait Islander Status&lt;/a&gt; and &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#provider-organisation-type&quot;&gt;Provider Organisation - Type&lt;/a&gt; is now occurring when response code ‘3 - Not Required’ is submitted.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following upload errors have now been fixed:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Uploads with zero length files are now reported correctly.&lt;/li&gt;
+    &lt;li&gt;Better error reporting for records that do not satisfy cross-table validation constraints.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;PMHC MDS website update on May 26, 2017.&lt;/p&gt;
+
+&lt;p&gt;The PMHC MDS Service Provider Quick Reference Guide was added to the PMHC MDS website:&lt;/p&gt;
+&lt;p&gt;The PMHC MDS Service Provider QUICK REFERENCE Guide is a resource intended to describe key issues and concepts related to the collection of, and provision of data to, the PMHC MDS for mental health service providers. For more detailed information regarding the PMHC MDS, see the &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/&quot;&gt;PMHC MDS Data Specifications&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are two versions of the PMHC MDS Service Provider Quick Reference Guide. If you are a service provider, it is recommended that you use the &lt;a href=&quot;https://www.pmhc-mds.com/doc/service-provider-quick-reference-guide-20170516.pdf&quot;&gt;PDF version&lt;/a&gt; produced by the Department of Health. If you are a Primary Health Network, you can use the &lt;a href=&quot;https://www.pmhc-mds.com/doc/service-provider-quick-reference-guide-template-20170516.docx&quot;&gt;word version&lt;/a&gt; to tailor some of the information to your local context.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2017/05/26/Update-to-the-PMHC-MDS-v0-10-0/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/05/26/Update-to-the-PMHC-MDS-v0-10-0/</guid>
+			</item>
+		
+			<item>
 				<title>Update to the PMHC MDS and Data Specifications - 18/5/2017</title>
 				        
 				
@@ -257,31 +291,6 @@
 				<pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
 				<link>http://www.pmhc-mds.com/2016/12/30/Update-to-the-PMHC-MDS-v0-5-3/</link>
 				<guid isPermaLink="true">http://www.pmhc-mds.com/2016/12/30/Update-to-the-PMHC-MDS-v0-5-3/</guid>
-			</item>
-		
-			<item>
-				<title>PMHC MDS Resources Documentation update - 16/12/2016</title>
-				        
-				
-					<description>&lt;p&gt;The documentation at &lt;a href=&quot;https://www.pmhc-mds.com/resources/&quot;&gt;https://www.pmhc-mds.com/resources/&lt;/a&gt; has been updated.&lt;/p&gt;
-
-&lt;p&gt;The following documents have been updated:&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;&lt;a href=&quot;https://www.pmhc-mds.com/doc/pmhc-mds-q-and-a-20161212.pdf&quot;&gt;Ongoing questions and answers.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following documents are now available:&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;&lt;a href=&quot;https://www.pmhc-mds.com/doc/pmhc-consent-guidance-D16-1362220-20161202.pdf&quot;&gt;Guidance on client consent&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;https://www.pmhc-mds.com/doc/pmhc-scoring-k10p-20170210.pdf&quot;&gt;Kessler 10+ (K10+)&lt;/a&gt; ouetcome measures and scoring rules&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;https://www.pmhc-mds.com/doc/pmhc-scoring-k5-20161215.pdf&quot;&gt;Kessler 5 (K5)&lt;/a&gt; outcome measures and scoring rules&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;https://www.pmhc-mds.com/doc/pmhc-scoring-sdq-20161201.pdf&quot;&gt;Strengths and Difficulties Questionnaire (SDQ)&lt;/a&gt; outcome measures and scoring rules&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-				
-				<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-				<link>http://www.pmhc-mds.com/2016/12/16/PMHC-MDS-Resources-Documentation-Update/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2016/12/16/PMHC-MDS-Resources-Documentation-Update/</guid>
 			</item>
 		
 	</channel>

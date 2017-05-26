@@ -38,7 +38,16 @@ explanation of how they are scored.
 * [Kessler 5 (K5)](/doc/pmhc-scoring-k5-20161215.pdf)
 * [Strengths and Difficulties Questionnaire (SDQ)](/doc/pmhc-scoring-sdq-20161201.pdf)
 
-### 6. Mailing list
+### 6. Service Provider Quick Reference Guide
+The Primary Mental Healthcare Minimum Data Set (PMHC MDS) Service Provider QUICK
+REFERENCE Guide is a resource intended to describe key issues and concepts related to the collection of, and provision of data to, the PMHC MDS for mental health service providers. For
+more detailed information regarding the PMHC MDS, see the [Data Specifications](https://docs.pmhc-mds.com/data-specification/).
+
+There are two versions of the PMHC MDS Service Provider Quick Reference Guide.
+If you are a service provider, it is recommended that you use the [PDF version](/doc/service-provider-quick-reference-guide-20170516.pdf) produced by
+the Department of Health. If you are a Primary Health Network, you can use the [word version](/doc/service-provider-quick-reference-guide-template-20170516.docx) to tailor some of the information to your local context.
+
+### 7. Mailing list
 If you would like to be notified about updates to the specifications or
 announcements about the rollout of the PMHC MDS please subscribe to the
 PMHC MDS mailing list by sending an email to
