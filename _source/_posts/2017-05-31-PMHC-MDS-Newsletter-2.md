@@ -46,7 +46,7 @@ title: PMHC MDS Newsletter 2
   </tr>
   <tr>
     <td>
-      <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="Divider" alt=""/>
+      <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="Divider" alt="Divider"/>
 
       <table role="presentation" aria-hidden="true">
         <tr>
@@ -77,7 +77,7 @@ title: PMHC MDS Newsletter 2
   </tr>
   <tr>
     <td>
-      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt=""/>
+      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider"/>
 
       <div class="section">
         <img class="flame" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F5431bccf-3db3-45a7-b9b1-1da2315880ca.png" title="" alt="Flame Icon">
@@ -190,7 +190,7 @@ title: PMHC MDS Newsletter 2
   </tr>
   <tr>
     <td>
-      <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt=""  />
+      <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider"  />
 
       <h4>
         What to expect next?
@@ -248,7 +248,7 @@ title: PMHC MDS Newsletter 2
   </tr>
   <tr>
     <td>
-      <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt=""  />
+      <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider"  />
       <div class="section">
         <img class="flame" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F2fcc4ec8-797f-433b-8455-02bf3adc61d5.png" title="" alt="Flame Icon">
         <h4>
@@ -268,7 +268,7 @@ title: PMHC MDS Newsletter 2
   </tr>
   <tr>
     <td>
-      <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt=""  />
+      <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider"  />
       <h4>
         Useful Links
       </h4>
@@ -290,4 +290,4 @@ title: PMHC MDS Newsletter 2
       <a href="https://www.pmhc-mds.com/communications/"><img class="useful" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F7efbd585-d767-422d-97f7-885ea559e9a7.png" title="Announcements" alt="Announcements"></a>
     </td>
   </tr>
-</table> 
+</table>
