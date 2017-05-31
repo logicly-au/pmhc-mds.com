@@ -46,7 +46,7 @@ title: PMHC MDS Newsletter 2
   </tr>
   <tr>
     <td>
-      <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="Divider" />
+      <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="Divider" alt=""/>
 
       <table role="presentation" aria-hidden="true">
         <tr>
@@ -77,47 +77,34 @@ title: PMHC MDS Newsletter 2
   </tr>
   <tr>
     <td>
-      <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" />
+      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" />
 
-      <table role="presentation" aria-hidden="true">
-        <tr>
-          <td width="90%">
-            <h4>
-              Helpdesk's hottest tip
-            </h4>
-          </td>
-          <td rowspan="3">
-            <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F5431bccf-3db3-45a7-b9b1-1da2315880ca.png" title="" alt="" /></td>
-          </tr>
-        <tr>
-          <td>
-            <h5>
-              Data Consistency Requirements for Manual Upload of File/Worksheet
-            </h5>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>
-              Data elements for each file/worksheet are defined at
-              <a title="PMHC MDS Data Record FormatsSpecification " href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#record-formats">Record Formats</a>
-              and as outlined in
-              <a title="PMHC MDS Upload File FormatSpecifications" href="https://docs.pmhc-mds.com/data-specification/upload-specification.html#file-format">File Format Specifications</a>
-              please note the following important points:
-            </p>
-            <ul>
-              <li class="bold"> <b> All files must be internally consistent.</b></li>
-              <li> An example of what this means is that for every row in the episode file/worksheet, there should be a corresponding client in the client file/worksheet.</li>
-              <li> It also means that for every episode included in an upload file, you must include <b> ALL </b> service contacts and collection occasions for that episode. Any service contacts and collection occasions, for that episode, that are not included will be removed from the PMHC MDS.</li>
-            </ul>
-          </td>
-        </tr>
-      </table>
+      <div class="section">
+        <img class="flame" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F5431bccf-3db3-45a7-b9b1-1da2315880ca.png" title="" alt="Flame Icon">
+        <h4>
+          Helpdesk's hottest tip
+        </h4>
+        <h5>
+          Data Consistency Requirements for Manual Upload of File/Worksheet
+        </h5>
+        <p>
+          Data elements for each file/worksheet are defined at
+          <a title="PMHC MDS Data Record FormatsSpecification " href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#record-formats">Record Formats</a>
+          and as outlined in
+          <a title="PMHC MDS Upload File FormatSpecifications" href="https://docs.pmhc-mds.com/data-specification/upload-specification.html#file-format">File Format Specifications</a>
+          please note the following important points:
+        </p>
+        <ul>
+          <li class="bold"> <b> All files must be internally consistent.</b></li>
+          <li> An example of what this means is that for every row in the episode file/worksheet, there should be a corresponding client in the client file/worksheet.</li>
+          <li> It also means that for every episode included in an upload file, you must include <b> ALL </b> service contacts and collection occasions for that episode. Any service contacts and collection occasions, for that episode, that are not included will be removed from the PMHC MDS.</li>
+        </ul>
+      </div>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="" />
+      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
       <h4>
         What are the hot topics?
       </h4>
@@ -177,38 +164,28 @@ title: PMHC MDS Newsletter 2
   </tr>
   <tr>
     <td>
-      <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt=""  />
+      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
 
-      <table role="presentation" aria-hidden="true">
-        <tr>
-          <td width="80%">
-            <h4>
-              PMHC MDS Mailing List
-            </h4>
-          </td>
-          <td rowspan="3">
-            <img  src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2FProposed+-+PMHC+Mailing-List+Image+cropped+%281%29.jpg" title="" alt="" />
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>
-              PMHC MDS Mailing List Subscribers along will all PMHC MDS Users will receive release update and Department announcements.
-            </p>
-            <p>
-              When changes are made to the PMHC MDS we will send an alert via an email list. PMHC MDS users are automatically added to this list, however, sometimes other Primary Health Network or Provider Organisation staff who do not have accounts wish to be informed of updates.
-            </p>
-            <p>
-              These staff can email support@pmhc-mds.com and request to be added to the PMHC MDS mailing list -
-              <a title="PMHC MDS News Mailing List" href="https://docs.pmhc-mds.com/faqs/system/mailing-list.html#how-can-i-be-advised-of-any-changes-to-the-mds">READ MORE</a>
-            </p>
-            <p>
-              We also have a mailing list specifically for third-party developers. Again they can email support@pmhc-mds.com and ask to be added to the developers mailing list -
-              <a title="PMHC MDS Developers Mailing List" href="https://docs.pmhc-mds.com/faqs/system/mailing-list.html#i-am-a-third-party-software-developer-developing-code-to-assist-with-uploading-data-to-the-mds-can-i-be-informed-of-updates-to-the-mds">READ MORE</a>
-            </p>
-          </td>
-        </tr>
-      </table>
+      <div class="section">
+        <img class="flame" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2FProposed+-+PMHC+Mailing-List+Image+cropped+%281%29.jpg" title="" alt="Mail Icon">
+        <h4>
+          PMHC MDS Mailing List
+        </h4>
+        <p>
+          PMHC MDS Mailing List Subscribers along will all PMHC MDS Users will receive release update and Department announcements.
+        </p>
+        <p>
+          When changes are made to the PMHC MDS we will send an alert via an email list. PMHC MDS users are automatically added to this list, however, sometimes other Primary Health Network or Provider Organisation staff who do not have accounts wish to be informed of updates.
+        </p>
+        <p>
+          These staff can email support@pmhc-mds.com and request to be added to the PMHC MDS mailing list -
+          <a title="PMHC MDS News Mailing List" href="https://docs.pmhc-mds.com/faqs/system/mailing-list.html#how-can-i-be-advised-of-any-changes-to-the-mds">READ MORE</a>
+        </p>
+        <p>
+          We also have a mailing list specifically for third-party developers. Again they can email support@pmhc-mds.com and ask to be added to the developers mailing list -
+          <a title="PMHC MDS Developers Mailing List" href="https://docs.pmhc-mds.com/faqs/system/mailing-list.html#i-am-a-third-party-software-developer-developing-code-to-assist-with-uploading-data-to-the-mds-can-i-be-informed-of-updates-to-the-mds">READ MORE</a>
+        </p>
+      </div>
     </td>
   </tr>
   <tr>
@@ -272,31 +249,21 @@ title: PMHC MDS Newsletter 2
   <tr>
     <td>
       <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt=""  />
-      <table role="presentation" aria-hidden="true">
-        <tr>
-          <td width="80%">
-            <h4>
+      <div class="section">
+        <img class="flame" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F2fcc4ec8-797f-433b-8455-02bf3adc61d5.png" title="" alt="Flame Icon">
+        <h4>
               Who to contact?
-            </h4>
-          </td>
-          <td rowspan="3">
-            <img  src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F2fcc4ec8-797f-433b-8455-02bf3adc61d5.png" title="" alt="" width="128">
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p>
-              A dedicated Help Desk is available to support <b>Primary Health Networks</b> and <b>Provider Organisations</b> implementing the PMHC in relation to the minimum data set system.
-            </p>
-            <p>
-              With Daylight Saving changes, the PMHC MDS Helpdesk is open from 10am - 6pm AEST.
-            </p>
-            <p>
-              We are continually trying to improve the user experience, and greatly appreciate your questions, feedback and suggestions. Please don't hesitate to drop us a line or two on <a title="PMHC MDS Support email" href="mailto:support@pmhc-mds.com">support@pmhc-mds.com</a>.
-            </p>
-          </td>
-        </tr>
-      </table>
+        </h4>
+        <p>
+          A dedicated Help Desk is available to support <b>Primary Health Networks</b> and <b>Provider Organisations</b> implementing the PMHC in relation to the minimum data set system.
+        </p>
+        <p>
+          With Daylight Saving changes, the PMHC MDS Helpdesk is open from 10am - 6pm AEST.
+        </p>
+        <p>
+          We are continually trying to improve the user experience, and greatly appreciate your questions, feedback and suggestions. Please don't hesitate to drop us a line or two on <a title="PMHC MDS Support email" href="mailto:support@pmhc-mds.com">support@pmhc-mds.com</a>.
+        </p>
+      </div>
     </td>
   </tr>
   <tr>
