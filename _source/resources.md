@@ -44,8 +44,8 @@ REFERENCE Guide is a resource intended to describe key issues and concepts relat
 more detailed information regarding the PMHC MDS, see the [Data Specifications](https://docs.pmhc-mds.com/data-specification/).
 
 There are two versions of the PMHC MDS Service Provider Quick Reference Guide.
-If you are a service provider, it is recommended that you use the [PDF version](/doc/service-provider-quick-reference-guide-20170516.pdf) produced by
-the Department of Health. If you are a Primary Health Network, you can use the [word version](/doc/service-provider-quick-reference-guide-template-20170516.docx) to tailor some of the information to your local context.
+If you are a service provider, it is recommended that you use the [PDF version](/doc/service-provider-quick-reference-guide-20170619.pdf) produced by
+the Department of Health. If you are a Primary Health Network, you can use the [word version](/doc/service-provider-quick-reference-guide-template-20170619.docx) to tailor some of the information to your local context.
 
 ### 7. Mailing list
 If you would like to be notified about updates to the specifications or
