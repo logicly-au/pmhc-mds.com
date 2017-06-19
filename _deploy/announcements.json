@@ -1,9 +1,22 @@
 [
 
 	{
+		"title"    : "Update to the PMHC MDS Service Provider Quick Reference Guide - 19/6/2017",
+		"date"     : "June 19, 2017",
+		"content"  : "<h4>The PMHC MDS Service Provider Quick Reference Guide Version 1.1  was released on June 19, 2017</h4>
+
+<p>The PMHC MDS Service Provider QUICK REFERENCE Guide is a resource intended to describe key issues and concepts related to the collection of, and provision of data to, the PMHC MDS for mental health service providers. For more detailed information regarding the PMHC MDS, see the <a href="https://docs.pmhc-mds.com/data-specification/">PMHC MDS Data Specifications</a>.</p>
+
+<p>There are two versions of the PMHC MDS Service Provider Quick Reference Guide. If you are a service provider, it is recommended that you use the <a href="https://www.pmhc-mds.com/doc/service-provider-quick-reference-guide-20170619.pdf">PDF version</a> produced by the Department of Health. If you are a Primary Health Network, you can use the <a href="https://www.pmhc-mds.com/doc/service-provider-quick-reference-guide-template-20170619.docx">word version</a> to tailor some of the information to your local context.</p>
+
+<p>The PMHC MDS Service Provider Quick Reference Guide has been updated to correct links to the PMHC MDS documentation.</p>
+"
+	}
+
+	{
 		"title"    : "Update to the PMHC MDS - 14/6/2017",
 		"date"     : "June 14, 2017",
-		"content"  : "<p>We are pleased to announce that PMHC MDS Update v0.11.1 was released on June 14, 2017.</p>
+		"content"  : "<h4>We are pleased to announce that PMHC MDS Update v0.11.1 was released on June 14, 2017.</h4>
 
 <p>The following functionality has been added:</p>
 <ul>
@@ -12,7 +25,7 @@
   <li>The Episode Details tab now highlights when a referral is a Suicide Referral.</li>
 </ul>
 
-<p>PMHC MDS Data Specifications Update v1.0.7 was released on June 14, 2017.</p>
+<h4>PMHC MDS Data Specifications Update v1.0.7 was released on June 14, 2017.</h4>
 
 <p>The following data items have been updated and should be used when a service contact is a ‘<a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-no-show">No Show</a>’.</p>
 

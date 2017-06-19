@@ -7,10 +7,28 @@
 		<atom:link href="http://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS Service Provider Quick Reference Guide - 19/6/2017</title>
+				        
+				
+					<description>&lt;h4&gt;The PMHC MDS Service Provider Quick Reference Guide Version 1.1  was released on June 19, 2017&lt;/h4&gt;
+
+&lt;p&gt;The PMHC MDS Service Provider QUICK REFERENCE Guide is a resource intended to describe key issues and concepts related to the collection of, and provision of data to, the PMHC MDS for mental health service providers. For more detailed information regarding the PMHC MDS, see the &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/&quot;&gt;PMHC MDS Data Specifications&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are two versions of the PMHC MDS Service Provider Quick Reference Guide. If you are a service provider, it is recommended that you use the &lt;a href=&quot;https://www.pmhc-mds.com/doc/service-provider-quick-reference-guide-20170619.pdf&quot;&gt;PDF version&lt;/a&gt; produced by the Department of Health. If you are a Primary Health Network, you can use the &lt;a href=&quot;https://www.pmhc-mds.com/doc/service-provider-quick-reference-guide-template-20170619.docx&quot;&gt;word version&lt;/a&gt; to tailor some of the information to your local context.&lt;/p&gt;
+
+&lt;p&gt;The PMHC MDS Service Provider Quick Reference Guide has been updated to correct links to the PMHC MDS documentation.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2017/06/19/Update-to-the-PMHC-MDS-Service-Provider-Quick-Reference-Guide-v1-1/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/06/19/Update-to-the-PMHC-MDS-Service-Provider-Quick-Reference-Guide-v1-1/</guid>
+			</item>
+		
+			<item>
 				<title>Update to the PMHC MDS - 14/6/2017</title>
 				        
 				
-					<description>&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.11.1 was released on June 14, 2017.&lt;/p&gt;
+					<description>&lt;h4&gt;We are pleased to announce that PMHC MDS Update v0.11.1 was released on June 14, 2017.&lt;/h4&gt;
 
 &lt;p&gt;The following functionality has been added:&lt;/p&gt;
 &lt;ul&gt;
@@ -19,7 +37,7 @@
   &lt;li&gt;The Episode Details tab now highlights when a referral is a Suicide Referral.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;PMHC MDS Data Specifications Update v1.0.7 was released on June 14, 2017.&lt;/p&gt;
+&lt;h4&gt;PMHC MDS Data Specifications Update v1.0.7 was released on June 14, 2017.&lt;/h4&gt;
 
 &lt;p&gt;The following data items have been updated and should be used when a service contact is a ‘&lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-no-show&quot;&gt;No Show&lt;/a&gt;’.&lt;/p&gt;
 
@@ -326,19 +344,6 @@
 				<pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
 				<link>http://www.pmhc-mds.com/2017/02/24/Update-to-the-PMHC-MDS-v0-7-5/</link>
 				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/02/24/Update-to-the-PMHC-MDS-v0-7-5/</guid>
-			</item>
-		
-			<item>
-				<title>Separate PMHC MDS now available for software developers to test upload files - 17/2/2017</title>
-				        
-				
-					<description>&lt;p&gt;A new instance of the PMHC MDS is now available for third party software developers to test their upload files. This instance is available at &lt;a href=&quot;https://developers.pmhc-mds.net/&quot;&gt;https://developers.pmhc-mds.net/&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
-				<link>http://www.pmhc-mds.com/2017/02/17/Separate-PMHC-MDS-now-available-for-software-developers-to-test-upload-files/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/02/17/Separate-PMHC-MDS-now-available-for-software-developers-to-test-upload-files/</guid>
 			</item>
 		
 	</channel>
