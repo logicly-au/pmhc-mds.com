@@ -7,6 +7,48 @@
 		<atom:link href="http://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS and Data Specifications- 30/6/2017</title>
+				        
+				
+					<description>&lt;h4&gt;PMHC MDS Update v0.12.0&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.12.0 was released on June 30, 2017.&lt;/p&gt;
+
+&lt;p&gt;The following functionality has been added:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Client, Episode and Service Contact information can now be added and edited for users who have been granted the ‘Data Entry’ role.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;PMHC MDS Data Specifications Update v1.0.9&lt;/h4&gt;
+
+&lt;p&gt;We are also pleased to announce that PMHC MDS Data Specifications Update v1.0.9 was released on June 30, 2017.&lt;/p&gt;
+
+&lt;p&gt;The following data item has been added:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Data model and specifications
+  &lt;ul&gt;
+  &lt;li&gt;Record formats
+    &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#provider-organisation-data-elements&quot;&gt;Provider Organisation&lt;/a&gt;
+      &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#provider-organisation-status&quot;&gt;Added Organisation Status&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;&lt;/ul&gt;
+</description>
+				
+				<pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2017/06/30/Update-to-the-PMHC-MDS-v0-12-0-and-Data-Specifications-v1-0-9/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/06/30/Update-to-the-PMHC-MDS-v0-12-0-and-Data-Specifications-v1-0-9/</guid>
+			</item>
+		
+			<item>
 				<title>Release of the ATAPS MDS to PMHC MDS data mapping and update to the PMHC Data Specifications</title>
 				        
 				
@@ -392,29 +434,6 @@
 				<pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
 				<link>http://www.pmhc-mds.com/2017/03/29/Master-Client-Index-Volunteer-Request/</link>
 				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/03/29/Master-Client-Index-Volunteer-Request/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 15/3/2017</title>
-				        
-				
-					<description>&lt;p&gt;PMHC MDS Update v0.8.1 was released on March 15, 2017.&lt;/p&gt;
-
-&lt;p&gt;The following functionality has been added:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Organisations have been limited to two levels - Primary Health Networks and Provider Organisations.&lt;/li&gt;
-  &lt;li&gt;Organisations can now be made inactive&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The user guide has been updated to reflect these updates. It is available at
-&lt;a href=&quot;https://docs.pmhc-mds.com/user-documentation/&quot;&gt;https://docs.pmhc-mds.com/user-documentation/&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
-				<link>http://www.pmhc-mds.com/2017/03/15/Update-to-the-PMHC-MDS-v0-8-1/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/03/15/Update-to-the-PMHC-MDS-v0-8-1/</guid>
 			</item>
 		
 	</channel>
