@@ -68,7 +68,7 @@ training blocks offered throughout the following weeks.
 
 <table class="table-bordered">
   <tr>
-    <th height="30px">User Roles Training (AEDT)</th>
+    <th>User Roles Training (AEDT)</th>
     <th>User Management</th>
     <th>Upload</th>
     <th>Data Entry</th>
