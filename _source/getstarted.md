@@ -68,10 +68,10 @@ training blocks offered throughout the following weeks.
 
 <table class="table-bordered">
   <tr>
-    <th>User Roles Training (AEDT)</th>
-    <th>User Management</th>
-    <th>Upload</th>
-    <th>Data Entry</th>
+    <th><p>User Roles Training</p><p>(AEDT)</p></th>
+    <th><p>User Management</p><p>30 minutes</p></th>
+    <th><p>Upload</p><p>30 minutes</p></th>
+    <th><p>Data Entry</p><p>60 minutes</p></th>
   </tr>
   <tr>
     <td>Monday, 10 July 17</td>
