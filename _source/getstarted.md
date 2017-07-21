@@ -76,42 +76,6 @@ training blocks offered throughout the following weeks.
     <th><p>Data Entry</p><p>60 minutes</p></th>
   </tr>
   <tr>
-    <td>Monday, 17 July 17</td>
-    <td>11am</td>
-    <td>3pm</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Tuesday, 18 July 17</td>
-    <td>3pm</td>
-    <td>11am</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Wednesday, 19 July 17</td>
-    <td></td>
-    <td></td>
-    <td>10am & 2pm</td>
-  </tr>
-  <tr>
-    <td>Thursday, 20 July 17</td>
-    <td></td>
-    <td></td>
-    <td>10am & 2pm</td>
-  </tr>
-  <tr>
-    <td>Friday, 21 July 17</td>
-    <td></td>
-    <td></td>
-    <td>10am & 2pm</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td>Monday, 24 July 17</td>
     <td></td>
     <td>11am</td>
@@ -176,6 +140,78 @@ training blocks offered throughout the following weeks.
     <td></td>
     <td>2pm</td>
     <td>10am</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Monday, 7 August 17</td>
+    <td></td>
+    <td>11am</td>
+    <td>3pm</td>
+  </tr>
+  <tr>
+    <td>Tuesday, 8 August 17</td>
+    <td>3pm</td>
+    <td></td>
+    <td>11am</td>
+  </tr>
+  <tr>
+    <td>Wednesday, 9 August 17</td>
+    <td></td>
+    <td></td>
+    <td>2pm</td>
+  </tr>
+  <tr>
+    <td>Thursday, 10 August 17</td>
+    <td></td>
+    <td>2pm</td>
+    <td>10am</td>
+  </tr>
+  <tr>
+    <td>Friday, 11 August 17</td>
+    <td>10am</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Monday, 14 August 17</td>
+    <td>3pm</td>
+    <td></td>
+    <td>11am</td>
+  </tr>
+  <tr>
+    <td>Tuesday, 15 August 17</td>
+    <td></td>
+    <td>11am</td>
+    <td>3pm</td>
+  </tr>
+  <tr>
+    <td>Wednesday, 16 August 17</td>
+    <td></td>
+    <td></td>
+    <td>10am</td>
+  </tr>
+  <tr>
+    <td>Thursday, 17 August 17</td>
+    <td>10am</td>
+    <td></td>
+    <td>2pm</td>
+  </tr>
+  <tr>
+    <td>Friday, 18 August 17</td>
+    <td></td>
+    <td>2pm</td>
+    <td></td>
   </tr>
 </table>
 
