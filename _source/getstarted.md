@@ -55,9 +55,9 @@ The PMHC MDS offers various options for users to learn how to navigate and use t
 The <a href="https://docs.pmhc-mds.com/user-documentation/index.html">online user guide</a> is regularly updated to
 reflect each update release and outlines step by step instructions for each role within the PMHC MDS.
 
-A video training library will be released in July 2017.
+A video training library will be released in 2017.
 
-Online group training sessions can now be booked for July 2017.
+Online group training sessions can now be booked for August 2017.
 
 To register for online training, please nominate a staff member from the PHN or each Provider Organisation to coordinate
 the training session for your staff. Each session will be limited to 5 organisations or approx. 25 users. Group training
