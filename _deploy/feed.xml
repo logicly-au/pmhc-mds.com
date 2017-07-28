@@ -14,7 +14,7 @@
 
 &lt;p&gt;We are pleased to announce that PMHC MDS Update v0.14.0 was released on July 28, 2017.&lt;/p&gt;
 
-&lt;p&gt;The following features have been implemented:&lt;p&gt;
+&lt;p&gt;The following features have been implemented:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;A ‘Reporting’ tab has been added. Users who have been granted the ‘Reporting’ role will be able to see this tab.&lt;/li&gt;
   &lt;li&gt;Category E - Reports for data managers to monitor data supply - have been implemented.&lt;/li&gt;
@@ -40,7 +40,6 @@
 &lt;h4&gt;ATAPS MDS to PMHC MDS data mapping&lt;/h4&gt;
 
 &lt;p&gt;The ATAPS MDS to PMHC MDS data mapping documentation at &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/ataps/ataps-pmhc-mapping.html&quot;&gt;https://docs.pmhc-mds.com/data-specification/ataps/ataps-pmhc-mapping.html&lt;/a&gt; has been updated to show the mapping of ATAPS MDS diagnosis fields to PMHC Principal Diagnosis and Additional Diagnosis where two ATAPS diagnosis fields have been specified.&lt;/p&gt;
-&lt;/p&gt;&lt;/p&gt;
 </description>
 				
 				<pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
