@@ -65,8 +65,29 @@ sessions can have a combination of various Provider Organisation’s users.
 
 Please email <a href="mailto:support@pmhc-mds.com">support@pmhc-mds.com</a> with your preferred training date/time and a GoToMeeting link will be sent to you via a calendar invitation.
 
-We can customise a training block to suit your PHNs needs for Provider Organisations, or selected from scheduled group
+We can customise a training block to suit your PHNs needs for Provider Organisations, or you can select from scheduled group
 training blocks offered throughout the following weeks.
+
+Access to the PMHC MDS is based around roles. The following provides a summary of each of the roles that we currently provide training for:
+<table class="table-bordered">
+  <tr>
+    <th>Role</th>
+    <th>Tasks allowed</th>
+  </tr>
+  <tr>
+    <td>User Management</td>
+    <td>A user with the User Management role for an organisation can manage user accounts for that organisation</td>
+  </tr>
+  <tr>
+    <td>Upload</td>
+    <td>A user with the Upload role can upload data to the associated organisation</td>
+  </tr>
+  <tr>
+    <td>Data Entry</td>
+    <td>A user with the Data Entry role can enter client data and practitioners from the associated organisation</td>
+  </tr>
+</table>
+More information on all the roles can be found on <a href="https://docs.pmhc-mds.com/user-documentation/users.html#users-roles">https://docs.pmhc-mds.com/user-documentation/users.html#users-roles</a>.
 
 <table class="table-bordered">
   <tr>
@@ -74,42 +95,6 @@ training blocks offered throughout the following weeks.
     <th><p>User Management</p><p>30 minutes</p></th>
     <th><p>Upload</p><p>30 minutes</p></th>
     <th><p>Data Entry</p><p>60 minutes</p></th>
-  </tr>
-  <tr>
-    <td>Monday, 31 July 17</td>
-    <td>3pm</td>
-    <td></td>
-    <td>11am</td>
-  </tr>
-  <tr>
-    <td>Tuesday, 1 August 17</td>
-    <td></td>
-    <td>11am</td>
-    <td>3pm</td>
-  </tr>
-  <tr>
-    <td>Wednesday, 2 August 17</td>
-    <td></td>
-    <td>2pm</td>
-    <td>10am</td>
-  </tr>
-  <tr>
-    <td>Thursday, 3 August 17</td>
-    <td>10am</td>
-    <td></td>
-    <td>2pm</td>
-  </tr>
-  <tr>
-    <td>Friday, 4 August 17</td>
-    <td></td>
-    <td>2pm</td>
-    <td>10am</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>Monday, 7 August 17</td>
@@ -209,6 +194,42 @@ training blocks offered throughout the following weeks.
   </tr>
   <tr>
     <td>Friday, 25 August 17</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Monday, 28 August 17</td>
+    <td></td>
+    <td></td>
+    <td>11am</td>
+  </tr>
+  <tr>
+    <td>Tuesday, 29 August 17</td>
+    <td>11am</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Wednesday, 30 August 17</td>
+    <td></td>
+    <td></td>
+    <td>3pm</td>
+  </tr>
+  <tr>
+    <td>Thursday, 31 August 17</td>
+    <td></td>
+    <td>3pm</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Friday, 1 September 17</td>
     <td></td>
     <td></td>
     <td></td>
