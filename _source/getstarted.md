@@ -97,42 +97,6 @@ More information on all the roles can be found on <a href="https://docs.pmhc-mds
     <th><p>Data Entry</p><p>60 minutes</p></th>
   </tr>
   <tr>
-    <td>Monday, 7 August 17</td>
-    <td></td>
-    <td>11am</td>
-    <td>3pm</td>
-  </tr>
-  <tr>
-    <td>Tuesday, 8 August 17</td>
-    <td>3pm</td>
-    <td></td>
-    <td>11am</td>
-  </tr>
-  <tr>
-    <td>Wednesday, 9 August 17</td>
-    <td></td>
-    <td></td>
-    <td>2pm</td>
-  </tr>
-  <tr>
-    <td>Thursday, 10 August 17</td>
-    <td></td>
-    <td>2pm</td>
-    <td>10am</td>
-  </tr>
-  <tr>
-    <td>Friday, 11 August 17</td>
-    <td>10am</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td>Monday, 14 August 17</td>
     <td>3pm</td>
     <td></td>
@@ -233,6 +197,42 @@ More information on all the roles can be found on <a href="https://docs.pmhc-mds
     <td></td>
     <td></td>
     <td></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Monday, 4 September 17</td>
+    <td></td>
+    <td></td>
+    <td>2pm</td>
+  </tr>
+  <tr>
+    <td>Tuesday, 5 September 17</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Wednesday, 6 September 17</td>
+    <td></td>
+    <td>11am</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Thursday, 7 September 17</td>
+    <td>2pm</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Friday, 8 September 17</td>
+    <td></td>
+    <td></td>
+    <td>10pm</td>
   </tr>
 </table>
 
