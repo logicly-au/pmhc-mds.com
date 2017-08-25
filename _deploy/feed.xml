@@ -7,6 +7,26 @@
 		<atom:link href="http://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>PMHC MDS outage on Wednesday 30 August 2017</title>
+				        
+				
+					<description>&lt;h4&gt;PMHC MDS outage on Wednesday 30 August 2017&lt;/h4&gt;
+
+&lt;p&gt;In addition to our regular system maintenance which occurs fortnightly on Wednesdays in the period 9:00pm-12:00pm AEST, we will also be upgrading the database systems next Wednesday and as such our maintenance period will start an hour earlier at 8:00pm AEST.&lt;/p&gt;
+
+&lt;p&gt;As such,  the PMHC MDS will be unavailable sometime in the period 8:00pm - 12:00pm AEST on Wednesday 30 August, 2017.&lt;/p&gt;
+
+&lt;p&gt;If you are planning on using any of the data products during this time, we advise you to complete your work before 8:00pm AEST.&lt;/p&gt;
+
+&lt;p&gt;Thank-you for your patience whilst this maintenance is carried out.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2017/08/25/PMHC-MDS-outage-2017-08-30/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/08/25/PMHC-MDS-outage-2017-08-30/</guid>
+			</item>
+		
+			<item>
 				<title>Update to the PMHC MDS - 28/7/2017</title>
 				        
 				
@@ -361,65 +381,6 @@
 				<pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
 				<link>http://www.pmhc-mds.com/2017/06/14/Update-to-the-PMHC-MDS-v0-11-1-and-Data-Specifications-v1-0-7/</link>
 				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/06/14/Update-to-the-PMHC-MDS-v0-11-1-and-Data-Specifications-v1-0-7/</guid>
-			</item>
-		
-			<item>
-				<title>PMHC MDS Newsletter 2</title>
-				        
-				
-					<description>&lt;table role=&quot;presentation&quot; aria-hidden=&quot;true&quot;&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;h4&gt;
-        Let's discuss PMHC MDS.
-      &lt;/h4&gt;
-      &lt;p&gt;
-        We are fast approaching the end of the financial year.
-      &lt;/p&gt;
-      &lt;p&gt;
-        With Primary Health Networks (PHNs) now focused on new and existing contracts with Provider Organisations (PO) we want to further clarify the timelines and requirements for the PMHC MDS.
-      &lt;/p&gt;
-      &lt;p&gt;
-        The Department is aware that 2016-17 is a transitional year however 2017-18 is expected to have comprehensive mental health services data collection.
-      &lt;/p&gt;
-      &lt;p&gt;
-        Upload functionality has been available on the PMHC MDS since November 2016. All PHNs are expected to start uploading their data in preparation for 1 July 2017.
-      &lt;/p&gt;
-      &lt;p&gt;
-        In the next few weeks, data entry will start to be rolled out in a staged process. Data entry will be available in the following order:
-      &lt;/p&gt;
-      &lt;ul&gt;
-        &lt;li&gt;Practitioners&lt;/li&gt;
-        &lt;li&gt;Clients&lt;/li&gt;
-        &lt;li&gt;Episodes&lt;/li&gt;
-        &lt;li&gt;Service Contacts&lt;/li&gt;
-        &lt;li&gt;K10+&lt;/li&gt;
-        &lt;li&gt;K5&lt;/li&gt;
-        &lt;li&gt;SDQ&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;p&gt;
-        Strategic Data have been working on the transitional development of an ATAPS data extract that will allow active ATAPS data to be exported to the PMHC MDS. More news on this process will be released soon.
-      &lt;/p&gt;
-      &lt;p&gt;
-        If you aren't sure what your PHN should be doing to be prepared for 1 July, please contact
-        &lt;a title=&quot;PMHC MDS Support email&quot; href=&quot;mailto:support@pmhc-mds.com&quot;&gt;support@pmhc-mds.com&lt;/a&gt;
-        and we'll organise a time to discuss options that would best suit your circumstances.
-      &lt;/p&gt;
-      &lt;p&gt;
-        &lt;a href=&quot;https://www.pmhc-mds.com/getstarted/&quot; title=&quot;How to get started on the PMHC MDS&quot;&gt;Getting Started on the PMHC MDS&lt;/a&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;img src=&quot;https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png&quot; title=&quot;Divider&quot; alt=&quot;Divider&quot; /&gt;
-
-&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-</description>
-				
-				<pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
-				<link>http://www.pmhc-mds.com/2017/05/31/PMHC-MDS-Newsletter-2/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/05/31/PMHC-MDS-Newsletter-2/</guid>
 			</item>
 		
 	</channel>

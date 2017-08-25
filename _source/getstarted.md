@@ -97,42 +97,6 @@ More information on all the roles can be found on <a href="https://docs.pmhc-mds
     <th><p>Data Entry</p><p>60 minutes</p></th>
   </tr>
   <tr>
-    <td>Monday, 21 August 17</td>
-    <td></td>
-    <td>11am</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Tuesday, 22 August 17</td>
-    <td></td>
-    <td></td>
-    <td>3pm</td>
-  </tr>
-  <tr>
-    <td>Wednesday, 23 August 17</td>
-    <td>3pm</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Thursday, 24 August 17</td>
-    <td></td>
-    <td></td>
-    <td>11am</td>
-  </tr>
-  <tr>
-    <td>Friday, 25 August 17</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td>Monday, 28 August 17</td>
     <td></td>
     <td></td>
@@ -233,6 +197,78 @@ More information on all the roles can be found on <a href="https://docs.pmhc-mds
     <td>12noon</td>
     <td></td>
     <td></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Monday, 18 September 17</td>
+    <td>3pm</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tuesday, 19 September 17</td>
+    <td></td>
+    <td></td>
+    <td>2pm</td>
+  </tr>
+  <tr>
+    <td>Wednesday, 20 September 17</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Thursday, 21 September 17</td>
+    <td></td>
+    <td></td>
+    <td>11pm</td>
+  </tr>
+  <tr>
+    <td>Friday, 22 September 17</td>
+    <td></td>
+    <td>12noon</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Monday, 25 September 17</td>
+    <td></td>
+    <td>11am</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tuesday, 26 September 17</td>
+    <td></td>
+    <td></td>
+    <td>11am</td>
+  </tr>
+  <tr>
+    <td>Wednesday, 27 September 17</td>
+    <td>11am</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Thursday, 28 September 17</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Friday, 29 September 17</td>
+    <td></td>
+    <td></td>
+    <td>12noon</td>
   </tr>
 </table>
 
