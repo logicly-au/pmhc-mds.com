@@ -7,6 +7,36 @@
 		<atom:link href="http://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS - 25/8/2017</title>
+				        
+				
+					<description>&lt;h4&gt;PMHC MDS Update v0.15.0&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.15.0 was released on August 25, 2017.&lt;/p&gt;
+
+&lt;p&gt;The following features have been implemented:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;An SLK generator within the client data entry forms has been implemented.&lt;/li&gt;
+  &lt;li&gt;Provider Organisations can now be uploaded.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates and bugfixes have been implemented:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Error messages have been made more descriptive.&lt;/li&gt;
+  &lt;li&gt;Items 11-13 of the K10+ have been changed from text input to drop down fields.&lt;/li&gt;
+  &lt;li&gt;Fields in the client data entry form have been reorganised to group related fields.&lt;/li&gt;
+  &lt;li&gt;Fields in the practitioner data entry form have been reorganised to group related fields.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guide has been updated to reflect these updates. It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/user-documentation/&quot;&gt;https://docs.pmhc-mds.com/user-documentation/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2017/08/25/Update-to-the-PMHC-MDS-v-0-15-0/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/08/25/Update-to-the-PMHC-MDS-v-0-15-0/</guid>
+			</item>
+		
+			<item>
 				<title>PMHC MDS outage on Wednesday 30 August 2017</title>
 				        
 				
@@ -339,48 +369,6 @@
 				<pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
 				<link>http://www.pmhc-mds.com/2017/06/19/Update-to-the-PMHC-MDS-Service-Provider-Quick-Reference-Guide-v1-1/</link>
 				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/06/19/Update-to-the-PMHC-MDS-Service-Provider-Quick-Reference-Guide-v1-1/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 14/6/2017</title>
-				        
-				
-					<description>&lt;h4&gt;We are pleased to announce that PMHC MDS Update v0.11.1 was released on June 14, 2017.&lt;/h4&gt;
-
-&lt;p&gt;The following functionality has been added:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Practitioner information can now be added and edited for users who have been granted the ‘Data Entry’ role.&lt;/li&gt;
-  &lt;li&gt;CSV uploads can now be contained within a folder in the zip file.&lt;/li&gt;
-  &lt;li&gt;The Episode Details tab now highlights when a referral is a Suicide Referral.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;PMHC MDS Data Specifications Update v1.0.7 was released on June 14, 2017.&lt;/h4&gt;
-
-&lt;p&gt;The following data items have been updated and should be used when a service contact is a ‘&lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-no-show&quot;&gt;No Show&lt;/a&gt;’.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Data model and specifications
-  &lt;ul&gt;
-    &lt;li&gt;Record formats
-    &lt;ul&gt;
-      &lt;li&gt;Service Contact
-      &lt;ul&gt;
-        &lt;li&gt;Updated &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-duration&quot;&gt;Service Contact Duration&lt;/a&gt; to add response 0: 'No contact took place'.&lt;/li&gt;
-        &lt;li&gt;Updated &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-duration&quot;&gt;Service Contact Duration&lt;/a&gt; response 1 from '0-15 mins' to '1-15 mins'.&lt;/li&gt;
-        &lt;li&gt;Updated &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-type&quot;&gt;Service Contact Type&lt;/a&gt; to add response 0: 'No contact took place'.&lt;/li&gt;
-        &lt;li&gt;Updated &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-modality&quot;&gt;Service Contact Modality&lt;/a&gt; to add response 0: 'No contact took place'.&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-				
-				<pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
-				<link>http://www.pmhc-mds.com/2017/06/14/Update-to-the-PMHC-MDS-v0-11-1-and-Data-Specifications-v1-0-7/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/06/14/Update-to-the-PMHC-MDS-v0-11-1-and-Data-Specifications-v1-0-7/</guid>
 			</item>
 		
 	</channel>

@@ -1,0 +1,23 @@
+---
+title: Update to the PMHC MDS - 25/8/2017
+---
+
+<h4>PMHC MDS Update v0.15.0</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.15.0 was released on August 25, 2017.</p>
+
+<p>The following features have been implemented:</p>
+<ul>
+  <li>An SLK generator within the client data entry forms has been implemented.</li>
+  <li>Provider Organisations can now be uploaded.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented:</p>
+<ul>
+  <li>Error messages have been made more descriptive.</li>
+  <li>Items 11-13 of the K10+ have been changed from text input to drop down fields.</li>
+  <li>Fields in the client data entry form have been reorganised to group related fields.</li>
+  <li>Fields in the practitioner data entry form have been reorganised to group related fields.</li>
+</ul>
+
+<p>The user guide has been updated to reflect these updates. It is available at <a href="https://docs.pmhc-mds.com/user-documentation/">https://docs.pmhc-mds.com/user-documentation/</a>.</p>
