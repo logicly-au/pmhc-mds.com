@@ -7,6 +7,29 @@
 		<atom:link href="http://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS - 28/8/2017</title>
+				        
+				
+					<description>&lt;h4&gt;PMHC MDS Update v0.15.1&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.15.1 was released on August 28, 2017.&lt;/p&gt;
+
+&lt;p&gt;The following updates and bugfixes have been implemented:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed an issue where in some instances upload error messages were not included in the notification email.&lt;/li&gt;
+  &lt;li&gt;New service contacts are no longer presented with the “ATAPS” option in the Service Contact - Type dropdown.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue with dates not being displayed correctly in the upload summary listing.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue with Practitioner Key dropdown not containing all available options when editing Service Contacts.&lt;/li&gt;
+  &lt;li&gt;The Date of Birth field in the SLK form will display an error message when invalid.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				
+				<pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+				<link>http://www.pmhc-mds.com/2017/08/28/Update-to-the-PMHC-MDS-v-0-15-1/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/08/28/Update-to-the-PMHC-MDS-v-0-15-1/</guid>
+			</item>
+		
+			<item>
 				<title>Update to the PMHC MDS - 25/8/2017</title>
 				        
 				
@@ -351,24 +374,6 @@
 				<pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
 				<link>http://www.pmhc-mds.com/2017/06/21/FOR-INFORMATION-and-ACTION-PHN-CEO-Primary-Mental-Health-Care-Minimum-Data-Set-Update/</link>
 				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/06/21/FOR-INFORMATION-and-ACTION-PHN-CEO-Primary-Mental-Health-Care-Minimum-Data-Set-Update/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS Service Provider Quick Reference Guide - 19/6/2017</title>
-				        
-				
-					<description>&lt;h4&gt;The PMHC MDS Service Provider Quick Reference Guide Version 1.1  was released on June 19, 2017&lt;/h4&gt;
-
-&lt;p&gt;The PMHC MDS Service Provider QUICK REFERENCE Guide is a resource intended to describe key issues and concepts related to the collection of, and provision of data to, the PMHC MDS for mental health service providers. For more detailed information regarding the PMHC MDS, see the &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/&quot;&gt;PMHC MDS Data Specifications&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;There are two versions of the PMHC MDS Service Provider Quick Reference Guide. If you are a service provider, it is recommended that you use the &lt;a href=&quot;https://www.pmhc-mds.com/doc/service-provider-quick-reference-guide-20170619.pdf&quot;&gt;PDF version&lt;/a&gt; produced by the Department of Health. If you are a Primary Health Network, you can use the &lt;a href=&quot;https://www.pmhc-mds.com/doc/service-provider-quick-reference-guide-template-20170619.docx&quot;&gt;word version&lt;/a&gt; to tailor some of the information to your local context.&lt;/p&gt;
-
-&lt;p&gt;The PMHC MDS Service Provider Quick Reference Guide has been updated to correct links to the PMHC MDS documentation.&lt;/p&gt;
-</description>
-				
-				<pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
-				<link>http://www.pmhc-mds.com/2017/06/19/Update-to-the-PMHC-MDS-Service-Provider-Quick-Reference-Guide-v1-1/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/06/19/Update-to-the-PMHC-MDS-Service-Provider-Quick-Reference-Guide-v1-1/</guid>
 			</item>
 		
 	</channel>
