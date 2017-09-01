@@ -7,6 +7,19 @@
 		<atom:link href="http://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>PMHC MDS outage on Sunday 3 September 2017</title>
+				        
+				
+					<description>&lt;h4&gt;PMHC MDS outage on Sunday 3 September 2017&lt;/h4&gt;
+
+</description>
+				
+				<pubDate>Fri, 01 Sep 2017 00:00:00 -0500</pubDate>
+				<link>http://www.pmhc-mds.com/2017/09/01/PMHC-MDS-outage-2017-09-03/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/09/01/PMHC-MDS-outage-2017-09-03/</guid>
+			</item>
+		
+			<item>
 				<title>Update to the PMHC MDS - 29/8/2017</title>
 				        
 				
@@ -22,7 +35,7 @@
 &lt;/ul&gt;
 </description>
 				
-				<pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+				<pubDate>Tue, 29 Aug 2017 00:00:00 -0500</pubDate>
 				<link>http://www.pmhc-mds.com/2017/08/29/Update-to-the-PMHC-MDS-v-0-15-2/</link>
 				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/08/29/Update-to-the-PMHC-MDS-v-0-15-2/</guid>
 			</item>
@@ -45,7 +58,7 @@
 &lt;/ul&gt;
 </description>
 				
-				<pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+				<pubDate>Mon, 28 Aug 2017 00:00:00 -0500</pubDate>
 				<link>http://www.pmhc-mds.com/2017/08/28/Update-to-the-PMHC-MDS-v-0-15-1/</link>
 				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/08/28/Update-to-the-PMHC-MDS-v-0-15-1/</guid>
 			</item>
@@ -75,7 +88,7 @@
 &lt;p&gt;The user guide has been updated to reflect these updates. It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/user-documentation/&quot;&gt;https://docs.pmhc-mds.com/user-documentation/&lt;/a&gt;.&lt;/p&gt;
 </description>
 				
-				<pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+				<pubDate>Fri, 25 Aug 2017 00:00:00 -0500</pubDate>
 				<link>http://www.pmhc-mds.com/2017/08/25/Update-to-the-PMHC-MDS-v-0-15-0/</link>
 				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/08/25/Update-to-the-PMHC-MDS-v-0-15-0/</guid>
 			</item>
@@ -95,7 +108,7 @@
 &lt;p&gt;Thank-you for your patience whilst this maintenance is carried out.&lt;/p&gt;
 </description>
 				
-				<pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+				<pubDate>Fri, 25 Aug 2017 00:00:00 -0500</pubDate>
 				<link>http://www.pmhc-mds.com/2017/08/25/PMHC-MDS-outage-2017-08-30/</link>
 				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/08/25/PMHC-MDS-outage-2017-08-30/</guid>
 			</item>
@@ -136,7 +149,7 @@
 &lt;p&gt;The ATAPS MDS to PMHC MDS data mapping documentation at &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/ataps/ataps-pmhc-mapping.html&quot;&gt;https://docs.pmhc-mds.com/data-specification/ataps/ataps-pmhc-mapping.html&lt;/a&gt; has been updated to show the mapping of ATAPS MDS diagnosis fields to PMHC Principal Diagnosis and Additional Diagnosis where two ATAPS diagnosis fields have been specified.&lt;/p&gt;
 </description>
 				
-				<pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+				<pubDate>Fri, 28 Jul 2017 00:00:00 -0500</pubDate>
 				<link>http://www.pmhc-mds.com/2017/07/28/Update-to-the-PMHC-MDS-v-0-14-0/</link>
 				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/07/28/Update-to-the-PMHC-MDS-v-0-14-0/</guid>
 			</item>
@@ -157,7 +170,7 @@
 &lt;/ul&gt;
 </description>
 				
-				<pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+				<pubDate>Fri, 21 Jul 2017 00:00:00 -0500</pubDate>
 				<link>http://www.pmhc-mds.com/2017/07/21/Update-to-the-PMHC-MDS-v-0-13-3/</link>
 				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/07/21/Update-to-the-PMHC-MDS-v-0-13-3/</guid>
 			</item>
@@ -180,7 +193,7 @@
 &lt;p&gt;The user guide has been updated to reflect these updates. It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/user-documentation/&quot;&gt;https://docs.pmhc-mds.com/user-documentation/&lt;/a&gt;.&lt;/p&gt;
 </description>
 				
-				<pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+				<pubDate>Thu, 20 Jul 2017 00:00:00 -0500</pubDate>
 				<link>http://www.pmhc-mds.com/2017/07/20/Update-to-the-PMHC-MDS-v-0-13-2/</link>
 				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/07/20/Update-to-the-PMHC-MDS-v-0-13-2/</guid>
 			</item>
@@ -219,7 +232,7 @@
 &lt;/ul&gt;
 </description>
 				
-				<pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+				<pubDate>Tue, 11 Jul 2017 00:00:00 -0500</pubDate>
 				<link>http://www.pmhc-mds.com/2017/07/11/Update-to-the-PMHC-MDS-v0-12-3-and-Data-Specifications-v1-0-10/</link>
 				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/07/11/Update-to-the-PMHC-MDS-v0-12-3-and-Data-Specifications-v1-0-10/</guid>
 			</item>
@@ -261,74 +274,9 @@
 &lt;/li&gt;&lt;/ul&gt;
 </description>
 				
-				<pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+				<pubDate>Fri, 30 Jun 2017 00:00:00 -0500</pubDate>
 				<link>http://www.pmhc-mds.com/2017/06/30/Update-to-the-PMHC-MDS-v0-12-0-and-Data-Specifications-v1-0-9/</link>
 				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/06/30/Update-to-the-PMHC-MDS-v0-12-0-and-Data-Specifications-v1-0-9/</guid>
-			</item>
-		
-			<item>
-				<title>Release of the ATAPS MDS to PMHC MDS data mapping and update to the PMHC Data Specifications</title>
-				        
-				
-					<description>&lt;h4&gt;Release of the ATAPS MDS to PMHC MDS data mapping&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that the ATAPS MDS to PMHC MDS data mapping was released on June 26, 2017 and is now available at &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/ataps/ataps-pmhc-mapping.html&quot;&gt;https://docs.pmhc-mds.com/data-specification/ataps/ataps-pmhc-mapping.html&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;PHNs who are implementing new client systems and mapping the ATAPS data to PMHC data need to ensure that their data mapping conforms with this mapping specification.&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;Please note: we are still in the process of investigating the mapping of ATAPS diagnoses fields to PMHC Principal Diagnosis and Additional Diagnosis fields where multiple ATAPS diagnosis fields have been selected. In order to allow PHNs to access this mapping in a timely manner we are releasing it without having finished this investigation. Further announcements will be made when this investigation is complete.&lt;/i&gt;&lt;/p&gt;
-
-&lt;h4&gt;PMHC MDS Data Specifications Update v1.0.8&lt;/h4&gt;
-
-&lt;p&gt;We are also pleased to announce that PMHC MDS Data Specifications Update v1.0.8 was released on June 26, 2017.&lt;/p&gt;
-
-&lt;p&gt;The following data items have been updated:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Data model and specifications
-  &lt;ul&gt;
-  &lt;li&gt;Record formats
-    &lt;ul&gt;
-    &lt;li&gt;Episode
-      &lt;ul&gt;
-      &lt;li&gt;Updated &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-principal-diagnosis&quot;&gt;Episode - Principal Diagnosis&lt;/a&gt; to add the following response codes:
-        &lt;ul&gt;
-          &lt;li&gt;100: Anxiety disorders (ATAPS)&lt;/li&gt;
-          &lt;li&gt;200: Affective (Mood) disorders (ATAPS)&lt;/li&gt;
-          &lt;li&gt;300: Substance use disorders (ATAPS)&lt;/li&gt;
-          &lt;li&gt;400: Psychotic disorders (ATAPS)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Updated &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-additional-diagnosis&quot;&gt;Episode - Additional Diagnosis&lt;/a&gt; to add the following response code:
-        &lt;ul&gt;
-          &lt;li&gt;000: No additional diagnosis&lt;/li&gt;
-          &lt;li&gt;100: Anxiety disorders (ATAPS)&lt;/li&gt;
-          &lt;li&gt;200: Affective (Mood) disorders (ATAPS)&lt;/li&gt;
-          &lt;li&gt;300: Substance use disorders (ATAPS)&lt;/li&gt;
-          &lt;li&gt;400: Psychotic disorders (ATAPS)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;Service Contact
-      &lt;ul&gt;
-      &lt;li&gt;Updated &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-type&quot;&gt;Service Contact - Type&lt;/a&gt; to add the following response code:
-        &lt;ul&gt; 
-          &lt;li&gt;98: ATAPS&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-				
-				<pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
-				<link>http://www.pmhc-mds.com/2017/06/26/Release-of-the-ATAPS-MDS-to-PMHC-MDS-data-mapping-and-update-to-the-PMHC-Data-Specifications-v1-0-8/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/06/26/Release-of-the-ATAPS-MDS-to-PMHC-MDS-data-mapping-and-update-to-the-PMHC-Data-Specifications-v1-0-8/</guid>
 			</item>
 		
 	</channel>
