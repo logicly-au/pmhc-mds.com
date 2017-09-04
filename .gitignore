@@ -1,4 +1,5 @@
 .travis/deploy-key
 .sass-cache/
 .DS_Store
+vendor/bundle
 *.swp
