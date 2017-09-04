@@ -1,8 +1,4 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-(sleep 15; open http://127.0.0.1:4000) &
-docker run \
-  -it --rm --label=jekyll \
-  --volume=$(pwd):/srv/jekyll \
-  jekyll/jekyll:3.5 bash -c "bundle install; bundle exec jekyll serve"
+docker-compose up
