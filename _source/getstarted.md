@@ -136,7 +136,7 @@ More information on all the roles can be found on <a href="https://docs.pmhc-mds
     <td>Monday, 11 September 17</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>2pm</td>
   </tr>
   <tr>
     <td>Tuesday, 12 September 17</td>
@@ -154,7 +154,7 @@ More information on all the roles can be found on <a href="https://docs.pmhc-mds
     <td>Thursday, 14 September 17</td>
     <td></td>
     <td></td>
-    <td>2pm</td>
+    <td></td>
   </tr>
   <tr>
     <td>Friday, 15 September 17</td>
