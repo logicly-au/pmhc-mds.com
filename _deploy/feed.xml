@@ -7,6 +7,36 @@
 		<atom:link href="http://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS - 12/9/2017</title>
+				        
+				
+					<description>&lt;h4&gt;PMHC MDS Update v0.15.3&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.15.3 was released on September 12, 2017.&lt;/p&gt;
+
+&lt;p&gt;The following updates and bugfixes have been implemented:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed an issue where the ‘Successfully saved to clipboard’ message was not being displayed in the SLK tab.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue where, after editing an episode, you remained on the ‘Edit Details’ tab instead of being taken to the ‘View Details’ tab.&lt;/li&gt;
+  &lt;li&gt;Allowed the use of 9998 for a postcode for Face to Face sessions that are NOT No Show’s.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue where the number of announcements on the homepage was not being limited.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue where an error message was not being returned for certain invalid date of births on the Client Data Entry form.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue where the ATAPS service contact type was being shown for new service contacts, not just service contacts migrated from ATAPS.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue where some users were seeing organisations in the ‘Select Organisation’ drop down on the ‘System Reports’ tab for which they did not have the ‘Reporting’ role.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue where the date of uploads was not being correctly displayed.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue where an error was not being shown for an invalid Practitioner Year of Birth.&lt;/li&gt;
+  &lt;li&gt;Removed the ‘Show test uploads’ checkbox from the upload page as this functionality is now provided by filtering the upload table.&lt;/li&gt;
+  &lt;li&gt;A message is now displayed if you try to add a service contact to an organisation that does not have any Practitioners.&lt;/li&gt;
+  &lt;li&gt;A message is now displayed if you try to add a client or practitioner when a PHN has not defined any Provider Organisations.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				
+				<pubDate>Tue, 12 Sep 2017 00:00:00 -0500</pubDate>
+				<link>http://www.pmhc-mds.com/2017/09/12/Update-to-the-PMHC-MDS-v-0-15-3/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/09/12/Update-to-the-PMHC-MDS-v-0-15-3/</guid>
+			</item>
+		
+			<item>
 				<title>PMHC MDS outage on Sunday 3 September 2017</title>
 				        
 				
@@ -235,48 +265,6 @@
 				<pubDate>Tue, 11 Jul 2017 00:00:00 -0500</pubDate>
 				<link>http://www.pmhc-mds.com/2017/07/11/Update-to-the-PMHC-MDS-v0-12-3-and-Data-Specifications-v1-0-10/</link>
 				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/07/11/Update-to-the-PMHC-MDS-v0-12-3-and-Data-Specifications-v1-0-10/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS and Data Specifications- 30/6/2017</title>
-				        
-				
-					<description>&lt;h4&gt;PMHC MDS Update v0.12.0&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.12.0 was released on June 30, 2017.&lt;/p&gt;
-
-&lt;p&gt;The following functionality has been added:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Client, Episode and Service Contact information can now be added and edited for users who have been granted the ‘Data Entry’ role.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;PMHC MDS Data Specifications Update v1.0.9&lt;/h4&gt;
-
-&lt;p&gt;We are also pleased to announce that PMHC MDS Data Specifications Update v1.0.9 was released on June 30, 2017.&lt;/p&gt;
-
-&lt;p&gt;The following data item has been added:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Data model and specifications
-  &lt;ul&gt;
-  &lt;li&gt;Record formats
-    &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#provider-organisation-data-elements&quot;&gt;Provider Organisation&lt;/a&gt;
-      &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#provider-organisation-status&quot;&gt;Added Organisation Status&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;&lt;/ul&gt;
-</description>
-				
-				<pubDate>Fri, 30 Jun 2017 00:00:00 -0500</pubDate>
-				<link>http://www.pmhc-mds.com/2017/06/30/Update-to-the-PMHC-MDS-v0-12-0-and-Data-Specifications-v1-0-9/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/06/30/Update-to-the-PMHC-MDS-v0-12-0-and-Data-Specifications-v1-0-9/</guid>
 			</item>
 		
 	</channel>
