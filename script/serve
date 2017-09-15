@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
+docker-compose pull
+
 docker-compose up
