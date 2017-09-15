@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
+mkdir -p vendor/bundle
+
 docker-compose pull
 
 docker-compose up
