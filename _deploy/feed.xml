@@ -3,8 +3,8 @@
 	<channel>
 		<title></title>
 		<description></description>		
-		<link>http://www.pmhc-mds.com</link>
-		<atom:link href="http://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://0.0.0.0:4000</link>
+		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Update to the PMHC MDS - 12/9/2017</title>
@@ -32,8 +32,8 @@
 </description>
 				
 				<pubDate>Tue, 12 Sep 2017 00:00:00 -0500</pubDate>
-				<link>http://www.pmhc-mds.com/2017/09/12/Update-to-the-PMHC-MDS-v-0-15-3/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/09/12/Update-to-the-PMHC-MDS-v-0-15-3/</guid>
+				<link>http://0.0.0.0:4000/2017/09/12/Update-to-the-PMHC-MDS-v-0-15-3/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/09/12/Update-to-the-PMHC-MDS-v-0-15-3/</guid>
 			</item>
 		
 			<item>
@@ -45,8 +45,8 @@
 </description>
 				
 				<pubDate>Fri, 01 Sep 2017 00:00:00 -0500</pubDate>
-				<link>http://www.pmhc-mds.com/2017/09/01/PMHC-MDS-outage-2017-09-03/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/09/01/PMHC-MDS-outage-2017-09-03/</guid>
+				<link>http://0.0.0.0:4000/2017/09/01/PMHC-MDS-outage-2017-09-03/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/09/01/PMHC-MDS-outage-2017-09-03/</guid>
 			</item>
 		
 			<item>
@@ -66,8 +66,8 @@
 </description>
 				
 				<pubDate>Tue, 29 Aug 2017 00:00:00 -0500</pubDate>
-				<link>http://www.pmhc-mds.com/2017/08/29/Update-to-the-PMHC-MDS-v-0-15-2/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/08/29/Update-to-the-PMHC-MDS-v-0-15-2/</guid>
+				<link>http://0.0.0.0:4000/2017/08/29/Update-to-the-PMHC-MDS-v-0-15-2/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/08/29/Update-to-the-PMHC-MDS-v-0-15-2/</guid>
 			</item>
 		
 			<item>
@@ -89,8 +89,8 @@
 </description>
 				
 				<pubDate>Mon, 28 Aug 2017 00:00:00 -0500</pubDate>
-				<link>http://www.pmhc-mds.com/2017/08/28/Update-to-the-PMHC-MDS-v-0-15-1/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/08/28/Update-to-the-PMHC-MDS-v-0-15-1/</guid>
+				<link>http://0.0.0.0:4000/2017/08/28/Update-to-the-PMHC-MDS-v-0-15-1/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/08/28/Update-to-the-PMHC-MDS-v-0-15-1/</guid>
 			</item>
 		
 			<item>
@@ -119,8 +119,8 @@
 </description>
 				
 				<pubDate>Fri, 25 Aug 2017 00:00:00 -0500</pubDate>
-				<link>http://www.pmhc-mds.com/2017/08/25/Update-to-the-PMHC-MDS-v-0-15-0/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/08/25/Update-to-the-PMHC-MDS-v-0-15-0/</guid>
+				<link>http://0.0.0.0:4000/2017/08/25/Update-to-the-PMHC-MDS-v-0-15-0/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/08/25/Update-to-the-PMHC-MDS-v-0-15-0/</guid>
 			</item>
 		
 			<item>
@@ -139,8 +139,8 @@
 </description>
 				
 				<pubDate>Fri, 25 Aug 2017 00:00:00 -0500</pubDate>
-				<link>http://www.pmhc-mds.com/2017/08/25/PMHC-MDS-outage-2017-08-30/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/08/25/PMHC-MDS-outage-2017-08-30/</guid>
+				<link>http://0.0.0.0:4000/2017/08/25/PMHC-MDS-outage-2017-08-30/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/08/25/PMHC-MDS-outage-2017-08-30/</guid>
 			</item>
 		
 			<item>
@@ -180,8 +180,8 @@
 </description>
 				
 				<pubDate>Fri, 28 Jul 2017 00:00:00 -0500</pubDate>
-				<link>http://www.pmhc-mds.com/2017/07/28/Update-to-the-PMHC-MDS-v-0-14-0/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/07/28/Update-to-the-PMHC-MDS-v-0-14-0/</guid>
+				<link>http://0.0.0.0:4000/2017/07/28/Update-to-the-PMHC-MDS-v-0-14-0/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/07/28/Update-to-the-PMHC-MDS-v-0-14-0/</guid>
 			</item>
 		
 			<item>
@@ -201,8 +201,8 @@
 </description>
 				
 				<pubDate>Fri, 21 Jul 2017 00:00:00 -0500</pubDate>
-				<link>http://www.pmhc-mds.com/2017/07/21/Update-to-the-PMHC-MDS-v-0-13-3/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/07/21/Update-to-the-PMHC-MDS-v-0-13-3/</guid>
+				<link>http://0.0.0.0:4000/2017/07/21/Update-to-the-PMHC-MDS-v-0-13-3/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/07/21/Update-to-the-PMHC-MDS-v-0-13-3/</guid>
 			</item>
 		
 			<item>
@@ -224,8 +224,8 @@
 </description>
 				
 				<pubDate>Thu, 20 Jul 2017 00:00:00 -0500</pubDate>
-				<link>http://www.pmhc-mds.com/2017/07/20/Update-to-the-PMHC-MDS-v-0-13-2/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/07/20/Update-to-the-PMHC-MDS-v-0-13-2/</guid>
+				<link>http://0.0.0.0:4000/2017/07/20/Update-to-the-PMHC-MDS-v-0-13-2/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/07/20/Update-to-the-PMHC-MDS-v-0-13-2/</guid>
 			</item>
 		
 			<item>
@@ -263,8 +263,8 @@
 </description>
 				
 				<pubDate>Tue, 11 Jul 2017 00:00:00 -0500</pubDate>
-				<link>http://www.pmhc-mds.com/2017/07/11/Update-to-the-PMHC-MDS-v0-12-3-and-Data-Specifications-v1-0-10/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/07/11/Update-to-the-PMHC-MDS-v0-12-3-and-Data-Specifications-v1-0-10/</guid>
+				<link>http://0.0.0.0:4000/2017/07/11/Update-to-the-PMHC-MDS-v0-12-3-and-Data-Specifications-v1-0-10/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/07/11/Update-to-the-PMHC-MDS-v0-12-3-and-Data-Specifications-v1-0-10/</guid>
 			</item>
 		
 	</channel>
