@@ -7,6 +7,24 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS Service Provider Quick Reference Guide - 22/9/2017</title>
+				        
+				
+					<description>&lt;h4&gt;The PMHC MDS Service Provider Quick Reference Guide Version 1.2  was released on September 22, 2017&lt;/h4&gt;
+
+&lt;p&gt;The PMHC MDS Service Provider QUICK REFERENCE Guide is a resource intended to describe key issues and concepts related to the collection of, and provision of data to, the PMHC MDS for mental health service providers. For more detailed information regarding the PMHC MDS, see the &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/&quot;&gt;PMHC MDS Data Specifications&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are two versions of the PMHC MDS Service Provider Quick Reference Guide. If you are a service provider, it is recommended that you use the &lt;a href=&quot;https://www.pmhc-mds.com/doc/service-provider-quick-reference-guide-20170920.pdf&quot;&gt;PDF version&lt;/a&gt; produced by the Department of Health. If you are a Primary Health Network, you can use the &lt;a href=&quot;https://www.pmhc-mds.com/doc/service-provider-quick-reference-guide-template-20170920.docx&quot;&gt;word version&lt;/a&gt; to tailor some of the information to your local context.&lt;/p&gt;
+
+&lt;p&gt;Section 9 of the PMHC MDS Service Provider Quick Reference Guide has been updated to reflect that where the client consents, identifiable data can be passed onto PHNs but only anonymised data will be provided to the Department of Health.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 22 Sep 2017 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2017/09/22/Update-to-the-PMHC-MDS-Service-Provider-Quick-Reference-Guide-v1-2/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/09/22/Update-to-the-PMHC-MDS-Service-Provider-Quick-Reference-Guide-v1-2/</guid>
+			</item>
+		
+			<item>
 				<title>Update to the PMHC MDS - 12/9/2017</title>
 				        
 				
@@ -226,45 +244,6 @@
 				<pubDate>Thu, 20 Jul 2017 00:00:00 -0500</pubDate>
 				<link>http://0.0.0.0:4000/2017/07/20/Update-to-the-PMHC-MDS-v-0-13-2/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2017/07/20/Update-to-the-PMHC-MDS-v-0-13-2/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS and Data Specifications - 11/7/2017</title>
-				        
-				
-					<description>&lt;h4&gt;PMHC MDS Update v0.12.3&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.12.3 was released on July 11, 2017.&lt;/p&gt;
-
-&lt;p&gt;The following updates have been implemented::&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The ‘Client Data’ tab has been renamed ‘Data Entry’&lt;/li&gt;
-&lt;li&gt;The Practitioners sub tab has been moved out of the Organisations tab and into the Data Entry tab. This resolves an issue where users who only had the ‘Data Entry’ role could not add/edit Practitioners.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;PMHC MDS Data Specifications Update v1.0.10&lt;/h4&gt;
-
-&lt;p&gt;We are also pleased to announce that PMHC MDS Data Specifications Update v1.0.10 was released on July 7, 2017.&lt;/p&gt;
-
-&lt;p&gt;The following data item has been added:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Data model and specifications
-  &lt;ul&gt;
-  &lt;li&gt;Data model
-    &lt;ul&gt;
-    &lt;li&gt;Updated data model diagram following &lt;a href=&quot;https://www.pmhc-mds.com/communications/#/2017/06/21/FOR-INFORMATION-and-ACTION-PHN-CEO-Primary-Mental-Health-Care-Minimum-Data-Set-Update/&quot;&gt;Department of Health communication on 21 June, 2017&lt;/a&gt; regarding the Master Client Index&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-				
-				<pubDate>Tue, 11 Jul 2017 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2017/07/11/Update-to-the-PMHC-MDS-v0-12-3-and-Data-Specifications-v1-0-10/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2017/07/11/Update-to-the-PMHC-MDS-v0-12-3-and-Data-Specifications-v1-0-10/</guid>
 			</item>
 		
 	</channel>
