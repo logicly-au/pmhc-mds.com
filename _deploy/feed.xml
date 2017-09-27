@@ -7,6 +7,125 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS and Data Specifications - 26/9/2017</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v0161&quot;&gt;PMHC MDS Update v0.16.1&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.16.1 was released on
+September 26, 2017.&lt;/p&gt;
+
+&lt;p&gt;The following features have been implemented:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Redesigned the User Roles tab.&lt;/li&gt;
+  &lt;li&gt;Reports can now be downloaded as CSV.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates and bugfixes have been implemented in the data entry
+interface:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fixed an issue where after saving a K10+ outcome measure items 11, 12 and 13
+were not saved.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue where the Service Contact - Copayment field was not being
+properly validated.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue where users were able to view users at organisations for which
+they did not have the User Management role.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue where Service Contacts could be added after the Episode End Date.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue where filtering on the Completion Status of an episode would
+could the drop down filter to disappear.&lt;/li&gt;
+  &lt;li&gt;Uploads already fail with an error if Service Contact - Participants is
+‘1: Individual client’ and Client Participation Indicator is not ‘1: Yes’.
+This validation is now also enforced via the data entry interface.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue where users with the Reporting role that are only associated
+with a single organisation couldn’t run reports.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue where the View Episodes table was not being updated after an
+Episode had been edited.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue when editing the Episode - Completion Status. Episode Open
+was being represented as a blank option. If you selected a value for
+Completion Status, the blank option would disappear. The blank option has
+been removed and Episode Open is explicitly given as an option.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue where a PHN would not be listed in the Upload drop down
+unless at least one Provider Organisation had already been created for that PHN.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue where inherited roles were not being indicated in the
+‘Assigned Users’ tab.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue where no warning was displayed if a postcode was longer than
+4 digits.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guide has been updated to reflect these updates. It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/user-documentation/&quot;&gt;https://docs.pmhc-mds.com/user-documentation/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;pmhc-mds-data-specifications-update-v1011&quot;&gt;PMHC MDS Data Specifications Update v1.0.11&lt;/h4&gt;
+
+&lt;p&gt;We are also pleased to announce that PMHC MDS Data Specifications Update
+v1.0.11 was released on September 25, 2017. The following updates have been
+implemented:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/upload-specification.html&quot;&gt;Upload specification&lt;/a&gt;&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Added &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/upload-specification.html#deleting-records&quot;&gt;Deleting records&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html&quot;&gt;Data model and specifications&lt;/a&gt;&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#record-formats&quot;&gt;Record formats&lt;/a&gt;&lt;/p&gt;
+
+        &lt;ul&gt;
+          &lt;li&gt;
+            &lt;p&gt;&lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-data-elements&quot;&gt;Episode&lt;/a&gt;&lt;/p&gt;
+
+            &lt;ul&gt;
+              &lt;li&gt;Updated &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-completion-status&quot;&gt;Episode - Completion Status&lt;/a&gt; to allow either 0 or blank to
+represent ‘Episode open’&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;
+            &lt;p&gt;&lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-data-elements&quot;&gt;Service Contact&lt;/a&gt;&lt;/p&gt;
+
+            &lt;ul&gt;
+              &lt;li&gt;Clarified that the upper bound for &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-copayment&quot;&gt;Service Contact - Copayment&lt;/a&gt; is 999999.99&lt;/li&gt;
+              &lt;li&gt;Updated &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-participants&quot;&gt;Service Contact - Participants&lt;/a&gt; and &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-client-participation-indicator&quot;&gt;Service Contact - Client Participation Indicator&lt;/a&gt;
+to clarify how &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-participants&quot;&gt;Service Contact - Participants&lt;/a&gt;
+and &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-client-participation-indicator&quot;&gt;Service Contact - Client Participation Indicator&lt;/a&gt; interact&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/validation-rules.html&quot;&gt;Validation Rules&lt;/a&gt;&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Updated &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/validation-rules.html&quot;&gt;Validation Rules&lt;/a&gt; to
+clarify how &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-participants&quot;&gt;Service Contact - Participants&lt;/a&gt;
+and &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-client-participation-indicator&quot;&gt;Service Contact - Client Participation Indicator&lt;/a&gt; interact&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;deletion-of-records-in-the-pmhc-mds&quot;&gt;Deletion of records in the PMHC MDS&lt;/h4&gt;
+
+&lt;p&gt;Please note that deletion of records is being planned for a future release.
+Deletion will be possible via both the data entry interface and uploads.
+In order to allow organisations and third party developers to plan for
+allowing deletion in uploads we have released the planned specification.
+It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/upload-specification.html#deleting-records&quot;&gt;Deleting records&lt;/a&gt;. File format changes to accommodate deletion are backwards compatible with the current format.&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 26 Sep 2017 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2017/09/26/Update-to-the-PMHC-MDS-v-0-16-1-and-Data-Specifications-v1-0-11/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/09/26/Update-to-the-PMHC-MDS-v-0-16-1-and-Data-Specifications-v1-0-11/</guid>
+			</item>
+		
+			<item>
 				<title>Update to the PMHC MDS Service Provider Quick Reference Guide - 22/9/2017</title>
 				        
 				
@@ -221,29 +340,6 @@
 				<pubDate>Fri, 21 Jul 2017 00:00:00 -0500</pubDate>
 				<link>http://0.0.0.0:4000/2017/07/21/Update-to-the-PMHC-MDS-v-0-13-3/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2017/07/21/Update-to-the-PMHC-MDS-v-0-13-3/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 20/7/2017</title>
-				        
-				
-					<description>&lt;h4&gt;PMHC MDS Update v0.13.2&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.13.2 was released on July 20, 2017.&lt;/p&gt;
-
-&lt;p&gt;The following updates have been implemented:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Users who have been granted the ‘Data Entry’ role can now add and edit K10+ and K5 information.&lt;/li&gt;
-&lt;li&gt;The Upload tab has been made more responsive&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The user guide has been updated to reflect these updates. It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/user-documentation/&quot;&gt;https://docs.pmhc-mds.com/user-documentation/&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 20 Jul 2017 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2017/07/20/Update-to-the-PMHC-MDS-v-0-13-2/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2017/07/20/Update-to-the-PMHC-MDS-v-0-13-2/</guid>
 			</item>
 		
 	</channel>
