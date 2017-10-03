@@ -108,39 +108,7 @@ you via a calendar invitation.
   </tr>
   <tr>
     <th>&nbsp;</th>
-    <th colspan="3">Training times are listed in Australian Eastern Standard Time (AEST)</th>
-  </tr>
-  <tr>
-    <td>Monday, 25 September 17</td>
-    <td></td>
-    <td>11am</td>
-    <td>2pm</td>
-  </tr>
-  <tr>
-    <td>Tuesday, 26 September 17</td>
-    <td></td>
-    <td></td>
-    <td>11am</td>
-  </tr>
-  <tr>
-    <td>Wednesday, 27 September 17</td>
-    <td>11am</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Thursday, 28 September 17</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Friday, 29 September 17</td>
-    <td colspan="3">Public Holiday in Victoria</td>
-  </tr>
-  <tr>
-    <th>&nbsp;</th>
-    <th colspan="3">Training times below are listed in Australian Eastern Daylight Saving Time (AEDT)</th>
+    <th colspan="3">Training times are listed in Australian Eastern Daylight Saving Time (AEDT)</th>
   </tr>
   <tr>
     <td>Monday, 2 October 17</td>
@@ -188,12 +156,12 @@ you via a calendar invitation.
     <td>Tuesday, 10 October 17</td>
     <td></td>
     <td></td>
-    <td>11am</td>
+    <td>12noon</td>
   </tr>
   <tr>
     <td>Wednesday, 11 October 17</td>
     <td></td>
-    <td>11am</td>
+    <td>12noon</td>
     <td></td>
   </tr>
   <tr>
@@ -223,14 +191,14 @@ you via a calendar invitation.
   <tr>
     <td>Tuesday, 17 October 17</td>
     <td></td>
-    <td>11am</td>
+    <td>12noon</td>
     <td></td>
   </tr>
   <tr>
     <td>Wednesday, 18 October 17</td>
     <td></td>
     <td></td>
-    <td>11am</td>
+    <td>12noon</td>
   </tr>
   <tr>
     <td>Thursday, 19 October 17</td>
@@ -252,7 +220,7 @@ you via a calendar invitation.
   </tr>
   <tr>
     <td>Monday, 23 October 17</td>
-    <td>11am</td>
+    <td>12noon</td>
     <td></td>
     <td></td>
   </tr>
@@ -272,13 +240,49 @@ you via a calendar invitation.
     <td>Thursday, 26 October 17</td>
     <td></td>
     <td></td>
-    <td>11am</td>
+    <td>12noon</td>
   </tr>
   <tr>
     <td>Friday, 27 October 17</td>
     <td></td>
+    <td>1:30pm</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Monday, 30 October 17</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tuesday, 31 October 17</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Wednesday, 1 November 17</td>
     <td>12noon</td>
     <td></td>
+    <td>3pm</td>
+  </tr>
+  <tr>
+    <td>Thursday, 2 November 17</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Friday, 3 November 17</td>
+    <td></td>
+    <td>4pm</td>
+    <td>1:30pm</td>
   </tr>
 </table>
 
