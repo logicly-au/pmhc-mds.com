@@ -7,6 +7,52 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>PMHC MDS outage on Tuesday 10 October 2017 - 6/10/2017</title>
+				        
+				
+					<description>&lt;p&gt;We will be performing urgent system maintenance on Tuesday 10 October between 6:30-7:30am AEST.&lt;/p&gt;
+
+&lt;p&gt;As such, the PMHC MDS upload service will be unavailable sometime in the above period. Data Entry and Reporting functionality will still be available.&lt;/p&gt;
+
+&lt;p&gt;If you are planning on uploading any data during this time, we advise you to complete your work before 6:30am AEST.&lt;/p&gt;
+
+&lt;p&gt;Thank-you for your patience whilst this maintenance is carried out.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 06 Oct 2017 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2017/10/06/PMHC-MDS-outage-on-Tuesday-10-October-2017/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/10/06/PMHC-MDS-outage-on-Tuesday-10-October-2017/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS and system outage - 4/10/2017</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v0162&quot;&gt;PMHC MDS Update v0.16.2&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.16.2 was released on
+October 4, 2017.&lt;/p&gt;
+
+&lt;p&gt;The following updates and bugfixes have been implemented:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fixed an issue where where in some instances the upload error messages
+were not reporting relevant record key&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;pmhc-mds-system-outage&quot;&gt;PMHC MDS System Outage&lt;/h4&gt;
+
+&lt;p&gt;Due to a system problem this morning, users may have had issues accessing the
+PMHC MDS site or with logging in. Our technicians have rectified the fault and
+the system is back online.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 04 Oct 2017 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2017/10/04/Update-to-the-PMHC-MDS-v-0-16-2-and-system-outage/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/10/04/Update-to-the-PMHC-MDS-v-0-16-2-and-system-outage/</guid>
+			</item>
+		
+			<item>
 				<title>Update to the PMHC MDS and Data Specifications - 26/9/2017</title>
 				        
 				
@@ -278,68 +324,6 @@ It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification
 				<pubDate>Fri, 25 Aug 2017 00:00:00 -0500</pubDate>
 				<link>http://0.0.0.0:4000/2017/08/25/PMHC-MDS-outage-2017-08-30/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2017/08/25/PMHC-MDS-outage-2017-08-30/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 28/7/2017</title>
-				        
-				
-					<description>&lt;h4&gt;PMHC MDS Update v0.14.0&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.14.0 was released on July 28, 2017.&lt;/p&gt;
-
-&lt;p&gt;The following features have been implemented:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;A ‘Reporting’ tab has been added. Users who have been granted the ‘Reporting’ role will be able to see this tab.&lt;/li&gt;
-  &lt;li&gt;Category E - Reports for data managers to monitor data supply - have been implemented.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following updates and bugfixes have been implemented:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The ‘Data Extract’ tab has been moved to be a sub tab of the ‘Reporting’ tab.&lt;/li&gt;
-  &lt;li&gt;Client - Client Key - no longer editable.&lt;/li&gt;
-  &lt;li&gt;Client - Organisation Path - no longer editable.&lt;/li&gt;
-  &lt;li&gt;Service Contact - Practitioner - Only practitioners associated with the Provider Organisation responsible for providing the service to the client will be listed.&lt;/li&gt;
-  &lt;li&gt;Users should no longer be unexpectedly timed out.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following upload errors have been fixed:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Episodes without a referral date that have collection occasions with a measure date will no longer generate an error.&lt;/li&gt;
-  &lt;li&gt;K10+ and K5 collection occasions can now have both item scores and a total recorded, provided the item scores match the total. An error will be generated where the item scores and total do not match.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The user guide has been updated to reflect these updates. It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/user-documentation/&quot;&gt;https://docs.pmhc-mds.com/user-documentation/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4&gt;ATAPS MDS to PMHC MDS data mapping&lt;/h4&gt;
-
-&lt;p&gt;The ATAPS MDS to PMHC MDS data mapping documentation at &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/ataps/ataps-pmhc-mapping.html&quot;&gt;https://docs.pmhc-mds.com/data-specification/ataps/ataps-pmhc-mapping.html&lt;/a&gt; has been updated to show the mapping of ATAPS MDS diagnosis fields to PMHC Principal Diagnosis and Additional Diagnosis where two ATAPS diagnosis fields have been specified.&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 28 Jul 2017 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2017/07/28/Update-to-the-PMHC-MDS-v-0-14-0/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2017/07/28/Update-to-the-PMHC-MDS-v-0-14-0/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 21/7/2017</title>
-				        
-				
-					<description>&lt;h4&gt;PMHC MDS Update v0.13.3&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.13.3 was released on July 21, 2017.&lt;/p&gt;
-
-&lt;p&gt;The following updates have been implemented:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Validation has been changed on &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-source-of-cash-income&quot;&gt;Episode - Source of Cash Income&lt;/a&gt; so that responses other than ‘0: N/A - Client aged less than 16 years’ can be used if a client is less than 16 years of age.&lt;/li&gt;
-&lt;li&gt;Validation has been changed on &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#client-proficiency-in-spoken-english&quot;&gt;Client - Proficiency in Spoken English&lt;/a&gt; so that responses other than ‘0: Not applicable (persons under 5 years of age or who speak only English)’ can be used if a client is less than 5 years of age or if they speak only English.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-				
-				<pubDate>Fri, 21 Jul 2017 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2017/07/21/Update-to-the-PMHC-MDS-v-0-13-3/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2017/07/21/Update-to-the-PMHC-MDS-v-0-13-3/</guid>
 			</item>
 		
 	</channel>
