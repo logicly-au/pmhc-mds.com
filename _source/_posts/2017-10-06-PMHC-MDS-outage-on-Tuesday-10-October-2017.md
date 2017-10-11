@@ -2,7 +2,7 @@
 title: PMHC MDS outage on Tuesday 10 October 2017 - 6/10/2017
 ---
 
-We will be performing urgent system maintenance on Tuesday 10 October between 6:30-7:30am AEST.
+We will be performing urgent system maintenance on Tuesday 10 October between 6:30-7:30am AEDT.
 
 As such, the PMHC MDS upload service will be unavailable sometime in the above period. Data Entry and Reporting functionality will still be available.
 

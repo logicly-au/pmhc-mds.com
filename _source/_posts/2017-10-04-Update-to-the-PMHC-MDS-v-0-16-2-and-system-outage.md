@@ -9,7 +9,7 @@ October 4, 2017.
 
 The following updates and bugfixes have been implemented:
 
- * Fixed an issue where where in some instances the upload error messages
+ * Fixed an issue where in some instances the upload error messages
    were not reporting relevant record key
 
 #### PMHC MDS System Outage ####
