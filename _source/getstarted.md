@@ -111,42 +111,6 @@ you via a calendar invitation.
     <th colspan="3">Training times are listed in Australian Eastern Daylight Saving Time (AEDT)</th>
   </tr>
   <tr>
-    <td>Monday, 9 October 17</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Tuesday, 10 October 17</td>
-    <td></td>
-    <td></td>
-    <td>12noon</td>
-  </tr>
-  <tr>
-    <td>Wednesday, 11 October 17</td>
-    <td></td>
-    <td>12noon</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Thursday, 12 October 17</td>
-    <td>3pm</td>
-    <td></td>
-    <td>12:30pm</td>
-  </tr>
-  <tr>
-    <td>Friday, 13 October 17</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td>Monday, 16 October 17</td>
     <td></td>
     <td></td>
@@ -155,13 +119,13 @@ you via a calendar invitation.
   <tr>
     <td>Tuesday, 17 October 17</td>
     <td></td>
-    <td>12noon</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Wednesday, 18 October 17</td>
     <td></td>
-    <td></td>
+    <td>2:30pm</td>
     <td>12noon</td>
   </tr>
   <tr>
