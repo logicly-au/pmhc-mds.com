@@ -111,42 +111,6 @@ you via a calendar invitation.
     <th colspan="3">Training times are listed in Australian Eastern Daylight Saving Time (AEDT)</th>
   </tr>
   <tr>
-    <td>Monday, 16 October 17</td>
-    <td></td>
-    <td></td>
-    <td>2pm</td>
-  </tr>
-  <tr>
-    <td>Tuesday, 17 October 17</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Wednesday, 18 October 17</td>
-    <td></td>
-    <td>2:30pm</td>
-    <td>12noon</td>
-  </tr>
-  <tr>
-    <td>Thursday, 19 October 17</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Friday, 20 October 17</td>
-    <td>12noon</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td>Monday, 23 October 17</td>
     <td>12noon</td>
     <td></td>
@@ -211,6 +175,76 @@ you via a calendar invitation.
     <td></td>
     <td>4pm</td>
     <td>1:30pm</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Monday, 6 November 17</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tuesday, 7 November 17</td>
+    <td colspan="3">Melbourne Cup Day Public Holiday</td>
+  </tr>
+  <tr>
+    <td>Wednesday, 8 November 17</td>
+    <td></td>
+    <td></td>
+    <td>3pm</td>
+  </tr>
+  <tr>
+    <td>Thursday, 9 November 17</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Friday, 10 November 17</td>
+    <td>4pm</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Monday, 13 November 17</td>
+    <td></td>
+    <td></td>
+    <td>1pm</td>
+  </tr>
+  <tr>
+    <td>Tuesday, 14 November 17</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Wednesday, 15 November 17</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Thursday, 16 November 17</td>
+    <td></td>
+    <td>1:30pm</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Friday, 17 November 17</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
