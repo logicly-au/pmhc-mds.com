@@ -7,6 +7,102 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS and Data Specifications - 25/10/2017</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v0172&quot;&gt;PMHC MDS Update v0.17.2&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.17.2 was released on
+October 25, 2017.&lt;/p&gt;
+
+&lt;p&gt;The following feature have been implemented:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Deletion of records via both the data entry interface and uploads.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates and bugfixes have been implemented in the data entry
+interface:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Restricted the use of the ‘Complex Care Package’ Principal Focus of Treatment
+Plan to the three selected Lead PHNs&lt;/li&gt;
+  &lt;li&gt;Fixed an issue where the Suicide Referral icon was showing on episode
+summaries where the Suicide Referral Flag was set to ‘Unknown’&lt;/li&gt;
+  &lt;li&gt;Fixed an issue with the User Invite form where users could be invited to a
+Provider Organisation with the Organisation Management role. This role is
+restricted to PHN level.&lt;/li&gt;
+  &lt;li&gt;Added the Episode Key onto the Collection Occasion details/edit forms.&lt;/li&gt;
+  &lt;li&gt;Changed the sorting of Country of Birth and Main Language Spoken at Home so
+that the top ten languages/country of births as reported in the 2011 census
+are moved to the top of the list.&lt;/li&gt;
+  &lt;li&gt;The service contact postcode field is now prefilled with 9999 for all non
+Face to Face modalities.&lt;/li&gt;
+  &lt;li&gt;Fixed an bug where the “Unknown” option was not being given for Suicide
+Referral Flag.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates and bugfixes have been implemented in the upload
+interface:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fixed an error in uploads when there was no practitioners file.&lt;/li&gt;
+  &lt;li&gt;Restricted the use of the ‘Complex Care Package’ Principal Focus of Treatment
+Plan to the three selected Lead PHNs&lt;/li&gt;
+  &lt;li&gt;Improved the error message ‘Collection date must not be after Episode end
+date’ so that it includes information about the episode key and collection
+occasion key.&lt;/li&gt;
+  &lt;li&gt;Improved the error message ‘Client may not have multiple open episodes. This
+client has an existing open episode within this organisation’ so that it
+includes information about the client key and episode keys.&lt;/li&gt;
+  &lt;li&gt;Split the error message ‘Invalid episode_completion_status on row [x]. Where
+service contact - final is recorded as “No further services planned” the
+episode completion status should be recorded using one of the treatment
+concluded responses.’ so that one message is returned when an episode has
+a completion status but no end date and another error is returned when an
+episode has an end date but no completion status.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Improved error messages like the following:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;…organisation_path / client_key value of “…” is invalid.&lt;/li&gt;
+      &lt;li&gt;…organisation_path / episode_key value of “…” is invalid.&lt;/li&gt;
+      &lt;li&gt;…organisation_path / practitioner_key value of “…” is invalid.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Return a sensible error instead of “episode: new row for relation “episode”
+violates check constraint “end_after_referral” / Failing row contains (…).&lt;/li&gt;
+  &lt;li&gt;Return a sensible error instead of “client: new row for relation “client”
+violates check constraint “past_date” / Failing row contains (…).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guide has been updated to reflect these updates. It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/user-documentation/&quot;&gt;https://docs.pmhc-mds.com/user-documentation/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;deletion-of-records-in-the-pmhc-mds&quot;&gt;Deletion of records in the PMHC MDS&lt;/h4&gt;
+
+&lt;p&gt;Deletion of:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Clients&lt;/li&gt;
+  &lt;li&gt;Episodes&lt;/li&gt;
+  &lt;li&gt;Service Contacts&lt;/li&gt;
+  &lt;li&gt;Collection Occasions, and&lt;/li&gt;
+  &lt;li&gt;Practitioners&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;is now possible via both the data entry interface and uploads. Organisations
+cannot be deleted. The upload specification has been updated to describe the
+format for deleting records via uploads. It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/upload-specification.html#deleting-records&quot;&gt;https://docs.pmhc-mds.com/data-specification/upload-specification.html#deleting-records&lt;/a&gt;.
+File format changes to accommodate deletion are backwards compatible with the
+current format.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 25 Oct 2017 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2017/10/25/Update-to-the-PMHC-MDS-v-0-17-2/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/10/25/Update-to-the-PMHC-MDS-v-0-17-2/</guid>
+			</item>
+		
+			<item>
 				<title>PMHC MDS outage on Tuesday 10 October 2017 - 6/10/2017</title>
 				        
 				
@@ -304,26 +400,6 @@ It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification
 				<pubDate>Fri, 25 Aug 2017 00:00:00 -0500</pubDate>
 				<link>http://0.0.0.0:4000/2017/08/25/Update-to-the-PMHC-MDS-v-0-15-0/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2017/08/25/Update-to-the-PMHC-MDS-v-0-15-0/</guid>
-			</item>
-		
-			<item>
-				<title>PMHC MDS outage on Wednesday 30 August 2017</title>
-				        
-				
-					<description>&lt;h4&gt;PMHC MDS outage on Wednesday 30 August 2017&lt;/h4&gt;
-
-&lt;p&gt;In addition to our regular system maintenance which occurs fortnightly on Wednesdays in the period 9:00pm-12:00pm AEST, we will also be upgrading the database systems next Wednesday and as such our maintenance period will start an hour earlier at 8:00pm AEST.&lt;/p&gt;
-
-&lt;p&gt;As such,  the PMHC MDS will be unavailable sometime in the period 8:00pm - 12:00pm AEST on Wednesday 30 August, 2017.&lt;/p&gt;
-
-&lt;p&gt;If you are planning on using any of the data products during this time, we advise you to complete your work before 8:00pm AEST.&lt;/p&gt;
-
-&lt;p&gt;Thank-you for your patience whilst this maintenance is carried out.&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 25 Aug 2017 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2017/08/25/PMHC-MDS-outage-2017-08-30/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2017/08/25/PMHC-MDS-outage-2017-08-30/</guid>
 			</item>
 		
 	</channel>
