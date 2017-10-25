@@ -61,7 +61,7 @@ interface:
 
 The user guide has been updated to reflect these updates. It is available at [https://docs.pmhc-mds.com/user-documentation/](https://docs.pmhc-mds.com/user-documentation/).
 
-#### Deletion of records in the PMHC MDS ####
+#### Deleting records in the PMHC MDS ####
 
 Deletion of:
 
