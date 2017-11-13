@@ -111,40 +111,6 @@ you via a calendar invitation.
     <th colspan="3">Training times are listed in Australian Eastern Daylight Saving Time (AEDT)</th>
   </tr>
   <tr>
-    <td>Monday, 6 November 17</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Tuesday, 7 November 17</td>
-    <td colspan="3">Melbourne Cup Day Public Holiday</td>
-  </tr>
-  <tr>
-    <td>Wednesday, 8 November 17</td>
-    <td></td>
-    <td></td>
-    <td>3pm</td>
-  </tr>
-  <tr>
-    <td>Thursday, 9 November 17</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Friday, 10 November 17</td>
-    <td>4pm</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td>Monday, 13 November 17</td>
     <td></td>
     <td></td>
@@ -245,6 +211,87 @@ you via a calendar invitation.
     <td></td>
     <td></td>
     <td></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Monday, 4 December 17</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tuesday, 5 December 17</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Wednesday, 6 December 17</td>
+    <td>12noon</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Thursday, 7 December 17</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Friday, 8 December 17</td>
+    <td></td>
+    <td></td>
+    <td>2pm</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Monday, 11 December 17</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tuesday, 12 December 17</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Wednesday, 13 December 17</td>
+    <td></td>
+    <td></td>
+    <td>3pm</td>
+  </tr>
+  <tr>
+    <td>Thursday, 14 December 17</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Friday, 15 December 17</td>
+    <td></td>
+    <td>2pm</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <th colspan="4">There will not be any further training sessions in 2017. Training sessions will resume in 2018.</th>
+  </tr>  
+  <tr>
+    <td colspan="4">&nbsp;</td>
   </tr>
 </table>
 
