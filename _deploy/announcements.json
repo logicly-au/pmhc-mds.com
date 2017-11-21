@@ -1,6 +1,22 @@
 [
 
 	{
+		"title"    : "PMHC MDS system and network upgrades on Saturday 2 December 2017 - 22/11/2017",
+		"date"     : "November 22, 2017",
+		"content"  : "<p>We will be performing system and network upgrades on Saturday 2 December
+between 10:00am and 2:00pm AEDT.</p>
+
+<p>We do not expect any outage, but there is the possibility that an outage may
+occur during this period.</p>
+
+<p>If you are planning on uploading or entering any data during this time, we
+advise you to complete your work before 10:00am AEDT.</p>
+
+<p>Thank-you for your patience whilst this work is carried out.</p>
+"
+	}
+
+	{
 		"title"    : "Update to the PMHC MDS - 25/10/2017",
 		"date"     : "October 25, 2017",
 		"content"  : "<h4 id="pmhc-mds-update-v0172">PMHC MDS Update v0.17.2</h4>

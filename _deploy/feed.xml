@@ -7,6 +7,27 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>PMHC MDS system and network upgrades on Saturday 2 December 2017 - 22/11/2017</title>
+				        
+				
+					<description>&lt;p&gt;We will be performing system and network upgrades on Saturday 2 December
+between 10:00am and 2:00pm AEDT.&lt;/p&gt;
+
+&lt;p&gt;We do not expect any outage, but there is the possibility that an outage may
+occur during this period.&lt;/p&gt;
+
+&lt;p&gt;If you are planning on uploading or entering any data during this time, we
+advise you to complete your work before 10:00am AEDT.&lt;/p&gt;
+
+&lt;p&gt;Thank-you for your patience whilst this work is carried out.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 22 Nov 2017 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/2017/11/22/PMHC-MDS-system-and-network-upgrades-on-Saturday-2-December-2017/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/11/22/PMHC-MDS-system-and-network-upgrades-on-Saturday-2-December-2017/</guid>
+			</item>
+		
+			<item>
 				<title>Update to the PMHC MDS - 25/10/2017</title>
 				        
 				
@@ -370,36 +391,6 @@ It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification
 				<pubDate>Mon, 28 Aug 2017 00:00:00 -0500</pubDate>
 				<link>http://0.0.0.0:4000/2017/08/28/Update-to-the-PMHC-MDS-v-0-15-1/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2017/08/28/Update-to-the-PMHC-MDS-v-0-15-1/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 25/8/2017</title>
-				        
-				
-					<description>&lt;h4&gt;PMHC MDS Update v0.15.0&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.15.0 was released on August 25, 2017.&lt;/p&gt;
-
-&lt;p&gt;The following features have been implemented:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;An SLK generator within the client data entry forms has been implemented.&lt;/li&gt;
-  &lt;li&gt;Provider Organisations can now be uploaded.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following updates and bugfixes have been implemented:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Error messages have been made more descriptive.&lt;/li&gt;
-  &lt;li&gt;Items 11-13 of the K10+ have been changed from text input to drop down fields.&lt;/li&gt;
-  &lt;li&gt;Fields in the client data entry form have been reorganised to group related fields.&lt;/li&gt;
-  &lt;li&gt;Fields in the practitioner data entry form have been reorganised to group related fields.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The user guide has been updated to reflect these updates. It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/user-documentation/&quot;&gt;https://docs.pmhc-mds.com/user-documentation/&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 25 Aug 2017 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2017/08/25/Update-to-the-PMHC-MDS-v-0-15-0/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2017/08/25/Update-to-the-PMHC-MDS-v-0-15-0/</guid>
 			</item>
 		
 	</channel>
