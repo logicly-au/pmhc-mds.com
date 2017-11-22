@@ -128,6 +128,7 @@ you via a calendar invitation.
     <td></td>
     <td></td>
   </tr>
+  <tr>
     <td>Thursday, 23 November 17</td>
     <td>2pm</td>
     <td></td>
