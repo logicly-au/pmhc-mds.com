@@ -3,8 +3,21 @@
 	<channel>
 		<title></title>
 		<description></description>		
-		<link>http://0.0.0.0:4000</link>
-		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://www.pmhc-mds.com</link>
+		<atom:link href="http://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Update to the PMHC MDS - 22/11/2017</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v0180&quot;&gt;PMHC MDS Update v0.18.0&lt;/h4&gt;
+
+</description>
+				
+				<pubDate>Wed, 22 Nov 2017 00:00:00 -0600</pubDate>
+				<link>http://www.pmhc-mds.com/2017/11/22/Update-to-the-PMHC-MDS-v-0-18-0/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/11/22/Update-to-the-PMHC-MDS-v-0-18-0/</guid>
+			</item>
 		
 			<item>
 				<title>PMHC MDS system and network upgrades on Saturday 2 December 2017 - 22/11/2017</title>
@@ -23,8 +36,8 @@ advise you to complete your work before 10:00am AEDT.&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 22 Nov 2017 00:00:00 -0600</pubDate>
-				<link>http://0.0.0.0:4000/2017/11/22/PMHC-MDS-system-and-network-upgrades-on-Saturday-2-December-2017/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2017/11/22/PMHC-MDS-system-and-network-upgrades-on-Saturday-2-December-2017/</guid>
+				<link>http://www.pmhc-mds.com/2017/11/22/PMHC-MDS-system-and-network-upgrades-on-Saturday-2-December-2017/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/11/22/PMHC-MDS-system-and-network-upgrades-on-Saturday-2-December-2017/</guid>
 			</item>
 		
 			<item>
@@ -119,8 +132,8 @@ current format.&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 25 Oct 2017 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2017/10/25/Update-to-the-PMHC-MDS-v-0-17-2/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2017/10/25/Update-to-the-PMHC-MDS-v-0-17-2/</guid>
+				<link>http://www.pmhc-mds.com/2017/10/25/Update-to-the-PMHC-MDS-v-0-17-2/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/10/25/Update-to-the-PMHC-MDS-v-0-17-2/</guid>
 			</item>
 		
 			<item>
@@ -137,8 +150,8 @@ current format.&lt;/p&gt;
 </description>
 				
 				<pubDate>Fri, 06 Oct 2017 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2017/10/06/PMHC-MDS-outage-on-Tuesday-10-October-2017/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2017/10/06/PMHC-MDS-outage-on-Tuesday-10-October-2017/</guid>
+				<link>http://www.pmhc-mds.com/2017/10/06/PMHC-MDS-outage-on-Tuesday-10-October-2017/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/10/06/PMHC-MDS-outage-on-Tuesday-10-October-2017/</guid>
 			</item>
 		
 			<item>
@@ -165,8 +178,8 @@ the system is back online.&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 04 Oct 2017 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2017/10/04/Update-to-the-PMHC-MDS-v-0-16-2-and-system-outage/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2017/10/04/Update-to-the-PMHC-MDS-v-0-16-2-and-system-outage/</guid>
+				<link>http://www.pmhc-mds.com/2017/10/04/Update-to-the-PMHC-MDS-v-0-16-2-and-system-outage/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/10/04/Update-to-the-PMHC-MDS-v-0-16-2-and-system-outage/</guid>
 			</item>
 		
 			<item>
@@ -284,8 +297,8 @@ It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification
 </description>
 				
 				<pubDate>Tue, 26 Sep 2017 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2017/09/26/Update-to-the-PMHC-MDS-v-0-16-1-and-Data-Specifications-v1-0-11/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2017/09/26/Update-to-the-PMHC-MDS-v-0-16-1-and-Data-Specifications-v1-0-11/</guid>
+				<link>http://www.pmhc-mds.com/2017/09/26/Update-to-the-PMHC-MDS-v-0-16-1-and-Data-Specifications-v1-0-11/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/09/26/Update-to-the-PMHC-MDS-v-0-16-1-and-Data-Specifications-v1-0-11/</guid>
 			</item>
 		
 			<item>
@@ -302,8 +315,8 @@ It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification
 </description>
 				
 				<pubDate>Fri, 22 Sep 2017 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2017/09/22/Update-to-the-PMHC-MDS-Service-Provider-Quick-Reference-Guide-v1-2/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2017/09/22/Update-to-the-PMHC-MDS-Service-Provider-Quick-Reference-Guide-v1-2/</guid>
+				<link>http://www.pmhc-mds.com/2017/09/22/Update-to-the-PMHC-MDS-Service-Provider-Quick-Reference-Guide-v1-2/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/09/22/Update-to-the-PMHC-MDS-Service-Provider-Quick-Reference-Guide-v1-2/</guid>
 			</item>
 		
 			<item>
@@ -332,8 +345,8 @@ It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification
 </description>
 				
 				<pubDate>Tue, 12 Sep 2017 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2017/09/12/Update-to-the-PMHC-MDS-v-0-15-3/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2017/09/12/Update-to-the-PMHC-MDS-v-0-15-3/</guid>
+				<link>http://www.pmhc-mds.com/2017/09/12/Update-to-the-PMHC-MDS-v-0-15-3/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/09/12/Update-to-the-PMHC-MDS-v-0-15-3/</guid>
 			</item>
 		
 			<item>
@@ -345,8 +358,8 @@ It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification
 </description>
 				
 				<pubDate>Fri, 01 Sep 2017 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2017/09/01/PMHC-MDS-outage-2017-09-03/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2017/09/01/PMHC-MDS-outage-2017-09-03/</guid>
+				<link>http://www.pmhc-mds.com/2017/09/01/PMHC-MDS-outage-2017-09-03/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/09/01/PMHC-MDS-outage-2017-09-03/</guid>
 			</item>
 		
 			<item>
@@ -366,31 +379,8 @@ It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification
 </description>
 				
 				<pubDate>Tue, 29 Aug 2017 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2017/08/29/Update-to-the-PMHC-MDS-v-0-15-2/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2017/08/29/Update-to-the-PMHC-MDS-v-0-15-2/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 28/8/2017</title>
-				        
-				
-					<description>&lt;h4&gt;PMHC MDS Update v0.15.1&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.15.1 was released on August 28, 2017.&lt;/p&gt;
-
-&lt;p&gt;The following updates and bugfixes have been implemented:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Fixed an issue where in some instances upload error messages were not included in the notification email.&lt;/li&gt;
-  &lt;li&gt;New service contacts are no longer presented with the “ATAPS” option in the Service Contact - Type dropdown.&lt;/li&gt;
-  &lt;li&gt;Fixed an issue with dates not being displayed correctly in the upload summary listing.&lt;/li&gt;
-  &lt;li&gt;Fixed an issue with Practitioner Key dropdown not containing all available options when editing Service Contacts.&lt;/li&gt;
-  &lt;li&gt;The Date of Birth field in the SLK form will display an error message when invalid.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-				
-				<pubDate>Mon, 28 Aug 2017 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2017/08/28/Update-to-the-PMHC-MDS-v-0-15-1/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2017/08/28/Update-to-the-PMHC-MDS-v-0-15-1/</guid>
+				<link>http://www.pmhc-mds.com/2017/08/29/Update-to-the-PMHC-MDS-v-0-15-2/</link>
+				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/08/29/Update-to-the-PMHC-MDS-v-0-15-2/</guid>
 			</item>
 		
 	</channel>
