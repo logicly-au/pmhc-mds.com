@@ -7,7 +7,7 @@ title: Update to the PMHC MDS - 25/10/2017
 We are pleased to announce that PMHC MDS Update v0.17.2 was released on
 October 25, 2017.
 
-The following feature have been implemented:
+The following features have been implemented:
 
 * Deletion of records via both the data entry interface and uploads.
 
