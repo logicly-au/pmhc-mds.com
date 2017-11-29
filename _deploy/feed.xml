@@ -7,6 +7,28 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>PMHC MDS system and network upgrades on Saturday 9 December 2017 - 22/11/2017</title>
+				        
+				
+					<description>&lt;p&gt;On 22 November 2017 we sent out an announcement that there would be a PMHC MDS system and network upgrade on Saturday 2 December between 10:00am and 2:00pm AEDT.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately this upgrade has been delayed. We will now be performing system and network upgrades on Saturday 9 December between 10:00am and 2:00pm AEDT.&lt;/p&gt;
+
+&lt;p&gt;We do not expect any outage, but there is the possibility that an outage may
+occur during this period.&lt;/p&gt;
+
+&lt;p&gt;If you are planning on uploading or entering any data during this time, we
+advise you to complete your work before 10:00am AEDT.&lt;/p&gt;
+
+&lt;p&gt;Thank-you for your patience whilst this work is carried out.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 29 Nov 2017 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/2017/11/29/PMHC-MDS-system-and-network-upgrades-on-Saturday-9-December-2017/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/11/29/PMHC-MDS-system-and-network-upgrades-on-Saturday-9-December-2017/</guid>
+			</item>
+		
+			<item>
 				<title>Update to the PMHC MDS - 24/11/2017</title>
 				        
 				
@@ -372,19 +394,6 @@ It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification
 				<pubDate>Tue, 12 Sep 2017 00:00:00 -0500</pubDate>
 				<link>http://0.0.0.0:4000/2017/09/12/Update-to-the-PMHC-MDS-v-0-15-3/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2017/09/12/Update-to-the-PMHC-MDS-v-0-15-3/</guid>
-			</item>
-		
-			<item>
-				<title>PMHC MDS outage on Sunday 3 September 2017</title>
-				        
-				
-					<description>&lt;h4&gt;PMHC MDS outage on Sunday 3 September 2017&lt;/h4&gt;
-
-</description>
-				
-				<pubDate>Fri, 01 Sep 2017 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2017/09/01/PMHC-MDS-outage-2017-09-03/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2017/09/01/PMHC-MDS-outage-2017-09-03/</guid>
 			</item>
 		
 	</channel>
