@@ -7,6 +7,80 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS - 08/12/2017</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v0190&quot;&gt;PMHC MDS Update v0.19.0&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.19.0 was released on
+December 8, 2017.&lt;/p&gt;
+
+&lt;p&gt;The following features have been implemented:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;An uneditable, prepopulating Organisation Path field has been added to the
+Add Provider Organisation form so that users can see what the Organisation
+Path will be before saving the new Provider Organisation.&lt;/li&gt;
+  &lt;li&gt;In order to make data entry more efficient, errors for duplicate keys will
+now be shown when entering data into the key input field instead of after
+clicking save.&lt;/li&gt;
+  &lt;li&gt;Tables now show ‘Loading…’ when a page is waiting for data to load.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates and bugfixes have been implemented in the data entry interface:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Improved the order of organisations in the Data Extraction ‘Select Organisations’ drop down.&lt;/li&gt;
+  &lt;li&gt;Improved the order of organisations in the Upload ‘Organisation’ drop down.&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where an error would be returned when viewing records with ‘/’ or &lt;code class=&quot;highlighter-rouge&quot;&gt;?&lt;/code&gt; in the key.&lt;/li&gt;
+  &lt;li&gt;Fixed an error where if 0 was provided as an SDQ subscale the value was changed to 99.&lt;/li&gt;
+  &lt;li&gt;Fixed an error where ‘Showing results for “”’ would appear under the Client Search form.&lt;/li&gt;
+  &lt;li&gt;Fixed an error in the “Invite New User” form when inviting a user that already exists with the PMHC MDS.&lt;/li&gt;
+  &lt;li&gt;Fixed an error where clicking ‘Practitioners’ in the breadcrumbs would take you to the ‘Client’ tab.&lt;/li&gt;
+  &lt;li&gt;Fixed an error where new clients weren’t being added to the existing search results table.&lt;/li&gt;
+  &lt;li&gt;Fixed an error where updated client details were not being displayed after clicking save.&lt;/li&gt;
+  &lt;li&gt;Fixed an error where users with the User Management role were not seeing organisations under the Organisations tab.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates and bugfixes have been implemented in the upload interface:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;SDQ subscales will now be validated against the supplied Total Difficulties Score.&lt;/li&gt;
+  &lt;li&gt;Fixed an error in uploads when trying to upload to an inactive organisation.&lt;/li&gt;
+  &lt;li&gt;Fixed an error in uploads when the organisation key was not consistent with the organisation path.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				
+				<pubDate>Fri, 08 Dec 2017 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/2017/12/08/Update-to-the-PMHC-MDS-v-0-19-0/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/12/08/Update-to-the-PMHC-MDS-v-0-19-0/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 01/12/2017</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v0182&quot;&gt;PMHC MDS Update v0.18.2&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.18.2 was released on
+December 1, 2017.&lt;/p&gt;
+
+&lt;p&gt;The following updates and bugfixes have been implemented in the upload interface:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fixed an issue where trailing blank lines in files were causing system errors.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue where blank lines within SDQ data would cause subtotal validation to fail.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To all users who were affected by these issues, we thank you for your patience and we sincerely apologise for any inconvenience these issues had caused.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 01 Dec 2017 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/2017/12/01/Update-to-the-PMHC-MDS-v-0-18-2/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/12/01/Update-to-the-PMHC-MDS-v-0-18-2/</guid>
+			</item>
+		
+			<item>
 				<title>PMHC MDS system and network upgrades on Saturday 9 December 2017 - 29/11/2017</title>
 				        
 				
@@ -346,54 +420,6 @@ It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification
 				<pubDate>Tue, 26 Sep 2017 00:00:00 -0500</pubDate>
 				<link>http://0.0.0.0:4000/2017/09/26/Update-to-the-PMHC-MDS-v-0-16-1-and-Data-Specifications-v1-0-11/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2017/09/26/Update-to-the-PMHC-MDS-v-0-16-1-and-Data-Specifications-v1-0-11/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS Service Provider Quick Reference Guide - 22/9/2017</title>
-				        
-				
-					<description>&lt;h4&gt;The PMHC MDS Service Provider Quick Reference Guide Version 1.2  was released on September 22, 2017&lt;/h4&gt;
-
-&lt;p&gt;The PMHC MDS Service Provider QUICK REFERENCE Guide is a resource intended to describe key issues and concepts related to the collection of, and provision of data to, the PMHC MDS for mental health service providers. For more detailed information regarding the PMHC MDS, see the &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/&quot;&gt;PMHC MDS Data Specifications&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;There are two versions of the PMHC MDS Service Provider Quick Reference Guide. If you are a service provider, it is recommended that you use the &lt;a href=&quot;https://www.pmhc-mds.com/doc/service-provider-quick-reference-guide-20170920.pdf&quot;&gt;PDF version&lt;/a&gt; produced by the Department of Health. If you are a Primary Health Network, you can use the &lt;a href=&quot;https://www.pmhc-mds.com/doc/service-provider-quick-reference-guide-template-20170920.docx&quot;&gt;word version&lt;/a&gt; to tailor some of the information to your local context.&lt;/p&gt;
-
-&lt;p&gt;Section 9 of the PMHC MDS Service Provider Quick Reference Guide has been updated to reflect that where the client consents, identifiable data can be passed onto PHNs but only anonymised data will be provided to the Department of Health.&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 22 Sep 2017 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2017/09/22/Update-to-the-PMHC-MDS-Service-Provider-Quick-Reference-Guide-v1-2/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2017/09/22/Update-to-the-PMHC-MDS-Service-Provider-Quick-Reference-Guide-v1-2/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 12/9/2017</title>
-				        
-				
-					<description>&lt;h4&gt;PMHC MDS Update v0.15.3&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.15.3 was released on September 12, 2017.&lt;/p&gt;
-
-&lt;p&gt;The following updates and bugfixes have been implemented:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Fixed an issue where the ‘Successfully saved to clipboard’ message was not being displayed in the SLK tab.&lt;/li&gt;
-  &lt;li&gt;Fixed an issue where, after editing an episode, you remained on the ‘Edit Details’ tab instead of being taken to the ‘View Details’ tab.&lt;/li&gt;
-  &lt;li&gt;Allowed the use of 9998 for a postcode for Face to Face sessions that are NOT No Show’s.&lt;/li&gt;
-  &lt;li&gt;Fixed an issue where the number of announcements on the homepage was not being limited.&lt;/li&gt;
-  &lt;li&gt;Fixed an issue where an error message was not being returned for certain invalid date of births on the Client Data Entry form.&lt;/li&gt;
-  &lt;li&gt;Fixed an issue where the ATAPS service contact type was being shown for new service contacts, not just service contacts migrated from ATAPS.&lt;/li&gt;
-  &lt;li&gt;Fixed an issue where some users were seeing organisations in the ‘Select Organisation’ drop down on the ‘System Reports’ tab for which they did not have the ‘Reporting’ role.&lt;/li&gt;
-  &lt;li&gt;Fixed an issue where the date of uploads was not being correctly displayed.&lt;/li&gt;
-  &lt;li&gt;Fixed an issue where an error was not being shown for an invalid Practitioner Year of Birth.&lt;/li&gt;
-  &lt;li&gt;Removed the ‘Show test uploads’ checkbox from the upload page as this functionality is now provided by filtering the upload table.&lt;/li&gt;
-  &lt;li&gt;A message is now displayed if you try to add a service contact to an organisation that does not have any Practitioners.&lt;/li&gt;
-  &lt;li&gt;A message is now displayed if you try to add a client or practitioner when a PHN has not defined any Provider Organisations.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-				
-				<pubDate>Tue, 12 Sep 2017 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2017/09/12/Update-to-the-PMHC-MDS-v-0-15-3/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2017/09/12/Update-to-the-PMHC-MDS-v-0-15-3/</guid>
 			</item>
 		
 	</channel>

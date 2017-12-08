@@ -1,6 +1,70 @@
 [
 
 	{
+		"title"    : "Update to the PMHC MDS - 08/12/2017",
+		"date"     : "December 08, 2017",
+		"content"  : "<h4 id="pmhc-mds-update-v0190">PMHC MDS Update v0.19.0</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.19.0 was released on
+December 8, 2017.</p>
+
+<p>The following features have been implemented:</p>
+
+<ul>
+  <li>An uneditable, prepopulating Organisation Path field has been added to the
+Add Provider Organisation form so that users can see what the Organisation
+Path will be before saving the new Provider Organisation.</li>
+  <li>In order to make data entry more efficient, errors for duplicate keys will
+now be shown when entering data into the key input field instead of after
+clicking save.</li>
+  <li>Tables now show ‘Loading…’ when a page is waiting for data to load.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented in the data entry interface:</p>
+
+<ul>
+  <li>Improved the order of organisations in the Data Extraction ‘Select Organisations’ drop down.</li>
+  <li>Improved the order of organisations in the Upload ‘Organisation’ drop down.</li>
+  <li>Fixed a bug where an error would be returned when viewing records with ‘/’ or <code class="highlighter-rouge">?</code> in the key.</li>
+  <li>Fixed an error where if 0 was provided as an SDQ subscale the value was changed to 99.</li>
+  <li>Fixed an error where ‘Showing results for “”’ would appear under the Client Search form.</li>
+  <li>Fixed an error in the “Invite New User” form when inviting a user that already exists with the PMHC MDS.</li>
+  <li>Fixed an error where clicking ‘Practitioners’ in the breadcrumbs would take you to the ‘Client’ tab.</li>
+  <li>Fixed an error where new clients weren’t being added to the existing search results table.</li>
+  <li>Fixed an error where updated client details were not being displayed after clicking save.</li>
+  <li>Fixed an error where users with the User Management role were not seeing organisations under the Organisations tab.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented in the upload interface:</p>
+
+<ul>
+  <li>SDQ subscales will now be validated against the supplied Total Difficulties Score.</li>
+  <li>Fixed an error in uploads when trying to upload to an inactive organisation.</li>
+  <li>Fixed an error in uploads when the organisation key was not consistent with the organisation path.</li>
+</ul>
+"
+	}
+
+	{
+		"title"    : "Update to the PMHC MDS - 01/12/2017",
+		"date"     : "December 01, 2017",
+		"content"  : "<h4 id="pmhc-mds-update-v0182">PMHC MDS Update v0.18.2</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.18.2 was released on
+December 1, 2017.</p>
+
+<p>The following updates and bugfixes have been implemented in the upload interface:</p>
+
+<ul>
+  <li>Fixed an issue where trailing blank lines in files were causing system errors.</li>
+  <li>Fixed an issue where blank lines within SDQ data would cause subtotal validation to fail.</li>
+</ul>
+
+<p>To all users who were affected by these issues, we thank you for your patience and we sincerely apologise for any inconvenience these issues had caused.</p>
+"
+	}
+
+	{
 		"title"    : "PMHC MDS system and network upgrades on Saturday 9 December 2017 - 29/11/2017",
 		"date"     : "November 29, 2017",
 		"content"  : "<p>On 22 November 2017 we sent out an announcement that there would be a PMHC MDS system and network upgrade on Saturday 2 December between 10:00am and 2:00pm AEDT.</p>
