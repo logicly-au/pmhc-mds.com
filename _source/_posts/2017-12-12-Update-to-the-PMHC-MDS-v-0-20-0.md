@@ -12,7 +12,7 @@ The following features have been implemented in the reporting interface:
 * System report A2 - Monthly volume trends.
 
 
-The following updates and bugfixes have been implemented in the data entry interface:
+The following updates and bugfixes have been implemented in the data extract interface:
 
 * Fixed a bug where an error was reported when requesting a Data Extract.
 * Fixed a bug where data extracts for a provider organisation included all data for other provider organisations the user had the reporting role assigned.

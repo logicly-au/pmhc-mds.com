@@ -3,8 +3,45 @@
 	<channel>
 		<title></title>
 		<description></description>		
-		<link>http://www.pmhc-mds.com</link>
-		<atom:link href="http://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://0.0.0.0:4000</link>
+		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Update to the PMHC MDS - 12/12/2017</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v0202&quot;&gt;PMHC MDS Update v0.20.2&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.20.2 was released on December 22, 2017.&lt;/p&gt;
+
+&lt;p&gt;The following features have been implemented across all interfaces:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Context sensitive help links have been provided.&lt;/li&gt;
+  &lt;li&gt;Drop downs for selecting organisations have been made more consistent.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following features have been implemented in the reports interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;An ‘Include only records with Client Consent’ option has been added to reports so that organisations can 
+generate reports which include the same data as reports that are generated for the Department of Health.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates and bugfixes have been implemented in the reports interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The ‘Data Extract’ tab has been moved from being a subtab of the ‘Reports’ tab. It is now it’s own separate top-level tab.&lt;/li&gt;
+  &lt;li&gt;The design of the reports tab has been cleaned up.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates and bugfixes have been implemented in the data extract interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A problem with the ‘Include data without associated dates’ checkbox has been fixed.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				
+				<pubDate>Fri, 22 Dec 2017 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/2017/12/22/Update-to-the-PMHC-MDS-v-0-20-2/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/12/22/Update-to-the-PMHC-MDS-v-0-20-2/</guid>
+			</item>
 		
 			<item>
 				<title>Update to the PMHC MDS - 12/12/2017</title>
@@ -21,7 +58,7 @@
   &lt;li&gt;System report A2 - Monthly volume trends.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The following updates and bugfixes have been implemented in the data entry interface:&lt;/p&gt;
+&lt;p&gt;The following updates and bugfixes have been implemented in the data extract interface:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Fixed a bug where an error was reported when requesting a Data Extract.&lt;/li&gt;
@@ -37,8 +74,8 @@
 </description>
 				
 				<pubDate>Tue, 12 Dec 2017 00:00:00 -0600</pubDate>
-				<link>http://www.pmhc-mds.com/2017/12/12/Update-to-the-PMHC-MDS-v-0-20-0/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/12/12/Update-to-the-PMHC-MDS-v-0-20-0/</guid>
+				<link>http://0.0.0.0:4000/2017/12/12/Update-to-the-PMHC-MDS-v-0-20-0/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/12/12/Update-to-the-PMHC-MDS-v-0-20-0/</guid>
 			</item>
 		
 			<item>
@@ -87,8 +124,8 @@ clicking save.&lt;/li&gt;
 </description>
 				
 				<pubDate>Fri, 08 Dec 2017 00:00:00 -0600</pubDate>
-				<link>http://www.pmhc-mds.com/2017/12/08/Update-to-the-PMHC-MDS-v-0-19-0/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/12/08/Update-to-the-PMHC-MDS-v-0-19-0/</guid>
+				<link>http://0.0.0.0:4000/2017/12/08/Update-to-the-PMHC-MDS-v-0-19-0/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/12/08/Update-to-the-PMHC-MDS-v-0-19-0/</guid>
 			</item>
 		
 			<item>
@@ -111,8 +148,8 @@ December 1, 2017.&lt;/p&gt;
 </description>
 				
 				<pubDate>Fri, 01 Dec 2017 00:00:00 -0600</pubDate>
-				<link>http://www.pmhc-mds.com/2017/12/01/Update-to-the-PMHC-MDS-v-0-18-2/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/12/01/Update-to-the-PMHC-MDS-v-0-18-2/</guid>
+				<link>http://0.0.0.0:4000/2017/12/01/Update-to-the-PMHC-MDS-v-0-18-2/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/12/01/Update-to-the-PMHC-MDS-v-0-18-2/</guid>
 			</item>
 		
 			<item>
@@ -133,8 +170,8 @@ advise you to complete your work before 10:00am AEDT.&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 29 Nov 2017 00:00:00 -0600</pubDate>
-				<link>http://www.pmhc-mds.com/2017/11/29/PMHC-MDS-system-and-network-upgrades-on-Saturday-9-December-2017/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/11/29/PMHC-MDS-system-and-network-upgrades-on-Saturday-9-December-2017/</guid>
+				<link>http://0.0.0.0:4000/2017/11/29/PMHC-MDS-system-and-network-upgrades-on-Saturday-9-December-2017/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/11/29/PMHC-MDS-system-and-network-upgrades-on-Saturday-9-December-2017/</guid>
 			</item>
 		
 			<item>
@@ -158,8 +195,8 @@ and we sincerely apologise for any inconvenience this issue has caused.&lt;/p&gt
 </description>
 				
 				<pubDate>Fri, 24 Nov 2017 00:00:00 -0600</pubDate>
-				<link>http://www.pmhc-mds.com/2017/11/24/Update-to-the-PMHC-MDS-v-0-18-1/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/11/24/Update-to-the-PMHC-MDS-v-0-18-1/</guid>
+				<link>http://0.0.0.0:4000/2017/11/24/Update-to-the-PMHC-MDS-v-0-18-1/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/11/24/Update-to-the-PMHC-MDS-v-0-18-1/</guid>
 			</item>
 		
 			<item>
@@ -171,8 +208,8 @@ and we sincerely apologise for any inconvenience this issue has caused.&lt;/p&gt
 </description>
 				
 				<pubDate>Wed, 22 Nov 2017 00:00:00 -0600</pubDate>
-				<link>http://www.pmhc-mds.com/2017/11/22/Update-to-the-PMHC-MDS-v-0-18-0/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/11/22/Update-to-the-PMHC-MDS-v-0-18-0/</guid>
+				<link>http://0.0.0.0:4000/2017/11/22/Update-to-the-PMHC-MDS-v-0-18-0/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/11/22/Update-to-the-PMHC-MDS-v-0-18-0/</guid>
 			</item>
 		
 			<item>
@@ -192,8 +229,8 @@ advise you to complete your work before 10:00am AEDT.&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 22 Nov 2017 00:00:00 -0600</pubDate>
-				<link>http://www.pmhc-mds.com/2017/11/22/PMHC-MDS-system-and-network-upgrades-on-Saturday-2-December-2017/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/11/22/PMHC-MDS-system-and-network-upgrades-on-Saturday-2-December-2017/</guid>
+				<link>http://0.0.0.0:4000/2017/11/22/PMHC-MDS-system-and-network-upgrades-on-Saturday-2-December-2017/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/11/22/PMHC-MDS-system-and-network-upgrades-on-Saturday-2-December-2017/</guid>
 			</item>
 		
 			<item>
@@ -288,8 +325,8 @@ current format.&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 25 Oct 2017 00:00:00 -0500</pubDate>
-				<link>http://www.pmhc-mds.com/2017/10/25/Update-to-the-PMHC-MDS-v-0-17-2/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/10/25/Update-to-the-PMHC-MDS-v-0-17-2/</guid>
+				<link>http://0.0.0.0:4000/2017/10/25/Update-to-the-PMHC-MDS-v-0-17-2/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/10/25/Update-to-the-PMHC-MDS-v-0-17-2/</guid>
 			</item>
 		
 			<item>
@@ -306,36 +343,8 @@ current format.&lt;/p&gt;
 </description>
 				
 				<pubDate>Fri, 06 Oct 2017 00:00:00 -0500</pubDate>
-				<link>http://www.pmhc-mds.com/2017/10/06/PMHC-MDS-outage-on-Tuesday-10-October-2017/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/10/06/PMHC-MDS-outage-on-Tuesday-10-October-2017/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS and system outage - 4/10/2017</title>
-				        
-				
-					<description>&lt;h4 id=&quot;pmhc-mds-update-v0162&quot;&gt;PMHC MDS Update v0.16.2&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.16.2 was released on
-October 4, 2017.&lt;/p&gt;
-
-&lt;p&gt;The following updates and bugfixes have been implemented:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fixed an issue where in some instances the upload error messages
-were not reporting relevant record key&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;pmhc-mds-system-outage&quot;&gt;PMHC MDS System Outage&lt;/h4&gt;
-
-&lt;p&gt;Due to a system problem this morning, users may have had issues accessing the
-PMHC MDS site or with logging in. Our technicians have rectified the fault and
-the system is back online.&lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 04 Oct 2017 00:00:00 -0500</pubDate>
-				<link>http://www.pmhc-mds.com/2017/10/04/Update-to-the-PMHC-MDS-v-0-16-2-and-system-outage/</link>
-				<guid isPermaLink="true">http://www.pmhc-mds.com/2017/10/04/Update-to-the-PMHC-MDS-v-0-16-2-and-system-outage/</guid>
+				<link>http://0.0.0.0:4000/2017/10/06/PMHC-MDS-outage-on-Tuesday-10-October-2017/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2017/10/06/PMHC-MDS-outage-on-Tuesday-10-October-2017/</guid>
 			</item>
 		
 	</channel>

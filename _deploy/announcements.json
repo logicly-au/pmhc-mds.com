@@ -2,6 +2,38 @@
 
 	{
 		"title"    : "Update to the PMHC MDS - 12/12/2017",
+		"date"     : "December 22, 2017",
+		"content"  : "<h4 id="pmhc-mds-update-v0202">PMHC MDS Update v0.20.2</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.20.2 was released on December 22, 2017.</p>
+
+<p>The following features have been implemented across all interfaces:</p>
+<ul>
+  <li>Context sensitive help links have been provided.</li>
+  <li>Drop downs for selecting organisations have been made more consistent.</li>
+</ul>
+
+<p>The following features have been implemented in the reports interface:</p>
+<ul>
+  <li>An ‘Include only records with Client Consent’ option has been added to reports so that organisations can 
+generate reports which include the same data as reports that are generated for the Department of Health.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented in the reports interface:</p>
+<ul>
+  <li>The ‘Data Extract’ tab has been moved from being a subtab of the ‘Reports’ tab. It is now it’s own separate top-level tab.</li>
+  <li>The design of the reports tab has been cleaned up.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented in the data extract interface:</p>
+<ul>
+  <li>A problem with the ‘Include data without associated dates’ checkbox has been fixed.</li>
+</ul>
+"
+	}
+
+	{
+		"title"    : "Update to the PMHC MDS - 12/12/2017",
 		"date"     : "December 12, 2017",
 		"content"  : "<h4 id="pmhc-mds-update-v0200">PMHC MDS Update v0.20.0</h4>
 
@@ -14,7 +46,7 @@
   <li>System report A2 - Monthly volume trends.</li>
 </ul>
 
-<p>The following updates and bugfixes have been implemented in the data entry interface:</p>
+<p>The following updates and bugfixes have been implemented in the data extract interface:</p>
 
 <ul>
   <li>Fixed a bug where an error was reported when requesting a Data Extract.</li>
