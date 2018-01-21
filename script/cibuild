@@ -2,7 +2,8 @@
 set -e # halt script on error
 
 bundle exec jekyll build
-$HOME/.local/bin/html5validator --root ./_deploy
+# TEMP disable html5 validator
+#$HOME/.local/bin/html5validator --root ./_deploy
 bundle exec htmlproofer ./_deploy --disable-external
 #node --version
 #./node_modules/a11y/cli.js --help
