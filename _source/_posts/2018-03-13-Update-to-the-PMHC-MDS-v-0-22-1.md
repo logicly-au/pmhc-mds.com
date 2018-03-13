@@ -37,4 +37,4 @@ The following updates and bugfixes have been implemented in the Upload interface
 * Fixed a bug where files with an extremely large number of empty lines would cause the upload pipeline to hang.
 * Removed the age based validation on Client - Proficiency in Spoken English. This validation will be replaced with a future data quality report.
 * Removed the age based validation on Episode - Source of Cash Income. This validation will be replaced with a future data quality report.
-* Added an Upload ID to the View Uploads table and the Upload Details page. This is ID is unique to each upload. Reporting this ID when contacting the Helpdesk will allow support staff to locate problem uploads easily.
+* Added an Upload ID to the View Uploads table and the Upload Details page. This ID is unique to each upload. Reporting this ID when contacting the Helpdesk will allow support staff to locate problem uploads easily.
