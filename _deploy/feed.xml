@@ -7,6 +7,110 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS - 13/3/2018</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v0221&quot;&gt;PMHC MDS Update v0.22.1&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.22.1 was released on March 13, 2018.&lt;/p&gt;
+
+&lt;p&gt;The following features have been implemented in the reporting interface:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;System report A3-1 - Data Quality Report: Missing and invalid Client data - Summary,&lt;/li&gt;
+  &lt;li&gt;System report A3-2 - Data Quality Report: Missing and invalid Client data - Detail,&lt;/li&gt;
+  &lt;li&gt;System report A4-1 - Data Quality Report: Missing and invalid Episode data - Summary,&lt;/li&gt;
+  &lt;li&gt;System report A4-2 - Data Quality Report: Missing and invalid Episode data - Detail,&lt;/li&gt;
+  &lt;li&gt;System report A5-1 - Data Quality Report: Missing and invalid Service Contact data - Summary,&lt;/li&gt;
+  &lt;li&gt;System report A5-2 - Data Quality Report: Missing and invalid Service Contact data - Detail,&lt;/li&gt;
+  &lt;li&gt;System report A6-1 - Data Quality Report: Missing and invalid Practitioner data - Summary, and&lt;/li&gt;
+  &lt;li&gt;System report A6-2 - Data Quality Report: Missing and invalid Practitioner data - Detail.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates and bugfixes have been implemented in the Data Entry interface:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug when editing Episodes where the Save button was not enabled and no error message was shown when the Episode End Date was set to 09/09/9999.&lt;/li&gt;
+  &lt;li&gt;Fixed a bug when editing Collection Occasions where an error would be shown when the Measure Date was set to 09/09/9999.&lt;/li&gt;
+  &lt;li&gt;Removed the age based validation on Client - Proficiency in Spoken English. This validation will be replaced with a future data quality report.&lt;/li&gt;
+  &lt;li&gt;Removed the age based validation on Episode - Source of Cash Income. This validation will be replaced with a future data quality report.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates and bugfixes have been implemented in the Data Extract interface:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug whereby the ‘Select Organisation’ drop down was not showing the correct organisations for users who only have roles at a Provider Organisation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates and bugfixes have been implemented in the Reports interface:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The name of the A2 report has been changed from ‘A2: Volume Trends’ to ‘A2: Monthly Volume Trends’.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates and bugfixes have been implemented in the Upload interface:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug where files with an extremely large number of empty lines would cause the upload pipeline to hang.&lt;/li&gt;
+  &lt;li&gt;Removed the age based validation on Client - Proficiency in Spoken English. This validation will be replaced with a future data quality report.&lt;/li&gt;
+  &lt;li&gt;Removed the age based validation on Episode - Source of Cash Income. This validation will be replaced with a future data quality report.&lt;/li&gt;
+  &lt;li&gt;Added an Upload ID to the View Uploads table and the Upload Details page. This ID is unique to each upload. Reporting this ID when contacting the Helpdesk will allow support staff to locate problem uploads easily.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				
+				<pubDate>Tue, 13 Mar 2018 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2018/03/13/Update-to-the-PMHC-MDS-v-0-22-1/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2018/03/13/Update-to-the-PMHC-MDS-v-0-22-1/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 15/2/2018</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v0211&quot;&gt;PMHC MDS Update v0.21.1&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.21.1 was released on February 15, 2018.&lt;/p&gt;
+
+&lt;p&gt;The following updates and bugfixes have been implemented across the MDS:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug whereby errors on login would be removed before they could be read.&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where the headers and footers would flash on login, logout and refresh.&lt;/li&gt;
+  &lt;li&gt;Fixed a bug whereby if you were logged into the PMHC MDS in one tab/window and then you opened another tab/window you would be shown the login screen, instead of automatically being logged in.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates and bugfixes have been implemented in the Data Entry interface:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug where collection occasion measures dates before 1/1/2016 were not being flagged as invalid before being saved.&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where a collection occasion measure date was recorded as missing (09099999) against a closed episode, would be incorrectly flagged as invalid.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates and bugfixes have been implemented in the Data Extract interface:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug whereby the ‘Select Organisation’ drop down was not showing the correct organisations for users who only have roles at a Provider Organisation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates and bugfixes have been implemented in the Upload interface:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug where a collection occasion measure date was recorded as missing (09099999) against a closed episode, would be incorrectly reported as an error.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates and bugfixes have been implemented in the Reports interface:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug whereby the current date was showing as invalid.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				
+				<pubDate>Thu, 15 Feb 2018 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/2018/02/15/Update-to-the-PMHC-MDS-v-0-21-1/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2018/02/15/Update-to-the-PMHC-MDS-v-0-21-1/</guid>
+			</item>
+		
+			<item>
 				<title>Update to the PMHC MDS and Data Specifications - 19/1/2018</title>
 				        
 				
@@ -342,123 +446,6 @@ and we sincerely apologise for any inconvenience this issue has caused.&lt;/p&gt
 				<pubDate>Wed, 22 Nov 2017 00:00:00 -0600</pubDate>
 				<link>http://0.0.0.0:4000/2017/11/22/Update-to-the-PMHC-MDS-v-0-18-0/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2017/11/22/Update-to-the-PMHC-MDS-v-0-18-0/</guid>
-			</item>
-		
-			<item>
-				<title>PMHC MDS system and network upgrades on Saturday 2 December 2017 - 22/11/2017</title>
-				        
-				
-					<description>&lt;p&gt;We will be performing system and network upgrades on Saturday 2 December
-between 10:00am and 2:00pm AEDT.&lt;/p&gt;
-
-&lt;p&gt;We do not expect any outage, but there is the possibility that an outage may
-occur during this period.&lt;/p&gt;
-
-&lt;p&gt;If you are planning on uploading or entering any data during this time, we
-advise you to complete your work before 10:00am AEDT.&lt;/p&gt;
-
-&lt;p&gt;Thank-you for your patience whilst this work is carried out.&lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 22 Nov 2017 00:00:00 -0600</pubDate>
-				<link>http://0.0.0.0:4000/2017/11/22/PMHC-MDS-system-and-network-upgrades-on-Saturday-2-December-2017/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2017/11/22/PMHC-MDS-system-and-network-upgrades-on-Saturday-2-December-2017/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 25/10/2017</title>
-				        
-				
-					<description>&lt;h4 id=&quot;pmhc-mds-update-v0172&quot;&gt;PMHC MDS Update v0.17.2&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v0.17.2 was released on
-October 25, 2017.&lt;/p&gt;
-
-&lt;p&gt;The following features have been implemented:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Deletion of records via both the data entry interface and uploads.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following updates and bugfixes have been implemented in the data entry
-interface:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Restricted the use of the ‘Complex Care Package’ Principal Focus of Treatment
-Plan to the three selected Lead PHNs&lt;/li&gt;
-  &lt;li&gt;Fixed an issue where the Suicide Referral icon was showing on episode
-summaries where the Suicide Referral Flag was set to ‘Unknown’&lt;/li&gt;
-  &lt;li&gt;Fixed an issue with the User Invite form where users could be invited to a
-Provider Organisation with the Organisation Management role. This role is
-restricted to PHN level.&lt;/li&gt;
-  &lt;li&gt;Added the Episode Key onto the Collection Occasion details/edit forms.&lt;/li&gt;
-  &lt;li&gt;Changed the sorting of Country of Birth and Main Language Spoken at Home so
-that the top ten languages/country of births as reported in the 2011 census
-are moved to the top of the list.&lt;/li&gt;
-  &lt;li&gt;The service contact postcode field is now prefilled with 9999 for all non
-Face to Face modalities.&lt;/li&gt;
-  &lt;li&gt;Fixed an bug where the “Unknown” option was not being given for Suicide
-Referral Flag.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following updates and bugfixes have been implemented in the upload
-interface:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fixed an error in uploads when there was no practitioners file.&lt;/li&gt;
-  &lt;li&gt;Restricted the use of the ‘Complex Care Package’ Principal Focus of Treatment
-Plan to the three selected Lead PHNs&lt;/li&gt;
-  &lt;li&gt;Improved the error message ‘Collection date must not be after Episode end
-date’ so that it includes information about the episode key and collection
-occasion key.&lt;/li&gt;
-  &lt;li&gt;Improved the error message ‘Client may not have multiple open episodes. This
-client has an existing open episode within this organisation’ so that it
-includes information about the client key and episode keys.&lt;/li&gt;
-  &lt;li&gt;Split the error message ‘Invalid episode_completion_status on row [x]. Where
-service contact - final is recorded as “No further services planned” the
-episode completion status should be recorded using one of the treatment
-concluded responses.’ so that one message is returned when an episode has
-a completion status but no end date and another error is returned when an
-episode has an end date but no completion status.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Improved error messages like the following:&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;…organisation_path / client_key value of “…” is invalid.&lt;/li&gt;
-      &lt;li&gt;…organisation_path / episode_key value of “…” is invalid.&lt;/li&gt;
-      &lt;li&gt;…organisation_path / practitioner_key value of “…” is invalid.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Return a sensible error instead of “episode: new row for relation “episode”
-violates check constraint “end_after_referral” / Failing row contains (…).&lt;/li&gt;
-  &lt;li&gt;Return a sensible error instead of “client: new row for relation “client”
-violates check constraint “past_date” / Failing row contains (…).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The user guide has been updated to reflect these updates. It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/user-documentation/&quot;&gt;https://docs.pmhc-mds.com/user-documentation/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;deleting-records-in-the-pmhc-mds&quot;&gt;Deleting records in the PMHC MDS&lt;/h4&gt;
-
-&lt;p&gt;Deletion of:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Clients&lt;/li&gt;
-  &lt;li&gt;Episodes&lt;/li&gt;
-  &lt;li&gt;Service Contacts&lt;/li&gt;
-  &lt;li&gt;Collection Occasions, and&lt;/li&gt;
-  &lt;li&gt;Practitioners&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;is now possible via both the data entry interface and uploads. Organisations
-cannot be deleted. The upload specification has been updated to describe the
-format for deleting records via uploads. It is available at &lt;a href=&quot;https://docs.pmhc-mds.com/data-specification/upload-specification.html#deleting-records&quot;&gt;https://docs.pmhc-mds.com/data-specification/upload-specification.html#deleting-records&lt;/a&gt;.
-File format changes to accommodate deletion are backwards compatible with the
-current format.&lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 25 Oct 2017 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2017/10/25/Update-to-the-PMHC-MDS-v-0-17-2/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2017/10/25/Update-to-the-PMHC-MDS-v-0-17-2/</guid>
 			</item>
 		
 	</channel>

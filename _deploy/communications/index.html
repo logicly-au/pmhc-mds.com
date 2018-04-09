@@ -72,6 +72,14 @@
         <ul>
   
     <li>
+      <a href="#/2018/03/13/Update-to-the-PMHC-MDS-v-0-22-1/">Update to the PMHC MDS - 13/3/2018</a><span> | March 13, 2018</span>
+    </li>
+  
+    <li>
+      <a href="#/2018/02/15/Update-to-the-PMHC-MDS-v-0-21-1/">Update to the PMHC MDS - 15/2/2018</a><span> | February 15, 2018</span>
+    </li>
+  
+    <li>
       <a href="#/2018/01/19/Update-to-the-PMHC-MDS-v-0-21-0-and-Data-Specifications-v1-0-12/">Update to the PMHC MDS and Data Specifications - 19/1/2018</a><span> | January 19, 2018</span>
     </li>
   
@@ -257,6 +265,102 @@
 
 <div>
 <ul class="l-communications-ul">
+  
+    <li class="l-communications">
+    <div id="/2018/03/13/Update-to-the-PMHC-MDS-v-0-22-1/"><h3>Update to the PMHC MDS - 13/3/2018</h3></div>
+    <h4>March 13, 2018</h4>
+	<h4 id="pmhc-mds-update-v0221">PMHC MDS Update v0.22.1</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.22.1 was released on March 13, 2018.</p>
+
+<p>The following features have been implemented in the reporting interface:</p>
+
+<ul>
+  <li>System report A3-1 - Data Quality Report: Missing and invalid Client data - Summary,</li>
+  <li>System report A3-2 - Data Quality Report: Missing and invalid Client data - Detail,</li>
+  <li>System report A4-1 - Data Quality Report: Missing and invalid Episode data - Summary,</li>
+  <li>System report A4-2 - Data Quality Report: Missing and invalid Episode data - Detail,</li>
+  <li>System report A5-1 - Data Quality Report: Missing and invalid Service Contact data - Summary,</li>
+  <li>System report A5-2 - Data Quality Report: Missing and invalid Service Contact data - Detail,</li>
+  <li>System report A6-1 - Data Quality Report: Missing and invalid Practitioner data - Summary, and</li>
+  <li>System report A6-2 - Data Quality Report: Missing and invalid Practitioner data - Detail.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented in the Data Entry interface:</p>
+
+<ul>
+  <li>Fixed a bug when editing Episodes where the Save button was not enabled and no error message was shown when the Episode End Date was set to 09/09/9999.</li>
+  <li>Fixed a bug when editing Collection Occasions where an error would be shown when the Measure Date was set to 09/09/9999.</li>
+  <li>Removed the age based validation on Client - Proficiency in Spoken English. This validation will be replaced with a future data quality report.</li>
+  <li>Removed the age based validation on Episode - Source of Cash Income. This validation will be replaced with a future data quality report.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented in the Data Extract interface:</p>
+
+<ul>
+  <li>Fixed a bug whereby the ‘Select Organisation’ drop down was not showing the correct organisations for users who only have roles at a Provider Organisation.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented in the Reports interface:</p>
+
+<ul>
+  <li>The name of the A2 report has been changed from ‘A2: Volume Trends’ to ‘A2: Monthly Volume Trends’.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented in the Upload interface:</p>
+
+<ul>
+  <li>Fixed a bug where files with an extremely large number of empty lines would cause the upload pipeline to hang.</li>
+  <li>Removed the age based validation on Client - Proficiency in Spoken English. This validation will be replaced with a future data quality report.</li>
+  <li>Removed the age based validation on Episode - Source of Cash Income. This validation will be replaced with a future data quality report.</li>
+  <li>Added an Upload ID to the View Uploads table and the Upload Details page. This ID is unique to each upload. Reporting this ID when contacting the Helpdesk will allow support staff to locate problem uploads easily.</li>
+</ul>
+
+	<hr />
+</li>
+  
+    <li class="l-communications">
+    <div id="/2018/02/15/Update-to-the-PMHC-MDS-v-0-21-1/"><h3>Update to the PMHC MDS - 15/2/2018</h3></div>
+    <h4>February 15, 2018</h4>
+	<h4 id="pmhc-mds-update-v0211">PMHC MDS Update v0.21.1</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.21.1 was released on February 15, 2018.</p>
+
+<p>The following updates and bugfixes have been implemented across the MDS:</p>
+
+<ul>
+  <li>Fixed a bug whereby errors on login would be removed before they could be read.</li>
+  <li>Fixed a bug where the headers and footers would flash on login, logout and refresh.</li>
+  <li>Fixed a bug whereby if you were logged into the PMHC MDS in one tab/window and then you opened another tab/window you would be shown the login screen, instead of automatically being logged in.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented in the Data Entry interface:</p>
+
+<ul>
+  <li>Fixed a bug where collection occasion measures dates before 1/1/2016 were not being flagged as invalid before being saved.</li>
+  <li>Fixed a bug where a collection occasion measure date was recorded as missing (09099999) against a closed episode, would be incorrectly flagged as invalid.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented in the Data Extract interface:</p>
+
+<ul>
+  <li>Fixed a bug whereby the ‘Select Organisation’ drop down was not showing the correct organisations for users who only have roles at a Provider Organisation.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented in the Upload interface:</p>
+
+<ul>
+  <li>Fixed a bug where a collection occasion measure date was recorded as missing (09099999) against a closed episode, would be incorrectly reported as an error.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented in the Reports interface:</p>
+
+<ul>
+  <li>Fixed a bug whereby the current date was showing as invalid.</li>
+</ul>
+
+	<hr />
+</li>
   
     <li class="l-communications">
     <div id="/2018/01/19/Update-to-the-PMHC-MDS-v-0-21-0-and-Data-Specifications-v1-0-12/"><h3>Update to the PMHC MDS and Data Specifications - 19/1/2018</h3></div>
@@ -1417,7 +1521,7 @@ It is available at <a href="https://docs.pmhc-mds.com/data-specification/upload-
         <ul>
           <li class="bold"> <b> All files must be internally consistent.</b></li>
           <li> An example of what this means is that for every row in the episode file/worksheet, there should be a corresponding client in the client file/worksheet.</li>
-          <li> It also means that for every episode included in an upload file, you must include <b> ALL </b> service contacts and collection occasions for that episode. Any service contacts and collection occasions, for that episode, that are not included will be removed from the PMHC MDS.</li>
+          <li> It also means that for every episode included in an upload file, you must include <b> ALL </b> service contacts and collection occasions for that episode. Any service contacts and collection occasions, for that episode, that are not included will be removed from the PMHC MDS. <b>Please note: It is no longer true that service contacts and collection occasions that are not included will be removed. As of 25/10/2017 records are deleted according to the specifications at <a href="https://docs.pmhc-mds.com/data-specification/upload-specification.html#deleting-records">Deleting records</a>.</b></li>
         </ul>
       </div>
     </td>
