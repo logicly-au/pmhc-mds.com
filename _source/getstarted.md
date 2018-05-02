@@ -52,7 +52,7 @@ The PMHC MDS offers various options for users to learn how to navigate and use t
 
 1. [Online User Guide](#user_guide)
 2. [Online group training sessions](#group_training)
-3. A video training library is coming soon and will be released in 2017
+3. A video training library is coming soon and will be released in 2018
 
 ##### <a id="user_guide"></a>Online User Guide
 
@@ -118,7 +118,7 @@ you via a calendar invitation.
   </tr>
   <tr>
     <td colspan="4">If you wish to arrange training for
-    January or February 2018, please contact us
+    2018, please contact us
     on <a href="mailto:support@pmhc-mds.com">support@pmhc-mds.com</a>.</td>
   </tr>  
   <tr>
