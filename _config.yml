@@ -18,5 +18,5 @@ defaults:
     values:
       layout: "default"
 source:      _source
-destination: _deploy
+destination: _site
 future: true
