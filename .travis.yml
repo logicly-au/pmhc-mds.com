@@ -3,7 +3,7 @@ cache:
   - bundler
   - pip
 rvm:
-  - 2.3.1
+  - 2.3
 jdk:
   - oraclejdk8
 before_script:
@@ -16,8 +16,8 @@ env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 deploy:
-  skip_cleanup: true
   provider: script
   script: ./script/deploy
+  skip_cleanup: true
   on:
     branch: master

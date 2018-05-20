@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# set -e # halt script on error
+
+docker-compose run site jekyll build
+
+docker-compose run site htmlproofer /srv/jekyll/_site --disable-external --url-ignore "/^#$/"
+
+docker run -v $(pwd)/_site:/app stratdat/html5validator
