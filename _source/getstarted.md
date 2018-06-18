@@ -62,7 +62,7 @@ step by step instructions for each role within the PMHC MDS.
 
 ##### <a id="group_training"></a>Online group training
 
-Online group training sessions are currently hosted by the PMHC Helpdesk.
+Online group training sessions are currently hosted by the PMHC Helpdesk between 10am - 6pm AEST/AEDT.
 
 Access to the PMHC MDS is based around roles, and therefore online group
 training sessions have been designed for a role. The following provides a
@@ -72,18 +72,22 @@ summary of each of the roles that we currently provide training for:
   <tr>
     <th>Role</th>
     <th>Tasks allowed</th>
+    <th>Training Duration</th>
   </tr>
   <tr>
     <td>User Management</td>
     <td>A user with the User Management role for an organisation can manage user accounts for that organisation</td>
+    <td>30 minutes</td>
   </tr>
   <tr>
     <td>Upload</td>
     <td>A user with the Upload role can upload data to the associated organisation</td>
+    <td>30 minutes</td>
   </tr>
   <tr>
     <td>Data Entry</td>
     <td>A user with the Data Entry role can enter client data and practitioners from the associated organisation</td>
+    <td>60 minutes</td>
   </tr>
 </table>
 
@@ -91,40 +95,11 @@ summary of each of the roles that we currently provide training for:
 
 Online training sessions are held through an online GoToMeeting session. Each
 session will be limited to approx. 25 users and can have a combination of
-various Provider Organisation users from around Australia. Users can select
-from the scheduled group training blocks offered throughout the following weeks,
-as listed below.
+various Provider Organisation users from around Australia.
 
 To book in for an online training session please email [support@pmhc-mds.com](mailto:support@pmhc-mds.com)
-with your preferred training date/time and a GoToMeeting link will be sent to
+with your preferred training session role type and date/time. A GoToMeeting link will be sent to
 you via a calendar invitation.
-
-<table class="table-bordered">
-  <tr>
-    <th><p>User Roles Training</p><p>&nbsp;</p></th>
-    <th><p>User Management</p><p>30 minutes</p></th>
-    <th><p>Upload</p><p>30 minutes</p></th>
-    <th><p>Data Entry</p><p>60 minutes</p></th>
-  </tr>
-  <tr>
-    <th>&nbsp;</th>
-    <th colspan="3">Training times are listed in Australian Eastern Daylight Saving Time (AEDT)</th>
-  </tr>
-  <tr>
-    <td colspan="4">&nbsp;</td>
-  </tr>
-  <tr>
-    <th colspan="4">Training sessions have resumed for 2018.</th>
-  </tr>
-  <tr>
-    <td colspan="4">If you wish to arrange training for
-    2018, please contact us
-    on <a href="mailto:support@pmhc-mds.com">support@pmhc-mds.com</a>.</td>
-  </tr>  
-  <tr>
-    <td colspan="4">&nbsp;</td>
-  </tr>
-</table>
 
 Please note: Users who do not yet have an active login to the PMHC MDS can
 still attend our training sessions. It would be very beneficial to organise
@@ -133,10 +108,8 @@ and commence using the PMHC MDS straight after the training session concludes.
 *(More information on obtaining a login can be viewed in Step 4 above, or on
 the PMHC MDS FAQS which can be found at [https://docs.pmhc-mds.com/faqs/system/access.html](https://docs.pmhc-mds.com/faqs/system/access.html))*
 
-Please email [support@pmhc-mds.com](mailto:support@pmhc-mds.com) with your preferred training date/time and
-a GoToMeeting link will be sent to you via a calendar invitation.
-
 We are continually trying to improve the user experience and greatly appreciate
 your questions, feedback and suggestions. Please don't hesitate to contact us
-on [support@pmhc-mds.com](mailto:support@pmhc-mds.com). PMHC MDS Helpdesk open
-hours from 10am - 6pm AEST.  
+on [support@pmhc-mds.com](mailto:support@pmhc-mds.com).
+
+PMHC MDS Helpdesk open hours are from 10am - 6pm AEST/AEDT.  
