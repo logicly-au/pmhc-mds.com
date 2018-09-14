@@ -49,9 +49,8 @@ the Department of Health. If you are a Primary Health Network, you can use the [
 
 ### 7. Mailing list
 If you would like to be notified about updates to the specifications or
-announcements about the rollout of the PMHC MDS please subscribe to the
-PMHC MDS mailing list by sending an email to
-[sympa@lists.pmhc-mds.com](mailto:sympa@lists.pmhc-mds.com?subject=subscribe%20news) with the subject "subscribe news@lists.pmhc-mds.com".
+announcements about the development of the PMHC MDS please send an email to
+[support@pmhc-mds.com](mailto:support@pmhc-mds.com?subject=Subscribe%20news) with the subject "Subscribe news@lists.pmhc-mds.com".
 
 This is not a general discussion list. Only moderated users can send
 messages to this list.
