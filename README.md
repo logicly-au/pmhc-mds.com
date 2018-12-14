@@ -5,6 +5,14 @@
 
 https://hub.docker.com/r/stratdat/pmhc-mds.com/
 
+## Build and view site
+
+`docker-compose up`
+
+## Update rubygems
+
+`docker-compose run site bundle update`
+
 ===========================================
 
 Posting announcements:
