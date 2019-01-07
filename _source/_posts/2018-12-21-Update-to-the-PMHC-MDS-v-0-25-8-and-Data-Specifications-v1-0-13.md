@@ -21,7 +21,7 @@ The following updates and bug fixes have been implemented in the upload interfac
 * Fixed a bug where an error was not being correctly generated for ABNs that were 11 characters long but included whitespace
 * Fixed a bug where an upload format of PMHC 1.0 was incorrectly being reported for non PMHC 1.0 uploads early in the upload process
 
-The user guide has been updated to reflect these updates. It is available at [https://docs.pmhc-mds.com/user-documentation/](https://docs.pmhc-mds.com/user-documentation/).
+The user guide has been updated to reflect these updates. It is available at [https://docs.pmhc-mds.com/user-documentation/](https://docs.pmhc-mds.com/user-documentation/){:target="_blank"}.
 
 #### PMHC MDS Data Specifications Update v1.0.13 ####
 
