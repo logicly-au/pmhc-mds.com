@@ -30,32 +30,32 @@ v1.0.13 was released on December 21, 2018. The following updates have been
 implemented:
 
 
-* [Data model and specifications](https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html)
+* [Data model and specifications](https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html){:target="_blank"}
 
-  * [Record formats](https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#record-formats)
+  * [Record formats](https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#record-formats){:target="_blank"}
 
-    * [Episode](https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-data-elements)
+    * [Episode](https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-data-elements){:target="_blank"}
 
-      * Updated  [Episode - Principal Focus of Treatment Plan](https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-principal-focus-of-treatment-plan) to add a new response:
+      * Updated  [Episode - Principal Focus of Treatment Plan](https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-principal-focus-of-treatment-plan){:target="_blank"} to add a new response:
 
         *  8 - Psychosocial Support
 
     * [Service Contact](
-      https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-data-elements)
+      https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-data-elements){:target="_blank"}
 
-      * Updated [Updated Service Contact - Type](https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-type) to add a new response:
+      * Updated [Updated Service Contact - Type](https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-type){:target="_blank"} to add a new response:
 
         * 9 - Psychosocial support
 
-      * Updated [Service Contact - Venue](https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-venue) to redefine response 8 from ‘Aged care centre’ to ‘Residential aged care facility’
+      * Updated [Service Contact - Venue](https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-venue){:target="_blank"} to redefine response 8 from ‘Aged care centre’ to ‘Residential aged care facility’
 
-      * Updated [Service Contact - Venue](https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-venue) to add a new response:
+      * Updated [Service Contact - Venue](https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-venue){:target="_blank"} to add a new response:
 
         * 12 - Aged care centre - non-residential
 
-    * [Practitioner](https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#practitioner-data-elements)
+    * [Practitioner](https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#practitioner-data-elements){:target="_blank"}
 
-      * Updated [Practitioner - Category](https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#practitioner-category) to add two new responses:
+      * Updated [Practitioner - Category](https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#practitioner-category){:target="_blank"} to add two new responses:
 
         * 12 - Psychosocial Support Worker
 
