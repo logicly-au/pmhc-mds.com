@@ -32,4 +32,4 @@ The following updates and bug fixes have been implemented across the PMHC MDS:
   now generated in a consistent manner.
 * Fixed a bug for IE11 users getting blank pages with high security browser settings.
 
-The user guide has been updated to reflect these updates. It is available at [https://docs.pmhc-mds.com/user-documentation/](https://docs.pmhc-mds.com/user-documentation/).
+The user guide has been updated to reflect these updates. It is available at [https://docs.pmhc-mds.com/user-documentation/](https://docs.pmhc-mds.com/user-documentation/){:target="_blank"}.
