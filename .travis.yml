@@ -4,8 +4,6 @@ cache:
   - pip
 rvm:
   - 2.3
-jdk:
-  - oraclejdk8
 before_script:
   - pip install --user html5validator
 script: ./script/cibuild
