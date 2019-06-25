@@ -1,8 +1,9 @@
 ---
-title: Update to the PMHC MDS Developers Instance- 21/6/2019
+title: Update to the PMHC MDS Developers Instance - 21/6/2019
 ---
 
 #### PMHC MDS Update v0.30.1 ####
+{:#pmhc-mds-update-v0301-dev}
 
 We are pleased to announce that PMHC MDS Update v0.30.1 was released on June 21, 2019.
 
