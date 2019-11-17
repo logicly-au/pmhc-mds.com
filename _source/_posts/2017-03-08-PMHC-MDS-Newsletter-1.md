@@ -1,7 +1,7 @@
 ---
 title: PMHC MDS Newsletter 1
 ---
-<table role="presentation" aria-hidden="true">
+<table role="presentation">
   <tr>
     <td>
       <h4>Let's discuss PMHC MDS.</h4>
@@ -36,7 +36,7 @@ title: PMHC MDS Newsletter 1
           To avoid the invitation email and/or SMS token being deleted, it is always best to notify a user that you will be sending them a PMHC MDS invitation. Inform them that they will receive an invitation by email from noreply@strategicdata.com and a verification
           code via SMS. Please also provide them with the link to the online
           <a title="PMHC MDS User Guide" href="https://docs.pmhc-mds.com/user-documentation/">User Guide</a> to read the steps they will need to complete to
-          <a title="Documentation on accepting a PMHC MDS invitation" href="https://docs.pmhc-mds.com/user-documentation/users.html#accepting-an-invitation-to-become-a-pmhc-mds-user">Accept an invitation to become a PMHC MDS User</a>. 
+          <a title="Documentation on accepting a PMHC MDS invitation" href="https://docs.pmhc-mds.com/user-documentation/users.html#accepting-an-invitation-to-become-a-pmhc-mds-user">Accept an invitation to become a PMHC MDS User</a>.
         </p>
       </div>
     </td>
@@ -103,7 +103,6 @@ title: PMHC MDS Newsletter 1
     <td>
       <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
       <div class="section">
-        <img class="feedback" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F7bd20110-ffe0-42a0-8c77-9b022fd300d0.jpg" title="" alt="Feedback Icon" />
         <h4>We would like to know you better!</h4>
         <p>
           How many commissioned provider organisations do you have?
@@ -185,7 +184,7 @@ title: PMHC MDS Newsletter 1
     </td>
   </tr>
 </table>
-<table role="presentation" aria-hidden="true">
+<table role="presentation">
   <tr>
     <td>
       <a href="https://docs.pmhc-mds.com/user-documentation/index.html#user-docs"><img class="useful" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2Fba8fcb99-271d-41fa-9c34-25ae0dd66f55.png" title="User Guide" alt="User Guide"></a>
@@ -200,4 +199,4 @@ title: PMHC MDS Newsletter 1
       <a href="https://www.pmhc-mds.com/communications/"><img class="useful" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F7efbd585-d767-422d-97f7-885ea559e9a7.png" title="Announcements" alt="Announcements"></a>
     </td>
   </tr>
-</table> 
+</table>

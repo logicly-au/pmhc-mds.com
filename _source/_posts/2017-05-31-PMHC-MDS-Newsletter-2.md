@@ -1,7 +1,7 @@
 ---
 title: PMHC MDS Newsletter 2
 ---
-<table role="presentation" aria-hidden="true">
+<table role="presentation">
   <tr>
     <td>
       <h4>
@@ -48,7 +48,7 @@ title: PMHC MDS Newsletter 2
     <td>
       <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="Divider" alt="Divider"/>
 
-      <table role="presentation" aria-hidden="true">
+      <table role="presentation">
         <tr>
           <td>
             <h4>
@@ -275,7 +275,7 @@ title: PMHC MDS Newsletter 2
     </td>
   </tr>
 </table>
-<table role="presentation" aria-hidden="true">
+<table role="presentation">
   <tr>
     <td>
       <a href="https://docs.pmhc-mds.com/user-documentation/index.html#user-docs"><img class="useful" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2Fba8fcb99-271d-41fa-9c34-25ae0dd66f55.png" title="User Guide" alt="User Guide"></a>
