@@ -25,7 +25,7 @@ title: PMHC MDS Newsletter 1
       <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
 
       <div class="section">
-        <img class="flame" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F5431bccf-3db3-45a7-b9b1-1da2315880ca.png" title="" alt="Flame Icon">
+        <img class="flame" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F5431bccf-3db3-45a7-b9b1-1da2315880ca.png" title="" alt="">
         <h4>
           Helpdesk's hottest tip.
         </h4>
