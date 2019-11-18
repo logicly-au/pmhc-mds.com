@@ -2,17 +2,15 @@
 title: Update to the PMHC MDS - 24/2/2017
 ---
 
-<p>PMHC MDS Update v0.7.5 was released on February 24, 2017.</p>
+PMHC MDS Update v0.7.5 was released on February 24, 2017.
 
-<p>The following functionality has been added:</p>
-<ol>
-  <li>The ‘Reporting’ role has been added.</li>
-  <li>A ‘Data Extraction’ tab is now available for users who have been granted the ‘Reporting’ role.</li>
-</ol>
+The following functionality has been added:
 
-<p>Data extraction allows users to select a Primary Health Network or Provider Organisation and a date range to download the data contained in the PMHC MDS for the criteria selected. The downloaded data conforms to the <a href="https://docs.pmhc-mds.com/data-specification/upload-specification.html">upload specification</a>.</p>
+1. The ‘Reporting’ role has been added.
+2. A ‘Data Extraction’ tab is now available for users who have been granted the ‘Reporting’ role.
 
-<p>Users who have already been granted the ‘User Management’ role have automatically been granted the ‘Reporting’ role. These users will need to login to the PMHC MDS and grant the ‘Reporting’ role to any other users that should be able to download data.</p>
+Data extraction allows users to select a Primary Health Network or Provider Organisation and a date range to download the data contained in the PMHC MDS for the criteria selected. The downloaded data conforms to the [upload specification](https://docs.pmhc-mds.com/data-specification/upload-specification.html).
 
-<p>The user guide has been updated to reflect these updates. It is available at <a href="https://docs.pmhc-mds.com/user-documentation/">https://docs.pmhc-mds.com/user-documentation/</a>.</p>
+Users who have already been granted the ‘User Management’ role have automatically been granted the ‘Reporting’ role. These users will need to login to the PMHC MDS and grant the ‘Reporting’ role to any other users that should be able to download data.
 
+The user guide has been updated to reflect these updates. It is available at [https://docs.pmhc-mds.com/user-documentation/](https://docs.pmhc-mds.com/user-documentation/).

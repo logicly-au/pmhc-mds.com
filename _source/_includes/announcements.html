@@ -1,7 +1,7 @@
 <div>
-<h2 class="subhead">Announcements</h2>
+<h1 class="subhead">Announcements</h1>
   <hr />
-<h3>Latest</h3>
+<h2>Latest</h2>
   {% for post in site.posts limit:1 %}
       <a href="/communications/#{{ post.url }}"><h4>{{ post.title }}</h4></a>
       {{ post.excerpt }}
@@ -9,7 +9,7 @@
 
 {% if site.posts.size > 1 %}
 <hr />
-<h4>Previous</h4>
+<h2>Previous</h2>
 <div class="l-announcements">
 <div>
   {% for post in site.posts offset:1 limit:3 %}

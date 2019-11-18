@@ -4,9 +4,9 @@ title: PMHC MDS Newsletter 2
 <table role="presentation">
   <tr>
     <td>
-      <h4>
+      <h3>
         Let's discuss PMHC MDS.
-      </h4>
+      </h3>
       <p>
         We are fast approaching the end of the financial year.
       </p>
@@ -51,9 +51,9 @@ title: PMHC MDS Newsletter 2
       <table role="presentation">
         <tr>
           <td>
-            <h4>
+            <h3>
               Service Provider Quick Reference Guide.
-            </h4>
+            </h3>
           </td>
         </tr>
         <tr>
@@ -81,12 +81,12 @@ title: PMHC MDS Newsletter 2
 
       <div class="section">
         <img class="flame" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F5431bccf-3db3-45a7-b9b1-1da2315880ca.png" title="" alt="">
-        <h4>
+        <h3>
           Helpdesk's hottest tip
-        </h4>
-        <h5>
+        </h3>
+        <h4>
           Data Consistency Requirements for Manual Upload of File/Worksheet
-        </h5>
+        </h4>
         <p>
           Data elements for each file/worksheet are defined at
           <a title="PMHC MDS Data Record FormatsSpecification " href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#record-formats">Record Formats</a>
@@ -105,58 +105,58 @@ title: PMHC MDS Newsletter 2
   <tr>
     <td>
       <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
-      <h4>
+      <h3>
         What are the hot topics?
-      </h4>
+      </h3>
       <p>
         The PMHC MDS Helpdesk has had a few similar enquiries from various PHNs recently, and we thought it would be valuable to share these.
       </p>
-      <h5>
+      <h4>
         Specification Definitions
-			</h5>
+			</h4>
       <p>
         Each data item has associated notes that provide guidance on which response to use. By clicking on the <a title="PMHC MDS Data Record FormatsSpecification " href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#record-formats">Record Formats</a> field name this will take you to the field definition which outlines the associated notes.
       </p>
-      <h5>
+      <h4>
         Client Consent
-			</h5>
+			</h4>
       <p>
         All data can be uploaded to the PMHC MDS, regardless of the consent flag.  We have added more details to the Client consent information to explain how this data will be managed by the PMHC MDS -
         <a title="Definition of 'Episode - Client Consent to Anonymised Data'" href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-client-consent-to-anonymised-data">READ MORE</a>
       </p>
-      <h5>
+      <h4>
         First Uploads
-			</h5>
+			</h4>
       <p>
         Now is the right time for PHNs and Provider Organisations to be testing uploads. Start small and test how the system responds to ensure that you have the base file format fundamentals for the uploads file/worksheet. Once the initial small uploads are successful, you'll find it much easier to roll out the system from there. For Upload Specification information -
         <a title="PMHC MDS Upload File Format Specification" href="https://docs.pmhc-mds.com/data-specification/upload-specification.html#">READ MORE</a>
       </p>
-      <h5>
+      <h4>
         PHNs can request a 'Test' Organisation
-			</h5>
+			</h4>
       <p>
         If PHNs would like to set up a test organisation for initial upload tests with fictitious/test data, then PHNs can request one to be created on the separate Developers PMHC MDS.  Just follow the instructions as outlined for software developers -
         <a title="PMHC MDS Annoucement for Developers site" href="https://www.pmhc-mds.com/communications/#/2017/02/17/Separate-PMHC-MDS-now-available-for-software-developers-to-test-upload-files/">READ MORE</a>
       </p>
-      <h5>
+      <h4>
         Client Key
-			</h5>
+			</h4>
       <p>
         We understand that PHNs are having difficulty with the requirement for there to be a stable and unique client key across their provider organisations. This is the problem that the Master Client Index (MCI) is being designed to help with.
       </p>
       <p>
         Strategic Data have analysed the feedback from the one on one discussions with the volunteer PHNs, and passed this feedback onto The Department of Health. Options are currently being discussed. Once a decision has been reached it will be communicated to all PHNs.
       </p>
-      <h5>
+      <h4>
         Reporting timelines
-			</h5>
+			</h4>
       <p>
         The PMHC MDS won't remind users to upload data. PHNs will receive reporting dates from the Department. PHNs will need to manage within their own systems and remind Provider Organisations to upload if required.  We have listed a minimum expectation for upload timelines on the PMHC documentation site -
         <a title="PMHC MDS Reporting timelines" href="https://docs.pmhc-mds.com/data-specification/reporting-arrangements.html#reporting-timeliness">READ MORE</a>
       </p>
-      <h5>
+      <h4>
         ATAPS news list communication
-			</h5>
+			</h4>
       <p>
         The ATAPS mailing list will no longer receive messages from the evaluation team at The University of Melbourne reminding them to upload data. This has caused some recent confusion for current Provider Organisations who are reporting data to the old ATAPS MDS. It is the responsibility of PHNs to manage the data that is entered into the ATAPS MDS.
       </p>
@@ -168,9 +168,9 @@ title: PMHC MDS Newsletter 2
 
       <div class="section">
         <img class="flame" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2FProposed+-+PMHC+Mailing-List+Image+cropped+%281%29.jpg" title="" alt="">
-        <h4>
+        <h3>
           PMHC MDS Mailing List
-        </h4>
+        </h3>
         <p>
           PMHC MDS Mailing List Subscribers along will all PMHC MDS Users will receive release update and Department announcements.
         </p>
@@ -192,9 +192,9 @@ title: PMHC MDS Newsletter 2
     <td>
       <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider"  />
 
-      <h4>
+      <h3>
         What to expect next?
-      </h4>
+      </h3>
       <p>
         Let us delve into the developer's world - If you are game then we are too.
       </p>
@@ -211,9 +211,9 @@ title: PMHC MDS Newsletter 2
         <li>MDS Update <a title="PMHC MDS v0.9.2 News Annoucement" href="https://www.pmhc-mds.com/communications/#/2017/05/18/Update-to-the-PMHC-MDS-v0-9-2-and-Data-Specifications-v1-0-6/">v0.9.2 was released on May 18, 2017</a></li>
         <li>MDS Update <a title="PMHC MDS v0.10.0 News Annoucement" href="https://www.pmhc-mds.com/communications/#/2017/05/26/Update-to-the-PMHC-MDS-v0-10-0/">v0.10.0 was released on May 26, 2017</a></li>
       </ul>
-      <h5>
+      <h4>
         Milestone Releases
-      </h5>
+      </h4>
       <p>
         From recent Helpdesk PHN enquiries and discussions, Strategic Data has been able to advocate that for PHNs the Data Entry interface is more important to them than the Outcome Measures Self Service Interface. The Department has approved this development priority change and Strategic Data resources have been moved accordingly.
       </p>
@@ -235,9 +235,9 @@ title: PMHC MDS Newsletter 2
       <p>
         Reporting is still in the early stages of development. Initial reports will be designed to assist data managers monitor the data that has been uploaded/entered into the PMHC MDS.
       </p>
-      <h5>
+      <h4>
         Stage Two
-      </h5>
+      </h4>
       <p>
         Once data entry has been implemented we will continue to focus on the remaining <a title="PMHC MDS Stage Two Development" href="https://docs.pmhc-mds.com/faqs/system/development.html#development-of-the-pmhc-minimum-data-set">Stage Two</a> developments. Releases for these items will continue throughout this year.
       </p>
@@ -251,9 +251,9 @@ title: PMHC MDS Newsletter 2
       <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider"  />
       <div class="section">
         <img class="flame" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F2fcc4ec8-797f-433b-8455-02bf3adc61d5.png" title="" alt="">
-        <h4>
+        <h3>
               Who to contact?
-        </h4>
+        </h3>
         <p>
           A dedicated Help Desk is available to support <b>Primary Health Networks</b> and <b>Provider Organisations</b> implementing the PMHC in relation to the minimum data set system.
         </p>
@@ -269,9 +269,9 @@ title: PMHC MDS Newsletter 2
   <tr>
     <td>
       <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider"  />
-      <h4>
+      <h3>
         Useful Links
-      </h4>
+      </h3>
     </td>
   </tr>
 </table>

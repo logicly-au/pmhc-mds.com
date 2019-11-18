@@ -2,15 +2,13 @@
 title: Update to the PMHC MDS - 20/7/2017
 ---
 
-<h4>PMHC MDS Update v0.13.2</h4>
+#### PMHC MDS Update v0.13.2
 
-<p>We are pleased to announce that PMHC MDS Update v0.13.2 was released on July 20, 2017.</p>
+We are pleased to announce that PMHC MDS Update v0.13.2 was released on July 20, 2017.
 
-<p>The following updates have been implemented:</p>
+The following updates have been implemented:
 
-<ul>
-<li>Users who have been granted the ‘Data Entry’ role can now add and edit K10+ and K5 information.</li>
-<li>The Upload tab has been made more responsive</li>
-</ul>
+* Users who have been granted the ‘Data Entry’ role can now add and edit K10+ and K5 information.
+* The Upload tab has been made more responsive
 
-<p>The user guide has been updated to reflect these updates. It is available at <a href="https://docs.pmhc-mds.com/user-documentation/">https://docs.pmhc-mds.com/user-documentation/</a>.</p>
+The user guide has been updated to reflect these updates. It is available at [https://docs.pmhc-mds.com/user-documentation/](https://docs.pmhc-mds.com/user-documentation/).

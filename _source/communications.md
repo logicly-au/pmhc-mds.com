@@ -13,11 +13,12 @@ sub-heading: Communications
 </ul>
 
 <hr />
+
 <div>
   {% for post in site.posts %}
     <div>
-      <div id = "{{ post.url }}"><h3>{{ post.title }}</h3></div>
-      <h4>{{ post.date | date: '%B %d, %Y' }}</h4>
+      <div id = "{{ post.url }}"><h2>{{ post.title }}</h2></div>
+      <h3>{{ post.date | date: '%B %d, %Y' }}</h3>
 	    {{ post.content }}
 	    <hr />
     </div>
