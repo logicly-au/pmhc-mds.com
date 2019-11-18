@@ -11,14 +11,14 @@
 <hr />
 <h4>Previous</h4>
 <div class="l-announcements">
-<ul>
+<div>
   {% for post in site.posts offset:1 limit:3 %}
-    <li>
+    <p>
       <a href="/communications/#{{ post.url }}">{{ post.title }}</a><span> | {{ post.date | date: '%B %d, %Y' }}</span>
-    </li>
+    </p>
   {% endfor %}
-    <li class="archive"><a href="/communications/">View Archive</a></li>
-</ul>
+    <p class="archive"><a href="/communications/">View Archive</a></p>
+</div>
 {% endif %}
 
 </div>

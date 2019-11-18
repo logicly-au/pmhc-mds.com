@@ -14,14 +14,12 @@ sub-heading: Communications
 
 <hr />
 <div>
-<ul class="l-communications-ul">
   {% for post in site.posts %}
-    <li class="l-communications">
-    <div id = "{{ post.url }}"><h3>{{ post.title }}</h3></div>
-    <h4>{{ post.date | date: '%B %d, %Y' }}</h4>
-	{{ post.content }}
-	<hr />
-</li>
+    <div>
+      <div id = "{{ post.url }}"><h3>{{ post.title }}</h3></div>
+      <h4>{{ post.date | date: '%B %d, %Y' }}</h4>
+	    {{ post.content }}
+	    <hr />
+    </div>
   {% endfor %}
-</ul>
 </div>
