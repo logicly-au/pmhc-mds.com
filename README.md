@@ -2,9 +2,6 @@
 
 [![Build Status](https://travis-ci.org/strategicdata/pmhc-mds.com.svg?branch=master)](https://travis-ci.org/strategicdata/pmhc-mds.com)
 
-
-https://hub.docker.com/r/stratdat/pmhc-mds.com/
-
 ## Build and view site
 
 `docker-compose up`
