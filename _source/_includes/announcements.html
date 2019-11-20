@@ -1,25 +1,25 @@
 <div>
 <h1 class="subhead">Announcements</h1>
-  <hr />
-<h2>Latest</h2>
-  {% for post in site.posts limit:1 %}
+
+<div class="post">
+  <h2>Latest</h2>
+    {% for post in site.posts limit:1 %}
       <a href="/communications/#{{ post.url }}"><h4>{{ post.title }}</h4></a>
       {{ post.excerpt }}
-  {% endfor %}
+    {% endfor %}
+</div>
 
-{% if site.posts.size > 1 %}
-<hr />
-<h2>Previous</h2>
-<div class="l-announcements">
-<div>
-  {% for post in site.posts offset:1 limit:3 %}
+<div class="post">
+  {% if site.posts.size > 1 %}
+  <h2>Previous</h2>
+  <div class="l-announcements">
+    {% for post in site.posts offset:1 limit:3 %}
     <p>
       <a href="/communications/#{{ post.url }}">{{ post.title }}</a><span> | {{ post.date | date: '%B %d, %Y' }}</span>
     </p>
-  {% endfor %}
-    <p class="archive"><a href="/communications/">View Archive</a></p>
-</div>
-{% endif %}
-
-</div>
+    {% endfor %}
+  </div>
+  <p class="archive"><a href="/communications/">View Archive</a></p>
+  </div>
+  {% endif %}
 </div>
