@@ -12,16 +12,12 @@ sub-heading: Communications
   {% endfor %}
 </ul>
 
-<hr />
 <div>
-<ul class="l-communications-ul">
   {% for post in site.posts %}
-    <li class="l-communications">
-    <div id = "{{ post.url }}"><h3>{{ post.title }}</h3></div>
-    <h4>{{ post.date | date: '%B %d, %Y' }}</h4>
-	{{ post.content }}
-	<hr />
-</li>
+    <div class="post">
+      <div id = "{{ post.url }}"><h2>{{ post.title }}</h2></div>
+      <h3>{{ post.date | date: '%B %d, %Y' }}</h3>
+	    {{ post.content }}
+    </div>
   {% endfor %}
-</ul>
 </div>

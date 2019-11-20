@@ -2,10 +2,10 @@
 title: Update to the PMHC MDS Service Provider Quick Reference Guide - 22/9/2017
 ---
 
-<h4>The PMHC MDS Service Provider Quick Reference Guide Version 1.2  was released on September 22, 2017</h4>
+#### The PMHC MDS Service Provider Quick Reference Guide Version 1.2  was released on September 22, 2017
 
-<p>The PMHC MDS Service Provider QUICK REFERENCE Guide is a resource intended to describe key issues and concepts related to the collection of, and provision of data to, the PMHC MDS for mental health service providers. For more detailed information regarding the PMHC MDS, see the <a href="https://docs.pmhc-mds.com/data-specification/">PMHC MDS Data Specifications</a>.</p>
+The PMHC MDS Service Provider QUICK REFERENCE Guide is a resource intended to describe key issues and concepts related to the collection of, and provision of data to, the PMHC MDS for mental health service providers. For more detailed information regarding the PMHC MDS, see the [PMHC MDS Data Specifications](https://docs.pmhc-mds.com/data-specification/).
 
-<p>There are two versions of the PMHC MDS Service Provider Quick Reference Guide. If you are a service provider, it is recommended that you use the <a href="https://www.pmhc-mds.com/doc/service-provider-quick-reference-guide-20170920.pdf">PDF version</a> produced by the Department of Health. If you are a Primary Health Network, you can use the <a href="https://www.pmhc-mds.com/doc/service-provider-quick-reference-guide-template-20170920.docx">word version</a> to tailor some of the information to your local context.</p>
+There are two versions of the PMHC MDS Service Provider Quick Reference Guide. If you are a service provider, it is recommended that you use the [PDF version](https://www.pmhc-mds.com/doc/service-provider-quick-reference-guide-20170920.pdf) produced by the Department of Health. If you are a Primary Health Network, you can use the [word version](https://www.pmhc-mds.com/doc/service-provider-quick-reference-guide-template-20170920.docx) to tailor some of the information to your local context.
 
-<p>Section 9 of the PMHC MDS Service Provider Quick Reference Guide has been updated to reflect that where the client consents, identifiable data can be passed onto PHNs but only anonymised data will be provided to the Department of Health.</p>
+Section 9 of the PMHC MDS Service Provider Quick Reference Guide has been updated to reflect that where the client consents, identifiable data can be passed onto PHNs but only anonymised data will be provided to the Department of Health.

@@ -4,7 +4,7 @@ title: PMHC MDS Newsletter 1
 <table role="presentation">
   <tr>
     <td>
-      <h4>Let's discuss PMHC MDS.</h4>
+      <h3>Let's discuss PMHC MDS.</h3>
       <p class="large">
         The Primary Mental Health Care Minimum Data Set (PMHC MDS) is live and ready for you to use in a way that best suits your organisation.
       </p>
@@ -25,13 +25,13 @@ title: PMHC MDS Newsletter 1
       <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
 
       <div class="section">
-        <img class="flame" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F5431bccf-3db3-45a7-b9b1-1da2315880ca.png" title="" alt="Flame Icon">
-        <h4>
+        <img class="flame" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F5431bccf-3db3-45a7-b9b1-1da2315880ca.png" title="" alt="">
+        <h3>
           Helpdesk's hottest tip.
-        </h4>
-        <h5>
+        </h3>
+        <h4>
           Inform new users of the PMHC MDS invitation process
-        </h5>
+        </h4>
         <p>
           To avoid the invitation email and/or SMS token being deleted, it is always best to notify a user that you will be sending them a PMHC MDS invitation. Inform them that they will receive an invitation by email from noreply@strategicdata.com and a verification
           code via SMS. Please also provide them with the link to the online
@@ -44,28 +44,28 @@ title: PMHC MDS Newsletter 1
   <tr>
     <td>
       <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
-      <h4>What are the hot topics?</h4>
+      <h3>What are the hot topics?</h3>
       <p class="large">
         The PMHC MDS Helpdesk has had a few similar enquiries from various PHNs recently, and we thought it would be valuable to share these.
       </p>
-      <h5>MHNIPS data collection</h5>
+      <h4>MHNIPS data collection</h4>
       <p>
         The Department of Health is expecting all commissioned Mental Health Nursing services data from July 2016 to be entered into the PMHC MDS -
         <a title="Documentation about collecting MHNIPs data" href="https://docs.pmhc-mds.com/faqs/concepts-processes/outcome-measures.html#mhnip-outcome-measures">READ MORE</a>
       </p>
-      <h5>Capturing additional data</h5>
+      <h4>Capturing additional data</h4>
       <p>
         Organisations may collect extra information for their own analysis however this information does not need to be submitted to the PMHC MDS -
         <a title="Documentation about collecting extra data in the PMHC MDS" href="https://docs.pmhc-mds.com/faqs/system/additional-data.html#capturing-additional-data">READ MORE</a>
       </p>
-      <h5>Fictitious data testing</h5>
+      <h4>Fictitious data testing</h4>
       <p>
         The MDS is live and data uploads will be recorded. Real PMHC data can be trialled by
         <a title="Documentation about uploading a file to the PMHC MDS in test mode" href="https://docs.pmhc-mds.com/user-documentation/upload.html#uploading-a-file-in-test-mode">uploading in test mode</a>, whereas fictitious
         data should be trialled with a 'Test Organisation' on developers.pmhc-mds.net -
         <a title="Documentation about Developers PMHC MDS instance" href="https://www.pmhc-mds.com/communications/#/2017/02/17/Separate-PMHC-MDS-now-available-for-software-developers-to-test-upload-files/">READ MORE</a>
       </p>
-      <h5>Assignment of unique keys</h5>
+      <h4>Assignment of unique keys</h4>
       <p>
         PHNs have raised a number of queries about the assignment of unique keys.
       </p>
@@ -77,13 +77,13 @@ title: PMHC MDS Newsletter 1
           <a title="Information about identifier management" href="https://docs.pmhc-mds.com/faqs/concepts-processes/identifiers.html">READ MORE</a>
         </li>
       </ul>
-      <h5>Personal mobile phones</h5>
+      <h4>Personal mobile phones</h4>
       <p>
         If a user is uneasy with providing their personal mobile phone number, please assure them that this mobile is only used by the PMHC MDS profile management system to deliver the verification code via SMS. This is used to activate their profile, reset their
         password or if a password is forgotten or expires. Users' mobile phone numbers are not listed or able to be viewed by other users within the PMHC MDS -
         <a title="Information about updating your details" href="https://docs.pmhc-mds.com/user-documentation/home.html#updating-your-details">READ MORE</a>
       </p>
-      <h5>Invitation failed error - An outstanding PMHC MDS invite exists</h5>
+      <h4>Invitation failed error - An outstanding PMHC MDS invite exists</h4>
       <p>
         An invitation will be valid for 7 days and you can not resend an invitation within this time whilst a token is still valid.
       </p>
@@ -103,7 +103,7 @@ title: PMHC MDS Newsletter 1
     <td>
       <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
       <div class="section">
-        <h4>We would like to know you better!</h4>
+        <h3>We would like to know you better!</h3>
         <p>
           How many commissioned provider organisations do you have?
         </p>
@@ -119,9 +119,9 @@ title: PMHC MDS Newsletter 1
   <tr>
     <td>
       <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
-      <h4>
+      <h3>
         What to expect next?
-      </h4>
+      </h3>
       <p class="large">
         Let us delve into the developer's world - If you are game then we are too.
       </p>
@@ -133,7 +133,7 @@ title: PMHC MDS Newsletter 1
         The below milestones have been set with new releases to become a regular occurrence. Some features may be a lot of work for a back end developer but will offer minimal visual impact to the current user interface, others will have a significant change
         to the look and will streamline user functionality, or to provide additional and much awaited tools to the website.
       </p>
-      <h5>Next Milestone Releases will be:</h5>
+      <h4>Next Milestone Releases will be:</h4>
       <ul>
         <li>Limit organisation structure to two levels</li>
         <li>View Client Data</li>
@@ -159,7 +159,7 @@ title: PMHC MDS Newsletter 1
       <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
       <div class="section">
         <img class="info" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F2fcc4ec8-797f-433b-8455-02bf3adc61d5.png" title="" alt="Information Icon">
-        <h4>Who to contact?</h4>
+        <h3>Who to contact?</h3>
         <p class="large">
           A dedicated PMHC MDS Helpdesk has been developed to be your first point of call for anything related to the PMHC MDS so please don't feel afraid to reach out and contact us.
         </p>
@@ -180,7 +180,7 @@ title: PMHC MDS Newsletter 1
   <tr>
     <td>
       <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
-      <h4>Useful Links</h4>
+      <h3>Useful Links</h3>
     </td>
   </tr>
 </table>
