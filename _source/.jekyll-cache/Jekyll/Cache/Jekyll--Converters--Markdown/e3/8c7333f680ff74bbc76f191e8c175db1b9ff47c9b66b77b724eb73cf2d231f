@@ -1,0 +1,30 @@
+I"�<h4 id="pmhc-mds-update-v0310">PMHC MDS Update v0.31.0</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.31.0 was released on September 6, 2019.</p>
+
+<p>The following reports have been updated to reflect changes to the specifications:</p>
+<ul>
+  <li>Out-1, Out-2 and Out-3 now all use the same (new) criteria for baseline episode inclusion</li>
+</ul>
+
+<p>The following bugfixes have been implemented in the upload interface:</p>
+<ul>
+  <li>Fix for a small number of zip files that could not be iteratively extracted</li>
+  <li>Fix for deleting data where fields permit multiple responses</li>
+  <li>Consistent handling of zip files when all the archived csv files were contained in a subdirectory.</li>
+  <li>Fix for data extraction in csv format having metadata.csv.csv</li>
+  <li>Fix for permission checks for user roles of a Provider Organisation in grace period</li>
+  <li>Fixed date handling uploads where the organisation end date was being set to today’s date</li>
+  <li>Fixed error reporting of the Practitioner - Year of Birth field when it is too far in the past</li>
+  <li>Fixed test mode so that it reports the same errors as a non test upload</li>
+</ul>
+
+<p>The following bugfixes have been implemented in the reporting interface:</p>
+<ul>
+  <li>Fix for calculation of end of financial year dates.</li>
+  <li>Fix for App-2 report to also include the organisation type “Aboriginal health/medical service” in calculations</li>
+</ul>
+
+<p>The user guide has been updated to reflect these updates. It is available
+at <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a>.</p>
+:ET

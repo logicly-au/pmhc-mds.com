@@ -1,0 +1,14 @@
+I"d<h4 id="pmhc-mds-update-v0182">PMHC MDS Update v0.18.2</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.18.2 was released on
+December 1, 2017.</p>
+
+<p>The following updates and bugfixes have been implemented in the upload interface:</p>
+
+<ul>
+  <li>Fixed an issue where trailing blank lines in files were causing system errors.</li>
+  <li>Fixed an issue where blank lines within SDQ data would cause subtotal validation to fail.</li>
+</ul>
+
+<p>To all users who were affected by these issues, we thank you for your patience and we sincerely apologise for any inconvenience these issues had caused.</p>
+:ET

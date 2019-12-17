@@ -1,0 +1,32 @@
+I"Œ<p>The PMHC MDS currently supports uploads in both the Version 1 format as documented at <a href="http://docs.pmhc-mds.com/projects/data-specification/en/v1/" target="_blank">http://docs.pmhc-mds.com/projects/data-specification/en/v1/</a> and the Version 2 format as documented at <a href="http://docs.pmhc-mds.com/projects/data-specification/en/v2/" target="_blank">http://docs.pmhc-mds.com/projects/data-specification/en/v2/</a>.</p>
+
+<p><strong>After the 30th of June 2020 the PMHC MDS will no longer accept uploads using the Version 1 format.</strong> Please ensure that you have migrated to using the Version 2 format before this date.</p>
+
+<p>A summary of the changes between version 1.0 and 2.0 are as follows:</p>
+
+<ul>
+  <li>
+    <p>Version 2.0 introduces a new metadata file or worksheet.
+In version 1.0 a version number had to be specified as the first row in every
+row/worksheet. This row has been removed from version 2.0 and the version
+number has been moved into a separate worksheet.
+See <a href="https://docs.pmhc-mds.com/projects/data-specification/en/v2/upload-specification.html#metadata-file" target="_blank">https://docs.pmhc-mds.com/projects/data-specification/en/v2/upload-specification.html#metadata-file</a></p>
+  </li>
+  <li>The following new fields will be added to the Organisation record:
+    <ul>
+      <li>Start Date</li>
+      <li>End Date</li>
+    </ul>
+  </li>
+  <li>The following field will be retired from the Organisation record:
+    <ul>
+      <li>Provider Organisation Status</li>
+    </ul>
+  </li>
+  <li>The following new field will be added to the Episode record:
+    <ul>
+      <li>Continuity of Support</li>
+    </ul>
+  </li>
+</ul>
+:ET

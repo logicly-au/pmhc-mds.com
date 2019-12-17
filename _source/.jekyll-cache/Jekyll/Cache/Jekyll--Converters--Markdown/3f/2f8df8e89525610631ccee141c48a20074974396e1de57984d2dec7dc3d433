@@ -1,0 +1,26 @@
+I"°<h4 id="pmhc-mds-update-v0313">PMHC MDS Update v0.31.3</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.31.3 was released on September 23, 2019.</p>
+
+<p>The following features have been implemented in the reports interface:</p>
+<ul>
+  <li>Updated the financial year selectors to include half financial years as well
+as full financial years</li>
+</ul>
+
+<p>The following bugfixes have been implemented in the upload interface:</p>
+<ul>
+  <li>Improved error messages when organisation start and/or end dates are not
+consistent with other dates dates within the upload file</li>
+  <li>Improved error messages when a CSV upload file was not conforming to the RFC4180 standard</li>
+  <li>Only the first 2,500 error messages will be displayed or included in the upload email</li>
+</ul>
+
+<p>The following bugfixes have been implemented in the reports interface:</p>
+<ul>
+  <li>Fix for a double counting issue in the Out-1 and Out-2 reports</li>
+</ul>
+
+<p>The user guide has been updated to reflect these updates. It is available
+at <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a>.</p>
+:ET

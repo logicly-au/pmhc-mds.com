@@ -1,0 +1,38 @@
+I"�<h4 id="pmhc-mds-update-v0120">PMHC MDS Update v0.12.0</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.12.0 was released on June 30, 2017.</p>
+
+<p>The following functionality has been added:</p>
+
+<ul>
+  <li>Client, Episode and Service Contact information can now be added and edited for users who have been granted the ‘Data Entry’ role.</li>
+</ul>
+
+<h4 id="pmhc-mds-data-specifications-update-v109">PMHC MDS Data Specifications Update v1.0.9</h4>
+
+<p>We are also pleased to announce that PMHC MDS Data Specifications Update v1.0.9 was released on June 30, 2017.</p>
+
+<p>The following data item has been added:</p>
+
+<ul>
+  <li>
+    <p>Data model and specifications</p>
+
+    <ul>
+      <li>
+        <p>Record formats</p>
+
+        <ul>
+          <li>
+            <p><a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#provider-organisation-data-elements">Provider Organisation</a></p>
+
+            <ul>
+              <li><a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#provider-organisation-status">Added Organisation Status</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+:ET

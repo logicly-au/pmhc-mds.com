@@ -1,0 +1,28 @@
+I"�<h4 id="pmhc-mds-update-v0236">PMHC MDS Update v0.23.6</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.23.6 was released on July 12, 2018.</p>
+
+<p>The following updates and bugfixes have been implemented across the whole site:</p>
+
+<ul>
+  <li>Fixed a number of issues when using the site with a screen reader.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented in the Data Entry interface:</p>
+
+<ul>
+  <li>Fixed a bug when filtering by date where the / symbol wasn’t being accepted.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented in the Upload interface:</p>
+
+<ul>
+  <li>Fixed a bug when filtering by date where the / symbol wasn’t being accepted.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented in the SLK tab:</p>
+
+<ul>
+  <li>Fixed a bug where the default date of 09/09/9999 was not being accepted.</li>
+</ul>
+:ET

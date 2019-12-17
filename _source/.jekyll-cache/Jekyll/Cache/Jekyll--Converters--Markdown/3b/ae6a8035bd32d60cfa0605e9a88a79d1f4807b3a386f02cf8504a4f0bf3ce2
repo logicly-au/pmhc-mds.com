@@ -1,0 +1,25 @@
+I"à<h4 id="pmhc-mds-update-v0200">PMHC MDS Update v0.20.0</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.20.0 was released on December 12, 2017.</p>
+
+<p>The following features have been implemented in the reporting interface:</p>
+
+<ul>
+  <li>System report A1 - High level summary of overall volumes, and</li>
+  <li>System report A2 - Monthly volume trends.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented in the data extract interface:</p>
+
+<ul>
+  <li>Fixed a bug where an error was reported when requesting a Data Extract.</li>
+  <li>Fixed a bug where data extracts for a provider organisation included all data for other provider organisations the user had the reporting role assigned.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented in the upload interface:</p>
+
+<ul>
+  <li>Fixed a bug where an error was produced when an existing episode was closed and a new episode was opened for the same client in a single upload.</li>
+</ul>
+
+:ET

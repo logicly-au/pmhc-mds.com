@@ -1,0 +1,110 @@
+I"
+<h4 id="pmhc-mds-update-v0161">PMHC MDS Update v0.16.1</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.16.1 was released on
+September 26, 2017.</p>
+
+<p>The following features have been implemented:</p>
+
+<ul>
+  <li>Redesigned the User Roles tab.</li>
+  <li>Reports can now be downloaded as CSV.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented in the data entry
+interface:</p>
+
+<ul>
+  <li>Fixed an issue where after saving a K10+ outcome measure items 11, 12 and 13
+were not saved.</li>
+  <li>Fixed an issue where the Service Contact - Copayment field was not being
+properly validated.</li>
+  <li>Fixed an issue where users were able to view users at organisations for which
+they did not have the User Management role.</li>
+  <li>Fixed an issue where Service Contacts could be added after the Episode End Date.</li>
+  <li>Fixed an issue where filtering on the Completion Status of an episode would
+could the drop down filter to disappear.</li>
+  <li>Uploads already fail with an error if Service Contact - Participants is
+‘1: Individual client’ and Client Participation Indicator is not ‘1: Yes’.
+This validation is now also enforced via the data entry interface.</li>
+  <li>Fixed an issue where users with the Reporting role that are only associated
+with a single organisation couldn’t run reports.</li>
+  <li>Fixed an issue where the View Episodes table was not being updated after an
+Episode had been edited.</li>
+  <li>Fixed an issue when editing the Episode - Completion Status. Episode Open
+was being represented as a blank option. If you selected a value for
+Completion Status, the blank option would disappear. The blank option has
+been removed and Episode Open is explicitly given as an option.</li>
+  <li>Fixed an issue where a PHN would not be listed in the Upload drop down
+unless at least one Provider Organisation had already been created for that PHN.</li>
+  <li>Fixed an issue where inherited roles were not being indicated in the
+‘Assigned Users’ tab.</li>
+  <li>Fixed an issue where no warning was displayed if a postcode was longer than
+4 digits.</li>
+</ul>
+
+<p>The user guide has been updated to reflect these updates. It is available at <a href="https://docs.pmhc-mds.com/user-documentation/">https://docs.pmhc-mds.com/user-documentation/</a>.</p>
+
+<h4 id="pmhc-mds-data-specifications-update-v1011">PMHC MDS Data Specifications Update v1.0.11</h4>
+
+<p>We are also pleased to announce that PMHC MDS Data Specifications Update
+v1.0.11 was released on September 25, 2017. The following updates have been
+implemented:</p>
+
+<ul>
+  <li>
+    <p><a href="https://docs.pmhc-mds.com/data-specification/upload-specification.html">Upload specification</a></p>
+
+    <ul>
+      <li>Added <a href="https://docs.pmhc-mds.com/data-specification/upload-specification.html#deleting-records">Deleting records</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html">Data model and specifications</a></p>
+
+    <ul>
+      <li>
+        <p><a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#record-formats">Record formats</a></p>
+
+        <ul>
+          <li>
+            <p><a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-data-elements">Episode</a></p>
+
+            <ul>
+              <li>Updated <a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-completion-status">Episode - Completion Status</a> to allow either 0 or blank to
+represent ‘Episode open’</li>
+            </ul>
+          </li>
+          <li>
+            <p><a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-data-elements">Service Contact</a></p>
+
+            <ul>
+              <li>Clarified that the upper bound for <a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-copayment">Service Contact - Copayment</a> is 999999.99</li>
+              <li>Updated <a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-participants">Service Contact - Participants</a> and <a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-client-participation-indicator">Service Contact - Client Participation Indicator</a>
+to clarify how <a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-participants">Service Contact - Participants</a>
+and <a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-client-participation-indicator">Service Contact - Client Participation Indicator</a> interact</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://docs.pmhc-mds.com/data-specification/validation-rules.html">Validation Rules</a></p>
+
+    <ul>
+      <li>Updated <a href="https://docs.pmhc-mds.com/data-specification/validation-rules.html">Validation Rules</a> to
+clarify how <a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-participants">Service Contact - Participants</a>
+and <a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-client-participation-indicator">Service Contact - Client Participation Indicator</a> interact</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="deletion-of-records-in-the-pmhc-mds">Deletion of records in the PMHC MDS</h4>
+
+<p>Please note that deletion of records is being planned for a future release.
+Deletion will be possible via both the data entry interface and uploads.
+In order to allow organisations and third party developers to plan for
+allowing deletion in uploads we have released the planned specification.
+It is available at <a href="https://docs.pmhc-mds.com/data-specification/upload-specification.html#deleting-records">Deleting records</a>. File format changes to accommodate deletion are backwards compatible with the current format.</p>
+:ET

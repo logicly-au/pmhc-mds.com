@@ -1,0 +1,122 @@
+I"�<h4 id="pmhc-mds-update-v021">PMHC MDS Update v0.21</h4>
+
+<p>We are pleased to announce the first PMHC MDS update for 2018. PMHC MDS Update
+v0.21 was released on January 19, 2018.</p>
+
+<p>The following features have been implemented across all interfaces:</p>
+<ul>
+  <li>After a user has logged in, smaller headers and footers will be shown.</li>
+  <li>Minimum dates have been applied to the following fields: Client - Date of
+Birth, Episode - End Date and Referral Date, Service Contact - Service
+Contact Date, Collection Occasion - Measure Date.</li>
+</ul>
+
+<p>The following features have been implemented in the Data Entry interface:</p>
+<ul>
+  <li>The Referral Date has been added to the Episode Summary information.</li>
+</ul>
+
+<p>The following features have been implemented in the Upload interface:</p>
+<ul>
+  <li>The username of the user that uploaded a file is now shown in the
+‘View Uploads’ table.</li>
+</ul>
+
+<p>The following features have been implemented in the Reports interface:</p>
+<ul>
+  <li>The title of a report now indicates if the ‘Include only records with
+Client Consent’ flag was checked when generating the report.</li>
+</ul>
+
+<p>The following features have been implemented in the Data Extract interface:</p>
+<ul>
+  <li>An ‘Associated Date Rules Explained’ link has been added to explain the
+‘Include data without associated dates’ checkbox.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented in the Data Entry
+interface:</p>
+<ul>
+  <li>Fixed a bug whereby if you edited a record in such a way that an error was
+returned and then navigated back to the ‘View’ tab, you would see the
+edited, unsaved data, not the data that is actually stored in the PMHC MDS.</li>
+  <li>Fixed a bug in the ‘Add New Client’ form whereby if the ‘The Client Key
+already exists.’ error has been shown, it would remain when the ‘Client Key’
+field had been cleared.</li>
+  <li>Fixed a bug in the ‘Add New Service Contact’ form whereby an error relating
+to the ‘Postcode’ field would remain when the field had been cleared.</li>
+  <li>Fixed a bug in the Client ‘Edit Details’ form where the ‘Save’ button would
+be active even when the SLK needed to the regenerated.</li>
+  <li>Fixed a bug in the Episode ‘Details’ tab where the orange ‘Suicide Referral’
+bar was not being shown when the ‘Suicide Referral Flag’ was set to ‘Yes’.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented in the Users interface:</p>
+<ul>
+  <li>Fixed a bug whereby an error relating to the ‘Mobile’ field would remain
+when the field had been cleared.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented in the Upload interface:</p>
+<ul>
+  <li>Fixed a bug whereby the ‘Organisation’ field in the ‘Upload A File’ form
+was being sorted by organisation key, not organisation name.</li>
+</ul>
+
+<p>The user guide has been updated to reflect these updates. It is available at <a href="https://docs.pmhc-mds.com/user-documentation/">https://docs.pmhc-mds.com/user-documentation/</a>.</p>
+
+<h4 id="pmhc-mds-data-specifications-update-v1012">PMHC MDS Data Specifications Update v1.0.12</h4>
+
+<p>We are also pleased to announce that PMHC MDS Data Specifications Update
+v1.0.12 was released on January 19, 2018. The following updates have been
+implemented:</p>
+
+<ul>
+  <li>
+    <p><a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html">Data model and specifications</a></p>
+
+    <ul>
+      <li>
+        <p><a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#record-formats">Record formats</a></p>
+
+        <ul>
+          <li>
+            <p><a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#client-data-elements">Client</a></p>
+
+            <ul>
+              <li>Updated <a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#client-date-of-birth">Client - Date of Birth</a> to specify that the date of birth must
+not be before 1 January 1900.</li>
+            </ul>
+          </li>
+          <li>
+            <p><a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-data-elements">Episode</a></p>
+
+            <ul>
+              <li>Updated <a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-end-date">Episode - End Date</a> to specify that the episode end date must
+not be before 1 January 2016.</li>
+              <li>Updated <a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#episode-referral-date">Episode - Referral Date</a> to specify that the episode referral
+date must not be before 1 January 2014.</li>
+            </ul>
+          </li>
+          <li>
+            <p><a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-data-elements">Service Contact</a></p>
+
+            <ul>
+              <li>Updated <a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#service-contact-date">Service Contact - Date</a> to specify that the service contact
+date must not be before 1 January 2014.</li>
+            </ul>
+          </li>
+          <li>
+            <p><a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#outcome-collection-occasion-data-elements">Outcome Collection Occasion</a></p>
+
+            <ul>
+              <li>Updated <a href="https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#collection-occasion-measure-date">Collection Occasion - Measure Date</a> to specify that the measure
+date must not be before 1 January 2016.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+:ET

@@ -1,0 +1,12 @@
+I"�<h4 id="pmhc-mds-update-v0287">PMHC MDS Update v0.28.7</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.28.7 was released on April 8, 2019.</p>
+
+<p>The following bugfixes have been implemented in the reporting interface:</p>
+<ul>
+  <li>The Key Performance Indicator report ‘App-1 - Youth receiving youth specific services’ has been updated to only include episodes where the Principal Focus of Treatment Plan is ‘Child and youth-specific mental health services’.</li>
+  <li>The Key Performance Indicator report ‘App-1 - Youth receiving youth specific services’ has been updated as it was missing a row for “Not stated/inadequately described” and incorrectly calculated the “TOTAL” row when disaggregated by ATSI status.</li>
+</ul>
+
+<p>The user guide has been updated to reflect these updates. It is available at <a href="https://docs.pmhc-mds.com/user-documentation/" target="_blank">https://docs.pmhc-mds.com/user-documentation/</a>.</p>
+:ET

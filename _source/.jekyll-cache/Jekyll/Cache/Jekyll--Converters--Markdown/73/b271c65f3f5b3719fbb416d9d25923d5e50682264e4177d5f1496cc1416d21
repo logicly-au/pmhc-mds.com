@@ -1,0 +1,32 @@
+I"�<h4 id="pmhc-mds-update-v0281">PMHC MDS Update v0.28.1</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.28.1 was released on March 25, 2019.</p>
+
+<p>The following features have been implemented in the reporting interface:</p>
+<ul>
+  <li>Key Performance Indicator Acc-1 - Access to low intensity psychological interventions.</li>
+  <li>Key Performance Indicator Acc-2 - Access to psychological therapies.</li>
+  <li>Key Performance Indicator Acc-3 - Access to clinical care coordination.</li>
+  <li>Key Performance Indicator App-1 - Youth receiving youth specific services.</li>
+  <li>Key Performance Indicator App-2 - Culturally appropriate services for Indigenous population.</li>
+  <li>Key Performance Indicator App-3 - 7-day follow-up of suicide risk referrals.</li>
+  <li>Key Performance Indicator Out-3 - Completion rates for outcome measures.</li>
+</ul>
+
+<p>At this release disaggregation by client remoteness is not available for the
+pertinent indicators (Acc-1, Acc-2, Acc-3, App-1, App-2, App-3). This breakdown
+will be available in a future release. Disaggregation by age group and indigenous
+status is available as specified in the
+‘Performance Indicators For Primary Health Network-led Mental Health Reform’.</p>
+
+<p>The following updates and bug fixes have been implemented across the PMHC MDS:</p>
+<ul>
+  <li>Fixed a bug where the PHN name was not being displayed in the user roles table.</li>
+  <li>Fixed a bug where the Organisation Key column of the ‘View Provider Organisations’ table was showing the Organisation Path, not the Organisation Key.</li>
+  <li>Fixed a bug where SDQ total field was being displayed twice on the Collection Occasion ‘View Details’ tab.</li>
+  <li>Fixed a bug which caused upload errors when changing the end date of a closed episode while also changing the service contact date of the recent service contacts in the same upload.</li>
+  <li>Fixed a bug which caused upload errors where users were informed they could not upload organisation data in ZippedCSV files.</li>
+</ul>
+
+<p>The user guide has been updated to reflect these updates. It is available at <a href="https://docs.pmhc-mds.com/user-documentation/" target="_blank">https://docs.pmhc-mds.com/user-documentation/</a>.</p>
+:ET

@@ -1,0 +1,36 @@
+I"`<h4 id="pmhc-mds-update-v0285">PMHC MDS Update v0.28.5</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.28.5 was released on March 28, 2019.</p>
+
+<p>The following updates and bugfixes have been implemented in the reporting interface:</p>
+<ul>
+  <li>
+    <p>These Key Performance Indicator reports have been updated to show Period 1 (1 July 2018 - 31 December 2018) when 2019 financial year is selected:</p>
+
+    <ul>
+      <li>Acc-1 - Access to low intensity psychological interventions.</li>
+      <li>Acc-2 - Access to psychological therapies.</li>
+      <li>Acc-3 - Access to clinical care coordination.</li>
+      <li>App-1 - Youth receiving youth specific services.</li>
+    </ul>
+
+    <p>The breakdown for Period 2 (1 January 2019 - 30 June 2019) and complete financial year (1 July 2018 - 30 June 2019) will be available in a future release.</p>
+  </li>
+  <li>
+    <p>The Key Performance Indicator report ‘App-3 - 7-day follow-up of suicide risk referrals’ has been updated to exclude contacts where the Client Participation Indicator is set to ‘No’.</p>
+  </li>
+</ul>
+
+<p>The following bug fixes have been implemented in the upload interface:</p>
+<ul>
+  <li>Fixed a bug where inconsistent episode end dates would generate an upload error without including the row number in the uploaded file.</li>
+</ul>
+
+<p>The following bug fixes have been implemented across the PMHC MDS:</p>
+<ul>
+  <li>Improved the validation of organisation start and end dates. Errors now include the maximum start date, and the minimum end date possible for an organisation.</li>
+  <li>Fixed a bug where the user roles were not displayed correctly after being edited.</li>
+</ul>
+
+<p>The user guide has been updated to reflect these updates. It is available at <a href="https://docs.pmhc-mds.com/user-documentation/" target="_blank">https://docs.pmhc-mds.com/user-documentation/</a>.</p>
+:ET

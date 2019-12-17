@@ -1,0 +1,17 @@
+I"e<h4 id="pmhc-mds-update-v02311">PMHC MDS Update v0.23.11</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.23.11 was released on August 24, 2018.</p>
+
+<p>The following updates and bug fixes have been implemented in the reporting interface:</p>
+
+<ul>
+  <li>The A1, A2 and all the B series reports have been optimised so that they run faster.</li>
+  <li>The formatting of reports with multicolumn headers has been improved.</li>
+</ul>
+
+<p>The following updates and bugfixes have been implemented for organisation management:</p>
+
+<ul>
+  <li>Fixed a bug where organisations could not be edited.</li>
+</ul>
+:ET

@@ -1,0 +1,39 @@
+I"Ø<h4 id="pmhc-mds-update-v0293">PMHC MDS Update v0.29.3</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.29.3 was released on May 20, 2019.</p>
+
+<p>The following updates have been implemented across the interface:</p>
+<ul>
+  <li>In order to improve the responsiveness of the system, all tables except 
+View Collection Occasions and View Service Contacts have had pagination 
+implemented. Pagination of View Collection Occasions and View Service 
+Contacts will be implemented in a future release.</li>
+</ul>
+
+<p>The following bugfixes have been implemented in the reporting interface:</p>
+<ul>
+  <li>Fixed a bug in reports A7/A8/A9 where rows with zero results were missing.</li>
+</ul>
+
+<p>The following bugfixes have been implemented in the upload interface:</p>
+<ul>
+  <li>Fixed a bug where you could not upload to an organisation if it was within 
+its grace period if you did not supply an organisations file/worksheet in 
+the upload.</li>
+</ul>
+
+<p>The following bugfixes have been implemented in the data extract interface:</p>
+<ul>
+  <li>Fixed a bug where if multiple episodes for different Provider Organisations 
+within the same PHN had the same episode key where extracted, episodes for 
+the wrong Provider Organisation could get extracted erroneously - this 
+would only occur when a PHN was extracting data.</li>
+</ul>
+
+<p>The following bugfixes have been implemented in the Provider Organisation and Practitioners interfaces:</p>
+<ul>
+  <li>Fixed a bug where it was not possible to remove the OMSSS email address</li>
+</ul>
+
+<p>The user guide has been updated to reflect these updates. It is available at <a href="https://docs.pmhc-mds.com/user-documentation/" target="_blank">https://docs.pmhc-mds.com/user-documentation/</a>.</p>
+:ET
