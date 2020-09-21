@@ -18,6 +18,10 @@ The following features have been implemented:
 * The “Roles of Assigned Users” table has been redesigned to be more consistent
   with the “View Roles” and “Edit Roles” tables.
 
+The following bug fixes have been implemented in the reporting interface:
+* Fixed a bug when a provider organisation has a ‘/’ in their organisation key
+
+
 The user guides have been updated to reflect these updates. They are available at:
 
 PMHC - [https://docs.pmhc-mds.com/projects/user-documentation/en/latest/](https://docs.pmhc-mds.com/projects/user-documentation/en/latest/){:target="_blank"}
