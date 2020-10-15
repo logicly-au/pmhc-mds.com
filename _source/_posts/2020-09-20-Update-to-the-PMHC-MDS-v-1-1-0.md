@@ -21,7 +21,6 @@ The following features have been implemented:
 The following bug fixes have been implemented in the reporting interface:
 * Fixed a bug when a provider organisation has a ‘/’ in their organisation key
 
-
 The user guides have been updated to reflect these updates. They are available at:
 
 PMHC - [https://docs.pmhc-mds.com/projects/user-documentation/en/latest/](https://docs.pmhc-mds.com/projects/user-documentation/en/latest/){:target="_blank"}
