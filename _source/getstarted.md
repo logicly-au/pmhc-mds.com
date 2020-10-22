@@ -52,7 +52,7 @@ The PMHC MDS offers various options for users to learn how to navigate and use t
 
 1. [Online User Guide](#user_guide)
 2. [Online group training sessions](#group_training)
-3. A video training library is coming soon and will be released in 2018
+3. A video training library is coming soon
 
 #### <a id="user_guide"></a>Online User Guide
 
@@ -70,8 +70,8 @@ summary of each of the roles that we currently provide training for:
 
 <table class="table-bordered">
   <tr>
-    <th>Role</th>
-    <th>Tasks allowed</th>
+    <th>Training</th>
+    <th>Role / Tasks </th>
     <th>Training Duration</th>
   </tr>
   <tr>
@@ -89,13 +89,18 @@ summary of each of the roles that we currently provide training for:
     <td>A user with the Data Entry role can enter client data and practitioners from the associated organisation</td>
     <td>60 minutes</td>
   </tr>
+    <tr>
+    <td>PHN Overview</td>
+    <td>A user with various roles at at the PHN and associated Provider Organisations</td>
+    <td>60 minutes</td>
+  </tr>
 </table>
 
 *Unsure which role you have? More information can be found at [https://docs.pmhc-mds.com/user-documentation/users.html#users-roles](https://docs.pmhc-mds.com/user-documentation/users.html#users-roles).*
 
-Online training sessions are held through an online GoToMeeting session. Each
-session will be limited to approx. 25 users and can have a combination of
-various Provider Organisation users from around Australia.
+Online training sessions are held through an online GoToMeeting session by request. Each
+session will be limited to approx. 25 users and can have a combination of staff from one
+Provider Organisation, or various Provider Organisation users from around Australia.
 
 To book in for an online training session please email [support@pmhc-mds.com](mailto:support@pmhc-mds.com)
 with your preferred training session role type and date/time. A GoToMeeting link will be sent to
