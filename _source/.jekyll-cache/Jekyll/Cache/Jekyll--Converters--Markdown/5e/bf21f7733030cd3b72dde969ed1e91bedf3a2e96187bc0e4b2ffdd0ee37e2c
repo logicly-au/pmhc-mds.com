@@ -1,0 +1,64 @@
+I"l<h4 id="pmhc-mds-extension-way-back-upload-rollout-and-training">PMHC MDS extension Way Back upload rollout and training</h4>
+
+<p>The Primary Mental Health Care Minimum Data Set (PMHC MDS) has been extended to
+allow data collection for specific programs. These specifications are only to be
+used if your organisation is providing services under the program.</p>
+
+<h5 id="the-way-back-support-service">The Way Back Support Service</h5>
+
+<p>People who have attempted suicide or experienced a suicidal crisis often
+experience severe distress in the days and weeks immediately afterwards, and
+they are at high risk of attempting again.</p>
+
+<p>Beyond Blue developed The Way Back Support Service to support them through this
+critical risk period. A Support Coordinator contacts the person within one
+business day of receiving their referral and tailors a program for up to three
+months after discharge from hospital. This program is built on personal
+connection and integration with community services.</p>
+
+<p>Read more at <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/introduction.html" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/introduction.html</a>.</p>
+
+<h5 id="the-way-back-support-service-minimum-data-set-and-dictionary">The Way Back Support Service Minimum Data Set and Dictionary</h5>
+
+<p>The Way Back Support Service Minimum Data Set is an extension of the Primary
+Mental Health Care Minimum Data Set (PMHC MDS), the current Way Back Support
+Service Minimum Data Set and Dictionary is available at
+<a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a>.</p>
+
+<h5 id="stage-1---submitting-the-way-back-data-via-upload-only">STAGE 1 - Submitting The Way Back data via Upload only</h5>
+
+<p>Stage 1 has been released in the PMHC MDS for Upload. During the initial stage
+of implementing The Way Back records in the PMHC MDS, PHNs and their service
+providers will be able to either export data from their client systems and
+upload to the PMHC MDS or manually create spreadsheets that can then be uploaded.
+Example upload files are available in The Way Back Upload Specification at
+<a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/data-specification/upload-specification.html" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/data-specification/upload-specification.html</a>.</p>
+
+<p><strong>Data may be uploaded in either Excel or CSV format.</strong></p>
+
+<p>There is a Developers PMHC MDS website available for testing/training purposes
+for PHNs, Provider Organisations and third-party developers. See:
+<a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/faqs/system/access.html#can-i-have-an-account-to-test-adding-data-and-for-training-new-staff" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/faqs/system/access.html#can-i-have-an-account-to-test-adding-data-and-for-training-new-staff</a>.</p>
+
+<h5 id="stage-2---submitting-the-way-back-data-via-data-entry">STAGE 2 - Submitting The Way Back data via Data Entry</h5>
+
+<p>The Data Entry Interface will be released in the second stage of development and
+will allow users to manually enter The Way Back data through online forms instead
+of uploading a spreadsheet or files.</p>
+
+<p>We will announce when this functionality is available.</p>
+
+<h5 id="pmhc-helpdesk-training-and-support">PMHC Helpdesk Training and Support</h5>
+
+<p>The PMHC Helpdesk is available to support Developers, Primary Health Networks
+and Provider Organisations implementing The Way Back Support Service through
+the PMHC MDS.</p>
+
+<p>We can host an online discussion to assist with technical requirements, where to
+start or to host an online training session for users of either the Upload
+feature, or the Data Entry Interface when available. Contact us to arrange
+customised training for your organisation’s needs</p>
+
+<p>The PMHC Helpdesk is available weekdays between the hours of 10:00 am - 6:00 pm AEST.
+Please email us on support@pmhc-mds.com with any enquiries.</p>
+:ET

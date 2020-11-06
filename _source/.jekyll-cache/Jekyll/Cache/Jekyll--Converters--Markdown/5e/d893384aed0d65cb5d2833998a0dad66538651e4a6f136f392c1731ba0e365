@@ -1,4 +1,60 @@
-I"��<ul>
+I"r8<ul>
+  
+    <li>
+      <a href="#/2020/10/26/Update-to-the-PMHC-MDS-v-1-2-5/">Update to the PMHC MDS and Wayback Quarterly Report Template - 21/10/2020</a><span> | October 26, 2020</span>
+    </li>
+  
+    <li>
+      <a href="#/2020/10/14/PMHC-MDS-outage/">PMHC MDS file upload outage scheduled for 9pm AEDT Thursday 15th October 2020</a><span> | October 14, 2020</span>
+    </li>
+  
+    <li>
+      <a href="#/2020/10/12/PMHC-MDS-outage/">PMHC MDS file upload outage scheduled for 9pm AEDT Monday 12th October 2020</a><span> | October 12, 2020</span>
+    </li>
+  
+    <li>
+      <a href="#/2020/09/29/Update-to-the-PMHC-MDS-v-1-1-2/">Update to the PMHC MDS - 29/9/2020</a><span> | September 29, 2020</span>
+    </li>
+  
+    <li>
+      <a href="#/2020/09/20/Update-to-the-PMHC-MDS-v-1-1-0/">Update to the PMHC MDS - 20/9/2020</a><span> | September 20, 2020</span>
+    </li>
+  
+    <li>
+      <a href="#/2020/09/07/Update-to-the-PMHC-MDS-v-1-0-7/">Update to the PMHC MDS - 7/9/2020</a><span> | September 07, 2020</span>
+    </li>
+  
+    <li>
+      <a href="#/2020/08/27/Update-to-the-PMHC-MDS-and-Wayback-Data-Specifications-v-1-0-2/">Update to the PMHC MDS - and Wayback Data Specifications - 27/8/2020</a><span> | August 27, 2020</span>
+    </li>
+  
+    <li>
+      <a href="#/2020/07/27/Update-to-the-PMHC-MDS-v-0-38-3/">Update to the PMHC MDS - 27/07/2020</a><span> | July 27, 2020</span>
+    </li>
+  
+    <li>
+      <a href="#/2020/07/09/The-Way-Back-Upload-rollout/">PMHC MDS extension - The Way Back - Upload rollout (9/7/2020)</a><span> | July 09, 2020</span>
+    </li>
+  
+    <li>
+      <a href="#/2020/06/25/Update-to-the-PMHC-MDS-v-0-37-4/">Update to the PMHC MDS - 25/06/2020</a><span> | June 25, 2020</span>
+    </li>
+  
+    <li>
+      <a href="#/2020/06/09/V1-End-of-Life-Reminder/">Reminder of end of life for PMHC MDS Version 1 upload format - 9/6/2019</a><span> | June 09, 2020</span>
+    </li>
+  
+    <li>
+      <a href="#/2020/06/04/Update-to-the-PMHC-MDS-v-0-37-3/">Update to the PMHC MDS - 4/06/2020</a><span> | June 04, 2020</span>
+    </li>
+  
+    <li>
+      <a href="#/2020/06/01/Update-to-the-PMHC-MDS-v-0-37-2/">Update to the PMHC MDS - 1/06/2020</a><span> | June 01, 2020</span>
+    </li>
+  
+    <li>
+      <a href="#/2020/04/29/Update-to-the-PMHC-MDS-v-0-36-4/">Update to the PMHC MDS - 29/04/2020</a><span> | April 29, 2020</span>
+    </li>
   
     <li>
       <a href="#/2020/03/10/Update-to-the-PMHC-MDS-v-0-35-0/">Update to the PMHC MDS - 10/03/2020</a><span> | March 10, 2020</span>
@@ -315,6 +371,504 @@
 </ul>
 
 <div>
+  
+    <div class="post">
+      <div id="/2020/10/26/Update-to-the-PMHC-MDS-v-1-2-5/"><h2>Update to the PMHC MDS and Wayback Quarterly Report Template - 21/10/2020</h2></div>
+      <h3>October 26, 2020</h3>
+	    <h4 id="pmhc-mds-update-v125">PMHC MDS Update v1.2.5</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.2.5 was released on October
+21, 2020.</p>
+
+<p>The following features have been implemented in the reporting interface:</p>
+<ul>
+  <li>
+    <p>The Way Back Quarterly reporting function is now available. It allows users to
+automatically populate The Way Back Quarterly Report using data contained in
+the PMHC MDS.</p>
+
+    <p>To access the report follow the instructions at
+<a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/user-documentation/reports-user-guide.html" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/user-documentation/reports-user-guide.html</a></p>
+
+    <p>Running the report will result in an Excel spreadsheet being downloaded. The
+spreadsheet will then require some manual completion before providing to
+Beyond Blue or your PHN.</p>
+  </li>
+  <li>
+    <p>Fixed a bug where some users with the Aggregate Reporting role received a
+403 Error</p>
+  </li>
+</ul>
+
+<p>The following features have been implemented in the data entry interface:</p>
+<ul>
+  <li>Improved the speed of the client search</li>
+  <li>Fixed a bug where episodes that were uploaded with the <code class="highlighter-rouge">!wayback</code> tag but no
+corresponding TWB Episode record where not display correctly in the Data
+Entry interface</li>
+</ul>
+
+<p>The following bug fixes have been implemented in the upload interface:</p>
+<ul>
+  <li>Fixed a bug where upload summary stated that a collection occasion was
+‘added’ when it should have stated ‘updated’</li>
+  <li>Improved the preprocessing of CSV files with Byte Order Marks</li>
+</ul>
+
+<p>The following bug fixes have been implemented in data extracts:</p>
+<ul>
+  <li>The missing date 09099999 has been included in the data extract for TWB
+Episode records</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2020/10/14/PMHC-MDS-outage/"><h2>PMHC MDS file upload outage scheduled for 9pm AEDT Thursday 15th October 2020</h2></div>
+      <h3>October 14, 2020</h3>
+	    <h4 id="pmhc-mds-file-upload-outage-scheduled-for-9pm-aedt-thursday-15th-october-2020">PMHC MDS file upload outage scheduled for 9pm AEDT Thursday 15th October 2020</h4>
+
+<p>The outage that was announced for 9pm AEDT Monday 12th October has been postponed until Thursday 15th October 2020. We will now be upgrading part of our infrastructure on Thursday 15th October 2020 between 9:00pm and 9:30pm AEDT.</p>
+
+<p>We expect the outage to be brief, however the system could be interrupted for up to half an hour.</p>
+
+<p>If you are planning on uploading or entering any data during this time, we advise you to complete your work before 9:00pm AEDT.</p>
+
+<p>Thank-you for your patience whilst this work is carried out.</p>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2020/10/12/PMHC-MDS-outage/"><h2>PMHC MDS file upload outage scheduled for 9pm AEDT Monday 12th October 2020</h2></div>
+      <h3>October 12, 2020</h3>
+	    <h4 id="pmhc-mds-file-upload-outage-scheduled-for-9pm-aedt-monday-12th-october-2020">PMHC MDS file upload outage scheduled for 9pm AEDT Monday 12th October 2020</h4>
+
+<p>We will be upgrading part of our infrastructure on Monday 12th October 2020 between 9:00pm and 9:30pm AEDT.</p>
+
+<p>We expect the outage to be brief, however the system could be interrupted for up to half an hour.</p>
+
+<p>If you are planning on uploading or entering any data during this time, we advise you to complete your work before 9:00pm AEDT.</p>
+
+<p>Thank-you for your patience whilst this work is carried out. Apologies for the late notice.</p>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2020/09/29/Update-to-the-PMHC-MDS-v-1-1-2/"><h2>Update to the PMHC MDS - 29/9/2020</h2></div>
+      <h3>September 29, 2020</h3>
+	    <h4 id="pmhc-mds-update-v112">PMHC MDS Update v1.1.2</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.1.2 was released on September 29, 2020.</p>
+
+<p>The following bug fixes have been implemented in the upload interface:</p>
+<ul>
+  <li>Fixed a bug when multiple Recommendation Outs with the same Provider were recorded in the upload</li>
+  <li>Fixed a bug where TWB Plans or TWB NIs were not associated with a TWB Episode</li>
+  <li>Enhanced some TWB error messages to provide more specific details</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2020/09/20/Update-to-the-PMHC-MDS-v-1-1-0/"><h2>Update to the PMHC MDS - 20/9/2020</h2></div>
+      <h3>September 20, 2020</h3>
+	    <h4 id="pmhc-mds-update-v110">PMHC MDS Update v1.1.0</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.1.0 was released on September 20, 2020.</p>
+
+<p>The following features have been implemented:</p>
+<ul>
+  <li>An “Aggregate Reporting” role has been added. The existing “Reporting”
+role gives users access to both the “Reporting” and the “Data Extract” tabs.
+This new role only provides access to the “Reporting” tab. If a user is
+required to see aggregate reports, but not unit record data, they can be
+assigned the “Aggregate Reporting” role without the “Reporting” or
+“Data Entry” roles and they will not have access to unit record data.
+Users have not been assigned the “Aggregate Reporting” role. User Managers
+will need to update users to this new role, if appropriate.</li>
+  <li>The “Roles of Assigned Users” table has been redesigned to be more consistent
+with the “View Roles” and “Edit Roles” tables.</li>
+</ul>
+
+<p>The following bug fixes have been implemented in the reporting interface:</p>
+<ul>
+  <li>Fixed a bug when a provider organisation has a ‘/’ in their organisation key</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2020/09/07/Update-to-the-PMHC-MDS-v-1-0-7/"><h2>Update to the PMHC MDS - 7/9/2020</h2></div>
+      <h3>September 07, 2020</h3>
+	    <h4 id="pmhc-mds-update-v107">PMHC MDS Update v1.0.7</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.0.7 was released on September 7, 2020.</p>
+
+<p>The following bug fixes have been implemented in the data entry interface:</p>
+<ul>
+  <li>Fixed a bug where service contacts and collection occasions were not sorted correctly.</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2020/08/27/Update-to-the-PMHC-MDS-and-Wayback-Data-Specifications-v-1-0-2/"><h2>Update to the PMHC MDS - and Wayback Data Specifications - 27/8/2020</h2></div>
+      <h3>August 27, 2020</h3>
+	    <h4 id="pmhc-mds-update-v102">PMHC MDS Update v1.0.2</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.0.2 was released on August 27, 2020.</p>
+
+<p>The following features have been implemented in the data entry interface:</p>
+<ul>
+  <li>The Way Back data entry interface is now available in addition to the
+existing upload method. It allows users to manually enter The Way Back data
+through online forms as an alternative to uploading a spreadsheet or file.
+The Way Back User Guide is available at
+<a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/user-documentation/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/user-documentation/</a>.
+Information on adding TWB data to an episode is available at
+<a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/user-documentation/data-entry-user-guide.html#adding-a-client-s-twb-episode-data" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/user-documentation/data-entry-user-guide.html#adding-a-client-s-twb-episode-data</a></li>
+  <li>The data entry interface for Collection Occasions has been reworked to
+allow multiple measures to be collected at a collection occasion.</li>
+</ul>
+
+<p>The following bug fixes have been implemented in the data entry interface:</p>
+<ul>
+  <li>Fixed a bug where field order in the Service Contact ‘View Details’ tab
+was inconsistent with the ‘Edit Details’ and ‘Add Details’ tabs.</li>
+  <li>Fixed unclear wording when hovering over the icon that allows you to make
+a copy of a service contact. The hover wording previously said ‘Duplicate
+Service Contact’. It has been updated to ‘Copy as new service contact’ and
+the icon has been moved to the right of the table.</li>
+</ul>
+
+<p>The following bug fixes have been implemented in the reporting interface:</p>
+<ul>
+  <li>Fixed a bug where the data selectors in the B3 report showed inconsistent
+behaviour after clicking the ‘Back’ button from a previously generated B3 report.</li>
+</ul>
+
+<p>The following bug fixes have been implemented in the users interface:</p>
+<ul>
+  <li>Fixed a bug where the Expires and Last changed times on the User Details
+tab was being displayed in  UTC +0 timezone. It is now being displayed in
+the logged in user’s local timezone.</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+
+<h4 id="the-way-back-data-specifications-update-v301">The Way Back Data Specifications Update v3.0.1</h4>
+
+<p>We are also pleased to announce that The Way Back Data Specifications Update
+v3.0.1 was released on August 17, 2020. The following updates have been implemented:</p>
+
+<h3 id="data-model-and-specifications">Data model and specifications</h3>
+<ul>
+  <li>TWB Episode - Transgender Status - Added value ‘9 - Not stated / Unknown’</li>
+  <li>TWB Episode - Intersex Status - Added value ‘9 - Not stated / Unknown’</li>
+</ul>
+
+<h3 id="validation-rules">Validation Rules</h3>
+<ul>
+  <li>TWB Episode
+    <ul>
+      <li>Updated the validation for TWB Episode - Primary Nominated Professional
+Contact Exit Date so that it must not be before Episode - End Date</li>
+    </ul>
+  </li>
+</ul>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2020/07/27/Update-to-the-PMHC-MDS-v-0-38-3/"><h2>Update to the PMHC MDS - 27/07/2020</h2></div>
+      <h3>July 27, 2020</h3>
+	    <h4 id="pmhc-mds-update-v0383">PMHC MDS Update v0.38.3</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.38.3 was released on July 27, 2020.</p>
+
+<p>The following bug fixes have been implemented in the data entry interface:</p>
+<ul>
+  <li>Fixed a bug where an error was being produced when inputting collection occasion keys.</li>
+</ul>
+
+<p>The following bug fixes have been implemented in the upload interface:</p>
+<ul>
+  <li>Fixed a bug where files marked as optional in The Way Back specification were being required.</li>
+</ul>
+
+<p>The user guide has been updated to reflect these updates. It is available
+at <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a>.</p>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2020/07/09/The-Way-Back-Upload-rollout/"><h2>PMHC MDS extension - The Way Back - Upload rollout (9/7/2020)</h2></div>
+      <h3>July 09, 2020</h3>
+	    <h4 id="pmhc-mds-extension-way-back-upload-rollout-and-training">PMHC MDS extension Way Back upload rollout and training</h4>
+
+<p>The Primary Mental Health Care Minimum Data Set (PMHC MDS) has been extended to
+allow data collection for specific programs. These specifications are only to be
+used if your organisation is providing services under the program.</p>
+
+<h5 id="the-way-back-support-service">The Way Back Support Service</h5>
+
+<p>People who have attempted suicide or experienced a suicidal crisis often
+experience severe distress in the days and weeks immediately afterwards, and
+they are at high risk of attempting again.</p>
+
+<p>Beyond Blue developed The Way Back Support Service to support them through this
+critical risk period. A Support Coordinator contacts the person within one
+business day of receiving their referral and tailors a program for up to three
+months after discharge from hospital. This program is built on personal
+connection and integration with community services.</p>
+
+<p>Read more at <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/introduction.html" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/introduction.html</a>.</p>
+
+<h5 id="the-way-back-support-service-minimum-data-set-and-dictionary">The Way Back Support Service Minimum Data Set and Dictionary</h5>
+
+<p>The Way Back Support Service Minimum Data Set is an extension of the Primary
+Mental Health Care Minimum Data Set (PMHC MDS), the current Way Back Support
+Service Minimum Data Set and Dictionary is available at
+<a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a>.</p>
+
+<h5 id="stage-1---submitting-the-way-back-data-via-upload-only">STAGE 1 - Submitting The Way Back data via Upload only</h5>
+
+<p>Stage 1 has been released in the PMHC MDS for Upload. During the initial stage
+of implementing The Way Back records in the PMHC MDS, PHNs and their service
+providers will be able to either export data from their client systems and
+upload to the PMHC MDS or manually create spreadsheets that can then be uploaded.
+Example upload files are available in The Way Back Upload Specification at
+<a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/data-specification/upload-specification.html" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/data-specification/upload-specification.html</a>.</p>
+
+<p><strong>Data may be uploaded in either Excel or CSV format.</strong></p>
+
+<p>There is a Developers PMHC MDS website available for testing/training purposes
+for PHNs, Provider Organisations and third-party developers. See:
+<a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/faqs/system/access.html#can-i-have-an-account-to-test-adding-data-and-for-training-new-staff" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/faqs/system/access.html#can-i-have-an-account-to-test-adding-data-and-for-training-new-staff</a>.</p>
+
+<h5 id="stage-2---submitting-the-way-back-data-via-data-entry">STAGE 2 - Submitting The Way Back data via Data Entry</h5>
+
+<p>The Data Entry Interface will be released in the second stage of development and
+will allow users to manually enter The Way Back data through online forms instead
+of uploading a spreadsheet or files.</p>
+
+<p>We will announce when this functionality is available.</p>
+
+<h5 id="pmhc-helpdesk-training-and-support">PMHC Helpdesk Training and Support</h5>
+
+<p>The PMHC Helpdesk is available to support Developers, Primary Health Networks
+and Provider Organisations implementing The Way Back Support Service through
+the PMHC MDS.</p>
+
+<p>We can host an online discussion to assist with technical requirements, where to
+start or to host an online training session for users of either the Upload
+feature, or the Data Entry Interface when available. Contact us to arrange
+customised training for your organisation’s needs</p>
+
+<p>The PMHC Helpdesk is available weekdays between the hours of 10:00 am - 6:00 pm AEST.
+Please email us on support@pmhc-mds.com with any enquiries.</p>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2020/06/25/Update-to-the-PMHC-MDS-v-0-37-4/"><h2>Update to the PMHC MDS - 25/06/2020</h2></div>
+      <h3>June 25, 2020</h3>
+	    <h4 id="pmhc-mds-update-v0374">PMHC MDS Update v0.37.4</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.37.4 was released on June 25, 2020.</p>
+
+<p>The following bug fixes have been implemented in the data entry interface:</p>
+<ul>
+  <li>Fixed a bug where deletion of collection occasions was slow.</li>
+</ul>
+
+<p>The following bug fixes have been implemented in the upload interface:</p>
+<ul>
+  <li>Fixed a bug where deletion of collection occasions was slow.</li>
+  <li>Fixed a bug where some users could not see their previous uploads.</li>
+</ul>
+
+<p>The user guide has been updated to reflect these updates. It is available
+at <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a>.</p>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2020/06/09/V1-End-of-Life-Reminder/"><h2>Reminder of end of life for PMHC MDS Version 1 upload format - 9/6/2019</h2></div>
+      <h3>June 09, 2020</h3>
+	    <p>The PMHC MDS currently supports uploads in both the Version 1 format as documented at <a href="http://docs.pmhc-mds.com/projects/data-specification/en/v1/" target="_blank">http://docs.pmhc-mds.com/projects/data-specification/en/v1/</a> and the Version 2 format as documented at <a href="http://docs.pmhc-mds.com/projects/data-specification/en/v2/" target="_blank">http://docs.pmhc-mds.com/projects/data-specification/en/v2/</a>.</p>
+
+<p><strong>After the 30th of June 2020 the PMHC MDS will no longer accept uploads using the Version 1 format.</strong> Please ensure that you have migrated to using the Version 2 format before this date.</p>
+
+<p>A summary of the changes between version 1.0 and 2.0 are as follows:</p>
+
+<ul>
+  <li>
+    <p>Version 2.0 introduces a new metadata file or worksheet.
+In version 1.0 a version number had to be specified as the first row in every
+row/worksheet. This row has been removed from version 2.0 and the version
+number has been moved into a separate worksheet.
+See <a href="https://docs.pmhc-mds.com/projects/data-specification/en/v2/upload-specification.html#metadata-file" target="_blank">https://docs.pmhc-mds.com/projects/data-specification/en/v2/upload-specification.html#metadata-file</a></p>
+  </li>
+  <li>The following new fields will be added to the Organisation record:
+    <ul>
+      <li>Start Date</li>
+      <li>End Date</li>
+    </ul>
+  </li>
+  <li>The following field will be retired from the Organisation record:
+    <ul>
+      <li>Provider Organisation Status</li>
+    </ul>
+  </li>
+  <li>The following new field will be added to the Episode record:
+    <ul>
+      <li>Continuity of Support</li>
+    </ul>
+  </li>
+</ul>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2020/06/04/Update-to-the-PMHC-MDS-v-0-37-3/"><h2>Update to the PMHC MDS - 4/06/2020</h2></div>
+      <h3>June 04, 2020</h3>
+	    <h4 id="pmhc-mds-update-v0373">PMHC MDS Update v0.37.3</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.37.3 was released on June 4, 2020.</p>
+
+<p>The following bug fixes have been implemented in the data entry interface:</p>
+<ul>
+  <li>Fixed a bug where logging out while editing a Users’ roles did not update the navigation bar.</li>
+  <li>Fixed a bug where the ‘Tags’ field was not saving data in the add Collection Occasion form.</li>
+  <li>Fixed a bug where the ‘Venue’ field was not displaying the ‘Not applicable (Service Contact Modality is not face to face) value in the Service Contact add and edit forms.</li>
+  <li>Enabled the pre-filled fields based on the value of ‘No Show’ to be edited in the Service Contact add and edit forms.</li>
+</ul>
+
+<p>The following bug fixes have been implemented in the upload interface:</p>
+<ul>
+  <li>Fixed a bug where the username didn’t filter on the view uploads table.</li>
+</ul>
+
+<p>The user guide has been updated to reflect these updates. It is available
+at <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a>.</p>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2020/06/01/Update-to-the-PMHC-MDS-v-0-37-2/"><h2>Update to the PMHC MDS - 1/06/2020</h2></div>
+      <h3>June 01, 2020</h3>
+	    <h4 id="pmhc-mds-update-v0372">PMHC MDS Update v0.37.2</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.37.2 was released on June 1, 2020.</p>
+
+<p>The following features have been implemented in the user management interface:</p>
+<ul>
+  <li>Filtering has been enabled on the Invites table</li>
+</ul>
+
+<p>The following features have been implemented in the data entry interface:</p>
+<ul>
+  <li>The Service Contact add and edit forms have been rearranged so that ‘No Show’ is after ‘Service Contact Date’. The following fields are now pre-filled based on the value of ‘No Show’:
+    <ul>
+      <li>Service Contact - Type</li>
+      <li>Service Contact - Postcode</li>
+      <li>Service Contact - Modality</li>
+      <li>Service Contact - Venue</li>
+      <li>Service Contact - Duration</li>
+    </ul>
+  </li>
+</ul>
+
+<p>The following features have been implemented in the upload interface:</p>
+<ul>
+  <li>PHN users can now see all uploads for their PHN</li>
+  <li>Data entered, but not saved before a timeout is now saved so that the data can be restored if the user logs back in within 15 minutes</li>
+</ul>
+
+<p>The following bug fixes have been implemented in the reports interface:</p>
+<ul>
+  <li>Corrected the B6 Option from ‘Primary focus of treatment plan’ to ‘Principal focus of treatment plan’</li>
+  <li>Fixed a bug where the ‘Request’ button was inactive and no error messages where shown when there was no active organisation with the reporting period</li>
+</ul>
+
+<p>The user guide has been updated to reflect these updates. It is available
+at <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a>.</p>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2020/04/29/Update-to-the-PMHC-MDS-v-0-36-4/"><h2>Update to the PMHC MDS - 29/04/2020</h2></div>
+      <h3>April 29, 2020</h3>
+	    <h4 id="pmhc-mds-update-v0364">PMHC MDS Update v0.36.4</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v0.36.4 was released on April 29, 2020.</p>
+
+<p>The following features have been implemented in the user management interface:</p>
+<ul>
+  <li>User managers can now see outstanding and expired invitations</li>
+  <li>User managers can now revoke and delete invitations</li>
+  <li>User managers can now reissue invitations</li>
+  <li>When a user is invited to the PMHC MDS their roles are now included
+in the invitation email</li>
+  <li>Email generated by the invitation process are now HTML formatted</li>
+  <li>Users and user managers can now see password change details</li>
+</ul>
+
+<p>The following features have been implemented in the data entry interface:</p>
+<ul>
+  <li>The user is now warned of unsaved changes before logging out or changing tabs</li>
+</ul>
+
+<p>The following bug fixes have been implemented in the data entry interface:</p>
+<ul>
+  <li>Updates to fix unexpected logouts</li>
+</ul>
+
+<p>The following features have been implemented in the upload interface:</p>
+<ul>
+  <li>HTML emails are now supported</li>
+</ul>
+
+<p>The following bug fixes have been implemented in the upload interface:</p>
+<ul>
+  <li>Fixed a bug so that when a user with organisation management tries to upload
+data for organisations past their grace period and the upload also contains
+organisation data the upload is not allowed and an error message is generated.</li>
+</ul>
+
+<p>The user guide has been updated to reflect these updates. It is available
+at <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a>.</p>
+
+    </div>
   
     <div class="post">
       <div id="/2020/03/10/Update-to-the-PMHC-MDS-v-0-35-0/"><h2>Update to the PMHC MDS - 10/03/2020</h2></div>

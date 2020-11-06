@@ -36,7 +36,7 @@ explanation of how they are scored.
 
 * [Kessler 10+ (K10+)](/doc/pmhc-scoring-k10p.pdf)
 * [Kessler 5 (K5)](/doc/pmhc-scoring-k5.pdf)
-* [Strengths and Difficulties Questionnaire (SDQ)](/doc/pmhc-scoring-sdq.pdf)
+* [Strengths and Difficulties Questionnaire (SDQ)](/measures/sdq/)
 
 ## 6. Service Provider Quick Reference Guide
 The Primary Mental Healthcare Minimum Data Set (PMHC MDS) Service Provider QUICK
