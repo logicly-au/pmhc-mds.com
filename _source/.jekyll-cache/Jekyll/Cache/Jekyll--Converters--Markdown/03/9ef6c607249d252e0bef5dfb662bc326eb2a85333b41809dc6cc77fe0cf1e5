@@ -1,0 +1,118 @@
+I"�<p>Primary contact users at all PHN’s have now been provided with accounts.</p>
+
+<p>PHN’s should now be creating Provider Organisations and, if required, setting
+up users at these Provider Organisations.</p>
+
+<p>Provided here is a list of steps required for users at Provider Organisations
+to obtain access and upload/enter data to the PMHC MDS.</p>
+
+<h2 id="what-steps-does-each-provider-organisation-need-to-take-before-they-can-upload-or-enter-data-to-the-pmhc-mds"><a id="steps"></a>What steps does each Provider Organisation need to take before they can upload or enter data to the PMHC MDS?</h2>
+
+<h3 id="step-1-decide-whether-to-upload-or-manually-enter-data"><a id="step1"></a>Step 1. Decide whether to upload or manually enter data</h3>
+
+<p>Data can either be uploaded via an Excel spreadsheet or CSV files, or manually entered into the PMHC MDS. Each organisation will need to decide which method they will use.</p>
+
+<h3 id="step-2-if-uploading-decide-how-to-create-upload-files-for-the-pmhc-mds"><a id="step2"></a>Step 2. If uploading, decide how to create upload files for the PMHC MDS</h3>
+
+<p>Before uploading data, each Provider Organisation, in conjunction with their PHN,
+will need to analyse the data requirements and either organise
+to have their client management systems altered to produce the files required
+for upload or understand how to manually create the required Excel spreadsheets.
+Please refer to the <a href="https://docs.pmhc-mds.com/data-specification/upload-specification.html">Upload specification</a>.</p>
+
+<h3 id="step-3-update-client-forms"><a id="step3"></a>Step 3. Update client forms</h3>
+
+<p>Before uploading or entering data, each Provider Organisation, in conjunction with their PHN,
+will need to update their client forms in order to collect all
+the data required for the PMHC MDS. Please refer to the <a href="https://docs.pmhc-mds.com/data-specification/">data specification</a>
+and notes on <a href="https://docs.pmhc-mds.com/data-specification/form-creation.html">creating forms</a>.</p>
+
+<h3 id="step-4-obtain-an-account-on-the-pmhc-mds"><a id="step4"></a>Step 4. Obtain an account on the PMHC MDS</h3>
+
+<p>A user at a Provider Organisation will need to contact a user at their PHN who has the ‘User Management’ role and request that they create a new user account.</p>
+
+<p>If the Provider Organisation is uploading data, the user will need to request the ‘Upload’ role.</p>
+
+<p>If the Provider Organisation is manually entering data, the user will need to request the ‘Data Entry’ role.</p>
+
+<p>If you are unsure who to contact at your PHN please contact the <a href="mailto:support@pmhc-mds.com">PMHC MDS Helpdesk</a>.</p>
+
+<p>Once this user account has been created and you have been granted the appropriate role, you are ready to upload/enter data.</p>
+
+<p>Please note, A PHN may also decide to assign the ‘User Management’ role to a user at the Provider Organisation, which will allow the Provider Organisation to manage their users and users roles.</p>
+
+<h3 id="step-5-training-and-online-user-guide"><a id="step5"></a>Step 5. Training and online user guide</h3>
+
+<p>The PMHC MDS offers various options for users to learn how to navigate and use the PMHC MDS.</p>
+
+<ol>
+  <li><a href="#user_guide">Online User Guide</a></li>
+  <li><a href="#group_training">Online group training sessions</a></li>
+  <li>A video training library is coming soon</li>
+</ol>
+
+<h4 id="online-user-guide"><a id="user_guide"></a>Online User Guide</h4>
+
+<p>The <a href="https://docs.pmhc-mds.com/user-documentation/index.html">Online User Guide</a>
+is regularly updated to reflect each update release and outlines
+step by step instructions for each role within the PMHC MDS.</p>
+
+<h4 id="online-group-training"><a id="group_training"></a>Online group training</h4>
+
+<p>Online group training sessions are currently hosted by the PMHC Helpdesk between 10am - 6pm AEST/AEDT.</p>
+
+<p>Access to the PMHC MDS is based around roles, and therefore online group
+training sessions have been designed for a role. The following provides a
+summary of each of the roles that we currently provide training for:</p>
+
+<table class="table-bordered">
+  <tr>
+    <th>Training</th>
+    <th>Role / Tasks </th>
+    <th>Training Duration</th>
+  </tr>
+  <tr>
+    <td>User Management</td>
+    <td>A user with the User Management role for an organisation can manage user accounts for that organisation</td>
+    <td>30 minutes</td>
+  </tr>
+  <tr>
+    <td>Upload</td>
+    <td>A user with the Upload role can upload data to the associated organisation</td>
+    <td>30 minutes</td>
+  </tr>
+  <tr>
+    <td>Data Entry</td>
+    <td>A user with the Data Entry role can enter client data and practitioners from the associated organisation</td>
+    <td>60 minutes</td>
+  </tr>
+    <tr>
+    <td>PHN Overview</td>
+    <td>A user with various roles at at the PHN and associated Provider Organisations</td>
+    <td>60 minutes</td>
+  </tr>
+</table>
+
+<p><em>Unsure which role you have? More information can be found at <a href="https://docs.pmhc-mds.com/user-documentation/users.html#users-roles">https://docs.pmhc-mds.com/user-documentation/users.html#users-roles</a>.</em></p>
+
+<p>Online training sessions are held through an online GoToMeeting session by request. Each
+session will be limited to approx. 25 users and can have a combination of staff from one
+Provider Organisation, or various Provider Organisation users from around Australia.</p>
+
+<p>To book in for an online training session please email <a href="mailto:support@pmhc-mds.com">support@pmhc-mds.com</a>
+with your preferred training session role type and date/time. A GoToMeeting link will be sent to
+you via a calendar invitation.</p>
+
+<p>Please note: Users who do not yet have an active login to the PMHC MDS can
+still attend our training sessions. It would be very beneficial to organise
+access prior to the training session, as this will then enable users to login
+and commence using the PMHC MDS straight after the training session concludes.
+<em>(More information on obtaining a login can be viewed in Step 4 above, or on
+the PMHC MDS FAQS which can be found at <a href="https://docs.pmhc-mds.com/faqs/system/access.html">https://docs.pmhc-mds.com/faqs/system/access.html</a>)</em></p>
+
+<p>We are continually trying to improve the user experience and greatly appreciate
+your questions, feedback and suggestions. Please don’t hesitate to contact us
+on <a href="mailto:support@pmhc-mds.com">support@pmhc-mds.com</a>.</p>
+
+<p>PMHC MDS Helpdesk open hours are from 10am - 6pm AEST/AEDT.</p>
+:ET

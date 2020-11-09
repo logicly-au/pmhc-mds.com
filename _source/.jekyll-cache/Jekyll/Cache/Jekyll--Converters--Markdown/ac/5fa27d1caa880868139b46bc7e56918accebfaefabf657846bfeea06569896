@@ -1,0 +1,29 @@
+I"X<h4 id="pmhc-mds-update-v110">PMHC MDS Update v1.1.0</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.1.0 was released on September 20, 2020.</p>
+
+<p>The following features have been implemented:</p>
+<ul>
+  <li>An “Aggregate Reporting” role has been added. The existing “Reporting”
+role gives users access to both the “Reporting” and the “Data Extract” tabs.
+This new role only provides access to the “Reporting” tab. If a user is
+required to see aggregate reports, but not unit record data, they can be
+assigned the “Aggregate Reporting” role without the “Reporting” or
+“Data Entry” roles and they will not have access to unit record data.
+Users have not been assigned the “Aggregate Reporting” role. User Managers
+will need to update users to this new role, if appropriate.</li>
+  <li>The “Roles of Assigned Users” table has been redesigned to be more consistent
+with the “View Roles” and “Edit Roles” tables.</li>
+</ul>
+
+<p>The following bug fixes have been implemented in the reporting interface:</p>
+<ul>
+  <li>Fixed a bug when a provider organisation has a ‘/’ in their organisation key</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+:ET

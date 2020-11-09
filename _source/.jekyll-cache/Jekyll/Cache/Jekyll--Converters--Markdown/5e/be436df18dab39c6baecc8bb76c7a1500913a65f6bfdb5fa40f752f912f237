@@ -1,0 +1,23 @@
+I""<h4 id="pmhc-mds-update-v127">PMHC MDS Update v1.2.7</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.2.7 was released on November
+9, 2020.</p>
+
+<p>The following bug fixes have been implemented in the reporting interface:</p>
+<ul>
+  <li>Fixed a bug where viewing an upload and then going back to the
+‘View Upload’ tab caused an error</li>
+</ul>
+
+<p>The following bug fixes have been implemented in the Wayback reporting interface:</p>
+<ul>
+  <li>Fixed a bug where the Wayback tab was not showing any fields</li>
+  <li>Fixed a spelling error in the Wayback Reporting Template</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+:ET

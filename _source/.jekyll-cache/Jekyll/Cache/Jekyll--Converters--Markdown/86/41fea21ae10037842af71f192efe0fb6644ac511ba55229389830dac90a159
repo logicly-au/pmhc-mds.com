@@ -1,0 +1,17 @@
+I"Ò<h4 id="pmhc-mds-update-v112">PMHC MDS Update v1.1.2</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.1.2 was released on September 29, 2020.</p>
+
+<p>The following bug fixes have been implemented in the upload interface:</p>
+<ul>
+  <li>Fixed a bug when multiple Recommendation Outs with the same Provider were recorded in the upload</li>
+  <li>Fixed a bug where TWB Plans or TWB NIs were not associated with a TWB Episode</li>
+  <li>Enhanced some TWB error messages to provide more specific details</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+:ET
