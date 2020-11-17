@@ -1,0 +1,30 @@
+I"U<h4 id="pmhc-mds-update-v130">PMHC MDS Update v1.3.0</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.3.0 was released on November
+15, 2020.</p>
+
+<p>The following new features have been implemented to assist user management:</p>
+<ul>
+  <li>A daily summary of changes to users roles will be sent to users when their
+roles are changed</li>
+</ul>
+
+<p>The following new features have been implemented in the reporting interface:</p>
+<ul>
+  <li>Reports can now be downloaded directly from the query form without the
+need to view the report first</li>
+  <li>Reports can now be downloaded in JSON format as well as the existing CSV format</li>
+</ul>
+
+<p>The following bug fixes have been implemented in the Wayback reporting interface:</p>
+<ul>
+  <li>Fixed a bug where <code class="highlighter-rouge">1: Straight or Heterosexual</code> responses were being included
+in the LGBTIQ client group</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+:ET
