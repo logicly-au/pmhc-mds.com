@@ -1,4 +1,16 @@
-I"é=<ul>
+I"Í\<ul>
+  
+    <li>
+      <a href="#/2020/12/23/Update-to-the-PMHC-MDS-v-1-5-4/">Update to the PMHC MDS - 23/12/2020</a><span> | December 23, 2020</span>
+    </li>
+  
+    <li>
+      <a href="#/2020/12/07/Update-to-the-PMHC-MDS-v-1-4-0/">Update to the PMHC MDS - 7/12/2020</a><span> | December 07, 2020</span>
+    </li>
+  
+    <li>
+      <a href="#/2020/11/15/Update-to-the-PMHC-MDS-v-1-3-0/">Update to the PMHC MDS - 15/11/2020</a><span> | November 15, 2020</span>
+    </li>
   
     <li>
       <a href="#/2020/11/09/Update-to-the-PMHC-MDS-v-1-2-7/">Update to the PMHC MDS - 9/11/2020</a><span> | November 09, 2020</span>
@@ -375,6 +387,114 @@
 </ul>
 
 <div>
+  
+    <div class="post">
+      <div id="/2020/12/23/Update-to-the-PMHC-MDS-v-1-5-4/"><h2>Update to the PMHC MDS - 23/12/2020</h2></div>
+      <h3>December 23, 2020</h3>
+	    <h4 id="pmhc-mds-update-v154">PMHC MDS Update v1.5.4</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.5.4 was released on December 23, 2020.</p>
+
+<h5 id="headtohelp-hubs-extension">HeadtoHelp Hubs extension</h5>
+
+<p>The Primary Mental Health Care Minimum Data Set (PMHC MDS) has been extended to allow data collection for the HeadtoHelp Hubs programs. This extension is only to be used if your organisation is a HeadtoHelp Hubs intake or hub organisation.</p>
+
+<p>The HeadtoHelp Hubs specification is available at <a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/</a>.</p>
+
+<p>The PMHC MDS has been extended to allow upload, data entry and report filtering against this specification.</p>
+
+<p>PHNs and their HeadtoHelp Hubs intake and hub provider organisations are able to either export data from their client systems and upload to the PMHC MDS or manually create spreadsheets that can then be uploaded. Example upload files are available in the HeadtoHelp Hubs Upload Specification at
+<a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/data-specification/upload-specification.html" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/data-specification/upload-specification.html</a>.</p>
+
+<p>Data may be uploaded in either Excel or CSV format.</p>
+
+<p>There is a Developers PMHC MDS website available for testing/training purposes
+for PHNs, Provider Organisations and third-party developers. See:
+<a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/faqs/system/access.html#can-i-have-an-account-to-test-adding-data-and-for-training-new-staff" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/faqs/system/access.html#can-i-have-an-account-to-test-adding-data-and-for-training-new-staff</a>.</p>
+
+<p>The HeadtoHelp Hubs data entry interface is also available. It allows users to manually enter HeadtoHelp Hubs data through online forms as an alternative to uploading a spreadsheet or file. The HeadtoHelp Hubs User Guide is available at <a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/user-documentation/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/user-documentation/</a>. Information on adding HeadtoHelp data to an episode is available at <a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/user-documentation/data-entry-user-guide.html#adding-a-client-s-headtohelp-episode-data" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/user-documentation/data-entry-user-guide.html#adding-a-client-s-headtohelp-episode-data</a></p>
+
+<p>Reports have been updated so that they can filter episodes using either the existing <code class="highlighter-rouge">!br20</code> tag or the HeadtoHelp Hubs <code class="highlighter-rouge">!covid19</code> episode tag that has been introduced in order to support the Australian Government Mental Health HeadtoHelp Hubs program. Please refer to <a href="https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html" target="_blank">https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html</a> for full details of when and how to use these tags.</p>
+
+<p>The following bug fixes been implemented in the reporting tab:</p>
+
+<ul>
+  <li>Fixed a bug so that only <code class="highlighter-rouge">!wayback</code> tagged records are included in The Way Back
+quarterly reports.</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>HeadtoHelp - <a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/</a>
+The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2020/12/07/Update-to-the-PMHC-MDS-v-1-4-0/"><h2>Update to the PMHC MDS - 7/12/2020</h2></div>
+      <h3>December 07, 2020</h3>
+	    <h4 id="pmhc-mds-update-v140">PMHC MDS Update v1.4.0</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.4.0 was released on December
+7, 2020.</p>
+
+<p>The following new features have been implemented in the data extract tab:</p>
+
+<ul>
+  <li>The Data Extract tab now includes a checkbox to â€˜Include data from all
+specificationsâ€™. This downloads a file that is a combination of all of
+the extensions listed at
+<a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.
+The resulting file <em>cannot</em> be uploaded. This is a download only format.
+It is based on the most recent version used by either the core specification
+or an extension.</li>
+  <li>Optimisations have been applied to the data extract query to improve speed.</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2020/11/15/Update-to-the-PMHC-MDS-v-1-3-0/"><h2>Update to the PMHC MDS - 15/11/2020</h2></div>
+      <h3>November 15, 2020</h3>
+	    <h4 id="pmhc-mds-update-v130">PMHC MDS Update v1.3.0</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.3.0 was released on November
+15, 2020.</p>
+
+<p>The following new features have been implemented to assist user management:</p>
+<ul>
+  <li>A daily summary of changes to users roles will be sent to users when their
+roles are changed</li>
+</ul>
+
+<p>The following new features have been implemented in the reporting interface:</p>
+<ul>
+  <li>Reports can now be downloaded directly from the query form without the
+need to view the report first</li>
+  <li>Reports can now be downloaded in JSON format as well as the existing CSV format</li>
+</ul>
+
+<p>The following bug fixes have been implemented in the Wayback reporting interface:</p>
+<ul>
+  <li>Fixed a bug where <code class="highlighter-rouge">1: Straight or Heterosexual</code> responses were being included
+in the LGBTIQ client group</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+
+    </div>
   
     <div class="post">
       <div id="/2020/11/09/Update-to-the-PMHC-MDS-v-1-2-7/"><h2>Update to the PMHC MDS - 9/11/2020</h2></div>
