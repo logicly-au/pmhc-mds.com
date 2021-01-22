@@ -1,4 +1,12 @@
-I"Õ\<ul>
+I"ÿk<ul>
+  
+    <li>
+      <a href="#/2021/01/20/Update-to-the-PMHC-MDS-v-1-6-1/">Update to the PMHC MDS - 20/1/2021</a><span> | January 20, 2021</span>
+    </li>
+  
+    <li>
+      <a href="#/2021/01/13/Update-to-the-PMHC-MDS-v-1-5-5/">Update to the PMHC MDS - 13/1/2021</a><span> | January 13, 2021</span>
+    </li>
   
     <li>
       <a href="#/2020/12/23/Update-to-the-PMHC-MDS-v-1-5-4/">Update to the PMHC MDS - 23/12/2020</a><span> | December 23, 2020</span>
@@ -387,6 +395,76 @@
 </ul>
 
 <div>
+  
+    <div class="post">
+      <div id="/2021/01/20/Update-to-the-PMHC-MDS-v-1-6-1/"><h2>Update to the PMHC MDS - 20/1/2021</h2></div>
+      <h3>January 20, 2021</h3>
+	    <h4 id="pmhc-mds-update-v161">PMHC MDS Update v1.6.1</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.6.1 was released on January 20, 2021.</p>
+
+<p>The following features have been implemented:</p>
+<ul>
+  <li>Help links have been added on all tabs.</li>
+</ul>
+
+<p>The following improvements have been made in in data extracts:</p>
+<ul>
+  <li>Optimisations have been made to improve the speed of creating data extracts.</li>
+  <li>An extra option - Include all data associated with matched episodes - has
+been added to the data extract tab. Previously data extracts would select all
+service contacts between the two selected dates, get their episodes and other
+associated entities, but there could be service contacts on those episodes
+that are outside the selected dates. Those service contacts were not
+included in the data extract. This new option allows you to include these
+service contacts.</li>
+</ul>
+
+<p>The following bug fixes have been implemented in the data entry interface:</p>
+<ul>
+  <li>Fixed a bug where service contact tags could not be edited.</li>
+</ul>
+
+<p>The following bug fixes have been implemented in the upload interface:</p>
+<ul>
+  <li>Validation on the <code class="highlighter-rouge">!covid19</code> tag was relaxed so that it could continue to be
+used with PMHC MDS version 2 standard uploads.</li>
+  <li>Fixed a bug causing an error in The Way Back Support Service version 3.0
+uploads where a TWB Plan or TWB NI was supplied without a matching TWB Episode record.</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>HeadtoHelp - <a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2021/01/13/Update-to-the-PMHC-MDS-v-1-5-5/"><h2>Update to the PMHC MDS - 13/1/2021</h2></div>
+      <h3>January 13, 2021</h3>
+	    <h4 id="pmhc-mds-update-v155">PMHC MDS Update v1.5.5</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.5.5 was released on January 12, 2021.</p>
+
+<p>The following bug fixes have been implemented in the data entry interface:</p>
+<ul>
+  <li>Fixed a bug where the TWB Recommendation Outs Status values could not be
+modified or added on the Episode edit details form</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>HeadtoHelp - <a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+
+    </div>
   
     <div class="post">
       <div id="/2020/12/23/Update-to-the-PMHC-MDS-v-1-5-4/"><h2>Update to the PMHC MDS - 23/12/2020</h2></div>
