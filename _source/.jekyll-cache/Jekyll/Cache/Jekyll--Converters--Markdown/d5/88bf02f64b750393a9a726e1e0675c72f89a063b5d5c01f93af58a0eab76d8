@@ -1,0 +1,37 @@
+I"¶<h4 id="pmhc-mds-update-v171">PMHC MDS Update v1.7.1</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.7.1 was released on January 31, 2021.</p>
+
+<p>The following improvements have been made in data entry:</p>
+<ul>
+  <li>Optimisations have been made to improve the speed of client search.</li>
+</ul>
+
+<p>The following improvements have been made in uploads:</p>
+<ul>
+  <li>Optimisations have been made to improve the speed of deletions.</li>
+</ul>
+
+<p>The following bug fixes have been implemented in the reports interface:</p>
+<ul>
+  <li>Fixed a bug where extraneous information was shown when changing the end date.</li>
+</ul>
+
+<h4 id="headtohelp-data-specification-update-v301">HeadtoHelp Data Specification Update v3.0.1</h4>
+
+<p>We are also pleased to announce that HeadtoHelp Data Specification Update
+v3.0.1 was released on January 31, 2021. The following updates have been implemented:</p>
+
+<h3 id="data-model-and-specifications"><a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/data-specification/data-model-and-specifications.html#data-model-and-specifications" target="_blank">Data model and specifications</a></h3>
+<ul>
+  <li><a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/data-specification/data-model-and-specifications.html#iar-dst-recommended-level-of-care" target="_blank">IAR-DST - Recommended Level of Care</a> - Changed field name from <code class="highlighter-rouge">iar_dst_level_of_care</code> to <code class="highlighter-rouge">iar_dst_recommended_level_of_care</code></li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>HeadtoHelp - <a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+:ET
