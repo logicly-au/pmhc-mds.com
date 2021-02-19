@@ -1,4 +1,8 @@
-I"èž<ul>
+I"£<ul>
+  
+    <li>
+      <a href="#/2021/02/19/headspace-data-is-now-available-through-the-PMHC-MDS/">headspace data is now available through the PMHC MDS</a><span> | February 19, 2021</span>
+    </li>
   
     <li>
       <a href="#/2021/02/16/FOR-INFORMATION-headspace-data-in-the-Primary-Mental-Health-Care-Minimum-Data-Set/">FOR INFORMATION&#58; headspace data in the Primary Mental Health Care Minimum Data Set</a><span> | February 16, 2021</span>
@@ -409,6 +413,19 @@
 <div>
   
     <div class="post">
+      <div id="/2021/02/19/headspace-data-is-now-available-through-the-PMHC-MDS/"><h2>headspace data is now available through the PMHC MDS</h2></div>
+      <h3>February 19, 2021</h3>
+	    <p>As announced in the Department of Healthâ€™s circular on 16/2/2021, we are
+pleased to announce that headspace data is now available through PMHC MDS
+reports and data extracts.</p>
+
+<p>For more information about the availability of headspace data in the PMHC
+MDS please refer to the Departmentâ€™s circular which has been published at
+<a href="https://pmhc-mds.com/communications/#/2021/02/16/FOR-INFORMATION-headspace-data-in-the-Primary-Mental-Health-Care-Minimum-Data-Set/" target="_blank">https://pmhc-mds.com/communications/#/2021/02/16/FOR-INFORMATION-headspace-data-in-the-Primary-Mental-Health-Care-Minimum-Data-Set/</a>.</p>
+
+    </div>
+  
+    <div class="post">
       <div id="/2021/02/16/FOR-INFORMATION-headspace-data-in-the-Primary-Mental-Health-Care-Minimum-Data-Set/"><h2>FOR INFORMATION&#58; headspace data in the Primary Mental Health Care Minimum Data Set</h2></div>
       <h3>February 16, 2021</h3>
 	    <p>The below circular was sent to PHN CEOs on Tuesday 16 February 2021.</p>
@@ -531,10 +548,10 @@ into spreadsheets for analysis, etc).</p>
 access to the PMHC MDS to view reports for their activity.</p>
 
 <p>Detailed specifications can be found on the PMHC MDS website
-<a href="https://docs.pmhcmds.com/projects/data-specification-headspace/en/v2/" target="_blank">https://docs.pmhcmds.com/projects/data-specification-headspace/en/v2/</a></p>
+<a href="https://docs.pmhc-mds.com/projects/data-specification-headspace/en/v2/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-headspace/en/v2/</a></p>
 
 <p>The Reports User Guide on the PMHC-MDS website at
-<a href="https://docs.pmhc-mds.com/projects/userdocumentation/en/latest/reporting.html" target="_blank">https://docs.pmhc-mds.com/projects/userdocumentation/en/latest/reporting.html</a> has been updated to include headspace
+<a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/reporting.html" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/reporting.html</a> has been updated to include headspace
 reports.</p>
 
 <h6 id="further-information">Further information</h6>
