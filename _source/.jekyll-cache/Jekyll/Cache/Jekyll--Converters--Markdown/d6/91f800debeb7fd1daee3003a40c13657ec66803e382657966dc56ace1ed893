@@ -1,0 +1,46 @@
+I"$<h4 id="headtohelp-hubs-data-specification-v302">HeadtoHelp Hubs Data Specification v3.0.2</h4>
+
+<p>On 26 February 2021, a new field “Practitioner Level of Care” will be added
+to the IAR-DST record of the HeadtoHelp Hubs PMHC MDS Extension.</p>
+
+<p>In order to incorporate these changes, the upload specification for the
+HeadtoHelp Hubs Data Specification will be updated.</p>
+
+<p>A new field - Practitioner Level of Care - will be added to the IAR-DST record:</p>
+
+<dl>
+  <dt>Description</dt>
+  <dd>The individualised level of care assessed by the practitioner for
+the referral</dd>
+  <dt>Field name</dt>
+  <dd>iar_dst_practitioner_level_of_care</dd>
+  <dt>Data type</dt>
+  <dd>string</dd>
+  <dt>Required</dt>
+  <dd>yes</dd>
+  <dt>Domain</dt>
+  <dd>1: Level 1 - Self Management
+
+    <p>2: Level 2 - Low Intensity Services</p>
+
+    <p>3: Level 3 - Moderate Intensity Services</p>
+
+    <p>4: Level 4 - High Intensity Services</p>
+
+    <p>5: Level 5 - Acute and Specialist Community Mental Health Services</p>
+
+    <p>9: Missing</p>
+  </dd>
+</dl>
+
+<p>Existing IAR-DST data will have the Practitioner Level of Care set to 9: Missing.
+All new data must use responses 1-5.</p>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>HeadtoHelp - <a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+:ET

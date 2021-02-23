@@ -1,4 +1,8 @@
-I"�<ul>
+I"�<ul>
+  
+    <li>
+      <a href="#/2021/02/23/Changes-to-HeadtoHelp-Data-Specification-Practitioner-Level-of_Care/">Changes to HeadtoHelp Data Specification - Practitioner Level of Care - 23/2/2021</a><span> | February 23, 2021</span>
+    </li>
   
     <li>
       <a href="#/2021/02/19/headspace-data-is-now-available-through-the-PMHC-MDS/">headspace data is now available through the PMHC MDS</a><span> | February 19, 2021</span>
@@ -411,6 +415,49 @@
 </ul>
 
 <div>
+  
+    <div class="post">
+      <div id="/2021/02/23/Changes-to-HeadtoHelp-Data-Specification-Practitioner-Level-of_Care/"><h2>Changes to HeadtoHelp Data Specification - Practitioner Level of Care - 23/2/2021</h2></div>
+      <h3>February 23, 2021</h3>
+	    <h4 id="headtohelp-hubs-data-specification-v302">HeadtoHelp Hubs Data Specification v3.0.2</h4>
+
+<p>On 26 February 2021, a new field “Practitioner Level of Care” will be added
+to the IAR-DST record of the HeadtoHelp Hubs PMHC MDS Extension.</p>
+
+<p>In order to incorporate these changes, the upload specification for the
+HeadtoHelp Hubs Data Specification will be updated.</p>
+
+<p>A new field - Practitioner Level of Care - will be added to the IAR-DST record:</p>
+
+<p>+————-+——————————————————————————–+
+| Description | The individualised level of care assessed by the practitioner for the referral |
++————-+——————————————————————————–+
+| Field name  | iar_dst_practitioner_level_of_care                                             |
++————-+——————————————————————————–+
+| Data type   | string                                                                         |
++————-+——————————————————————————–+
+| Required    | yes                                                                            |
++————-+——————————————————————————–+
+| Domain      | 1: Level 1 - Self Management                                                   |
+|             | 2: Level 2 - Low Intensity Services                                            |
+|             | 3: Level 3 - Moderate Intensity Services                                       |
+|             | 4: Level 4 - High Intensity Services                                           |
+|             | 5: Level 5 - Acute and Specialist Community Mental Health Services             |
+|             | 9: Missing                                                                     |
++————-+——————————————————————————–+</p>
+
+<p>Existing IAR-DST data will have the Practitioner Level of Care set to 9: Missing.
+All new data must use responses 1-5.</p>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>HeadtoHelp - <a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+
+    </div>
   
     <div class="post">
       <div id="/2021/02/19/headspace-data-is-now-available-through-the-PMHC-MDS/"><h2>headspace data is now available through the PMHC MDS</h2></div>
