@@ -1,4 +1,8 @@
-I"�<ul>
+I"S�<ul>
+  
+    <li>
+      <a href="#/2021/02/24/Planned-changes-for-PMHC-MDS-uploads/">Planned changes for PMHC MDS uploads - 25/2/2021</a><span> | February 24, 2021</span>
+    </li>
   
     <li>
       <a href="#/2021/02/23/Changes-to-HeadtoHelp-Data-Specification-Practitioner-Level-of_Care/">Changes to HeadtoHelp Data Specification - Practitioner Level of Care - 23/2/2021</a><span> | February 23, 2021</span>
@@ -417,6 +421,40 @@
 <div>
   
     <div class="post">
+      <div id="/2021/02/24/Planned-changes-for-PMHC-MDS-uploads/"><h2>Planned changes for PMHC MDS uploads - 25/2/2021</h2></div>
+      <h3>February 24, 2021</h3>
+	    <p>On the evening of 25 February 2021 changes will be made to improve the security
+of PMHC MDS uploads.</p>
+
+<p>Uploads will be rejected by our incoming data scanning system if they do not
+meet the following requirements.</p>
+
+<ul>
+  <li>Must be either an Excel Workbook (.xlsx),</li>
+  <li>OR a zip (.zip) file containing CSV files,</li>
+  <li>AND must be less than 512MB</li>
+</ul>
+
+<p>The first and second of these requirements were enforced already however
+files will be rejected at an earlier stage in the process after this update
+and as a consequence the behaviour of the system when files are rejected for
+this reason will be slightly different.</p>
+
+<p>The file size restriction prevents our systems from becoming unstable if
+extremely large files are uploaded. We will monitor if this limit causes
+issues for anyone and adjust it if necessary.</p>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>HeadtoHelp - <a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+
+    </div>
+  
+    <div class="post">
       <div id="/2021/02/23/Changes-to-HeadtoHelp-Data-Specification-Practitioner-Level-of_Care/"><h2>Changes to HeadtoHelp Data Specification - Practitioner Level of Care - 23/2/2021</h2></div>
       <h3>February 23, 2021</h3>
 	    <h4 id="headtohelp-hubs-data-specification-v302">HeadtoHelp Hubs Data Specification v3.0.2</h4>
@@ -429,22 +467,24 @@ HeadtoHelp Hubs Data Specification will be updated.</p>
 
 <p>A new field - Practitioner Level of Care - will be added to the IAR-DST record:</p>
 
-<p>+————-+——————————————————————————–+
-| Description | The individualised level of care assessed by the practitioner for the referral |
-+————-+——————————————————————————–+
-| Field name  | iar_dst_practitioner_level_of_care                                             |
-+————-+——————————————————————————–+
-| Data type   | string                                                                         |
-+————-+——————————————————————————–+
-| Required    | yes                                                                            |
-+————-+——————————————————————————–+
-| Domain      | 1: Level 1 - Self Management                                                   |
-|             | 2: Level 2 - Low Intensity Services                                            |
-|             | 3: Level 3 - Moderate Intensity Services                                       |
-|             | 4: Level 4 - High Intensity Services                                           |
-|             | 5: Level 5 - Acute and Specialist Community Mental Health Services             |
-|             | 9: Missing                                                                     |
-+————-+——————————————————————————–+</p>
+<p>Description: The individualised level of care assessed by the practitioner for the referral</p>
+
+<p>Field name: iar_dst_practitioner_level_of_care</p>
+
+<p>Data type: string</p>
+
+<p>Required: yes</p>
+
+<p>Domain:</p>
+
+<ul>
+  <li>1: Level 1 - Self Management</li>
+  <li>2: Level 2 - Low Intensity Services</li>
+  <li>3: Level 3 - Moderate Intensity Services</li>
+  <li>4: Level 4 - High Intensity Services</li>
+  <li>5: Level 5 - Acute and Specialist Community Mental Health Services</li>
+  <li>9: Missing</li>
+</ul>
 
 <p>Existing IAR-DST data will have the Practitioner Level of Care set to 9: Missing.
 All new data must use responses 1-5.</p>
