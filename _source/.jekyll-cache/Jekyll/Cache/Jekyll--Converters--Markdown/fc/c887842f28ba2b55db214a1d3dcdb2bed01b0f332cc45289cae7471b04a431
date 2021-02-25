@@ -1,4 +1,8 @@
-I"S�<ul>
+I"�<ul>
+  
+    <li>
+      <a href="#/2021/02/25/Update-to-the-PMHC-MDS-v-1-8-2-and-HeadtoHelp-Data-Specification-v-3-0-2/">Update to the PMHC MDS and HeadtoHelp Data Specification- 25/2/2021</a><span> | February 25, 2021</span>
+    </li>
   
     <li>
       <a href="#/2021/02/24/Planned-changes-for-PMHC-MDS-uploads/">Planned changes for PMHC MDS uploads - 25/2/2021</a><span> | February 24, 2021</span>
@@ -17,7 +21,7 @@
     </li>
   
     <li>
-      <a href="#/2021/02/07/Update-to-the-PMHC-MDS-v-1-7-3/">Update to the PMHC MDS and HeadtoHelp Data Specification- 7/2/2021</a><span> | February 07, 2021</span>
+      <a href="#/2021/02/07/Update-to-the-PMHC-MDS-v-1-7-3/">Update to the PMHC MDS - 7/2/2021</a><span> | February 07, 2021</span>
     </li>
   
     <li>
@@ -421,6 +425,92 @@
 <div>
   
     <div class="post">
+      <div id="/2021/02/25/Update-to-the-PMHC-MDS-v-1-8-2-and-HeadtoHelp-Data-Specification-v-3-0-2/"><h2>Update to the PMHC MDS and HeadtoHelp Data Specification- 25/2/2021</h2></div>
+      <h3>February 25, 2021</h3>
+	    <h4 id="pmhc-mds-update-v182">PMHC MDS Update v1.8.2</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.8.2 was released on
+February 25, 2021.</p>
+
+<p>The following functionality has been added to the data entry interface:</p>
+<ul>
+  <li>Added Practitioner Level of Care to the IAR-DST Measure which can be
+associated with a HeadtoHelp (!covid19) tagged episode.</li>
+</ul>
+
+<p>The following functionality has been added to the upload interface:</p>
+<ul>
+  <li>Added Practitioner Level of Care to the IAR-DST Measure which is required
+when uploading using the HeadtoHelp Hubs v3 Specification.</li>
+</ul>
+
+<p>The following improvement has been made in the reporting interface:</p>
+<ul>
+  <li>The A12 report has been updated to include information about shared
+episodes “as lead organisations” and “as delivery organisations”. More
+information is available at
+<a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/reporting.html#a12-episodes-shared-across-multiple-organisations" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/reporting.html#a12-episodes-shared-across-multiple-organisations</a></li>
+</ul>
+
+<p>The following bug fix has been implemented in uploads:</p>
+<ul>
+  <li>Fixed a bug in v3 specification uploads (The Way Back and HeadtoHelp)
+where an appropriate error was not returned when checking the collection
+occasion date against the episode end date.</li>
+</ul>
+
+<p>The following bug fix has been implemented in data extracts:</p>
+<ul>
+  <li>Fixed a bug where some keys were incorrectly being interpreted as a
+scientific number causing an error in Excel.</li>
+</ul>
+
+<h4 id="headtohelp-hubs-data-specification-update-v302">HeadtoHelp Hubs Data Specification Update v3.0.2</h4>
+
+<p>We are also pleased to announce that the HeadtoHelp Data Specifications
+update v3.0.2 was released on February 25, 2021. The following updates have
+been implemented:</p>
+
+<h5 id="data-model-and-specifications-headtohelp-v3-0-2">Data model and specifications</h5>
+
+<ul>
+  <li>Added <a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/data-specification/data-model-and-specifications.html#iar-dst-practitioner-level-of-care" target="_blank">IAR-DST - Practitioner Level of Care</a></li>
+</ul>
+
+<h4 id="pmhc-mds-upload-changes">PMHC MDS Upload changes</h4>
+
+<p>We are also pleased to announce that changes have been made to improve the security
+of PMHC MDS uploads.</p>
+
+<p>Uploads will be rejected by our incoming data scanning system if they do not
+meet the following requirements.</p>
+
+<ul>
+  <li>Must be either an Excel Workbook (.xlsx),</li>
+  <li>OR a zip (.zip) file containing CSV files,</li>
+  <li>AND must be less than 512MB</li>
+</ul>
+
+<p>The first and second of these requirements were enforced already however
+files will be rejected at an earlier stage in the process after this update
+and as a consequence the behaviour of the system when files are rejected for
+this reason will be slightly different.</p>
+
+<p>The file size restriction prevents our systems from becoming unstable if
+extremely large files are uploaded. We will monitor if this limit causes
+issues for anyone and adjust it if necessary.</p>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>HeadtoHelp - <a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+
+    </div>
+  
+    <div class="post">
       <div id="/2021/02/24/Planned-changes-for-PMHC-MDS-uploads/"><h2>Planned changes for PMHC MDS uploads - 25/2/2021</h2></div>
       <h3>February 24, 2021</h3>
 	    <p>On the evening of 25 February 2021 changes will be made to improve the security
@@ -656,7 +746,7 @@ General PMHC MDS – Strategic Data <a href="mailto:support@pmhc-mds.com">suppor
     </div>
   
     <div class="post">
-      <div id="/2021/02/07/Update-to-the-PMHC-MDS-v-1-7-3/"><h2>Update to the PMHC MDS and HeadtoHelp Data Specification- 7/2/2021</h2></div>
+      <div id="/2021/02/07/Update-to-the-PMHC-MDS-v-1-7-3/"><h2>Update to the PMHC MDS - 7/2/2021</h2></div>
       <h3>February 07, 2021</h3>
 	    <h4 id="pmhc-mds-update-v173">PMHC MDS Update v1.7.3</h4>
 
@@ -719,7 +809,7 @@ specifications.</li>
 <p>We are also pleased to announce that HeadtoHelp Data Specification Update
 v3.0.1 was released on January 31, 2021. The following updates have been implemented:</p>
 
-<h3 id="data-model-and-specifications-headtohelp-v3-0-1">Data model and specifications</h3>
+<h5 id="data-model-and-specifications-headtohelp-v3-0-1">Data model and specifications</h5>
 
 <ul>
   <li><a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/data-specification/data-model-and-specifications.html#iar-dst-recommended-level-of-care" target="_blank">IAR-DST - Recommended Level of Care</a> - Changed field name from <code class="highlighter-rouge">iar_dst_level_of_care</code> to <code class="highlighter-rouge">iar_dst_recommended_level_of_care</code></li>
