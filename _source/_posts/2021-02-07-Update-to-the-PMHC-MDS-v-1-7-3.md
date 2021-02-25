@@ -1,5 +1,5 @@
 ---
-title: Update to the PMHC MDS and HeadtoHelp Data Specification- 7/2/2021
+title: Update to the PMHC MDS - 7/2/2021
 ---
 
 #### PMHC MDS Update v1.7.3 ####
