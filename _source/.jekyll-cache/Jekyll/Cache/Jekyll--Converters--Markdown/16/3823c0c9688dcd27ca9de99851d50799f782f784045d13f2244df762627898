@@ -1,4 +1,8 @@
-I"�<ul>
+I"q�<ul>
+  
+    <li>
+      <a href="#/2021/02/25/Update-to-the-PMHC-MDS-v-1-9-0/">Update to the PMHC MDS - 18/3/2021</a><span> | February 25, 2021</span>
+    </li>
   
     <li>
       <a href="#/2021/02/25/Update-to-the-PMHC-MDS-v-1-8-2-and-HeadtoHelp-Data-Specification-v-3-0-2/">Update to the PMHC MDS and HeadtoHelp Data Specification- 25/2/2021</a><span> | February 25, 2021</span>
@@ -423,6 +427,44 @@
 </ul>
 
 <div>
+  
+    <div class="post">
+      <div id="/2021/02/25/Update-to-the-PMHC-MDS-v-1-9-0/"><h2>Update to the PMHC MDS - 18/3/2021</h2></div>
+      <h3>February 25, 2021</h3>
+	    <h4 id="pmhc-mds-update-v190">PMHC MDS Update v1.9.0</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.9.0 was released on
+March 18, 2021.</p>
+
+<p>The following functionality has been added to the data entry interface:</p>
+<ul>
+  <li>The data entry interface has been changed so that the user is presented
+with a list of clients when they navigate to the data entry tab. Instead
+of searching for a client, and then filtering, finding a client has been
+reduced to a one step process of simply filtering.</li>
+  <li>A ‘View Clients’ tab has been added to the ‘Practitioner Details’ tab to
+allow viewing all the clients for a particular practitioner.</li>
+</ul>
+
+<p>The following functionality has been added to the reporting interface:</p>
+<ul>
+  <li>An extra report ‘W2: High level summary of overall volumes by entity has
+been added to the Wayback reporting tab. This is a variation on the
+‘A1: High level summary of overall volumes by entity’ report that is
+tailored to filter on active episodes (episodes that have one or more
+service contacts recorded in the period) that have an associated TWB
+Episode record.</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>HeadtoHelp - <a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+
+    </div>
   
     <div class="post">
       <div id="/2021/02/25/Update-to-the-PMHC-MDS-v-1-8-2-and-HeadtoHelp-Data-Specification-v-3-0-2/"><h2>Update to the PMHC MDS and HeadtoHelp Data Specification- 25/2/2021</h2></div>
