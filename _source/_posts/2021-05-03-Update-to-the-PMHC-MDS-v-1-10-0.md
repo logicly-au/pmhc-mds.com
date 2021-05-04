@@ -1,20 +1,19 @@
 ---
-title: Update to the PMHC MDS - 13/4/2021
+title: Update to the PMHC MDS - 3/5/2021
 ---
 
-#### PMHC MDS Update v1.9.6 ####
+#### PMHC MDS Update v1.10.0 ####
 
-We are pleased to announce that PMHC MDS Update v1.9.6 was released on
-April 13, 2021.
+We are pleased to announce that PMHC MDS Update v1.10.0 was released on May 3,
+2021.
 
-The following bugfix has been implemented in the upload interface:
-* Provide a more informative error when duplicate TWB Needs Identification
-  records are provided in the same upload.
+The following feature has been implemented in the data entry interface:
+* The tags input field will now offer suggestions for tags that have already
+  been used on the same entity type within the Provider Organisation.
 
-The following bugfix has been implemented in the reports interface:
-* Fixed a bug in the W1: Wayback quarterly reporting template where the
-  template could not be opened if strings containing the characters &<> were
-  part of the generated report.
+The following bugfix has been implemented in the data entry interface:
+* Fixed a bug where the start and end date filters were not working on
+  all Organisations tabs.
 
 The user guides have been updated to reflect these updates. They are available at:
 
