@@ -3,7 +3,7 @@ cache:
   - bundler
   - pip
 rvm:
-  - 2.4
+  - 2.5
 before_script:
   - pip install --user html5validator
 script: ./script/cibuild
