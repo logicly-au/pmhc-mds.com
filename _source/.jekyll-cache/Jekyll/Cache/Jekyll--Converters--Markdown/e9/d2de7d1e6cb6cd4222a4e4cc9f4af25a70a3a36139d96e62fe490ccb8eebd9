@@ -1,0 +1,26 @@
+I"<h4 id="pmhc-mds-update-v196">PMHC MDS Update v1.9.6</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.9.6 was released on
+April 13, 2021.</p>
+
+<p>The following bugfix has been implemented in the upload interface:</p>
+<ul>
+  <li>Provide a more informative error when duplicate TWB Needs Identification
+records are provided in the same upload.</li>
+</ul>
+
+<p>The following bugfix has been implemented in the reports interface:</p>
+<ul>
+  <li>Fixed a bug in the W1: Wayback quarterly reporting template where the
+template could not be opened if strings containing the characters &amp;&lt;&gt; were
+part of the generated report.</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>HeadtoHelp - <a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+:ET
