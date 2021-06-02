@@ -1,4 +1,4 @@
-I"Â<h4 id="pmhc-mds-update-v154">PMHC MDS Update v1.5.4</h4>
+I"û<h4 id="pmhc-mds-update-v154">PMHC MDS Update v1.5.4</h4>
 
 <p>We are pleased to announce that PMHC MDS Update v1.5.4 was released on December 23, 2020.</p>
 
@@ -21,12 +21,12 @@ for PHNs, Provider Organisations and third-party developers. See:
 
 <p>The HeadtoHelp Hubs data entry interface is also available. It allows users to manually enter HeadtoHelp Hubs data through online forms as an alternative to uploading a spreadsheet or file. The HeadtoHelp Hubs User Guide is available at <a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/user-documentation/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/user-documentation/</a>. Information on adding HeadtoHelp data to an episode is available at <a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/user-documentation/data-entry-user-guide.html#adding-a-client-s-headtohelp-episode-data" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/user-documentation/data-entry-user-guide.html#adding-a-client-s-headtohelp-episode-data</a></p>
 
-<p>Reports have been updated so that they can filter episodes using either the existing <code class="highlighter-rouge">!br20</code> tag or the HeadtoHelp Hubs <code class="highlighter-rouge">!covid19</code> episode tag that has been introduced in order to support the Australian Government Mental Health HeadtoHelp Hubs program. Please refer to <a href="https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html" target="_blank">https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html</a> for full details of when and how to use these tags.</p>
+<p>Reports have been updated so that they can filter episodes using either the existing <code class="language-plaintext highlighter-rouge">!br20</code> tag or the HeadtoHelp Hubs <code class="language-plaintext highlighter-rouge">!covid19</code> episode tag that has been introduced in order to support the Australian Government Mental Health HeadtoHelp Hubs program. Please refer to <a href="https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html" target="_blank">https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html</a> for full details of when and how to use these tags.</p>
 
 <p>The following bug fixes been implemented in the reporting tab:</p>
 
 <ul>
-  <li>Fixed a bug so that only <code class="highlighter-rouge">!wayback</code> tagged records are included in The Way Back
+  <li>Fixed a bug so that only <code class="language-plaintext highlighter-rouge">!wayback</code> tagged records are included in The Way Back
 quarterly reports.</li>
 </ul>
 

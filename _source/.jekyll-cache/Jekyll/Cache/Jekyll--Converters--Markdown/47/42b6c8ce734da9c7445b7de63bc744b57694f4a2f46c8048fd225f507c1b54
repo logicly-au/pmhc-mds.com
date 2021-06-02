@@ -1,4 +1,4 @@
-I"þ<h4 id="pmhc-mds-update-v0350">PMHC MDS Update v0.35.0</h4>
+I"<h4 id="pmhc-mds-update-v0350">PMHC MDS Update v0.35.0</h4>
 
 <p>We are pleased to announce that PMHC MDS Update v0.35.0 was released on March 10, 2020.</p>
 
@@ -12,7 +12,7 @@ WCAG AA 2.0 accessibility standards</li>
 <p>The following features have been implemented in the reporting interface:</p>
 <ul>
   <li>All the A series, B1, B2, B3 and B4 and all the C series reports have been
-updated so that they can filter episodes using the <code class="highlighter-rouge">!br20</code> episode tag that
+updated so that they can filter episodes using the <code class="language-plaintext highlighter-rouge">!br20</code> episode tag that
 has been introduced in order to support the Australian Government Mental
 Health Response to Bushfire Trauma. Please refer to
 <a href="https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html" target="_blank">https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html</a>

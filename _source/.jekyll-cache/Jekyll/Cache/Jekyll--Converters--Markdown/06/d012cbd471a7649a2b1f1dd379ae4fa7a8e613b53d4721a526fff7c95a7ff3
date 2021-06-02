@@ -1,4 +1,8 @@
-I"��<ul>
+I"��<ul>
+  
+    <li>
+      <a href="#/2021/05/10/Update-to-the-PMHC-MDS-v-1-10-1/">Update to the PMHC MDS - 10/5/2021</a><span> | May 10, 2021</span>
+    </li>
   
     <li>
       <a href="#/2021/05/03/Update-to-the-PMHC-MDS-v-1-10-0/">Update to the PMHC MDS - 3/5/2021</a><span> | May 03, 2021</span>
@@ -443,6 +447,24 @@
 </ul>
 
 <div>
+  
+    <div class="post">
+      <div id="/2021/05/10/Update-to-the-PMHC-MDS-v-1-10-1/"><h2>Update to the PMHC MDS - 10/5/2021</h2></div>
+      <h3>May 10, 2021</h3>
+	    <h4 id="pmhc-mds-update-v1101">PMHC MDS Update v1.10.1</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.10.1 was released on
+May 10, 2021.</p>
+
+<p>The following feature has been implemented in the reports interface:</p>
+<ul>
+  <li>A new report - G1: Residential Aged Care Facility Client Outcomes has been
+added when the PMHC data source is selected. This report summarises activity
+and outcomes for episodes delivered at least partly at residential aged care
+facilities.</li>
+</ul>
+
+    </div>
   
     <div class="post">
       <div id="/2021/05/03/Update-to-the-PMHC-MDS-v-1-10-0/"><h2>Update to the PMHC MDS - 3/5/2021</h2></div>
@@ -987,7 +1009,7 @@ v3.0.1 was released on January 31, 2021. The following updates have been impleme
 <h5 id="data-model-and-specifications-headtohelp-v3-0-1">Data model and specifications</h5>
 
 <ul>
-  <li><a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/data-specification/data-model-and-specifications.html#iar-dst-recommended-level-of-care" target="_blank">IAR-DST - Recommended Level of Care</a> - Changed field name from <code class="highlighter-rouge">iar_dst_level_of_care</code> to <code class="highlighter-rouge">iar_dst_recommended_level_of_care</code></li>
+  <li><a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/data-specification/data-model-and-specifications.html#iar-dst-recommended-level-of-care" target="_blank">IAR-DST - Recommended Level of Care</a> - Changed field name from <code class="language-plaintext highlighter-rouge">iar_dst_level_of_care</code> to <code class="language-plaintext highlighter-rouge">iar_dst_recommended_level_of_care</code></li>
 </ul>
 
 <p>The user guides have been updated to reflect these updates. They are available at:</p>
@@ -1031,7 +1053,7 @@ service contacts.</li>
 
 <p>The following bug fixes have been implemented in the upload interface:</p>
 <ul>
-  <li>Validation on the <code class="highlighter-rouge">!covid19</code> tag was relaxed so that it could continue to be
+  <li>Validation on the <code class="language-plaintext highlighter-rouge">!covid19</code> tag was relaxed so that it could continue to be
 used with PMHC MDS version 2 standard uploads.</li>
   <li>Fixed a bug causing an error in The Way Back Support Service version 3.0
 uploads where a TWB Plan or TWB NI was supplied without a matching TWB Episode record.</li>
@@ -1096,12 +1118,12 @@ for PHNs, Provider Organisations and third-party developers. See:
 
 <p>The HeadtoHelp Hubs data entry interface is also available. It allows users to manually enter HeadtoHelp Hubs data through online forms as an alternative to uploading a spreadsheet or file. The HeadtoHelp Hubs User Guide is available at <a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/user-documentation/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/user-documentation/</a>. Information on adding HeadtoHelp data to an episode is available at <a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/user-documentation/data-entry-user-guide.html#adding-a-client-s-headtohelp-episode-data" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/user-documentation/data-entry-user-guide.html#adding-a-client-s-headtohelp-episode-data</a></p>
 
-<p>Reports have been updated so that they can filter episodes using either the existing <code class="highlighter-rouge">!br20</code> tag or the HeadtoHelp Hubs <code class="highlighter-rouge">!covid19</code> episode tag that has been introduced in order to support the Australian Government Mental Health HeadtoHelp Hubs program. Please refer to <a href="https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html" target="_blank">https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html</a> for full details of when and how to use these tags.</p>
+<p>Reports have been updated so that they can filter episodes using either the existing <code class="language-plaintext highlighter-rouge">!br20</code> tag or the HeadtoHelp Hubs <code class="language-plaintext highlighter-rouge">!covid19</code> episode tag that has been introduced in order to support the Australian Government Mental Health HeadtoHelp Hubs program. Please refer to <a href="https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html" target="_blank">https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html</a> for full details of when and how to use these tags.</p>
 
 <p>The following bug fixes been implemented in the reporting tab:</p>
 
 <ul>
-  <li>Fixed a bug so that only <code class="highlighter-rouge">!wayback</code> tagged records are included in The Way Back
+  <li>Fixed a bug so that only <code class="language-plaintext highlighter-rouge">!wayback</code> tagged records are included in The Way Back
 quarterly reports.</li>
 </ul>
 
@@ -1167,7 +1189,7 @@ need to view the report first</li>
 
 <p>The following bug fixes have been implemented in the Wayback reporting interface:</p>
 <ul>
-  <li>Fixed a bug where <code class="highlighter-rouge">1: Straight or Heterosexual</code> responses were being included
+  <li>Fixed a bug where <code class="language-plaintext highlighter-rouge">1: Straight or Heterosexual</code> responses were being included
 in the LGBTIQ client group</li>
 </ul>
 
@@ -1238,7 +1260,7 @@ Beyond Blue or your PHN.</p>
 <p>The following features have been implemented in the data entry interface:</p>
 <ul>
   <li>Improved the speed of the client search</li>
-  <li>Fixed a bug where episodes that were uploaded with the <code class="highlighter-rouge">!wayback</code> tag but no
+  <li>Fixed a bug where episodes that were uploaded with the <code class="language-plaintext highlighter-rouge">!wayback</code> tag but no
 corresponding TWB Episode record where not display correctly in the Data
 Entry interface</li>
 </ul>
@@ -1722,7 +1744,7 @@ WCAG AA 2.0 accessibility standards</li>
 <p>The following features have been implemented in the reporting interface:</p>
 <ul>
   <li>All the A series, B1, B2, B3 and B4 and all the C series reports have been
-updated so that they can filter episodes using the <code class="highlighter-rouge">!br20</code> episode tag that
+updated so that they can filter episodes using the <code class="language-plaintext highlighter-rouge">!br20</code> episode tag that
 has been introduced in order to support the Australian Government Mental
 Health Response to Bushfire Trauma. Please refer to
 <a href="https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html" target="_blank">https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html</a>
@@ -1810,7 +1832,7 @@ contact the PMHC MDS helpdesk via email at support@pmhc-mds.com.</p>
   <li>The Department has informed PHN’s of the reporting arrangements associated
 with the Australian Government Mental Health Response to Bushfire Trauma.
 In order to support this the PMHC MDS has been updated to capture in-scope
-service activity by using the reserved Episode tag <code class="highlighter-rouge">!br20</code>. Please refer to
+service activity by using the reserved Episode tag <code class="language-plaintext highlighter-rouge">!br20</code>. Please refer to
 <a href="https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html" target="_blank">https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html</a>
 for full details of when and how to use this tag. Note that while PHN’s
 funded under the Response must report in-scope activity using this flag,
@@ -3129,7 +3151,7 @@ clicking save.</li>
 <ul>
   <li>Improved the order of organisations in the Data Extraction ‘Select Organisations’ drop down.</li>
   <li>Improved the order of organisations in the Upload ‘Organisation’ drop down.</li>
-  <li>Fixed a bug where an error would be returned when viewing records with ‘/’ or <code class="highlighter-rouge">?</code> in the key.</li>
+  <li>Fixed a bug where an error would be returned when viewing records with ‘/’ or <code class="language-plaintext highlighter-rouge">?</code> in the key.</li>
   <li>Fixed an error where if 0 was provided as an SDQ subscale the value was changed to 99.</li>
   <li>Fixed an error where ‘Showing results for “”’ would appear under the Client Search form.</li>
   <li>Fixed an error in the “Invite New User” form when inviting a user that already exists with the PMHC MDS.</li>

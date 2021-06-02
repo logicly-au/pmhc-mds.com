@@ -1,5 +1,4 @@
-I"
-
+I"
 <h4 id="pmhc-mds-update-v0332">PMHC MDS Update v0.33.2</h4>
 
 <p>We are pleased to announce that PMHC MDS Update v0.33.2 was released on January 23, 2020.</p>
@@ -9,7 +8,7 @@
   <li>The Department has informed PHN’s of the reporting arrangements associated
 with the Australian Government Mental Health Response to Bushfire Trauma.
 In order to support this the PMHC MDS has been updated to capture in-scope
-service activity by using the reserved Episode tag <code class="highlighter-rouge">!br20</code>. Please refer to
+service activity by using the reserved Episode tag <code class="language-plaintext highlighter-rouge">!br20</code>. Please refer to
 <a href="https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html" target="_blank">https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html</a>
 for full details of when and how to use this tag. Note that while PHN’s
 funded under the Response must report in-scope activity using this flag,

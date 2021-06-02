@@ -1,4 +1,4 @@
-I"x<h4 id="pmhc-mds-update-v161">PMHC MDS Update v1.6.1</h4>
+I"‹<h4 id="pmhc-mds-update-v161">PMHC MDS Update v1.6.1</h4>
 
 <p>We are pleased to announce that PMHC MDS Update v1.6.1 was released on January 20, 2021.</p>
 
@@ -26,7 +26,7 @@ service contacts.</li>
 
 <p>The following bug fixes have been implemented in the upload interface:</p>
 <ul>
-  <li>Validation on the <code class="highlighter-rouge">!covid19</code> tag was relaxed so that it could continue to be
+  <li>Validation on the <code class="language-plaintext highlighter-rouge">!covid19</code> tag was relaxed so that it could continue to be
 used with PMHC MDS version 2 standard uploads.</li>
   <li>Fixed a bug causing an error in The Way Back Support Service version 3.0
 uploads where a TWB Plan or TWB NI was supplied without a matching TWB Episode record.</li>

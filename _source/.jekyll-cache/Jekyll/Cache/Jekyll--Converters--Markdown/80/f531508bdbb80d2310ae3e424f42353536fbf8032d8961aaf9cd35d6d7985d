@@ -1,4 +1,4 @@
-I"	<h4 id="pmhc-mds-update-v0190">PMHC MDS Update v0.19.0</h4>
+I")	<h4 id="pmhc-mds-update-v0190">PMHC MDS Update v0.19.0</h4>
 
 <p>We are pleased to announce that PMHC MDS Update v0.19.0 was released on
 December 8, 2017.</p>
@@ -20,7 +20,7 @@ clicking save.</li>
 <ul>
   <li>Improved the order of organisations in the Data Extraction ‘Select Organisations’ drop down.</li>
   <li>Improved the order of organisations in the Upload ‘Organisation’ drop down.</li>
-  <li>Fixed a bug where an error would be returned when viewing records with ‘/’ or <code class="highlighter-rouge">?</code> in the key.</li>
+  <li>Fixed a bug where an error would be returned when viewing records with ‘/’ or <code class="language-plaintext highlighter-rouge">?</code> in the key.</li>
   <li>Fixed an error where if 0 was provided as an SDQ subscale the value was changed to 99.</li>
   <li>Fixed an error where ‘Showing results for “”’ would appear under the Client Search form.</li>
   <li>Fixed an error in the “Invite New User” form when inviting a user that already exists with the PMHC MDS.</li>

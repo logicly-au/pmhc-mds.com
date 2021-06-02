@@ -1,4 +1,4 @@
-I"�<p>Primary contact users at all PHN’s have now been provided with accounts.</p>
+I"<p>Primary contact users at all PHN’s have now been provided with accounts.</p>
 
 <p>PHN’s should now be creating Provider Organisations and, if required, setting
 up users at these Provider Organisations.</p>
@@ -43,72 +43,10 @@ and notes on <a href="https://docs.pmhc-mds.com/data-specification/form-creation
 
 <h3 id="step-5-training-and-online-user-guide"><a id="step5"></a>Step 5. Training and online user guide</h3>
 
-<p>The PMHC MDS offers various options for users to learn how to navigate and use the PMHC MDS.</p>
+<p>The PMHC MDS offers various options for users to
+<a href="/training/">learn how to navigate and use the PMHC MDS</a>.</p>
 
-<ol>
-  <li><a href="#user_guide">Online User Guide</a></li>
-  <li><a href="#group_training">Online group training sessions</a></li>
-  <li>A video training library is coming soon</li>
-</ol>
-
-<h4 id="online-user-guide"><a id="user_guide"></a>Online User Guide</h4>
-
-<p>The <a href="https://docs.pmhc-mds.com/user-documentation/index.html">Online User Guide</a>
-is regularly updated to reflect each update release and outlines
-step by step instructions for each role within the PMHC MDS.</p>
-
-<h4 id="online-group-training"><a id="group_training"></a>Online group training</h4>
-
-<p>Online group training sessions are currently hosted by the PMHC Helpdesk between 10am - 6pm AEST/AEDT.</p>
-
-<p>Access to the PMHC MDS is based around roles, and therefore online group
-training sessions have been designed for a role. The following provides a
-summary of each of the roles that we currently provide training for:</p>
-
-<table class="table-bordered">
-  <tr>
-    <th>Training</th>
-    <th>Role / Tasks </th>
-    <th>Training Duration</th>
-  </tr>
-  <tr>
-    <td>User Management</td>
-    <td>A user with the User Management role for an organisation can manage user accounts for that organisation</td>
-    <td>30 minutes</td>
-  </tr>
-  <tr>
-    <td>Upload</td>
-    <td>A user with the Upload role can upload data to the associated organisation</td>
-    <td>30 minutes</td>
-  </tr>
-  <tr>
-    <td>Data Entry</td>
-    <td>A user with the Data Entry role can enter client data and practitioners from the associated organisation</td>
-    <td>60 minutes</td>
-  </tr>
-    <tr>
-    <td>PHN Overview</td>
-    <td>A user with various roles at at the PHN and associated Provider Organisations</td>
-    <td>60 minutes</td>
-  </tr>
-</table>
-
-<p><em>Unsure which role you have? More information can be found at <a href="https://docs.pmhc-mds.com/user-documentation/users.html#users-roles">https://docs.pmhc-mds.com/user-documentation/users.html#users-roles</a>.</em></p>
-
-<p>Online training sessions are held through an online GoToMeeting session by request. Each
-session will be limited to approx. 25 users and can have a combination of staff from one
-Provider Organisation, or various Provider Organisation users from around Australia.</p>
-
-<p>To book in for an online training session please email <a href="mailto:support@pmhc-mds.com">support@pmhc-mds.com</a>
-with your preferred training session role type and date/time. A GoToMeeting link will be sent to
-you via a calendar invitation.</p>
-
-<p>Please note: Users who do not yet have an active login to the PMHC MDS can
-still attend our training sessions. It would be very beneficial to organise
-access prior to the training session, as this will then enable users to login
-and commence using the PMHC MDS straight after the training session concludes.
-<em>(More information on obtaining a login can be viewed in Step 4 above, or on
-the PMHC MDS FAQS which can be found at <a href="https://docs.pmhc-mds.com/faqs/system/access.html">https://docs.pmhc-mds.com/faqs/system/access.html</a>)</em></p>
+<h2 id="feedback">Feedback</h2>
 
 <p>We are continually trying to improve the user experience and greatly appreciate
 your questions, feedback and suggestions. Please don’t hesitate to contact us

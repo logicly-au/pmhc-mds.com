@@ -1,4 +1,4 @@
-I"+	<h4 id="pmhc-mds-update-v125">PMHC MDS Update v1.2.5</h4>
+I">	<h4 id="pmhc-mds-update-v125">PMHC MDS Update v1.2.5</h4>
 
 <p>We are pleased to announce that PMHC MDS Update v1.2.5 was released on October
 21, 2020.</p>
@@ -26,7 +26,7 @@ Beyond Blue or your PHN.</p>
 <p>The following features have been implemented in the data entry interface:</p>
 <ul>
   <li>Improved the speed of the client search</li>
-  <li>Fixed a bug where episodes that were uploaded with the <code class="highlighter-rouge">!wayback</code> tag but no
+  <li>Fixed a bug where episodes that were uploaded with the <code class="language-plaintext highlighter-rouge">!wayback</code> tag but no
 corresponding TWB Episode record where not display correctly in the Data
 Entry interface</li>
 </ul>
