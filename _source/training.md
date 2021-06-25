@@ -8,7 +8,7 @@ The PMHC MDS offers various options for users to learn how to navigate and use t
 
 1. [Online User Guide](#user_guide)
 2. [Online group training sessions](#group_training)
-3. A video training library is coming soon
+3. [Video training library](#video_training_library)
 
 ## <a id="user_guide"></a>Online User Guide
 
@@ -71,7 +71,9 @@ the PMHC MDS FAQS which can be found at [https://docs.pmhc-mds.com/faqs/system/a
 
 ## <a id="video_training_library"></a>Video Training library
 
-Video Training modules are currently being developed.
+The following video training modules are available:
+
+* [Statistical Linkage Key (SLK)](https://youtu.be/YWv4pBOvntw)
 
 ## Feedback
 
