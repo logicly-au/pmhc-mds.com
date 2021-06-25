@@ -1,4 +1,12 @@
-I"Þé<ul>
+I">õ<ul>
+  
+    <li>
+      <a href="#/2021/06/24/Update-to-the-PMHC-MDS-v-1-11-0/">Update to the PMHC MDS - 24/6/2021</a><span> | June 24, 2021</span>
+    </li>
+  
+    <li>
+      <a href="#/2021/06/04/PMHC-MDS-scheduled-outage/">PMHC MDS outage scheduled for 9pm AEST Thursday 10th June 2021</a><span> | June 04, 2021</span>
+    </li>
   
     <li>
       <a href="#/2021/05/10/Update-to-the-PMHC-MDS-v-1-10-1/">Update to the PMHC MDS - 10/5/2021</a><span> | May 10, 2021</span>
@@ -447,6 +455,61 @@
 </ul>
 
 <div>
+  
+    <div class="post">
+      <div id="/2021/06/24/Update-to-the-PMHC-MDS-v-1-11-0/"><h2>Update to the PMHC MDS - 24/6/2021</h2></div>
+      <h3>June 24, 2021</h3>
+	    <h4 id="pmhc-mds-update-v1110">PMHC MDS Update v1.11.0</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.11.0 was released on June 14, 2021.</p>
+
+<p>The following change has been implemented in the reports interface:</p>
+<ul>
+  <li>Updated the W1: Wayback quarterly report template.
+    <ul>
+      <li>Added links from the template to the user documentation</li>
+      <li>Changed the <code class="language-plaintext highlighter-rouge">Client Measures and Experience</code> section to report the Number
+of Initial, Review and Exit Measures completed during the period instead
+of the number of pairs of matched outcome measures.</li>
+      <li>Added <code class="language-plaintext highlighter-rouge">Number of On-Time Events</code> and <code class="language-plaintext highlighter-rouge">Number of Events</code> into the
+<code class="language-plaintext highlighter-rouge">Key Performance Indicators</code> section. These are the numerator and
+denominator used to calculate the <code class="language-plaintext highlighter-rouge">% Achieved During Reporting Period</code>.
+These have been added to assist organisations who are attempting to
+reproduce the KPI results.</li>
+    </ul>
+
+    <p>This new template also includes a table for the manual reporting of the
+â€˜Consent to participate in TWBSSâ€™ data, you <em>do not</em> need to report this
+for the Q4 April-June 2021 submission.</p>
+  </li>
+</ul>
+
+<p>The following bugfix has been implemented in the data entry interface:</p>
+<ul>
+  <li>Updated the guide descriptions when viewing a WHO-5.</li>
+</ul>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2021/06/04/PMHC-MDS-scheduled-outage/"><h2>PMHC MDS outage scheduled for 9pm AEST Thursday 10th June 2021</h2></div>
+      <h3>June 04, 2021</h3>
+	    <h4 id="pmhc-mds-outage-scheduled-for-9pm-aest-thursday-10th-june-2021">PMHC MDS outage scheduled for 9pm AEST Thursday 10th June 2021</h4>
+
+<p>PMHC MDS outage scheduled for 9pm AEST Thursday 10th June 2021</p>
+
+<p>We will be upgrading part of our infrastructure on Thursday 10th June 2021
+between 9:00pm and 10:00pm AEST.</p>
+
+<p>We expect the outage to be brief, however the system could be interrupted
+for up to an hour.</p>
+
+<p>If you are planning on uploading or entering any data during this time, we
+advise you to complete your work before 9:00pm AEST.</p>
+
+<p>Thank-you for your patience whilst this work is carried out.</p>
+
+    </div>
   
     <div class="post">
       <div id="/2021/05/10/Update-to-the-PMHC-MDS-v-1-10-1/"><h2>Update to the PMHC MDS - 10/5/2021</h2></div>

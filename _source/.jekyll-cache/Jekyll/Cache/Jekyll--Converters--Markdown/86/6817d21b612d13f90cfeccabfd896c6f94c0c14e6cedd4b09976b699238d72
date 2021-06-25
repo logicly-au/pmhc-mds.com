@@ -1,0 +1,30 @@
+I"<h4 id="pmhc-mds-update-v1110">PMHC MDS Update v1.11.0</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.11.0 was released on June 14, 2021.</p>
+
+<p>The following change has been implemented in the reports interface:</p>
+<ul>
+  <li>Updated the W1: Wayback quarterly report template.
+    <ul>
+      <li>Added links from the template to the user documentation</li>
+      <li>Changed the <code class="language-plaintext highlighter-rouge">Client Measures and Experience</code> section to report the Number
+of Initial, Review and Exit Measures completed during the period instead
+of the number of pairs of matched outcome measures.</li>
+      <li>Added <code class="language-plaintext highlighter-rouge">Number of On-Time Events</code> and <code class="language-plaintext highlighter-rouge">Number of Events</code> into the
+<code class="language-plaintext highlighter-rouge">Key Performance Indicators</code> section. These are the numerator and
+denominator used to calculate the <code class="language-plaintext highlighter-rouge">% Achieved During Reporting Period</code>.
+These have been added to assist organisations who are attempting to
+reproduce the KPI results.</li>
+    </ul>
+
+    <p>This new template also includes a table for the manual reporting of the
+‘Consent to participate in TWBSS’ data, you <em>do not</em> need to report this
+for the Q4 April-June 2021 submission.</p>
+  </li>
+</ul>
+
+<p>The following bugfix has been implemented in the data entry interface:</p>
+<ul>
+  <li>Updated the guide descriptions when viewing a WHO-5.</li>
+</ul>
+:ET
