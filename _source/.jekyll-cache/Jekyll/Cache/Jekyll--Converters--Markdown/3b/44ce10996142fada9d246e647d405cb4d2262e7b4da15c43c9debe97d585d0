@@ -1,4 +1,12 @@
-I">õ<ul>
+I"<ul>
+  
+    <li>
+      <a href="#/2021/08/30/notification-of-planned-K10-scoring-change/">PMHC MDS notification of planned change to K10+ scoring calculation</a><span> | August 30, 2021</span>
+    </li>
+  
+    <li>
+      <a href="#/2021/08/27/PMHC-MDS-scheduled-outage/">PMHC MDS outage scheduled for 7am AEST Monday 30th August 2021</a><span> | August 27, 2021</span>
+    </li>
   
     <li>
       <a href="#/2021/06/24/Update-to-the-PMHC-MDS-v-1-11-0/">Update to the PMHC MDS - 24/6/2021</a><span> | June 24, 2021</span>
@@ -455,6 +463,62 @@
 </ul>
 
 <div>
+  
+    <div class="post">
+      <div id="/2021/08/30/notification-of-planned-K10-scoring-change/"><h2>PMHC MDS notification of planned change to K10+ scoring calculation</h2></div>
+      <h3>August 30, 2021</h3>
+	    <h4 id="notification-of-planned-change-to-the-k10-scoring-calculation">Notification of planned change to the K10+ scoring calculation</h4>
+
+<p>In the last week of October 2021, the PMHC MDS will be updated with a
+changed K10+ scoring algorithm.</p>
+
+<p>The PMHC MDS has been scoring the K10+ using the following algorithm:</p>
+
+<p>The Total score is computed as the sum of the scores for items 1 to 10. If
+any item has not been completed (that is, has not been coded 1, 2, 3, 4, 5),
+it is excluded from the total with the proviso that a completed K10 with more
+than one missing item is regarded as invalid.</p>
+
+<p>Using this algorithm, a K10+ with one item missing and all other items scored
+as 1 will be regarded as valid and have a total score of 9, however the K10+
+Total Score is defined as being in the range 10-50.</p>
+
+<p>To resolve this issue, the scoring for the K10+ will be changed to a
+pro-rated approach so that the minimum total score is 10. The following
+formula will be used:</p>
+
+<p>Total score = round( sum of valid scores  / 9 * 10 )</p>
+
+<p>For more information please refer to page 58 of AMHOCNâ€™s Overview of
+clinician-rated and consumer self-report measures at <a href="https://www.amhocn.org/sites/default/files/publication_files/nocc_clinician_and_self-report_measures_overview_v2.0_20201125.pdf" target="_blank">https://www.amhocn.org/sites/default/files/publication_files/nocc_clinician_and_self-report_measures_overview_v2.0_20201125.pdf</a></p>
+
+<p>Uploads that provide both the item scores and the total score will need to be
+updated to use the new algorithm. Alternatively, uploads could be updated to
+provide item scores and a total score of 99. Where item scores are provided
+with a total of 99 the PMHC MDS will calculate the total score.</p>
+
+<p>Where item scores have been provided, existing data will be recalculated to
+use the new scoring.</p>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2021/08/27/PMHC-MDS-scheduled-outage/"><h2>PMHC MDS outage scheduled for 7am AEST Monday 30th August 2021</h2></div>
+      <h3>August 27, 2021</h3>
+	    <h4 id="pmhc-mds-outage-scheduled-for-7am-aest-monday-30th-august-2021">PMHC MDS outage scheduled for 7am AEST Monday 30th August 2021</h4>
+
+<p>We will be performing maintenance on part of our infrastructure on Monday
+30th August 2021 between 7:00am and 8:00am AEST.</p>
+
+<p>We expect the outage to be brief, however the system could be interrupted
+for up to 30 minutes.</p>
+
+<p>If you are planning on uploading or entering any data during this time,
+we advise you to complete your work before 7:00am AEST.</p>
+
+<p>Thank-you for your patience whilst this work is carried out.</p>
+
+    </div>
   
     <div class="post">
       <div id="/2021/06/24/Update-to-the-PMHC-MDS-v-1-11-0/"><h2>Update to the PMHC MDS - 24/6/2021</h2></div>
