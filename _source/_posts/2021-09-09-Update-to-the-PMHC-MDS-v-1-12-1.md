@@ -1,0 +1,34 @@
+---
+title: Update to the PMHC MDS - 9/9/2021
+---
+
+#### PMHC MDS Update v1.12.1 ####
+
+We are pleased to announce that PMHC MDS Update v1.12.1 was released on
+September 9, 2021.
+
+The following changes have been implemented in the reports interface:
+* The estimated resident population figures used by the Acc-1, Acc-2, Acc-3
+  and App-1 reports have been updated to include data for each of the years
+  2017-2021. Reports will use the data from the year of the report, OR the
+  data from the most recent prior year if not available.
+* Added a ‘View Report Code’ button to the results of reports using the PMHC
+  and hAPI data sources. This shows the underlying SQL that is used to
+  generate the report. Organisations who are trying to replicate the results
+  of reports locally can use this SQL to understand what data is being
+  included in each report.
+* Added 2022 public holiday data for use in the Wayback reporting template.
+
+The following changes have been implemented in the upload and data entry interfaces:
+* Updated to v1.05 of the IAR-DST scoring inline with changes announced by
+  the Department of Health.
+* Updated the SIDAS data entry form such that when item 1 - How often have
+  you had thoughts about suicide? - is `0: Never`, all other items are set
+  to `98: Not Required`.
+
+The following bugfixes have been implemented:
+* Outcome Measure date validation has been relaxed to allow an Outcome
+  Measure to be up to 7 days after the Episode End Date.
+* Fixed an error that was being returned when a user at a PHN tried to
+  upload to an inactive Provider Organisation that was within the 3 month
+  grace period.
