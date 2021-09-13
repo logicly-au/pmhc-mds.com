@@ -1,4 +1,9 @@
-I"<ul>
+I"{
+<ul>
+  
+    <li>
+      <a href="#/2021/09/09/Update-to-the-PMHC-MDS-v-1-12-1/">Update to the PMHC MDS - 9/9/2021</a><span> | September 09, 2021</span>
+    </li>
   
     <li>
       <a href="#/2021/08/30/notification-of-planned-K10-scoring-change/">PMHC MDS notification of planned change to K10+ scoring calculation</a><span> | August 30, 2021</span>
@@ -463,6 +468,48 @@
 </ul>
 
 <div>
+  
+    <div class="post">
+      <div id="/2021/09/09/Update-to-the-PMHC-MDS-v-1-12-1/"><h2>Update to the PMHC MDS - 9/9/2021</h2></div>
+      <h3>September 09, 2021</h3>
+	    <h4 id="pmhc-mds-update-v1121">PMHC MDS Update v1.12.1</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.12.1 was released on
+September 9, 2021.</p>
+
+<p>The following changes have been implemented in the reports interface:</p>
+<ul>
+  <li>The estimated resident population figures used by the Acc-1, Acc-2, Acc-3
+and App-1 reports have been updated to include data for each of the years
+2017-2021. Reports will use the data from the year of the report, OR the
+data from the most recent prior year if not available.</li>
+  <li>Added a ‘View Report Code’ button to the results of reports using the PMHC
+and hAPI data sources. This shows the underlying SQL that is used to
+generate the report. Organisations who are trying to replicate the results
+of reports locally can use this SQL to understand what data is being
+included in each report.</li>
+  <li>Added 2022 public holiday data for use in the Wayback reporting template.</li>
+</ul>
+
+<p>The following changes have been implemented in the upload and data entry interfaces:</p>
+<ul>
+  <li>Updated to v1.05 of the IAR-DST scoring inline with changes announced by
+the Department of Health.</li>
+  <li>Updated the SIDAS data entry form such that when item 1 - How often have
+you had thoughts about suicide? - is <code class="language-plaintext highlighter-rouge">0: Never</code>, all other items are set
+to <code class="language-plaintext highlighter-rouge">98: Not Required</code>.</li>
+</ul>
+
+<p>The following bugfixes have been implemented:</p>
+<ul>
+  <li>Outcome Measure date validation has been relaxed to allow an Outcome
+Measure to be up to 7 days after the Episode End Date.</li>
+  <li>Fixed an error that was being returned when a user at a PHN tried to
+upload to an inactive Provider Organisation that was within the 3 month
+grace period.</li>
+</ul>
+
+    </div>
   
     <div class="post">
       <div id="/2021/08/30/notification-of-planned-K10-scoring-change/"><h2>PMHC MDS notification of planned change to K10+ scoring calculation</h2></div>
