@@ -25,7 +25,7 @@ formula will be used:
 Total score = round( sum of valid scores  / 9 * 10 )
 
 For more information please refer to page 58 of AMHOCN’s Overview of
-clinician-rated and consumer self-report measures at [https://www.amhocn.org/sites/default/files/publication_files/nocc_clinician_and_self-report_measures_overview_v2.0_20201125.pdf](https://www.amhocn.org/sites/default/files/publication_files/nocc_clinician_and_self-report_measures_overview_v2.0_20201125.pdf){:target="_blank"}
+clinician-rated and consumer self-report measures at [https://www.amhocn.org/sites/default/files/publication_files/nocc_clinician_and_self-report_measures_overview_v2.1_20210913_1.pdf](https://www.amhocn.org/sites/default/files/publication_files/nocc_clinician_and_self-report_measures_overview_v2.1_20210913_1.pdf){:target="_blank"}
 
 Uploads that provide both the item scores and the total score will need to be
 updated to use the new algorithm. Alternatively, uploads could be updated to
