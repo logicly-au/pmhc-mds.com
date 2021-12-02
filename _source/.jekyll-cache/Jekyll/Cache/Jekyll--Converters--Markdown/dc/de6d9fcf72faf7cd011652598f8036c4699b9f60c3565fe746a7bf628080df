@@ -1,5 +1,20 @@
-I"{
-<ul>
+I"%<ul>
+  
+    <li>
+      <a href="#/2021/11/26/Update-to-the-PMHC-MDS-v-1-14-1/">Update to the PMHC MDS - 26/11/2021</a><span> | November 26, 2021</span>
+    </li>
+  
+    <li>
+      <a href="#/2021/11/15/Update-to-the-PMHC-MDS-v-1-13-4/">Update to the PMHC MDS - 15/11/2021</a><span> | November 15, 2021</span>
+    </li>
+  
+    <li>
+      <a href="#/2021/09/17/notification-of-planned-sidas-upload-change/">PMHC MDS notification of planned change to SIDAS outcome measures in uploads</a><span> | September 17, 2021</span>
+    </li>
+  
+    <li>
+      <a href="#/2021/09/15/PMHC-MDS-scheduled-outage/">PMHC MDS outage scheduled for 7am AEST Thursday 16th September 2021</a><span> | September 15, 2021</span>
+    </li>
   
     <li>
       <a href="#/2021/09/09/Update-to-the-PMHC-MDS-v-1-12-1/">Update to the PMHC MDS - 9/9/2021</a><span> | September 09, 2021</span>
@@ -470,6 +485,131 @@
 <div>
   
     <div class="post">
+      <div id="/2021/11/26/Update-to-the-PMHC-MDS-v-1-14-1/"><h2>Update to the PMHC MDS - 26/11/2021</h2></div>
+      <h3>November 26, 2021</h3>
+	    <h4 id="pmhc-mds-update-v1141">PMHC MDS Update v1.14.1</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.14.1 was released on
+November 26, 2021.</p>
+
+<p>The following functionality has been implemented in the data entry and
+upload interfaces:</p>
+
+<ul>
+  <li>The <code class="language-plaintext highlighter-rouge">!amhc</code> reserved tag can now be applied to episode records.</li>
+</ul>
+
+<p>The following functionality has been implemented in the user management
+interface:</p>
+
+<ul>
+  <li>An ‘Actions’ column has been added to the ‘Edit Roles’ tab. This allows
+removal of all of a user’s roles at an organisation. This action will
+also disable future password reminder prompts when the user doesn’t have
+roles at another organisation.</li>
+  <li>A user who has all their roles removed after this release, will no longer
+be able to login.</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available
+at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.</p>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2021/11/15/Update-to-the-PMHC-MDS-v-1-13-4/"><h2>Update to the PMHC MDS - 15/11/2021</h2></div>
+      <h3>November 15, 2021</h3>
+	    <h4 id="pmhc-mds-update-v1134">PMHC MDS Update v1.13.4</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.13.4 was released on
+November 15, 2021.</p>
+
+<p>The following functionality has been implemented:</p>
+<ul>
+  <li>Data upload can now be automated via an Upload API. Please refer to the
+Upload API section below for additional information.</li>
+  <li>Clients can now be sent invitations to complete a YES-PHN survey at the
+completion of an episode. Please refer to the User Guide documentation at
+<a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/tools.html#yes-phn" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/tools.html#yes-phn</a>.</li>
+</ul>
+
+<p>As previously announced, the following validation rules have now been
+implemented:</p>
+<ul>
+  <li>Change to K10+ scoring algorithm as announced on 30/8/2021
+<a href="https://pmhc-mds.com/communications/#/2021/08/30/notification-of-planned-K10-scoring-change/" target="_blank">https://pmhc-mds.com/communications/#/2021/08/30/notification-of-planned-K10-scoring-change/</a>.</li>
+  <li>Change to SIDAS outcome measures in uploads as announced on 17/9/2021
+<a href="https://pmhc-mds.com/communications/#/2021/09/17/notification-of-planned-sidas-upload-change/" target="_blank">https://pmhc-mds.com/communications/#/2021/09/17/notification-of-planned-sidas-upload-change/</a></li>
+</ul>
+
+<h4 id="upload-api">Upload API</h4>
+
+<p>We are pleased to announce that the PMHC MDS now supports an API for uploading
+files to the PMHC MDS. Developers of Client Information Management Systems
+(CIMS) can use the API to allow users to upload data to the PMHC MDS directly
+from the CIMS instead of exporting a file and then logging into the PMHC MDS
+to upload it.</p>
+
+<p>Documentation is available at <a href="https://api.pmhc-mds.net/" target="_blank">https://api.pmhc-mds.net/</a></p>
+
+<p>Access to this service requires an API key. In order to obtain a key, please
+contact support@pmhc-mds.com.</p>
+
+<p>Each integrator will be provided with their own unique API key which is
+associated with a PMHC MDS user account and an organisation based “scope”.
+The “scope” of the key and the roles the user is assigned in the PMHC MDS need
+to match for the key to be valid. The scope is limited to one Provider
+Organisation or PHN. An integrator will need to request multiple API keys if
+they need access to upload across multiple Provider Organisations or multiple
+PHNs.</p>
+
+<p>The user guides have been updated to reflect these updates. They are available
+at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.</p>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2021/09/17/notification-of-planned-sidas-upload-change/"><h2>PMHC MDS notification of planned change to SIDAS outcome measures in uploads</h2></div>
+      <h3>September 17, 2021</h3>
+	    <h4 id="pmhc-mds-notification-of-planned-change-to-sidas-outcome-measures-in-uploads">PMHC MDS notification of planned change to SIDAS outcome measures in uploads</h4>
+
+<p>In the last week of October 2021, the PMHC MDS will be updated with a change
+to SIDAS outcome measures in uploads.</p>
+
+<p>The PMHC MDS has been changing SIDAS outcome measures, such that if item 1
+has the value “0 – Never”, all other items are set to 0.</p>
+
+<p>Between now and the end of October, the PMHC MDS will change all other items
+to “98 - Not Required”, when item 1 has the value  “0 – Never”. In the last
+week of October, the PMHC MDS will be changed to enforce the validation rule:</p>
+
+<ul>
+  <li>When item 1 has the value “0 - Never” all other items must be set to “98 - Not Required”</li>
+</ul>
+
+<p>Therefore, when item 1 has the value “0 - Never” if any item has a value
+other than “98 - Not Required” an error will be generated and the upload will fail.</p>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2021/09/15/PMHC-MDS-scheduled-outage/"><h2>PMHC MDS outage scheduled for 7am AEST Thursday 16th September 2021</h2></div>
+      <h3>September 15, 2021</h3>
+	    <h4 id="pmhc-mds-outage-scheduled-for-7am-aest-thursday-16th-september-2021">PMHC MDS outage scheduled for 7am AEST Thursday 16th September 2021</h4>
+
+<p>We will be performing urgent maintenance on part of our infrastructure on
+Thursday 16th September 2021 between 7:00am and 8:00am AEST.</p>
+
+<p>We do not expect the outage to be longer than 10 minutes.</p>
+
+<p>If you are planning on uploading or entering any data during this time, we
+advise you to complete your work before 7:00am AEST.</p>
+
+<p>Thank-you for your patience whilst this work is carried out.</p>
+
+    </div>
+  
+    <div class="post">
       <div id="/2021/09/09/Update-to-the-PMHC-MDS-v-1-12-1/"><h2>Update to the PMHC MDS - 9/9/2021</h2></div>
       <h3>September 09, 2021</h3>
 	    <h4 id="pmhc-mds-update-v1121">PMHC MDS Update v1.12.1</h4>
@@ -537,7 +677,7 @@ formula will be used:</p>
 <p>Total score = round( sum of valid scores  / 9 * 10 )</p>
 
 <p>For more information please refer to page 58 of AMHOCN’s Overview of
-clinician-rated and consumer self-report measures at <a href="https://www.amhocn.org/sites/default/files/publication_files/nocc_clinician_and_self-report_measures_overview_v2.0_20201125.pdf" target="_blank">https://www.amhocn.org/sites/default/files/publication_files/nocc_clinician_and_self-report_measures_overview_v2.0_20201125.pdf</a></p>
+clinician-rated and consumer self-report measures at <a href="https://www.amhocn.org/sites/default/files/publication_files/nocc_clinician_and_self-report_measures_overview_v2.1_20210913_1.pdf" target="_blank">https://www.amhocn.org/sites/default/files/publication_files/nocc_clinician_and_self-report_measures_overview_v2.1_20210913_1.pdf</a></p>
 
 <p>Uploads that provide both the item scores and the total score will need to be
 updated to use the new algorithm. Alternatively, uploads could be updated to

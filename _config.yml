@@ -7,8 +7,8 @@ url:                 http://www.pmhc-mds.com
 
 # About/contact
 author:
-  name:              'Strategic Data'
-  email:             'info@strategicdata.com.au'
+  name:              'Logicly'
+  email:             'info@logicly.com.au'
 
 exclude: [node_modules,vendor,src,gulpfile.js,bower_components,bower.json,README.md,static,package.json,'*.sh',nginx.d]
 defaults:

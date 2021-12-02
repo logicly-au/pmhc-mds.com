@@ -1,0 +1,27 @@
+I"<h4 id="pmhc-mds-update-v1141">PMHC MDS Update v1.14.1</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.14.1 was released on
+November 26, 2021.</p>
+
+<p>The following functionality has been implemented in the data entry and
+upload interfaces:</p>
+
+<ul>
+  <li>The <code class="language-plaintext highlighter-rouge">!amhc</code> reserved tag can now be applied to episode records.</li>
+</ul>
+
+<p>The following functionality has been implemented in the user management
+interface:</p>
+
+<ul>
+  <li>An ‘Actions’ column has been added to the ‘Edit Roles’ tab. This allows
+removal of all of a user’s roles at an organisation. This action will
+also disable future password reminder prompts when the user doesn’t have
+roles at another organisation.</li>
+  <li>A user who has all their roles removed after this release, will no longer
+be able to login.</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available
+at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.</p>
+:ET
