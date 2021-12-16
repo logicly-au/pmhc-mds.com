@@ -1,4 +1,8 @@
-I"%<ul>
+I"0)<ul>
+  
+    <li>
+      <a href="#/2021/12/12/Update-to-the-PMHC-MDS-v-1-14-5/">Update to the PMHC MDS - 12/12/2021</a><span> | December 12, 2021</span>
+    </li>
   
     <li>
       <a href="#/2021/11/26/Update-to-the-PMHC-MDS-v-1-14-1/">Update to the PMHC MDS - 26/11/2021</a><span> | November 26, 2021</span>
@@ -483,6 +487,30 @@
 </ul>
 
 <div>
+  
+    <div class="post">
+      <div id="/2021/12/12/Update-to-the-PMHC-MDS-v-1-14-5/"><h2>Update to the PMHC MDS - 12/12/2021</h2></div>
+      <h3>December 12, 2021</h3>
+	    <h4 id="pmhc-mds-update-v1145">PMHC MDS Update v1.14.5</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.14.5 was released on
+December 12, 2021.</p>
+
+<p>The following functionality has been implemented in the Tools menu:</p>
+<ul>
+  <li>Added the User Auditing tab. This tab allows users with the User Management
+role to review users who have not recently logged in to the PMHC MDS.</li>
+</ul>
+
+<p>The following enhancements have been added to the Data Entry interface:</p>
+<ul>
+  <li>Added help links on all measure items.</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available
+at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.</p>
+
+    </div>
   
     <div class="post">
       <div id="/2021/11/26/Update-to-the-PMHC-MDS-v-1-14-1/"><h2>Update to the PMHC MDS - 26/11/2021</h2></div>
