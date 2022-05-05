@@ -1,4 +1,12 @@
-I"�><ul>
+I"H<ul>
+  
+    <li>
+      <a href="#/2022/05/05/Domain-name-change-whitelisting-required/">PMHC MDS - Domain name change - whitelisting required</a><span> | May 05, 2022</span>
+    </li>
+  
+    <li>
+      <a href="#/2022/03/31/Update-to-the-PMHC-MDS-v-1-15-7/">Update to the PMHC MDS - 31/3/2022</a><span> | March 31, 2022</span>
+    </li>
   
     <li>
       <a href="#/2021/12/12/Update-to-the-PMHC-MDS-v-1-14-5/">Update to the PMHC MDS - 12/12/2021</a><span> | December 12, 2021</span>
@@ -493,6 +501,60 @@
 <div>
   
     <div class="post">
+      <div id="/2022/05/05/Domain-name-change-whitelisting-required/"><h2>PMHC MDS - Domain name change - whitelisting required</h2></div>
+      <h3>May 05, 2022</h3>
+	    <p>Dear All,</p>
+
+<p>As part of our transition to Logicly we’re updating our systems to be
+accessible under the logicly.com.au and logicly.au domains, rather than
+strategicdata.com.au.</p>
+
+<p>The strategicdata.com.au domain will cease to be active on 31st May 2022.</p>
+
+<p>If your organisation is whitelisting our domains to permit access to our
+applications please contact your IT department to request that they add the
+logicly.com.au and logicly.au domains. This is important to ensure your
+uninterrupted access. Note that we have no way of knowing if this is the case.
+If you are unsure, your IT department can assist.</p>
+
+<p>While the strategicdata.com.au domain will remain registered and under our
+control for the foreseeable future we will no longer be exposing any
+application related content on that domain once our transition to the logicly
+domains is complete.</p>
+
+<p>Kind regards,
+The Logicly team</p>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2022/03/31/Update-to-the-PMHC-MDS-v-1-15-7/"><h2>Update to the PMHC MDS - 31/3/2022</h2></div>
+      <h3>March 31, 2022</h3>
+	    <h4 id="pmhc-mds-update-v1157">PMHC MDS Update v1.15.7</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.15.7 was released on
+March 31, 2022.</p>
+
+<p>The following new validation has been implemented:</p>
+
+<ul>
+  <li>
+    <p>All entity key fields (Organisation Key, Practitioner Key, Client Key, etc)
+must start with a POSIX alphanumeric character (A-Za-z0-9)</p>
+
+    <p>Some organisations have a small number of records that break this new
+rule by starting entity keys with one of the characters [#-.`’+$”%_:] These
+will cause issues if the data is modified. Please contact
+support@pmhc-mds.com for assistance.</p>
+  </li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available
+at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.</p>
+
+    </div>
+  
+    <div class="post">
       <div id="/2021/12/12/Update-to-the-PMHC-MDS-v-1-14-5/"><h2>Update to the PMHC MDS - 12/12/2021</h2></div>
       <h3>December 12, 2021</h3>
 	    <h4 id="pmhc-mds-update-v1145">PMHC MDS Update v1.14.5</h4>
@@ -521,7 +583,7 @@ at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.co
       <h3>November 29, 2021</h3>
 	    <table role="presentation" style="width:100%;border-collapse:collapse;border:0;border-spacing:0;background:#ffffff;">
     <tr>
-      <td style="align:center;padding:0;">
+      <td style="text-align:center;padding:0;">
         <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
           <tr>
             <td style="padding:36px 30px 42px 30px;font-family: 'Raleway', Verdana, sans-serif;">
@@ -531,38 +593,38 @@ at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.co
                     <p style="margin:0 0 12px 0;font-family: 'Raleway', Verdana, sans-serif;font-size:16px;line-height:24px;">As you know,
                     Strategic Data is the team behind the <a href="https://pmhc-mds.com/" style="color:#E94E1B;text-decoration:none;">Primary Mental
                     Health Care Minimum Data Set (PMHC MDS)</a>,
-                    developed on behalf of the Department of Health.&lt;/font&gt;</p>
-                    <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;"><font face="'Raleway', Verdana, sans-serif;">We’re getting in touch to let you know that we’re rebranding - Strategic Data will soon become <a href="https://www.logicly.com.au/" style="color:#E94E1B;text-decoration:none;">Logicly</a>.</font></p>
+                    developed on behalf of the Department of Health.</p>
+                    <p style="margin:0 0 12px 0;font-family: 'Raleway', Verdana, sans-serif;font-size:16px;line-height:24px;">We’re getting in touch to let you know that we’re rebranding - Strategic Data will soon become <a href="https://www.logicly.com.au/" style="color:#E94E1B;text-decoration:none;">Logicly</a>.</p>
                   </td>
                 </tr>
                 <tr>
-                  <td style="align:center;padding:0px 0 28px 0;">
-                    <img src="https://www.logicly.com.au/SD_logo.png" alt="Strategic Data logo" width="250" style="height:auto;display:block;" />
+                  <td style="padding:0px 0 28px 0;">
+                    <img src="https://www.logicly.com.au/SD_logo.png" alt="Strategic Data logo" width="250" style="height:auto;display:block;margin-left:auto;margin-right:auto" />
                   </td>
                 </tr>
                 <tr>
-                  <td style="align:center;padding:0px 0 26px 0;">
-                    <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;"><font face="'Raleway', Verdana, sans-serif;">introduces its new chapter</font></p>
+                  <td style="text-align:center;padding:0px 0 26px 0;">
+                    <p style="margin:0 0 12px 0;font-family: 'Raleway', Verdana, sans-serif;font-size:16px;line-height:24px;">introduces its new chapter</p>
                   </td>
                 </tr>
                 <tr>
-                  <td style="align:center;padding:0px 0 30px 0;">
+                  <td style="padding:0px 0 30px 0;">
                     <a href="https://www.logicly.com.au/">
-                      <img src="https://www.logicly.com.au/0_Logicly_Logo.png" alt="Logicly logo" width="300" style="height:auto;display:block;" />
+                      <p><img src="https://www.logicly.com.au/0_Logicly_Logo.png" alt="Logicly logo" width="300" style="height:auto;display:block;margin-left:auto;margin-right:auto" /></p>
                     </a>
                   </td>
                 </tr>
                 <tr>
                   <td style="padding:0 0 10px 0;color:#3c3c3b;">
-                    <h3 style="margin:20px 0 10px 0;font-weight:600;"><font face="'Raleway', Verdana, sans-serif;">What changes for you?</font></h3>
-                    <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;"><font face="'Raleway', Verdana, sans-serif;">Nothing, really. The support email for PMHC MDS will still be <a href="mailto:support@pmhc-mds.com">support@pmhc-mds.com</a> and you'll be working with the same team who will continue to provide the same level of support and advice that we've always delivered.</font></p>
-                    <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;"><font face="'Raleway', Verdana, sans-serif;">Our approach to working with you won't change - the new name is a better representation of the evolution that has already happened.</font></p>
-                    <h3 style="margin:20px 0 10px 0;font-weight:600;"><font face="'Raleway', Verdana, sans-serif;">Why did we change our name?</font></h3>
-                    <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;"><font face="'Raleway', Verdana, sans-serif;">Logicly is more than just a new business name, it’s a recognition of how far we’ve come in our 25 years of business. We’ve transformed our approach, built a tried and tested process, and grown our skill set so that we’re less about managing data and more about solving complex information challenges.</font></p>
-                    <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;"><font face="'Raleway', Verdana, sans-serif;">Logicly is our new chapter. We know that we provide our greatest value when we partner with you to simplify complex information problems and co-design high quality, purpose-specific applications. And we achieve this by approaching each aspect of our work logically.</font></p>
-                    <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;"><font face="'Raleway', Verdana, sans-serif;">Head to our website for more information on why Strategic Data is about to become <a href="https://www.logicly.com.au/whylogicly/" style="color:#E94E1B;text-decoration:none;">Logicly</a>, or give us a call on +61 3 9340 9000.</font></p>
-                    <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;"><font face="'Raleway', Verdana, sans-serif;">Thanks for being an important part of our journey, and our future.</font></p>
-                    <p style="margin:24px 0 0px 0;font-size:16px;line-height:24px;"><font face="'Raleway', Verdana, sans-serif;">Team Logicly</font></p>
+                    <h3 style="margin:20px 0 10px 0;font-family: 'Raleway', Verdana, sans-serif;font-weight:600;">What changes for you?</h3>
+                    <p style="margin:0 0 12px 0;font-family: 'Raleway', Verdana, sans-serif;font-size:16px;line-height:24px;">Nothing, really. The support email for PMHC MDS will still be <a href="mailto:support@pmhc-mds.com">support@pmhc-mds.com</a> and you'll be working with the same team who will continue to provide the same level of support and advice that we've always delivered.</p>
+                    <p style="margin:0 0 12px 0;font-family: 'Raleway', Verdana, sans-serif;font-size:16px;line-height:24px;">Our approach to working with you won't change - the new name is a better representation of the evolution that has already happened.</p>
+                    <h3 style="margin:20px 0 10px 0;font-family: 'Raleway', Verdana, sans-serif;font-weight:600;">Why did we change our name?</h3>
+                    <p style="margin:0 0 12px 0;font-family: 'Raleway', Verdana, sans-serif;font-size:16px;line-height:24px;">Logicly is more than just a new business name, it’s a recognition of how far we’ve come in our 25 years of business. We’ve transformed our approach, built a tried and tested process, and grown our skill set so that we’re less about managing data and more about solving complex information challenges.</p>
+                    <p style="margin:0 0 12px 0;font-family: 'Raleway', Verdana, sans-serif;font-size:16px;line-height:24px;">Logicly is our new chapter. We know that we provide our greatest value when we partner with you to simplify complex information problems and co-design high quality, purpose-specific applications. And we achieve this by approaching each aspect of our work logically.</p>
+                    <p style="margin:0 0 12px 0;font-family: 'Raleway', Verdana, sans-serif;font-size:16px;line-height:24px;">Head to our website for more information on why Strategic Data is about to become <a href="https://www.logicly.com.au/whylogicly/" style="color:#E94E1B;text-decoration:none;">Logicly</a>, or give us a call on +61 3 9340 9000.</p>
+                    <p style="margin:0 0 12px 0;font-family: 'Raleway', Verdana, sans-serif;font-size:16px;line-height:24px;">Thanks for being an important part of our journey, and our future.</p>
+                    <p style="margin:24px 0 0px 0;font-family: 'Raleway', Verdana, sans-serif;font-size:16px;line-height:24px;">Team Logicly</p>
                   </td>
                 </tr>
               </table>

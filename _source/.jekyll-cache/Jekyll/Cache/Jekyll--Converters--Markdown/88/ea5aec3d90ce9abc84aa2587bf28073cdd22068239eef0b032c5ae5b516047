@@ -1,0 +1,22 @@
+I"4<h4 id="pmhc-mds-update-v1157">PMHC MDS Update v1.15.7</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.15.7 was released on
+March 31, 2022.</p>
+
+<p>The following new validation has been implemented:</p>
+
+<ul>
+  <li>
+    <p>All entity key fields (Organisation Key, Practitioner Key, Client Key, etc)
+must start with a POSIX alphanumeric character (A-Za-z0-9)</p>
+
+    <p>Some organisations have a small number of records that break this new
+rule by starting entity keys with one of the characters [#-.`’+$”%_:] These
+will cause issues if the data is modified. Please contact
+support@pmhc-mds.com for assistance.</p>
+  </li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available
+at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.</p>
+:ET
