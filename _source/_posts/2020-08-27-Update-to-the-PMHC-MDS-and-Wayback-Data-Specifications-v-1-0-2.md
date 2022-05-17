@@ -46,11 +46,11 @@ We are also pleased to announce that The Way Back Data Specifications Update
 v3.0.1 was released on August 17, 2020. The following updates have been implemented:
 
 
-### Data model and specifications ###
+### Data model and specifications {#data-model-and-specifications-twb-v3-0-1}
 * TWB Episode - Transgender Status - Added value ‘9 - Not stated / Unknown’
 * TWB Episode - Intersex Status - Added value ‘9 - Not stated / Unknown’
 
-### Validation Rules ###
+### Validation Rules {#validation-rules-twb-v3-0-1}
 * TWB Episode
   * Updated the validation for TWB Episode - Primary Nominated Professional
     Contact Exit Date so that it must not be before Episode - End Date

@@ -1,0 +1,24 @@
+I"�<h4 id="pmhc-mds-update-v140">PMHC MDS Update v1.4.0</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.4.0 was released on December
+7, 2020.</p>
+
+<p>The following new features have been implemented in the data extract tab:</p>
+
+<ul>
+  <li>The Data Extract tab now includes a checkbox to ‘Include data from all
+specifications’. This downloads a file that is a combination of all of
+the extensions listed at
+<a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.
+The resulting file <em>cannot</em> be uploaded. This is a download only format.
+It is based on the most recent version used by either the core specification
+or an extension.</li>
+  <li>Optimisations have been applied to the data extract query to improve speed.</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+:ET

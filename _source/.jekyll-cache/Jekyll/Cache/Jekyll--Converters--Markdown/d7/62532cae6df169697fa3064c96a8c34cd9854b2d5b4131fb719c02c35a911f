@@ -1,0 +1,18 @@
+I"<h4 id="pmhc-mds-update-v155">PMHC MDS Update v1.5.5</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v1.5.5 was released on January 12, 2021.</p>
+
+<p>The following bug fixes have been implemented in the data entry interface:</p>
+<ul>
+  <li>Fixed a bug where the TWB Recommendation Outs Status values could not be
+modified or added on the Episode edit details form</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available at:</p>
+
+<p>PMHC - <a href="https://docs.pmhc-mds.com/projects/user-documentation/en/latest/" target="_blank">https://docs.pmhc-mds.com/projects/user-documentation/en/latest/</a></p>
+
+<p>HeadtoHelp - <a href="https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/</a></p>
+
+<p>The Way Back - <a href="https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/</a></p>
+:ET

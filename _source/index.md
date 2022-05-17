@@ -29,7 +29,7 @@ The data reported by PHNs through the PMHC MDS will form the basis for
 production of key performance indicators used to monitor services delivered
 across the 31 PHN regions covered by PHNs.
 
-<a href="//www.strategicdata.com.au/">Strategic Data Pty Ltd</a> has been contracted by the Department of Health to manage the PMHC MDS on its behalf.
+<a href="//logicly.com.au/">Logicly</a> has been contracted by the Department of Health to manage the PMHC MDS on its behalf.
 
 A <a href="//docs.pmhc-mds.com/">specification</a> of the data items to be collected in the PMHC MDS is available.
 
