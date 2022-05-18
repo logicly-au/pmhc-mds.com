@@ -4,7 +4,7 @@ page-name: Strengths and Difficulties Questionnaire
 sub-heading: Resources for working with the SDQ
 ---
 
-The Strengths and Difficulties Questionnaire (SDQ) is a brief questionnaire for 4-17 year olds developed by Goodman et al in the United Kingdom. The SDQ has 25 items divided between 5 scales: emotional symptoms, conduct problems, hyperactivity/inattention, peer relationship problems and prosocial behaviour. Read a [brief overview of the SDQ](https://www.amhocn.org/file/sdq-overviewpdf).
+The Strengths and Difficulties Questionnaire (SDQ) is a brief questionnaire for 4-17 year olds developed by Goodman et al in the United Kingdom. The SDQ has 25 items divided between 5 scales: emotional symptoms, conduct problems, hyperactivity/inattention, peer relationship problems and prosocial behaviour. Read a [brief overview of the SDQ](https://www.amhocn.org/sites/default/files/publication_files/strengths_and_difficulties_questionnaire_overview_0.pdf).
 
  The SDQ measures are copyright protected with copyright held by Robert Goodman of the UK-based Youthinmind organisation (https://youthinmind.com/). Specific conditions are attached to use of the SDQ measures, detailed at https://sdqinfo.org/. These include the requirement that no modifications are made to the content in any way. Paper versions may be downloaded and copied without charge subject to adherence to this condition.
 
