@@ -5,7 +5,7 @@ cache:
 rvm:
   - 2.7
 before_script:
-  - pip install --user html5validator
+  - pip install --user html5validator==0.3.3
 script: ./script/cibuild
 branches:
   only:
