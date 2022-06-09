@@ -58,7 +58,7 @@ The HtH extension uses episodes in two contexts:
 
 A solution to resolve current data quality issues with the HtH extension includes:
 
-* introducing a ‘context’ field in the HtH extension specification that will be released 1 June 2022. The HtH hubs data specification at [https://docs.pmhc-mds.com/projects/data-specification-HtH/en/v3/](https://docs.pmhc-mds.com/projects/data-specification-HtH/en/v3/){:target="_blank"} has been updated to reflect the new context field. The specification for the context field is defined at [https://docs.pmhc-mds.com/projects/data-specification-HtH/en/v3/data-specification/data-model-and-specifications.html#dfn-context](https://docs.pmhc-mds.com/projects/data-specification-HtH/en/v3/data-specification/data-model-and-specifications.html#dfn-context){:target="_blank"}.
+* introducing a ‘context’ field in the HtH extension specification that will be released 1 June 2022. The HtH hubs data specification at [https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/](https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/){:target="_blank"} has been updated to reflect the new context field. The specification for the context field is defined at [https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/data-specification/data-model-and-specifications.html#dfn-context](https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/data-specification/data-model-and-specifications.html#dfn-context){:target="_blank"}.
 * retrospective data cleaning and population of the new ‘context’ field by the 14 participating PHNs and their providers currently collecting HtH extension data by 1st July 2022.
 
 ###### Completion of new context field for all episodes
