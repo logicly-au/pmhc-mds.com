@@ -1,6 +1,6 @@
 # pmhc-mds.com
 
-[![Build Status](https://travis-ci.com/strategicdata/pmhc-mds.com.svg?branch=master)](https://travis-ci.com/github/strategicdata/pmhc-mds.com)
+[![Build Status](https://travis-ci.com/logicly-au/pmhc-mds.com.svg?branch=master)](https://app.travis-ci.com/github/logicly-au/pmhc-mds.com)
 
 ## Build and view site
 
