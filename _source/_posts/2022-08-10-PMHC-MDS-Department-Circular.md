@@ -2,7 +2,7 @@
 title: PMHC MDS Department of Health Circular - 10/08/2022
 ---
 
-#### Update to the release date of the PMHC MDS Version 4 specification
+#### Update to the release date of the PMHC MDS Version 4 specification {#v4-release-date-update}
 
 Information about the update of the release date of Version 4 for the PMHC MDS was sent
 to PHN CEO's in the Department of Health’s circular on 19/9/2021.
