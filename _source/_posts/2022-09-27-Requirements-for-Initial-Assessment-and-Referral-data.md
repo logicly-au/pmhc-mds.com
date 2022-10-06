@@ -27,9 +27,9 @@ PHNs may choose to collect Intake and IAR data for other non-Head to Health prog
 
 PHNs will be notified of the updates to the PMHC-MDS v4 documentation through a system release communication via Logicly. The PMHC-MDS v4 documentation site will be updated at [https://docs.pmhc-mds.com/](https://docs.pmhc-mds.com/){:target="_blank"}. The changes are provided at Attachment A of this circular.
 
-If you have any queries about the updated information, please contact the department via [MentalHealthData@health.gov.au](MentalHealthData@health.gov.au)
+If you have any queries about the updated information, please contact the department via [MentalHealthData@health.gov.au](mailto:MentalHealthData@health.gov.au)
 
-For technical support, please contact Logicly at [support@pmhc-mds.com](support@pmhc-mds.com)
+For technical support, please contact Logicly at [support@pmhc-mds.com](mailto:support@pmhc-mds.com)
 
  
 ##### Attachment A – Updated descriptions in PMHC-MDS v4 specification
