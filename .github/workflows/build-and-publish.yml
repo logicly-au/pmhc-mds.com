@@ -24,6 +24,7 @@ jobs:
         with:
           target_branch: gh-pages
           build_dir: _site
+          dry_run: true
           fqdn: pmhc-mds.com
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
