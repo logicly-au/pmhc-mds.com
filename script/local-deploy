@@ -2,19 +2,6 @@
 
 set -e # halt script on error
 
-key=$encrypted_3e9551e69219_key
-iv=$encrypted_3e9551e69219_iv
-
-openssl aes-256-cbc \
-  -K $key \
-  -iv $iv \
-  -in .travis/deploy-key.enc \
-  -out .travis/deploy-key -d
-
-eval "$(ssh-agent -s)" #start the ssh agent
-chmod 600 .travis/deploy-key
-ssh-add .travis/deploy-key
-
 # Edit .gitignore to publish
 perl -n -i -e "print unless /^_site\/$/" ./.gitignore
 git add .
