@@ -1,4 +1,3 @@
-_site/
 .travis/deploy-key
 .sass-cache/
 .DS_Store

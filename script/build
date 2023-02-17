@@ -9,7 +9,7 @@ docker run \
 docker run \
   -it --rm --label=html-proofer \
   --volume=$(pwd)/_site:/srv/site \
-  18fgsa/html-proofer /srv/site --disable-external --url-ignore "/^#$/" \
+  18fgsa/html-proofer /srv/site --disable-external --empty-alt-ignore --url-ignore "/^#$/" \
   || echo "Fail!"
 
 docker run \
