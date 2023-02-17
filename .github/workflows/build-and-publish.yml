@@ -12,8 +12,28 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Create destination for Jekyll build
-        run: mkdir _site
+
+      - name: Jekyll build
+        uses: docker://jekyll/jekyll:3.8
+        with:
+          entrypoint: bash
+          args: |
+            -c "cd /github/workspace; bundle install; bundle exec jekyll build"
+          environment:
+            - JEKYLL_DATA_DIR=/github/workspace
+
+      - name: HTML proofer
+        uses: docker://18fgsa/html-proofer
+        with:
+          args: /github/workspace/_site --disable-external --empty-alt-ignore --url-ignore "/^#$/"
+
+      - name: HTML5 validator
+        uses: stratdat/html5validator
+        with:
+          entrypoint: html5validator
+          args: --root /github/workspace/_site
+
+      # push to ghpages
       - name: Check GitHub Pages status
         uses: crazy-max/ghaction-github-status@v3
         with:
@@ -22,9 +42,8 @@ jobs:
         if: success()
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: gh-pages
+          target_branch: gh-pages-test
           build_dir: _site
-          dry_run: true
           fqdn: pmhc-mds.com
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
