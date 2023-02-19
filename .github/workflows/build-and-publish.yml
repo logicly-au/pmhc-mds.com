@@ -15,12 +15,12 @@ jobs:
 
       - name: Jekyll build
         uses: docker://jekyll/jekyll:3.8
+        env:
+          JEKYLL_DATA_DIR: /github/workspace
         with:
           entrypoint: bash
           args: |
             -c "cd /github/workspace; bundle install; bundle exec jekyll build"
-          environment:
-            JEKYLL_DATA_DIR: /github/workspace
 
       - name: HTML proofer
         uses: docker://18fgsa/html-proofer
