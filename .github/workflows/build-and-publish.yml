@@ -20,7 +20,7 @@ jobs:
           args: |
             -c "cd /github/workspace; bundle install; bundle exec jekyll build"
           environment:
-            - JEKYLL_DATA_DIR=/github/workspace
+            JEKYLL_DATA_DIR: /github/workspace
 
       - name: HTML proofer
         uses: docker://18fgsa/html-proofer
