@@ -13,10 +13,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Jekyll build
-        uses: docker://jekyll/jekyll:4
+      - name: Build (dry run)
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          entrypoint: /github/workspace/script/ghaction-jekyll.sh
+          dry_run: true
+          build_dir: _site
+          fqdn: pmhc-mds.com
 
       - name: HTML proofer
         uses: docker://18fgsa/html-proofer
@@ -34,6 +36,7 @@ jobs:
         uses: crazy-max/ghaction-github-status@v3
         with:
           pages_threshold: major_outage
+
       - name: Deploy to GitHub Pages
         if: success()
         uses: crazy-max/ghaction-github-pages@v3
