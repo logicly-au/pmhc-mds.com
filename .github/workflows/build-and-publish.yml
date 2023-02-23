@@ -16,9 +16,10 @@ jobs:
       - name: Build (dry run)
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          dry_run: true
           build_dir: _site
+          dry_run: true
           fqdn: pmhc-mds.com
+          verbose: true
 
       - name: HTML proofer
         uses: docker://18fgsa/html-proofer
