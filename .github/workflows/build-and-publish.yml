@@ -15,7 +15,7 @@ jobs:
 
       # cache gems
       - name: Cache
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
@@ -27,7 +27,9 @@ jobs:
         uses:  helaili/jekyll-action@v2
         with:
           build_only: true
-          build_dir: _site
+        env:
+          JEKYLL_LOG_LEVEL: debug
+
 
       - name: HTML proofer
         uses: docker://18fgsa/html-proofer
