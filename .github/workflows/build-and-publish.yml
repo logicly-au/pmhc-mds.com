@@ -13,13 +13,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Build (dry run)
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          build_dir: _site
-          dry_run: true
-          fqdn: pmhc-mds.com
-          verbose: true
+      # cache gems
+       - uses: actions/cache@v2
+         with:
+           path: vendor/bundle
+           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+           restore-keys: |
+             ${{ runner.os }}-gems-
+
+       # Jekyll
+       - uses:  helaili/jekyll-action@v2
+         with:
+           build_only: true
+           build_dir: _site
 
       - name: HTML proofer
         uses: docker://18fgsa/html-proofer
