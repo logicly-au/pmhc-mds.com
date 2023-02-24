@@ -27,6 +27,8 @@ jobs:
         uses:  helaili/jekyll-action@v2
         with:
           build_only: true
+          build_dir: _site
+          jekyll_src: _source
         env:
           JEKYLL_LOG_LEVEL: debug
 
