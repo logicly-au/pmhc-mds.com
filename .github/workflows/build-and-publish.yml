@@ -55,6 +55,7 @@ jobs:
         with:
           build_dir: _site
           fqdn: pmhc-mds.com
+          jekyll: false
           target_branch: gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
