@@ -29,6 +29,7 @@ jobs:
           build_only: true
           build_dir: _site
           jekyll_src: _source
+          jekyll_build_options: "--config _config.yml"
         env:
           JEKYLL_LOG_LEVEL: debug
 
