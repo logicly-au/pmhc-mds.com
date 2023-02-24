@@ -48,13 +48,15 @@ jobs:
         with:
           pages_threshold: major_outage
 
+      # Commit _site as gh-pages branch
       - name: Deploy to GitHub Pages
         if: success()
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: gh-pages-test
           build_dir: _site
           fqdn: pmhc-mds.com
+          jekyll: false
+          target_branch: gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
