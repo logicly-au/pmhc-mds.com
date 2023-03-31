@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Requirements for Initial Assessment and Referral data</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="alternate" type="application/rss+xml" title="PMHC-MDS RSS" href="/feed.xml">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <style>
+      @import url(/css/pmhcmds.css);
+    </style>
+    <script src="/js/pmhcmds-static-lib.min.js" type="text/javascript"></script>
+  </head>
+
+  <body>
+    <a href="#main" class="sr-only sr-only-focusable">Skip to main content</a>
+
+    <div id="header" class="container-fluid banner-header">
+      <div class="row">
+        <div class="col-sm-4 brand">
+          <a class="brand-link" href="/index.html">
+            <img class="brand-logo" src="/img/doh_small.png" alt="Australian Government Department of Health" />
+          </a>
+        </div>
+        <div class="col-sm-8 brand-text">
+          <h1>Welcome to the PMHC-MDS</h1>
+          <h2>Primary Mental Health Care Minimum Data Set</h2>
+        </div>
+      </div>
+    </div>
+    <nav class="navbar navbar-inverse main-navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar" aria-expanded="false" aria-controls="myNavbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+          <ul class ="nav navbar-nav">
+            <li >
+              <a href="/index.html">Home</a>
+            </li>
+            <li >
+              <a href="/getstarted/">Get Started</a>
+            </li>
+            <li >
+              <a href="/training/">Training</a>
+            </li>
+            <li >
+              <a href="/resources/">Resources</a>
+            </li>
+            <li >
+              <a href="/communications/">Communications</a>
+            </li>
+          </ul>
+          <div class="nav navbar-nav navbar-right login-link">
+            <a href="https://pmhc-mds.net/#/login"><span class="glyphicon glyphicon-log-in iconspace"></span>Login</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <div id="main" class="container main-container" tabindex="-1">
+      <div class="row">
+	  <h1 class="subhead"></h1>
+      </div>
+      <div class="row">
+	  <div class="col-xs-12 col-sm-12 col-md-8">
+        <p>The below circular was sent to PHN CEOs on Tuesday 27 September 2022.</p>
+
+<p>-----------------------------------</p>
+
+<p><strong>PHN CEO Circular 2022/06 – Sep 2022</strong></p>
+
+<h4 id="requirements-for-initial-assessment-and-referral-data">Requirements for Initial Assessment and Referral data</h4>
+
+<h5 id="overview-2022x09x27">Overview</h5>
+
+<p>This circular provides a clarification on Primary Mental Health Care Minimum Data Set (PMHC-MDS) Version 4 (v4) documentation released to PHNs on 15 August 2022. The information outlined in this circular applies to all Primary Health Networks (PHNs).</p>
+
+<p>To support this update, PHNs are asked to:</p>
+
+<ul>
+  <li>Ensure relevant staff review the updated information on collection of intake and IAR data outlined in Attachment A</li>
+</ul>
+
+<h5 id="reporting-of-intake-assessment-and-referral-data">Reporting of Intake Assessment and Referral data</h5>
+
+<p>The v4 specification requires PHNs to record a new Intake record and Initial Assessment and Referral (IAR) record where an episode has undertaken an intake process.</p>
+
+<p>The collection of Intake and IAR data is a requirement for Head to Health programs. This includes phone service, centres, satellites, and pop-up clinics. Intake and IAR data should be collected for all Head to Health episodes that undertake an intake process. The v4 specification streamlines the collection process and makes it possible to collect and report this information in a nationally consistent manner.
+PHNs may choose to collect Intake and IAR data for other non-Head to Health programs using the v4 specification, however reporting of this data remains optional subject to further guidance from the department.</p>
+
+<p>PHNs will be notified of the updates to the PMHC-MDS v4 documentation through a system release communication via Logicly. The PMHC-MDS v4 documentation site will be updated at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>. The changes are provided at Attachment A of this circular.</p>
+
+<p>If you have any queries about the updated information, please contact the department via <a href="mailto:MentalHealthData@health.gov.au">MentalHealthData@health.gov.au</a></p>
+
+<p>For technical support, please contact Logicly at <a href="mailto:support@pmhc-mds.com">support@pmhc-mds.com</a></p>
+
+<p> </p>
+<h5 id="attachment-a--updated-descriptions-in-pmhc-mds-v4-specification">Attachment A – Updated descriptions in PMHC-MDS v4 specification</h5>
+
+<p>This document outlines the updates to the PMHC-MDS v4 documentation that will be available at <a href="https://docs.pmhc-mds.com/projects/data-specification/en/v4/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification/en/v4/</a>. Changes are identified in red text.</p>
+
+<p>PHNs will be notified of the updates to the PMHC-MDS v4 documentation through a system release communication via Logicly.</p>
+
+<p><strong>1. Introduction</strong></p>
+
+<p><strong>1.1.1. Intake Context</strong></p>
+
+<p>Where an organisation is only providing intake services and not providing any treatment services, they can use the following data model to submit data to the PMHC-MDS:</p>
+
+<p>[image]</p>
+
+<p>In the Intake context the following records will need to be provided:</p>
+
+<ul>
+  <li>Client</li>
+  <li>Intake</li>
+  <li>IAR-DST</li>
+</ul>
+
+<p>Episode and Service contact activity is not submitted in this context.</p>
+
+<p><span style="color:red">The collection of Intake and IAR data may not be required for all programs. Please see 5.3.5 Intake.</span></p>
+
+<p><strong>1.2. New Records and Fields in Version 4</strong></p>
+
+<p><strong>1.2.1. Intake</strong></p>
+
+<p><span style="color:red">The model now records a new Intake record where an episode has undertaken an Intake process. The collection of Intake and IAR data may not be required for all programs. Please see 5.3.5 Intake.</span></p>
+
+<p>The Intake table records information about the intake.</p>
+
+<p>Organisation Path and Intake Key are the two fields required to link the Intake record at the intake provider organisation to the Episode record at the treatment organisation.</p>
+
+<p>The values of these fields should be passed along by the intake organisation to the treatment organisation where the treatment organisation will use them to fill in Intake Organisation Path and Intake Key. This will then link the Intake record at the intake organisation with the Episode record at the treatment organisation.</p>
+
+<p><strong>1.2.2. IAR-DST Measure</strong></p>
+
+<p><span style="color:red">The model now captures</span> the domains and the recommended level of care pertinent to the IAR-DST that clients have completed for them as part of the intake process. A new IAR-DST record will be created for each intake process.</p>
+
+<p>Consistent with the existing measures in the MDS, the domain scores will be captured as well as the recommended level of care. The purpose of collecting both domain scores and recommended level of care is to:</p>
+
+<ul>
+  <li>allow verification of IAR-DST scoring processes, thereby catching scoring implementation errors early should they arise, and</li>
+  <li>provide a resource that can be used to better understand how the IAR-DST scoring algorithm performs in real world environments supporting ongoing improvement of the tool.</li>
+</ul>
+
+<p><span style="color:red">The collection of Intake and IAR data may not be required for all programs. Please see 5.3.5 Intake.</span></p>
+
+<p><strong>1.2.3. Episode and Intake Episode</strong></p>
+
+<p>When the client is referred to a PMHC MDS reporting treatment service a new Episode record is created.
+Where the client has been referred via an intake process, an additional Intake Episode record is also created.</p>
+
+<p>The Intake Episode table comprises a composite foreign key to link it back to an episode record on which all the episode information is recorded. This linkage is done via two fields:</p>
+
+<ol>
+  <li>The identifier of the intake team (Intake Organisation Path)</li>
+  <li>The episode identifier of the intake team (Intake Key)</li>
+</ol>
+
+<p>The Episode record has been expanded with one new field - the organisation(s) to which the organisation refers the client (Organisation type referred to at Episode conclusion)</p>
+
+<p><span style="color:red">The collection of Intake and IAR data may not be required for all programs. Please see 5.3.5 Intake.</span></p>
+
+<p><strong>5.2 Key concepts</strong></p>
+
+<p><strong>5.2.5. Intake</strong></p>
+
+<p>For the purpose of the PMHC MDS, an Intake is defined as a point of contact between a client and a PHN-commissioned organisation where the client is assessed to determine the appropriate level of care and referred to a service provider to provide clinical care. An Intake may include the collection of an IAR-DST measure.</p>
+
+<p><span style="color:red">The collection of Intake and IAR data may not be required for all programs. Please see 5.3.5 Intake.</span></p>
+
+<p><strong>5.3 Record formats</strong></p>
+
+<p><strong>5.3.5 Intake</strong></p>
+
+<p>See Intake for definition of an intake.</p>
+
+<p><span style="color:red">The collection of Intake and IAR data is a requirement for Head to Health programs. This includes the Head to Health Phone Service, centres, satellites and Pop-Up clinics. PHNs may choose to collect Intake and IAR data for other non-Head to Health programs using the PMHC-MDS v4 specification, however reporting of this data remains optional subject to further guidance from the department.</span></p>
+
+<p>Intakes are managed by the provider organisations via upload.</p>
+
+<p><strong>5.3.11. Measures</strong></p>
+
+<p><strong>5.3.11.1. Measures at Intake</strong></p>
+
+<p>Where an Intake is recorded, the PMHC MDS requires the use of the IAR-DST IAR-DST.</p>
+
+<p><span style="color:red">The collection of Intake and IAR data may not be required for all programs. Please see 5.3.5 Intake.</span></p>
+
+	  </div>
+      </div>
+    </div>
+
+    <footer id="footer" class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-6">
+            <p><img src="/img/bar.png" alt=""/></p>
+            <p><a class="doh-link" href="http://www.health.gov.au/"><img src="/img/doh_light.png" alt="Australian Government Department of Health"/></a></p>
+            <p class="sd-credit">PMHC-MDS managed by <a href="http://locigly.com.au">Logicly</a></p>
+          </div>
+          <div class="col-xs-4">
+            <div class="right-footer">
+              <p class="contact-support">
+                <a id="email_support" href="mailto:support@pmhc-mds.com">&#x2709; Contact support</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <script>
+	 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	 })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	 ga('create', 'UA-84023505-1', 'auto');
+	 ga('send', 'pageview');
+	</script>
+  </body>
+</html>

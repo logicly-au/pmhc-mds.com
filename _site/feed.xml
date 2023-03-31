@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title></title>
+		<description></description>		
+		<link>http://0.0.0.0:4000</link>
+		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Update to the PMHC MDS - 30/3/2023</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v257&quot;&gt;PMHC MDS Update v2.5.7&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.5.7 was released on 
+March 30, 2023.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The following new report has been implemented:
+    &lt;ul&gt;
+      &lt;li&gt;B9: Activity Report: Number of practitioners&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The I5: Intake Conclusion Referral Pathway report has been updated to 
+include a ‘PHN Funded Pathways’ title spanning AMHC, Head to Health,
+and Other PHN funded columns.&lt;/li&gt;
+  &lt;li&gt;Regional level reports for hAPI were restored -  this is only applicable 
+to users who have the Reporting role at headspace&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in uploads:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Duplicate Service Contact Practitioner errors are now all reported at once&lt;/li&gt;
+  &lt;li&gt;It is now enforced that Service Contacts that are added in an upload have 
+a primary practitioner identified.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 30 Mar 2023 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2023/03/30/Update/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2023/03/30/Update/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 16/2/2023</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v253&quot;&gt;PMHC MDS Update v2.5.3&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.5.3 was released on 
+February 16, 2023.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Episodes tagged with the ‘!covid19’ tag were being rejected. 
+This has been fixed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;reminder&quot;&gt;Reminder&lt;/h5&gt;
+
+&lt;p&gt;HeadtoHealth Episodes entered/uploaded in Version 4 no longer require 
+the ‘!covid19’ tag.&lt;/p&gt;
+
+&lt;p&gt;The !covid19 tag has now reverted to its original use to flag that an 
+episode has occurred  as a result of the COVID-19 pandemic. For more 
+information please refer to 
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/reserved-tags.html#covid19&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/reserved-tags.html#covid19&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 16 Feb 2023 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/2023/02/16/Update/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2023/02/16/Update/</guid>
+			</item>
+		
+			<item>
+				<title>Final reminder of end of life for PMHC MDS Version 2 and PMHC MDS HeadtoHelp Version 3 data specifications</title>
+				        
+				
+					<description>&lt;p&gt;The PMHC MDS currently supports uploads in both the Version 2 format as
+documented at &lt;a href=&quot;http://docs.pmhc-mds.com/projects/data-specification/en/v2/&quot; target=&quot;_blank&quot;&gt;http://docs.pmhc-mds.com/projects/data-specification/en/v2/&lt;/a&gt; and
+the Version 2 format as documented at
+&lt;a href=&quot;http://docs.pmhc-mds.com/projects/data-specification/en/v4/&quot; target=&quot;_blank&quot;&gt;http://docs.pmhc-mds.com/projects/data-specification/en/v4/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It also currently supports uploads in the HeadtoHelp Version 3 extension
+format as documented at
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It was previously announced that after the 31st of January 2023, the PMHC MDS will no longer accept uploads using the Version 2 and HeadtoHelp Version 3 formats.&lt;/p&gt;
+
+&lt;p&gt;We are allowing a few days grace. As of this Sunday, the 5th of February 2023 the PMHC MDS will no longer accept uploads using the Version 2 and HeadtoHelp Version 3 formats. Please ensure that you have migrated to using the Version 4 format before this date.&lt;/p&gt;
+
+&lt;p&gt;A summary of the changes between version 2 and 4 is available at
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/changes-from-v2.html#data-specification-changes&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/changes-from-v2.html#data-specification-changes&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 31 Jan 2023 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/2023/01/31/Final-reminder-of-end-of-life/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2023/01/31/Final-reminder-of-end-of-life/</guid>
+			</item>
+		
+			<item>
+				<title>Reminder of end of life for PMHC MDS Version 2 and PMHC MDS HeadtoHelp Version 3 data specifications</title>
+				        
+				
+					<description>&lt;p&gt;The PMHC MDS currently supports uploads in both the Version 2 format as
+documented at &lt;a href=&quot;http://docs.pmhc-mds.com/projects/data-specification/en/v2/&quot; target=&quot;_blank&quot;&gt;http://docs.pmhc-mds.com/projects/data-specification/en/v2/&lt;/a&gt; and
+the Version 2 format as documented at
+&lt;a href=&quot;http://docs.pmhc-mds.com/projects/data-specification/en/v4/&quot; target=&quot;_blank&quot;&gt;http://docs.pmhc-mds.com/projects/data-specification/en/v4/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It also currently supports uploads in the HeadtoHelp Version 3 extension
+format as documented at
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;After the 31st of January 2023 the PMHC MDS will no longer accept uploads
+using the Version 2 and HeadtoHelp Version 3 formats. Please ensure that you
+have migrated to using the Version 4 format before this date.&lt;/p&gt;
+
+&lt;p&gt;A summary of the changes between version 2 and 4 is available at
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/changes-from-v2.html#data-specification-changes&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/changes-from-v2.html#data-specification-changes&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 18 Jan 2023 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/2023/01/18/Reminder-of-end-of-life/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2023/01/18/Reminder-of-end-of-life/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 16/12/2022</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v242&quot;&gt;PMHC MDS Update v2.4.2&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.4.2 was released on 
+December 16, 2022.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The Data Extract tab has been enhanced. Data extracts are now generated in 
+the background. Users can continue with other MDS tasks while they are 
+generated. Data extracts are retained for 7 days and can be accessed via 
+the new ‘View extracts’ sub tab.&lt;/li&gt;
+  &lt;li&gt;The G1: Residential Aged Care Facility Client Outcomes report has been 
+optimised to run faster.&lt;/li&gt;
+  &lt;li&gt;Selecting Regional Reporting Level and a particular PHN in the I5 now gives 
+a row for each PO in the table rather than a single summary for the entire 
+PHN.&lt;/li&gt;
+  &lt;li&gt;The SDQ data entry interface now excludes the “8: Not applicable (collection 
+not required - item not included in the version collected, or SDQ Item 26 
+= 0)” option where it is not applicable.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 16 Dec 2022 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/2022/12/16/Update/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2022/12/16/Update/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 1/12/2022</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v236&quot;&gt;PMHC MDS Update v2.3.6&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.3.6 was released on 
+December 1, 2022.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The PMHC MDS authentication has been updated allowing Multi Factor 
+Authentication for selected users&lt;/li&gt;
+  &lt;li&gt;Error messages have been updated to change references to 
+“closed intakes” to “concluded intakes”&lt;/li&gt;
+  &lt;li&gt;YES-Invites uploads now report a summary of what was included&lt;/li&gt;
+  &lt;li&gt;Fixed the links to field definitions in the data entry interface&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Multiple data sources can now be selected for program types within 
+the PMHC data source&lt;/li&gt;
+  &lt;li&gt;The Wayback data source revised to use all PMHC program types, 
+previously it was a subset of the Flexible Funding Pool&lt;/li&gt;
+  &lt;li&gt;The A2: Volume Trends report has previously only reported data on a 
+monthly basis. It now has an option to select reporting on either a 
+monthly or weekly basis.&lt;/li&gt;
+  &lt;li&gt;The I3: IAR-DST by Referral In - Practitioner IAR and I4: IAR-DST 
+by Referral Out - Practitioner IAR have been updated such that:
+    &lt;ul&gt;
+      &lt;li&gt;A “No IAR-DST supplied” column has been added&lt;/li&gt;
+      &lt;li&gt;The ‘Total episodes’ column has been renamed as ‘Total intakes’&lt;/li&gt;
+      &lt;li&gt;The counting of the ‘Total intakes’ column has been changed to 
+count the number of Intakes. It previously counted the number of 
+IAR-DST’s. An Intake can have more than one IAR-DST.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The following new reports have been implemented:
+    &lt;ul&gt;
+      &lt;li&gt;I5: Intake Referral Out by PHN summary&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Fixed a bug where data for the chosen data source(s) were not 
+correctly filtered&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 01 Dec 2022 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/2022/12/01/Update/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2022/12/01/Update/</guid>
+			</item>
+		
+			<item>
+				<title>Reminder of end of life for PMHC MDS Version 2 and PMHC MDS HeadtoHelp Version 3 data specifications</title>
+				        
+				
+					<description>&lt;p&gt;The PMHC MDS currently supports uploads in both the Version 2 format as
+documented at &lt;a href=&quot;http://docs.pmhc-mds.com/projects/data-specification/en/v2/&quot; target=&quot;_blank&quot;&gt;http://docs.pmhc-mds.com/projects/data-specification/en/v2/&lt;/a&gt; and
+the Version 2 format as documented at
+&lt;a href=&quot;http://docs.pmhc-mds.com/projects/data-specification/en/v4/&quot; target=&quot;_blank&quot;&gt;http://docs.pmhc-mds.com/projects/data-specification/en/v4/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It also currently supports uploads in the HeadtoHelp Version 3 extension
+format as documented at
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;After the 31st of January 2023 the PMHC MDS will no longer accept uploads
+using the Version 2 and HeadtoHelp Version 3 formats. Please ensure that you
+have migrated to using the Version 4 format before this date.&lt;/p&gt;
+
+&lt;p&gt;A summary of the changes between version 2 and 4 is available at
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/changes-from-v2.html#data-specification-changes&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/changes-from-v2.html#data-specification-changes&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 02 Nov 2022 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2022/11/02/Reminder-of-end-of-life/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2022/11/02/Reminder-of-end-of-life/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 30/10/2022</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v220&quot;&gt;PMHC MDS Update v2.2.0&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.2.0 was released on 
+October 30, 2022.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;‘The Way Back’ has been added as a new Data Source. This allows all existing 
+reports to be filtered on episodes that use ‘The Way Back Support Service’ 
+extension&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following new reports have been implemented:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A1a: High level summary of overall intakes&lt;/li&gt;
+  &lt;li&gt;A4a-1: Data Quality Report: Missing and invalid Intake data - Summary&lt;/li&gt;
+  &lt;li&gt;A4a-2: Data Quality Report: Missing and invalid Intake data - Detail&lt;/li&gt;
+  &lt;li&gt;B2a: Activity Report: Intake characteristics&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;login-changes-reminder&quot;&gt;Login changes reminder&lt;/h5&gt;
+
+&lt;p&gt;The PMHC MDS is in the process of being upgraded to support Multi Factor 
+Authentication (MFA). In preparation for MFA the PMHC MDS login screen 
+will shortly change. It will be Logicly branded and served from the domain 
+login.logicly.com.au. An example screenshot can be found at 
+&lt;a href=&quot;https://pmhc-mds.com/communications/#login-changes&quot; target=&quot;_blank&quot;&gt;https://pmhc-mds.com/communications/#login-changes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sun, 30 Oct 2022 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2022/10/30/Update-to-the-PMHC-MDS-v-2-2-0/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2022/10/30/Update-to-the-PMHC-MDS-v-2-2-0/</guid>
+			</item>
+		
+			<item>
+				<title>PMHC MDS outage scheduled for 9pm AEDT Thursday 27th October 2022</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-outage-scheduled-for-9pm-aedt-thursday-27th-october-2022&quot;&gt;PMHC MDS outage scheduled for 9pm AEDT Thursday 27th October 2022&lt;/h4&gt;
+
+&lt;p&gt;We will be performing ongoing security maintenance of our infrastructure on
+Thursday 27th October 2022 between 9:00pm and 10:00pm AEDT.&lt;/p&gt;
+
+&lt;p&gt;You may not be able to log-in to Logicly applications at this time. We expect
+the outage to be brief, however the system could be interrupted for up to an hour.&lt;/p&gt;
+
+&lt;p&gt;Please complete any work involving the PMHC MDS before 9:00pm AEDT to avoid any
+impact.&lt;/p&gt;
+
+&lt;p&gt;Thank-you for your patience whilst this work is carried out.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 27 Oct 2022 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2022/10/27/PMHC-MDS-outage-scheduled-for-27-10-2022/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2022/10/27/PMHC-MDS-outage-scheduled-for-27-10-2022/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 6/10/2022</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v213&quot;&gt;PMHC MDS Update v2.1.3&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.1.3 was released on October 6, 2022.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The W1 - Wayback Reporting Template has been updated inline with current
+contractual reporting requirements&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following bug fixes have been applied:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fixed Data Extracts that include service contacts where no primary
+practitioner is identified.&lt;/li&gt;
+  &lt;li&gt;Editing existing Wayback episodes with a Principal Focus of Treatment Plan of
+Psychosocial.&lt;/li&gt;
+  &lt;li&gt;September 22nd was added as a public holiday for the National Day of Mourning
+for Queen Elizabeth II in all states when calculating business days for W1 reports.&lt;/li&gt;
+  &lt;li&gt;HeadToHelp uploads with empty Client or Episode worksheets now report
+foreign key errors rather than an internal error.&lt;/li&gt;
+  &lt;li&gt;Data Entry of entities with trailing spaces in their keys have been restored.&lt;/li&gt;
+  &lt;li&gt;Uploads in PMHCv4 spec that include deleting service contacts with
+HeadToHelp V3 service contact extension data will now succeed.&lt;/li&gt;
+  &lt;li&gt;Uploads in META format generate an error early in processing. Uploads of data
+in the META extract format is not supported.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 10 Oct 2022 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2022/10/10/Update-to-the-PMHC-MDS-v-2-1-3/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2022/10/10/Update-to-the-PMHC-MDS-v-2-1-3/</guid>
+			</item>
+		
+	</channel>
+</rss>
