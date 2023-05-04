@@ -4,7 +4,7 @@ set -e # halt script on error
 docker run \
   -it --rm --label=jekyll \
   --volume=$(pwd):/srv/jekyll \
-  jekyll/jekyll:3.8 bash -c "bundle install; bundle exec jekyll build"
+  jekyll/jekyll:4 bash -c "bundle install; bundle exec jekyll build"
 
 docker run \
   -it --rm --label=html-proofer \
