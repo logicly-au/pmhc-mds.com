@@ -1,6 +1,54 @@
 [
 
 	{
+		"title"    : "Update to the PMHC MDS - 1/6/2023",
+		"date"     : "June 01, 2023",
+		"content"  : "<h4 id="pmhc-mds-update-v263">PMHC MDS Update v2.6.3</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v2.6.3 was released on 
+June 1, 2023.</p>
+
+<p>The following updates have been applied in the reporting interface:</p>
+<ul>
+  <li>The following new reports have been implemented:
+    <ul>
+      <li>I6: Intake Dispatch Status by Intake Organisation</li>
+      <li>I7: Link Status of Episodes Dispatched to Organisation</li>
+    </ul>
+  </li>
+  <li>The A1 report has been enhanced such that:
+    <ul>
+      <li>The ‘Option’ drop down has been renamed to ‘Group By’</li>
+      <li>When ‘National’ is selected as a Reporting Level, a ‘by 
+State/Territory’ option has been added to the ‘Group By’ selector.</li>
+      <li>A ‘State/Territory’ Reporting Level has been added which allows 
+Grouping By ‘None’, ‘PHN’, ‘Practitioner Category’ or ‘Principal 
+Focus of Treatment Plan’</li>
+      <li>A ‘None’ option has been added to the Group By to allow a report 
+that only contains a National/State or Territory/PHN/PO total</li>
+      <li>A ‘Filter By’ selector has been added that allows multiple selections 
+of the entity that was selected for the Group By</li>
+    </ul>
+  </li>
+</ul>
+
+<p>The following issues have been fixed:</p>
+<ul>
+  <li>Fixed a bug where a pop-up error was being returned after uploading 
+YES-PHN invitations</li>
+  <li>Fixed a bug where the episode end date was not being exported in the 
+correct format for YES-PHN invitations</li>
+  <li>Fixed a bug where database errors were being incorrectly passed through
+to the user</li>
+  <li>Fixed a bug where the Upload Details tab was not showing warning messages</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available
+at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.</p>
+"
+	}
+
+	{
 		"title"    : "PMHC MDS Early Psychosis Youth Service (EPYS) Program reporting update - 1/5/2023",
 		"date"     : "May 03, 2023",
 		"content"  : "<p>The following advice was communicated by the Department of Health and Aged Care

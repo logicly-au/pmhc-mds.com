@@ -7,6 +7,59 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS - 1/6/2023</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v263&quot;&gt;PMHC MDS Update v2.6.3&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.6.3 was released on 
+June 1, 2023.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The following new reports have been implemented:
+    &lt;ul&gt;
+      &lt;li&gt;I6: Intake Dispatch Status by Intake Organisation&lt;/li&gt;
+      &lt;li&gt;I7: Link Status of Episodes Dispatched to Organisation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The A1 report has been enhanced such that:
+    &lt;ul&gt;
+      &lt;li&gt;The ‘Option’ drop down has been renamed to ‘Group By’&lt;/li&gt;
+      &lt;li&gt;When ‘National’ is selected as a Reporting Level, a ‘by 
+State/Territory’ option has been added to the ‘Group By’ selector.&lt;/li&gt;
+      &lt;li&gt;A ‘State/Territory’ Reporting Level has been added which allows 
+Grouping By ‘None’, ‘PHN’, ‘Practitioner Category’ or ‘Principal 
+Focus of Treatment Plan’&lt;/li&gt;
+      &lt;li&gt;A ‘None’ option has been added to the Group By to allow a report 
+that only contains a National/State or Territory/PHN/PO total&lt;/li&gt;
+      &lt;li&gt;A ‘Filter By’ selector has been added that allows multiple selections 
+of the entity that was selected for the Group By&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following issues have been fixed:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug where a pop-up error was being returned after uploading 
+YES-PHN invitations&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where the episode end date was not being exported in the 
+correct format for YES-PHN invitations&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where database errors were being incorrectly passed through
+to the user&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where the Upload Details tab was not showing warning messages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 01 Jun 2023 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2023/06/01/Update/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2023/06/01/Update/</guid>
+			</item>
+		
+			<item>
 				<title>PMHC MDS Early Psychosis Youth Service (EPYS) Program reporting update - 1/5/2023</title>
 				        
 				
@@ -314,29 +367,6 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 				<pubDate>Sun, 30 Oct 2022 00:00:00 -0500</pubDate>
 				<link>http://0.0.0.0:4000/2022/10/30/Update-to-the-PMHC-MDS-v-2-2-0/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2022/10/30/Update-to-the-PMHC-MDS-v-2-2-0/</guid>
-			</item>
-		
-			<item>
-				<title>PMHC MDS outage scheduled for 9pm AEDT Thursday 27th October 2022</title>
-				        
-				
-					<description>&lt;h4 id=&quot;pmhc-mds-outage-scheduled-for-9pm-aedt-thursday-27th-october-2022&quot;&gt;PMHC MDS outage scheduled for 9pm AEDT Thursday 27th October 2022&lt;/h4&gt;
-
-&lt;p&gt;We will be performing ongoing security maintenance of our infrastructure on
-Thursday 27th October 2022 between 9:00pm and 10:00pm AEDT.&lt;/p&gt;
-
-&lt;p&gt;You may not be able to log-in to Logicly applications at this time. We expect
-the outage to be brief, however the system could be interrupted for up to an hour.&lt;/p&gt;
-
-&lt;p&gt;Please complete any work involving the PMHC MDS before 9:00pm AEDT to avoid any
-impact.&lt;/p&gt;
-
-&lt;p&gt;Thank-you for your patience whilst this work is carried out.&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 27 Oct 2022 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2022/10/27/PMHC-MDS-outage-scheduled-for-27-10-2022/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2022/10/27/PMHC-MDS-outage-scheduled-for-27-10-2022/</guid>
 			</item>
 		
 	</channel>
