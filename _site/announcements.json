@@ -1,6 +1,68 @@
 [
 
 	{
+		"title"    : "Update to the PMHC MDS - 27/7/2023",
+		"date"     : "July 27, 2023",
+		"content"  : "<h4 id="pmhc-mds-update-v270">PMHC MDS Update v2.7.0</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v2.7.0 was released on 
+July 27, 2023.</p>
+
+<p>The following updates have been applied in the reporting interface:</p>
+<ul>
+  <li>Reinstate the <code class="language-plaintext highlighter-rouge">!wayback</code> tag for filtering reports</li>
+  <li>The following new reports have been implemented:
+    <ul>
+      <li>I8: Links Without an Existing Intake</li>
+      <li>I9: Dispatches to unidentified MDS treatment organisations</li>
+    </ul>
+  </li>
+</ul>
+
+<p>The following access issues have been fixed in OMSSS:</p>
+<ul>
+  <li>Fixed an issue with questions on SIDAS and WHO5</li>
+</ul>
+
+<p>The following access issues have been fixed:</p>
+<ul>
+  <li>Fixed a login issue with Safari</li>
+</ul>
+
+<p>The following issues have been fixed in Data Entry:</p>
+<ul>
+  <li>Fixed a bug where the tags field wasn’t always saving unless toggled</li>
+  <li>Fixed a bug where the time field was displaying the current time when it 
+should be blank</li>
+  <li>Fixed a bug in Safari where the date and time fields were not displaying 
+a value</li>
+  <li>Fixed a bug where opening a record showed an error if the key was 50 
+characters</li>
+  <li>Fixed a bug where duplicating a service contact record failed where the 
+service contact had been created prior to version 4 and did not have a 
+start time</li>
+</ul>
+
+<p>The following issues have been fixed in Upload:</p>
+<ul>
+  <li>Fixed a bug where the YES Invitation upload screen was displaying a 403 error 
+after a successful upload</li>
+</ul>
+
+<p>The following issues have been fixed in Reports:</p>
+<ul>
+  <li>Fixed an issue with PHN filtering in A1</li>
+  <li>Fixed an issue with client consent filtering on the I2 and I6</li>
+  <li>Improvement speed on some reports around the regional/org levels filtering</li>
+  <li>Improved speed on the C1 report, which was not loading</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available
+at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.</p>
+"
+	}
+
+	{
 		"title"    : "Update to the PMHC MDS - 1/6/2023",
 		"date"     : "June 01, 2023",
 		"content"  : "<h4 id="pmhc-mds-update-v263">PMHC MDS Update v2.6.3</h4>

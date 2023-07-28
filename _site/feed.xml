@@ -7,6 +7,73 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS - 27/7/2023</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v270&quot;&gt;PMHC MDS Update v2.7.0&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.7.0 was released on 
+July 27, 2023.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Reinstate the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;!wayback&lt;/code&gt; tag for filtering reports&lt;/li&gt;
+  &lt;li&gt;The following new reports have been implemented:
+    &lt;ul&gt;
+      &lt;li&gt;I8: Links Without an Existing Intake&lt;/li&gt;
+      &lt;li&gt;I9: Dispatches to unidentified MDS treatment organisations&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following access issues have been fixed in OMSSS:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed an issue with questions on SIDAS and WHO5&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following access issues have been fixed:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a login issue with Safari&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following issues have been fixed in Data Entry:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug where the tags field wasn’t always saving unless toggled&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where the time field was displaying the current time when it 
+should be blank&lt;/li&gt;
+  &lt;li&gt;Fixed a bug in Safari where the date and time fields were not displaying 
+a value&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where opening a record showed an error if the key was 50 
+characters&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where duplicating a service contact record failed where the 
+service contact had been created prior to version 4 and did not have a 
+start time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following issues have been fixed in Upload:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug where the YES Invitation upload screen was displaying a 403 error 
+after a successful upload&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following issues have been fixed in Reports:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed an issue with PHN filtering in A1&lt;/li&gt;
+  &lt;li&gt;Fixed an issue with client consent filtering on the I2 and I6&lt;/li&gt;
+  &lt;li&gt;Improvement speed on some reports around the regional/org levels filtering&lt;/li&gt;
+  &lt;li&gt;Improved speed on the C1 report, which was not loading&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 27 Jul 2023 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2023/07/27/Update-to-the-PMHC-MDS-v-2-7-0/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2023/07/27/Update-to-the-PMHC-MDS-v-2-7-0/</guid>
+			</item>
+		
+			<item>
 				<title>Update to the PMHC MDS - 1/6/2023</title>
 				        
 				
@@ -324,49 +391,6 @@ have migrated to using the Version 4 format before this date.&lt;/p&gt;
 				<pubDate>Wed, 02 Nov 2022 00:00:00 -0500</pubDate>
 				<link>http://0.0.0.0:4000/2022/11/02/Reminder-of-end-of-life/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2022/11/02/Reminder-of-end-of-life/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 30/10/2022</title>
-				        
-				
-					<description>&lt;h4 id=&quot;pmhc-mds-update-v220&quot;&gt;PMHC MDS Update v2.2.0&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.2.0 was released on 
-October 30, 2022.&lt;/p&gt;
-
-&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;‘The Way Back’ has been added as a new Data Source. This allows all existing 
-reports to be filtered on episodes that use ‘The Way Back Support Service’ 
-extension&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following new reports have been implemented:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A1a: High level summary of overall intakes&lt;/li&gt;
-  &lt;li&gt;A4a-1: Data Quality Report: Missing and invalid Intake data - Summary&lt;/li&gt;
-  &lt;li&gt;A4a-2: Data Quality Report: Missing and invalid Intake data - Detail&lt;/li&gt;
-  &lt;li&gt;B2a: Activity Report: Intake characteristics&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;login-changes-reminder&quot;&gt;Login changes reminder&lt;/h5&gt;
-
-&lt;p&gt;The PMHC MDS is in the process of being upgraded to support Multi Factor 
-Authentication (MFA). In preparation for MFA the PMHC MDS login screen 
-will shortly change. It will be Logicly branded and served from the domain 
-login.logicly.com.au. An example screenshot can be found at 
-&lt;a href=&quot;https://pmhc-mds.com/communications/#login-changes&quot; target=&quot;_blank&quot;&gt;https://pmhc-mds.com/communications/#login-changes&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The user guides have been updated to reflect these updates. They are available
-at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Sun, 30 Oct 2022 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2022/10/30/Update-to-the-PMHC-MDS-v-2-2-0/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2022/10/30/Update-to-the-PMHC-MDS-v-2-2-0/</guid>
 			</item>
 		
 	</channel>
