@@ -7,6 +7,39 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>pdate to the PMHC MDS - 16/8/2023</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v273&quot;&gt;PMHC MDS Update v2.7.3&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.7.3 was released on 
+August 16, 2023.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The B5: Activity Reports by provider workforce characteristics (category, 
+ATSI Status, ATSI cultural training, and gender) has been enhanced to add 
+options to report on all practitioners for a service contact or only the 
+primary practitioner for a service contact. Previously, the B5 only reported 
+on the primary practitioner.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;In line with best practices, read-only filesystems are utilised to improve 
+the security of PMHC MDS.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 16 Aug 2023 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2023/08/16/Update-to-the-PMHC-MDS-v-2-7-3/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2023/08/16/Update-to-the-PMHC-MDS-v-2-7-3/</guid>
+			</item>
+		
+			<item>
 				<title>Update to the PMHC MDS - 27/7/2023</title>
 				        
 				
@@ -112,7 +145,7 @@ of the entity that was selected for the Group By&lt;/li&gt;
 YES-PHN invitations&lt;/li&gt;
   &lt;li&gt;Fixed a bug where the episode end date was not being exported in the 
 correct format for YES-PHN invitations&lt;/li&gt;
-  &lt;li&gt;Fixed a bug where database errors were being incorrectly passed through
+  &lt;li&gt;Fixed a bug where verbose internal errors were being incorrectly passed through
 to the user&lt;/li&gt;
   &lt;li&gt;Fixed a bug where the Upload Details tab was not showing warning messages&lt;/li&gt;
 &lt;/ul&gt;
@@ -365,32 +398,6 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 				<pubDate>Thu, 01 Dec 2022 00:00:00 -0600</pubDate>
 				<link>http://0.0.0.0:4000/2022/12/01/Update/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2022/12/01/Update/</guid>
-			</item>
-		
-			<item>
-				<title>Reminder of end of life for PMHC MDS Version 2 and PMHC MDS HeadtoHelp Version 3 data specifications</title>
-				        
-				
-					<description>&lt;p&gt;The PMHC MDS currently supports uploads in both the Version 2 format as
-documented at &lt;a href=&quot;http://docs.pmhc-mds.com/projects/data-specification/en/v2/&quot; target=&quot;_blank&quot;&gt;http://docs.pmhc-mds.com/projects/data-specification/en/v2/&lt;/a&gt; and
-the Version 2 format as documented at
-&lt;a href=&quot;http://docs.pmhc-mds.com/projects/data-specification/en/v4/&quot; target=&quot;_blank&quot;&gt;http://docs.pmhc-mds.com/projects/data-specification/en/v4/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;It also currently supports uploads in the HeadtoHelp Version 3 extension
-format as documented at
-&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;After the 31st of January 2023 the PMHC MDS will no longer accept uploads
-using the Version 2 and HeadtoHelp Version 3 formats. Please ensure that you
-have migrated to using the Version 4 format before this date.&lt;/p&gt;
-
-&lt;p&gt;A summary of the changes between version 2 and 4 is available at
-&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/changes-from-v2.html#data-specification-changes&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/changes-from-v2.html#data-specification-changes&lt;/a&gt;&lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 02 Nov 2022 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2022/11/02/Reminder-of-end-of-life/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2022/11/02/Reminder-of-end-of-life/</guid>
 			</item>
 		
 	</channel>

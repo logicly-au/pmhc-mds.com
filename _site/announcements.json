@@ -1,6 +1,34 @@
 [
 
 	{
+		"title"    : "pdate to the PMHC MDS - 16/8/2023",
+		"date"     : "August 16, 2023",
+		"content"  : "<h4 id="pmhc-mds-update-v273">PMHC MDS Update v2.7.3</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v2.7.3 was released on 
+August 16, 2023.</p>
+
+<p>The following updates have been applied in the reporting interface:</p>
+<ul>
+  <li>The B5: Activity Reports by provider workforce characteristics (category, 
+ATSI Status, ATSI cultural training, and gender) has been enhanced to add 
+options to report on all practitioners for a service contact or only the 
+primary practitioner for a service contact. Previously, the B5 only reported 
+on the primary practitioner.</li>
+</ul>
+
+<p>The following updates have been applied:</p>
+<ul>
+  <li>In line with best practices, read-only filesystems are utilised to improve 
+the security of PMHC MDS.</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available
+at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.</p>
+"
+	}
+
+	{
 		"title"    : "Update to the PMHC MDS - 27/7/2023",
 		"date"     : "July 27, 2023",
 		"content"  : "<h4 id="pmhc-mds-update-v270">PMHC MDS Update v2.7.0</h4>
@@ -100,7 +128,7 @@ of the entity that was selected for the Group By</li>
 YES-PHN invitations</li>
   <li>Fixed a bug where the episode end date was not being exported in the 
 correct format for YES-PHN invitations</li>
-  <li>Fixed a bug where database errors were being incorrectly passed through
+  <li>Fixed a bug where verbose internal errors were being incorrectly passed through
 to the user</li>
   <li>Fixed a bug where the Upload Details tab was not showing warning messages</li>
 </ul>
