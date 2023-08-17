@@ -1,5 +1,5 @@
 ---
-title: pdate to the PMHC MDS - 16/8/2023
+title: Update to the PMHC MDS - 16/8/2023
 ---
 
 #### PMHC MDS Update v2.7.3 ####
