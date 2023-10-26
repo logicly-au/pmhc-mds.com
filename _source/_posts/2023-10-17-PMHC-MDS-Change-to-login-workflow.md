@@ -17,7 +17,7 @@ The immediate change for users will be a requirement to use your full email addr
 <div style="text-align: center;background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
   <div>                 
      <div><p>First screen</p></div>    
-     <div><img alt="Enter email address" src="https://drive.google.com/uc?export=view&amp;id=13PdpzLWvaTTVX8vc4ggoQ5wChkbRLU9Y"  width="250" height="auto"></div>
+     <div><img alt="Enter email address" src="https://drive.google.com/uc?export=view&amp;id=13PdpzLWvaTTVX8vc4ggoQ5wChkbRLU9Y"  width="250"></div>
   </div>
   <div>           
     <div><p>Second screen</p></div>    

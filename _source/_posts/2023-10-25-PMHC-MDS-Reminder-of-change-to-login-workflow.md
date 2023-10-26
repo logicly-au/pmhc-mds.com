@@ -20,22 +20,18 @@ The PMHC-MDS team at Logicly
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-<a name="reminder-pmhc-mds---change-to-login-workflow"></a>
-
-#### PMHC-MDS - Change to login workflow ####
+#### PMHC-MDS - Change to login workflow {#reminder-pmhc-mds---change-to-login-workflow}
 
 As part of Logicly’s ongoing commitment to data security and in response to the Australian Signals Directorate’s Information Security Manual guidance, we are introducing a new authentication process for accessing the PMHC-MDS.
 
-<a name="reminder-what-is-changing"></a>
-
-##### What is changing? #####
+##### What is changing? {#reminder-what-is-changing}
 
 The immediate change for users will be a requirement to use your full email address as your username when logging in to the application. Once you’ve entered your full email address on the first screen you’ll be asked to enter your password on a second screen, and then you will access the application as normal. See examples below.
 
 <div style="text-align: center;background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
   <div>                 
      <div><p>First screen</p></div>    
-     <div><img alt="Enter email address" src="https://drive.google.com/uc?export=view&amp;id=13PdpzLWvaTTVX8vc4ggoQ5wChkbRLU9Y"  width="250" height="auto"></div>
+     <div><img alt="Enter email address" src="https://drive.google.com/uc?export=view&amp;id=13PdpzLWvaTTVX8vc4ggoQ5wChkbRLU9Y"  width="250"></div>
   </div>
   <div>           
     <div><p>Second screen</p></div>    
@@ -43,15 +39,11 @@ The immediate change for users will be a requirement to use your full email addr
   </div>
 </div>
 
-<a name="reminder-when-will-this-happen"></a>
-
-##### When will this happen? #####
+##### When will this happen? {#reminder-when-will-this-happen}
 
 Logicly intends to release this change in October. A reminder email will be sent in the days prior to the change.
 
-<a name="reminder-why-is-this-happening"></a>
-
-##### Why is this happening? #####
+##### Why is this happening? {#reminder-why-is-this-happening}
 
 The change is being made in order to enable or enhance multi-factor authentication (MFA) within the application and to facilitate future security improvements around the authentication and authorisation process.
 
