@@ -3,7 +3,7 @@ title: PMHC-MDS - Change to login workflow - 17/10/2023
 ---
 
 <div style="text-align: center;margin:20px auto;max-width:600px;">            
-  <img alt="Logicly logo" src="https://www.logicly.com.au/_nuxt/img/0_Logicly_Logo.082ec42.svg" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:80%;font-size:13px;">   
+  <img alt="Logicly logo" src="https://www.logicly.com.au/_nuxt/img/0_Logicly_Logo.082ec42.svg" style="border:none;display:block;outline:none;text-decoration:none;width:80%;font-size:13px;">   
 </div>
 
 #### PMHC-MDS - Change to login workflow ####
@@ -21,7 +21,7 @@ The immediate change for users will be a requirement to use your full email addr
   </div>
   <div>           
     <div><p>Second screen</p></div>    
-    <div><img alt="Enter password" src="https://drive.google.com/uc?export=view&amp;id=13PdpzLWvaTTVX8vc4ggoQ5wChkbRLU9Y" width="250" height="auto"></div>
+    <div><img alt="Enter password" src="https://drive.google.com/uc?export=view&amp;id=13PdpzLWvaTTVX8vc4ggoQ5wChkbRLU9Y" width="250"></div>
   </div>
 </div>
 

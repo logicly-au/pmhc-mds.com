@@ -11,7 +11,7 @@
 				        
 				
 					<description>&lt;div style=&quot;text-align: center;margin:20px auto;max-width:600px;&quot;&gt;            
-  &lt;img alt=&quot;Logicly logo&quot; src=&quot;https://www.logicly.com.au/_nuxt/img/0_Logicly_Logo.082ec42.svg&quot; style=&quot;border:none;display:block;outline:none;text-decoration:none;height:auto;width:80%;font-size:13px;&quot; /&gt;   
+  &lt;img alt=&quot;Logicly logo&quot; src=&quot;https://www.logicly.com.au/_nuxt/img/0_Logicly_Logo.082ec42.svg&quot; style=&quot;border:none;display:block;outline:none;text-decoration:none;width:80%;font-size:13px;&quot; /&gt;   
 &lt;/div&gt;
 
 &lt;h4 id=&quot;pmhc-mds---reminder-of-change-to-login-workflow&quot;&gt;PMHC-MDS - Reminder of change to login workflow&lt;/h4&gt;
@@ -26,13 +26,15 @@
 
 &lt;p&gt;The PMHC-MDS team at Logicly&lt;/p&gt;
 
-&lt;div style=&quot;font-size: 0px; justify-self: center; padding: 10px 25px; width: 100%; word-break: break-word;&quot;&gt;
-  &lt;p class=&quot;divider&quot; style=&quot;font-size: 1px; margin: 0px auto; border-top: 2px solid rgb(230, 230, 230); width: 100%;&quot;&gt;&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;-----------------------&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;reminder-pmhc-mds---change-to-login-workflow&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;pmhc-mds---change-to-login-workflow&quot;&gt;PMHC-MDS - Change to login workflow&lt;/h4&gt;
 
 &lt;p&gt;As part of Logicly’s ongoing commitment to data security and in response to the Australian Signals Directorate’s Information Security Manual guidance, we are introducing a new authentication process for accessing the PMHC-MDS.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;reminder-what-is-changing&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;what-is-changing&quot;&gt;What is changing?&lt;/h5&gt;
 
@@ -45,13 +47,17 @@
   &lt;/div&gt;
   &lt;div&gt;           
     &lt;div&gt;&lt;p&gt;Second screen&lt;/p&gt;&lt;/div&gt;    
-    &lt;div&gt;&lt;img alt=&quot;Enter password&quot; src=&quot;https://drive.google.com/uc?export=view&amp;amp;id=13PdpzLWvaTTVX8vc4ggoQ5wChkbRLU9Y&quot; width=&quot;250&quot; height=&quot;auto&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img alt=&quot;Enter password&quot; src=&quot;https://drive.google.com/uc?export=view&amp;amp;id=13PdpzLWvaTTVX8vc4ggoQ5wChkbRLU9Y&quot; width=&quot;250&quot; /&gt;&lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+
+&lt;p&gt;&lt;a name=&quot;reminder-when-will-this-happen&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;when-will-this-happen&quot;&gt;When will this happen?&lt;/h5&gt;
 
 &lt;p&gt;Logicly intends to release this change in October. A reminder email will be sent in the days prior to the change.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;reminder-why-is-this-happening&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;why-is-this-happening&quot;&gt;Why is this happening?&lt;/h5&gt;
 
@@ -78,7 +84,7 @@
 				        
 				
 					<description>&lt;div style=&quot;text-align: center;margin:20px auto;max-width:600px;&quot;&gt;            
-  &lt;img alt=&quot;Logicly logo&quot; src=&quot;https://www.logicly.com.au/_nuxt/img/0_Logicly_Logo.082ec42.svg&quot; style=&quot;border:none;display:block;outline:none;text-decoration:none;height:auto;width:80%;font-size:13px;&quot; /&gt;   
+  &lt;img alt=&quot;Logicly logo&quot; src=&quot;https://www.logicly.com.au/_nuxt/img/0_Logicly_Logo.082ec42.svg&quot; style=&quot;border:none;display:block;outline:none;text-decoration:none;width:80%;font-size:13px;&quot; /&gt;   
 &lt;/div&gt;
 
 &lt;h4 id=&quot;pmhc-mds---change-to-login-workflow&quot;&gt;PMHC-MDS - Change to login workflow&lt;/h4&gt;
@@ -96,7 +102,7 @@
   &lt;/div&gt;
   &lt;div&gt;           
     &lt;div&gt;&lt;p&gt;Second screen&lt;/p&gt;&lt;/div&gt;    
-    &lt;div&gt;&lt;img alt=&quot;Enter password&quot; src=&quot;https://drive.google.com/uc?export=view&amp;amp;id=13PdpzLWvaTTVX8vc4ggoQ5wChkbRLU9Y&quot; width=&quot;250&quot; height=&quot;auto&quot; /&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;img alt=&quot;Enter password&quot; src=&quot;https://drive.google.com/uc?export=view&amp;amp;id=13PdpzLWvaTTVX8vc4ggoQ5wChkbRLU9Y&quot; width=&quot;250&quot; /&gt;&lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
