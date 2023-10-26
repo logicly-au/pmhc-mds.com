@@ -7,6 +7,122 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>PMHC-MDS - Reminder of change to login workflow - 24/10/2023</title>
+				        
+				
+					<description>&lt;div style=&quot;text-align: center;margin:20px auto;max-width:600px;&quot;&gt;            
+  &lt;img alt=&quot;Logicly logo&quot; src=&quot;https://www.logicly.com.au/_nuxt/img/0_Logicly_Logo.082ec42.svg&quot; style=&quot;border:none;display:block;outline:none;text-decoration:none;width:80%;font-size:13px;&quot; /&gt;   
+&lt;/div&gt;
+
+&lt;h4 id=&quot;pmhc-mds---reminder-of-change-to-login-workflow&quot;&gt;PMHC-MDS - Reminder of change to login workflow&lt;/h4&gt;
+
+&lt;p&gt;Dear PMHC-MDS user,&lt;/p&gt;
+
+&lt;p&gt;As per our recent communication Logicly will be releasing the new authentication process and associated login workflow change on Monday the 30th October 2023. The details sent originally are included again below.&lt;/p&gt;
+
+&lt;p&gt;Please email &lt;a href=&quot;mailto:support@pmhc-mds.com&quot;&gt;support@pmhc-mds.com&lt;/a&gt; if you have any questions or issues.&lt;/p&gt;
+
+&lt;p&gt;Thank you&lt;/p&gt;
+
+&lt;p&gt;The PMHC-MDS team at Logicly&lt;/p&gt;
+
+&lt;p&gt;-----------------------&lt;/p&gt;
+
+&lt;h4 id=&quot;reminder-pmhc-mds---change-to-login-workflow&quot;&gt;PMHC-MDS - Change to login workflow&lt;/h4&gt;
+
+&lt;p&gt;As part of Logicly’s ongoing commitment to data security and in response to the Australian Signals Directorate’s Information Security Manual guidance, we are introducing a new authentication process for accessing the PMHC-MDS.&lt;/p&gt;
+
+&lt;h5 id=&quot;reminder-what-is-changing&quot;&gt;What is changing?&lt;/h5&gt;
+
+&lt;p&gt;The immediate change for users will be a requirement to use your full email address as your username when logging in to the application. Once you’ve entered your full email address on the first screen you’ll be asked to enter your password on a second screen, and then you will access the application as normal. See examples below.&lt;/p&gt;
+
+&lt;div style=&quot;text-align: center;background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;&quot;&gt;
+  &lt;div&gt;                 
+     &lt;div&gt;&lt;p&gt;First screen&lt;/p&gt;&lt;/div&gt;    
+     &lt;div&gt;&lt;img alt=&quot;Enter email address&quot; src=&quot;https://drive.google.com/uc?export=view&amp;amp;id=13PdpzLWvaTTVX8vc4ggoQ5wChkbRLU9Y&quot; width=&quot;250&quot; /&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div&gt;           
+    &lt;div&gt;&lt;p&gt;Second screen&lt;/p&gt;&lt;/div&gt;    
+    &lt;div&gt;&lt;img alt=&quot;Enter password&quot; src=&quot;https://drive.google.com/uc?export=view&amp;amp;id=13PdpzLWvaTTVX8vc4ggoQ5wChkbRLU9Y&quot; width=&quot;250&quot; /&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h5 id=&quot;reminder-when-will-this-happen&quot;&gt;When will this happen?&lt;/h5&gt;
+
+&lt;p&gt;Logicly intends to release this change in October. A reminder email will be sent in the days prior to the change.&lt;/p&gt;
+
+&lt;h5 id=&quot;reminder-why-is-this-happening&quot;&gt;Why is this happening?&lt;/h5&gt;
+
+&lt;p&gt;The change is being made in order to enable or enhance multi-factor authentication (MFA) within the application and to facilitate future security improvements around the authentication and authorisation process.&lt;/p&gt;
+
+&lt;p&gt;Also, by capturing the email addresses in the first step, the login process can be tailored to different organisation’s requirements in the future. For example, login could be handled using the same details as you use to login to your organisation’s systems. This is known as Single Sign On or SSO.&lt;/p&gt;
+
+&lt;p&gt;Note that MFA will be rolled out progressively in the near future on a schedule yet to be agreed. You will be informed well prior to MFA being required with a timeline and supporting documentation.&lt;/p&gt;
+
+&lt;p&gt;Please email &lt;a href=&quot;mailto:support@pmhc-mds.com&quot;&gt;support@pmhc-mds.com&lt;/a&gt; if you have any questions or issues.&lt;/p&gt;
+
+&lt;p&gt;Thank you&lt;/p&gt;
+
+&lt;p&gt;The PMHC-MDS team at Logicly&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 25 Oct 2023 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2023/10/25/PMHC-MDS-Reminder-of-change-to-login-workflow/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2023/10/25/PMHC-MDS-Reminder-of-change-to-login-workflow/</guid>
+			</item>
+		
+			<item>
+				<title>PMHC-MDS - Change to login workflow - 17/10/2023</title>
+				        
+				
+					<description>&lt;div style=&quot;text-align: center;margin:20px auto;max-width:600px;&quot;&gt;            
+  &lt;img alt=&quot;Logicly logo&quot; src=&quot;https://www.logicly.com.au/_nuxt/img/0_Logicly_Logo.082ec42.svg&quot; style=&quot;border:none;display:block;outline:none;text-decoration:none;width:80%;font-size:13px;&quot; /&gt;   
+&lt;/div&gt;
+
+&lt;h4 id=&quot;pmhc-mds---change-to-login-workflow&quot;&gt;PMHC-MDS - Change to login workflow&lt;/h4&gt;
+
+&lt;p&gt;As part of Logicly’s ongoing commitment to data security and in response to the Australian Signals Directorate’s Information Security Manual guidance, we are introducing a new authentication process for accessing the PMHC-MDS.&lt;/p&gt;
+
+&lt;h5 id=&quot;what-is-changing&quot;&gt;What is changing?&lt;/h5&gt;
+
+&lt;p&gt;The immediate change for users will be a requirement to use your full email address as your username when logging in to the application. Once you’ve entered your full email address on the first screen you’ll be asked to enter your password on a second screen, and then you will access the application as normal. See examples below.&lt;/p&gt;
+
+&lt;div style=&quot;text-align: center;background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;&quot;&gt;
+  &lt;div&gt;                 
+     &lt;div&gt;&lt;p&gt;First screen&lt;/p&gt;&lt;/div&gt;    
+     &lt;div&gt;&lt;img alt=&quot;Enter email address&quot; src=&quot;https://drive.google.com/uc?export=view&amp;amp;id=13PdpzLWvaTTVX8vc4ggoQ5wChkbRLU9Y&quot; width=&quot;250&quot; /&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div&gt;           
+    &lt;div&gt;&lt;p&gt;Second screen&lt;/p&gt;&lt;/div&gt;    
+    &lt;div&gt;&lt;img alt=&quot;Enter password&quot; src=&quot;https://drive.google.com/uc?export=view&amp;amp;id=13PdpzLWvaTTVX8vc4ggoQ5wChkbRLU9Y&quot; width=&quot;250&quot; /&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h5 id=&quot;when-will-this-happen&quot;&gt;When will this happen?&lt;/h5&gt;
+
+&lt;p&gt;Logicly intends to release this change in October. A reminder email will be sent in the days prior to the change.&lt;/p&gt;
+
+&lt;h5 id=&quot;why-is-this-happening&quot;&gt;Why is this happening?&lt;/h5&gt;
+
+&lt;p&gt;The change is being made in order to enable or enhance multi-factor authentication (MFA) within the application and to facilitate future security improvements around the authentication and authorisation process.&lt;/p&gt;
+
+&lt;p&gt;Also, by capturing the email addresses in the first step, the login process can be tailored to different organisation’s requirements in the future. For example, login could be handled using the same details as you use to login to your organisation’s systems. This is known as Single Sign On or SSO.&lt;/p&gt;
+
+&lt;p&gt;Note that MFA will be rolled out progressively in the near future on a schedule yet to be agreed. You will be informed well prior to MFA being required with a timeline and supporting documentation.&lt;/p&gt;
+
+&lt;p&gt;Please email &lt;a href=&quot;mailto:support@pmhc-mds.com&quot;&gt;support@pmhc-mds.com&lt;/a&gt; if you have any questions or issues.&lt;/p&gt;
+
+&lt;p&gt;Thank you&lt;/p&gt;
+
+&lt;p&gt;The PMHC-MDS team at Logicly&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 17 Oct 2023 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2023/10/17/PMHC-MDS-Change-to-login-workflow/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2023/10/17/PMHC-MDS-Change-to-login-workflow/</guid>
+			</item>
+		
+			<item>
 				<title>Update to the PMHC MDS - 16/8/2023</title>
 				        
 				
@@ -308,96 +424,6 @@ have migrated to using the Version 4 format before this date.&lt;/p&gt;
 				<pubDate>Wed, 18 Jan 2023 00:00:00 -0600</pubDate>
 				<link>http://0.0.0.0:4000/2023/01/18/Reminder-of-end-of-life/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2023/01/18/Reminder-of-end-of-life/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 16/12/2022</title>
-				        
-				
-					<description>&lt;h4 id=&quot;pmhc-mds-update-v242&quot;&gt;PMHC MDS Update v2.4.2&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.4.2 was released on 
-December 16, 2022.&lt;/p&gt;
-
-&lt;p&gt;The following updates have been applied:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The Data Extract tab has been enhanced. Data extracts are now generated in 
-the background. Users can continue with other MDS tasks while they are 
-generated. Data extracts are retained for 7 days and can be accessed via 
-the new ‘View extracts’ sub tab.&lt;/li&gt;
-  &lt;li&gt;The G1: Residential Aged Care Facility Client Outcomes report has been 
-optimised to run faster.&lt;/li&gt;
-  &lt;li&gt;Selecting Regional Reporting Level and a particular PHN in the I5 now gives 
-a row for each PO in the table rather than a single summary for the entire 
-PHN.&lt;/li&gt;
-  &lt;li&gt;The SDQ data entry interface now excludes the “8: Not applicable (collection 
-not required - item not included in the version collected, or SDQ Item 26 
-= 0)” option where it is not applicable.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The user guides have been updated to reflect these updates. They are available
-at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 16 Dec 2022 00:00:00 -0600</pubDate>
-				<link>http://0.0.0.0:4000/2022/12/16/Update/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2022/12/16/Update/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 1/12/2022</title>
-				        
-				
-					<description>&lt;h4 id=&quot;pmhc-mds-update-v236&quot;&gt;PMHC MDS Update v2.3.6&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.3.6 was released on 
-December 1, 2022.&lt;/p&gt;
-
-&lt;p&gt;The following updates have been applied:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The PMHC MDS authentication has been updated allowing Multi Factor 
-Authentication for selected users&lt;/li&gt;
-  &lt;li&gt;Error messages have been updated to change references to 
-“closed intakes” to “concluded intakes”&lt;/li&gt;
-  &lt;li&gt;YES-Invites uploads now report a summary of what was included&lt;/li&gt;
-  &lt;li&gt;Fixed the links to field definitions in the data entry interface&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Multiple data sources can now be selected for program types within 
-the PMHC data source&lt;/li&gt;
-  &lt;li&gt;The Wayback data source revised to use all PMHC program types, 
-previously it was a subset of the Flexible Funding Pool&lt;/li&gt;
-  &lt;li&gt;The A2: Volume Trends report has previously only reported data on a 
-monthly basis. It now has an option to select reporting on either a 
-monthly or weekly basis.&lt;/li&gt;
-  &lt;li&gt;The I3: IAR-DST by Referral In - Practitioner IAR and I4: IAR-DST 
-by Referral Out - Practitioner IAR have been updated such that:
-    &lt;ul&gt;
-      &lt;li&gt;A “No IAR-DST supplied” column has been added&lt;/li&gt;
-      &lt;li&gt;The ‘Total episodes’ column has been renamed as ‘Total intakes’&lt;/li&gt;
-      &lt;li&gt;The counting of the ‘Total intakes’ column has been changed to 
-count the number of Intakes. It previously counted the number of 
-IAR-DST’s. An Intake can have more than one IAR-DST.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The following new reports have been implemented:
-    &lt;ul&gt;
-      &lt;li&gt;I5: Intake Referral Out by PHN summary&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Fixed a bug where data for the chosen data source(s) were not 
-correctly filtered&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The user guides have been updated to reflect these updates. They are available
-at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 01 Dec 2022 00:00:00 -0600</pubDate>
-				<link>http://0.0.0.0:4000/2022/12/01/Update/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2022/12/01/Update/</guid>
 			</item>
 		
 	</channel>
