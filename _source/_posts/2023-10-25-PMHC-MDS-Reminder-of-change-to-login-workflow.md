@@ -2,10 +2,6 @@
 title: PMHC-MDS - Reminder of change to login workflow - 24/10/2023
 ---
 
-<div style="text-align: center;margin:20px auto;max-width:600px;">            
-  <img alt="Logicly logo" src="https://www.logicly.com.au/_nuxt/img/0_Logicly_Logo.082ec42.svg" style="border:none;display:block;outline:none;text-decoration:none;width:80%;font-size:13px;">   
-</div>
-
 #### PMHC-MDS - Reminder of change to login workflow ####
 
 Dear PMHC-MDS user,
@@ -31,11 +27,11 @@ The immediate change for users will be a requirement to use your full email addr
 <div style="text-align: center;background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
   <div>                 
      <div><p>First screen</p></div>    
-     <div><img alt="Enter email address" src="https://drive.google.com/uc?export=view&amp;id=13PdpzLWvaTTVX8vc4ggoQ5wChkbRLU9Y"  width="250"></div>
+     <div><img alt="Enter email address" src="https://www.logicly.com.au/email/auth0-login-workflow/step-1.png"  width="250"></div>
   </div>
   <div>           
     <div><p>Second screen</p></div>    
-    <div><img alt="Enter password" src="https://drive.google.com/uc?export=view&amp;id=13PdpzLWvaTTVX8vc4ggoQ5wChkbRLU9Y" width="250"></div>
+    <div><img alt="Enter password" src="https://www.logicly.com.au/email/auth0-login-workflow/step-2.png" width="250"></div>
   </div>
 </div>
 
