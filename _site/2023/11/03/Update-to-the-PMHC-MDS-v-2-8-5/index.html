@@ -13,7 +13,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>PMHC-MDS - Change to login workflow - 17/10/2023</title>
+    <title>Update to the PMHC MDS - 3/11/2023</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="alternate" type="application/rss+xml" title="PMHC-MDS RSS" href="/feed.xml">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -81,43 +81,53 @@
       </div>
       <div class="row">
 	  <div class="col-xs-12 col-sm-12 col-md-8">
-        <h4 id="pmhc-mds---change-to-login-workflow">PMHC-MDS - Change to login workflow</h4>
+        <h4 id="pmhc-mds-update-v285">PMHC MDS Update v2.8.5</h4>
 
-<p>As part of Logicly’s ongoing commitment to data security and in response to the Australian Signals Directorate’s Information Security Manual guidance, we are introducing a new authentication process for accessing the PMHC-MDS.</p>
+<p>We are pleased to announce that PMHC MDS Update v2.8.5 was released on
+November 3, 2023.</p>
 
-<h5 id="what-is-changing">What is changing?</h5>
+<p>The following updates have been applied in the reporting interface:</p>
+<ul>
+  <li>The App-3 — Suicide Risk Followup Reports has had a fix on the Unknown age
+group counting. Now, it includes episodes without service contacts</li>
+  <li>Improvement speed on the A6 reports</li>
+  <li>Fixed an error where totals for hAPI providers were showing counts of 0 at
+the Regional level</li>
+</ul>
 
-<p>The immediate change for users will be a requirement to use your full email address as your username when logging in to the application. Once you’ve entered your full email address on the first screen you’ll be asked to enter your password on a second screen, and then you will access the application as normal. See examples below.</p>
+<p>The following updates have been applied in the upload interface:</p>
+<ul>
+  <li>Return a validation error when the Service Contact Start Time field includes
+AM/PM</li>
+</ul>
 
-<div style="text-align: center;background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
-  <div>                 
-     <div><p>First screen</p></div>    
-     <div><img alt="Enter email address" src="https://www.logicly.com.au/email/auth0-login-workflow/step-1.png" width="250" /></div>
-  </div>
-  <div>           
-    <div><p>Second screen</p></div>    
-    <div><img alt="Enter password" src="https://www.logicly.com.au/email/auth0-login-workflow/step-2.png" width="250" /></div>
-  </div>
-</div>
+<p>The following updates have been applied in the upload API:</p>
+<ul>
+  <li>Fixed an error where records with today’s date were incorrectly being
+identified as future dated</li>
+  <li>Fixed a bug that was causing uploads via the API to fail</li>
+</ul>
 
-<h5 id="when-will-this-happen">When will this happen?</h5>
+<p>The following updates have been applied in the data extract interface:</p>
+<ul>
+  <li>Added a new feature where users can now select the data specification type
+to be extracted</li>
+  <li>Fixed an error where headspace records were not included in extracts</li>
+</ul>
 
-<p>Logicly intends to release this change in October. A reminder email will be sent in the days prior to the change.</p>
+<p>The following updates have been applied in the user management interface:</p>
+<ul>
+  <li>Fixed an error where user roles were not being applied after users accepted
+their invitation</li>
+</ul>
 
-<h5 id="why-is-this-happening">Why is this happening?</h5>
+<p>The following updates have been applied in the reporting specifications:</p>
+<ul>
+  <li>PMHC Outcome Measure Standard Deviations 2023 as XLSX</li>
+</ul>
 
-<p>The change is being made in order to enable or enhance multi-factor authentication (MFA) within the application and to facilitate future security improvements around the authentication and authorisation process.</p>
-
-<p>Also, by capturing the email addresses in the first step, the login process can be tailored to different organisation’s requirements in the future. For example, login could be handled using the same details as you use to login to your organisation’s systems. This is known as Single Sign On or SSO.</p>
-
-<p>Note that MFA will be rolled out progressively in the near future on a schedule yet to be agreed. You will be informed well prior to MFA being required with a timeline and supporting documentation.</p>
-
-<p>Please email <a href="mailto:support@pmhc-mds.com">support@pmhc-mds.com</a> if you have any questions or issues.</p>
-
-<p>Thank you</p>
-
-<p>The PMHC-MDS team at Logicly</p>
-
+<p>The user guides have been updated to reflect these updates. They are available
+at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.</p>
 
 	  </div>
       </div>
