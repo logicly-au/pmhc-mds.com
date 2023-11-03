@@ -7,6 +7,64 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS - 3/11/2023</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v285&quot;&gt;PMHC MDS Update v2.8.5&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.8.5 was released on
+November 3, 2023.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The App-3 — Suicide Risk Followup Reports has had a fix on the Unknown age
+group counting. Now, it includes episodes without service contacts&lt;/li&gt;
+  &lt;li&gt;Improvement speed on the A6 reports&lt;/li&gt;
+  &lt;li&gt;Fixed an error where totals for hAPI providers were showing counts of 0 at
+the Regional level&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the upload interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Return a validation error when the Service Contact Start Time field includes
+AM/PM&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the upload API:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed an error where records with today’s date were incorrectly being
+identified as future dated&lt;/li&gt;
+  &lt;li&gt;Fixed a bug that was causing uploads via the API to fail&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the data extract interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Added a new feature where users can now select the data specification type
+to be extracted&lt;/li&gt;
+  &lt;li&gt;Fixed an error where headspace records were not included in extracts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the user management interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed an error where user roles were not being applied after users accepted
+their invitation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting specifications:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;PMHC Outcome Measure Standard Deviations 2023 as XLSX&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 03 Nov 2023 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2023/11/03/Update-to-the-PMHC-MDS-v-2-8-5/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2023/11/03/Update-to-the-PMHC-MDS-v-2-8-5/</guid>
+			</item>
+		
+			<item>
 				<title>PMHC-MDS - Reminder of change to login workflow - 24/10/2023</title>
 				        
 				
@@ -398,32 +456,6 @@ format as documented at
 				<pubDate>Tue, 31 Jan 2023 00:00:00 -0600</pubDate>
 				<link>http://0.0.0.0:4000/2023/01/31/Final-reminder-of-end-of-life/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2023/01/31/Final-reminder-of-end-of-life/</guid>
-			</item>
-		
-			<item>
-				<title>Reminder of end of life for PMHC MDS Version 2 and PMHC MDS HeadtoHelp Version 3 data specifications</title>
-				        
-				
-					<description>&lt;p&gt;The PMHC MDS currently supports uploads in both the Version 2 format as
-documented at &lt;a href=&quot;http://docs.pmhc-mds.com/projects/data-specification/en/v2/&quot; target=&quot;_blank&quot;&gt;http://docs.pmhc-mds.com/projects/data-specification/en/v2/&lt;/a&gt; and
-the Version 2 format as documented at
-&lt;a href=&quot;http://docs.pmhc-mds.com/projects/data-specification/en/v4/&quot; target=&quot;_blank&quot;&gt;http://docs.pmhc-mds.com/projects/data-specification/en/v4/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;It also currently supports uploads in the HeadtoHelp Version 3 extension
-format as documented at
-&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;After the 31st of January 2023 the PMHC MDS will no longer accept uploads
-using the Version 2 and HeadtoHelp Version 3 formats. Please ensure that you
-have migrated to using the Version 4 format before this date.&lt;/p&gt;
-
-&lt;p&gt;A summary of the changes between version 2 and 4 is available at
-&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/changes-from-v2.html#data-specification-changes&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/changes-from-v2.html#data-specification-changes&lt;/a&gt;&lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 18 Jan 2023 00:00:00 -0600</pubDate>
-				<link>http://0.0.0.0:4000/2023/01/18/Reminder-of-end-of-life/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2023/01/18/Reminder-of-end-of-life/</guid>
 			</item>
 		
 	</channel>
