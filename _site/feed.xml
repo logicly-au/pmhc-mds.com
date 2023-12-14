@@ -7,6 +7,32 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>PMHC MDS - ‘Error 500’ issues on log-in</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds---error-500-issues-on-log-in&quot;&gt;PMHC MDS - ‘Error 500’ issues on log-in&lt;/h4&gt;
+
+&lt;p&gt;Dear PMHC MDS user,&lt;/p&gt;
+
+&lt;p&gt;We’ve been made aware that users are intermittently receiving an error message 
+saying ‘Error 500 - Internal Server Error’ when logging-in to the PMHC MDS.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately in some cases it takes multiple attempts to log-in, but please 
+try refreshing your browser window first as that often works.&lt;/p&gt;
+
+&lt;p&gt;We are very sorry for the inconvenience this causes. Our senior developers are 
+investigating the issue and we will deploy a fix as soon as possible.&lt;/p&gt;
+
+&lt;p&gt;Thanks for your patience, 
+Logicly&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 05 Dec 2023 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/2023/12/05/PMHC-MDS-issues-on-log-in/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2023/12/05/PMHC-MDS-issues-on-log-in/</guid>
+			</item>
+		
+			<item>
 				<title>Update to the PMHC MDS - 3/11/2023</title>
 				        
 				
@@ -423,32 +449,6 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 				<pubDate>Thu, 16 Feb 2023 00:00:00 -0600</pubDate>
 				<link>http://0.0.0.0:4000/2023/02/16/Update/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2023/02/16/Update/</guid>
-			</item>
-		
-			<item>
-				<title>Final reminder of end of life for PMHC MDS Version 2 and PMHC MDS HeadtoHelp Version 3 data specifications</title>
-				        
-				
-					<description>&lt;p&gt;The PMHC MDS currently supports uploads in both the Version 2 format as
-documented at &lt;a href=&quot;http://docs.pmhc-mds.com/projects/data-specification/en/v2/&quot; target=&quot;_blank&quot;&gt;http://docs.pmhc-mds.com/projects/data-specification/en/v2/&lt;/a&gt; and
-the Version 2 format as documented at
-&lt;a href=&quot;http://docs.pmhc-mds.com/projects/data-specification/en/v4/&quot; target=&quot;_blank&quot;&gt;http://docs.pmhc-mds.com/projects/data-specification/en/v4/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;It also currently supports uploads in the HeadtoHelp Version 3 extension
-format as documented at
-&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;It was previously announced that after the 31st of January 2023, the PMHC MDS will no longer accept uploads using the Version 2 and HeadtoHelp Version 3 formats.&lt;/p&gt;
-
-&lt;p&gt;We are allowing a few days grace. As of this Sunday, the 5th of February 2023 the PMHC MDS will no longer accept uploads using the Version 2 and HeadtoHelp Version 3 formats. Please ensure that you have migrated to using the Version 4 format before this date.&lt;/p&gt;
-
-&lt;p&gt;A summary of the changes between version 2 and 4 is available at
-&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/changes-from-v2.html#data-specification-changes&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/changes-from-v2.html#data-specification-changes&lt;/a&gt;&lt;/p&gt;
-</description>
-				
-				<pubDate>Tue, 31 Jan 2023 00:00:00 -0600</pubDate>
-				<link>http://0.0.0.0:4000/2023/01/31/Final-reminder-of-end-of-life/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2023/01/31/Final-reminder-of-end-of-life/</guid>
 			</item>
 		
 	</channel>
