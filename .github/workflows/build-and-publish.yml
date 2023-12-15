@@ -8,6 +8,9 @@ on:
 
 jobs:
   publish:
+    permissions:
+      # must be able to write to the gh-pages branch
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
