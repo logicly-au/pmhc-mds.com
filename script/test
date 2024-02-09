@@ -5,4 +5,4 @@ docker-compose run site jekyll build
 
 docker-compose run site htmlproofer /srv/jekyll/_site --disable-external --url-ignore "/^#$/"
 
-docker run -v $(pwd)/_site:/app stratdat/html5validator
+docker run -v $(pwd)/_site:/app logicly/html5validator
