@@ -10,7 +10,7 @@ The following documents have been updated:
 
 The following documents are now available:
 
-* [Guidance on client consent](https://www.pmhc-mds.com/doc/pmhc-consent-guidance-D16-1362220-20161202.pdf)
+* [Guidance on client consent](https://www.pmhc-mds.com/doc/pmhc-consent-guidance-20240430.pdf)
 * [Kessler 10+ (K10+)](https://www.pmhc-mds.com/doc/pmhc-scoring-k10p-20170210.pdf) outcome measures and scoring rules
 * [Kessler 5 (K5)](https://www.pmhc-mds.com/doc/pmhc-scoring-k5-20161215.pdf) outcome measures and scoring rules
 * [Strengths and Difficulties Questionnaire (SDQ)](https://www.pmhc-mds.com/doc/pmhc-scoring-sdq-20161201.pdf) outcome measures and scoring rules
