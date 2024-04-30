@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title></title>
+		<description></description>		
+		<link>https://www.pmhc-mds.com</link>
+		<atom:link href="https://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Update to the PMHC MDS - 29/4/2024</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v2111&quot;&gt;PMHC MDS Update v2.11.1&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.11.1 was released
+on April 29, 2024.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied in the upload, data entry and 
+reporting interfaces:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Organisations providing the Supporting Recovery pilot can now record 
+the Supporting Recovery Program Type against PMHC MDS Intakes and 
+Episodes. More information, including the organisations providing 
+services under this pilot can be found at 
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/data-model-and-specifications.html#program-type&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/data-model-and-specifications.html#program-type&lt;/a&gt;. 
+There are restrictions on the Funding Source of Service Contacts 
+that can be used with the Supporting Recovery Program Type as documented at 
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/validation-rules.html#service-contact&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/validation-rules.html#service-contact&lt;/a&gt;. 
+If organisations would like to change the Program Type of an existing 
+Intake or Episode to Supporting Recovery, please contact the PMHC 
+Helpdesk on support@pmhc-mds.com.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the upload interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The PMHC MDS has stored and reported YES-PHN data collected via the Online 
+Measures Self Service System (OMSSS) since November 2021. YES-PHN data 
+collected outside of OMSSS can now be uploaded using the  PMHC MDS Survey 
+Specification defined at 
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-survey/en/v1/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-survey/en/v1/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the data extract interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;YES-PHN unit record data can now be extracted from the PMHC MDS using the 
+PMHC MDS Survey Specification defined at 
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-survey/en/v1/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-survey/en/v1/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Additionally, a service that scans records in the PMHC MDS looking for 
+name-like keys and sends an email to alert users with the Organisation Manager 
+role will soon be implemented. This is being implemented because the PMHC MDS 
+should only contain deidentified data, however it has been found that client 
+names have been used in keys.&lt;/p&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+				<link>https://www.pmhc-mds.com/2024/04/29/Update-to-the-PMHC-MDS-v-2-11-1/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/04/29/Update-to-the-PMHC-MDS-v-2-11-1/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 2/2/2024</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v297&quot;&gt;PMHC MDS Update v2.9.7&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.9.7 was released
+on February 2, 2024.&lt;/p&gt;
+
+&lt;p&gt;The following update has been applied to the sign-in interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A link to allow password reset was added next to the Sign in button&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The ‘B1 - Activity Report: Client Characteristics’, ‘B2 - Activity 
+Report: Episode Characteristics’ and ‘B3 - Activity Report: Service 
+Contact Characteristics’ reports have been enhanced such that:
+    &lt;ul&gt;
+      &lt;li&gt;A ‘State/Territory’ Reporting Level has been added&lt;/li&gt;
+      &lt;li&gt;A ‘Group By’ selector has been added with the following options
+for each Reporting Level:
+        &lt;ul&gt;
+          &lt;li&gt;National - ‘None’, ‘State/Territory’, ‘PHN’&lt;/li&gt;
+          &lt;li&gt;State/Territory - ‘None’, ‘PHN’&lt;/li&gt;
+          &lt;li&gt;Regional - ‘None’, ‘PO’&lt;/li&gt;
+          &lt;li&gt;Provider Organisation - ‘None’&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;A ‘Filter By’ selector has been added that allows multiple selections
+of the entity that was selected for the Group By&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Improved the speed of the ‘App2 - Culturally appropriate services for 
+Indigenous population’ report when reporting at a Regional level&lt;/li&gt;
+  &lt;li&gt;Improved the speed of the ‘B5 - Activity reports by provider workforce 
+characteristics’ report when reporting at a National level&lt;/li&gt;
+  &lt;li&gt;Fixed a bug that was occasionally causing decimal numbers to be rounded 
+the wrong way&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where a CSV report could not be downloaded&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the upload interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Improved a validation error for the Service Contact Start Time to show 
+an example from the upload where the time format has not been supplied 
+correctly&lt;/li&gt;
+  &lt;li&gt;Allow referral dates that are dated UTC tomorrow in order to accommodate 
+different time zones&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where the “Uploader” field was missing from the filters section 
+of the View Uploads tab&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the user management interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug where the Actions button was inactive in the Edit user roles tab&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where the Organisation Name was being displayed in the 
+Organisation Path column in the user roles tab&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where the ‘Invitation issued by’ filter on the View Invitations 
+tab was not working properly&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the organisation management 
+interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Improved the speed of viewing lists of organisations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+				<link>https://www.pmhc-mds.com/2024/02/02/Update-to-the-PMHC-MDS-v-2-9-7/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/02/02/Update-to-the-PMHC-MDS-v-2-9-7/</guid>
+			</item>
+		
+			<item>
+				<title>PMHC MDS - ‘Error 500’ issues on log-in</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds---error-500-issues-on-log-in&quot;&gt;PMHC MDS - ‘Error 500’ issues on log-in&lt;/h4&gt;
+
+&lt;p&gt;Dear PMHC MDS user,&lt;/p&gt;
+
+&lt;p&gt;We’ve been made aware that users are intermittently receiving an error message 
+saying ‘Error 500 - Internal Server Error’ when logging-in to the PMHC MDS.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately in some cases it takes multiple attempts to log-in, but please 
+try refreshing your browser window first as that often works.&lt;/p&gt;
+
+&lt;p&gt;We are very sorry for the inconvenience this causes. Our senior developers are 
+investigating the issue and we will deploy a fix as soon as possible.&lt;/p&gt;
+
+&lt;p&gt;Thanks for your patience, 
+Logicly&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+				<link>https://www.pmhc-mds.com/2023/12/05/PMHC-MDS-issues-on-log-in/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2023/12/05/PMHC-MDS-issues-on-log-in/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 3/11/2023</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v285&quot;&gt;PMHC MDS Update v2.8.5&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.8.5 was released on
+November 3, 2023.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The App-3 — Suicide Risk Followup Reports has had a fix on the Unknown age
+group counting. Now, it includes episodes without service contacts&lt;/li&gt;
+  &lt;li&gt;Improvement speed on the A6 reports&lt;/li&gt;
+  &lt;li&gt;Fixed an error where totals for hAPI providers were showing counts of 0 at
+the Regional level&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the upload interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Return a validation error when the Service Contact Start Time field includes
+AM/PM&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the upload API:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed an error where records with today’s date were incorrectly being
+identified as future dated&lt;/li&gt;
+  &lt;li&gt;Fixed a bug that was causing uploads via the API to fail&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the data extract interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Added a new feature where users can now select the data specification type
+to be extracted&lt;/li&gt;
+  &lt;li&gt;Fixed an error where headspace records were not included in extracts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the user management interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed an error where user roles were not being applied after users accepted
+their invitation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting specifications:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;PMHC Outcome Measure Standard Deviations 2023 as XLSX&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+				<link>https://www.pmhc-mds.com/2023/11/03/Update-to-the-PMHC-MDS-v-2-8-5/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2023/11/03/Update-to-the-PMHC-MDS-v-2-8-5/</guid>
+			</item>
+		
+			<item>
+				<title>PMHC-MDS - Reminder of change to login workflow - 24/10/2023</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds---reminder-of-change-to-login-workflow&quot;&gt;PMHC-MDS - Reminder of change to login workflow&lt;/h4&gt;
+
+&lt;p&gt;Dear PMHC-MDS user,&lt;/p&gt;
+
+&lt;p&gt;As per our recent communication Logicly will be releasing the new authentication process and associated login workflow change on Monday the 30th October 2023. The details sent originally are included again below.&lt;/p&gt;
+
+&lt;p&gt;Please email &lt;a href=&quot;mailto:support@pmhc-mds.com&quot;&gt;support@pmhc-mds.com&lt;/a&gt; if you have any questions or issues.&lt;/p&gt;
+
+&lt;p&gt;Thank you&lt;/p&gt;
+
+&lt;p&gt;The PMHC-MDS team at Logicly&lt;/p&gt;
+
+&lt;p&gt;-----------------------&lt;/p&gt;
+
+&lt;h4 id=&quot;reminder-pmhc-mds---change-to-login-workflow&quot;&gt;PMHC-MDS - Change to login workflow&lt;/h4&gt;
+
+&lt;p&gt;As part of Logicly’s ongoing commitment to data security and in response to the Australian Signals Directorate’s Information Security Manual guidance, we are introducing a new authentication process for accessing the PMHC-MDS.&lt;/p&gt;
+
+&lt;h5 id=&quot;reminder-what-is-changing&quot;&gt;What is changing?&lt;/h5&gt;
+
+&lt;p&gt;The immediate change for users will be a requirement to use your full email address as your username when logging in to the application. Once you’ve entered your full email address on the first screen you’ll be asked to enter your password on a second screen, and then you will access the application as normal. See examples below.&lt;/p&gt;
+
+&lt;div style=&quot;text-align: center;background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;&quot;&gt;
+  &lt;div&gt;                 
+     &lt;div&gt;&lt;p&gt;First screen&lt;/p&gt;&lt;/div&gt;    
+     &lt;div&gt;&lt;img alt=&quot;Enter email address&quot; src=&quot;https://www.logicly.com.au/email/auth0-login-workflow/step-1.png&quot; width=&quot;250&quot; /&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div&gt;           
+    &lt;div&gt;&lt;p&gt;Second screen&lt;/p&gt;&lt;/div&gt;    
+    &lt;div&gt;&lt;img alt=&quot;Enter password&quot; src=&quot;https://www.logicly.com.au/email/auth0-login-workflow/step-2.png&quot; width=&quot;250&quot; /&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h5 id=&quot;reminder-when-will-this-happen&quot;&gt;When will this happen?&lt;/h5&gt;
+
+&lt;p&gt;Logicly intends to release this change in October. A reminder email will be sent in the days prior to the change.&lt;/p&gt;
+
+&lt;h5 id=&quot;reminder-why-is-this-happening&quot;&gt;Why is this happening?&lt;/h5&gt;
+
+&lt;p&gt;The change is being made in order to enable or enhance multi-factor authentication (MFA) within the application and to facilitate future security improvements around the authentication and authorisation process.&lt;/p&gt;
+
+&lt;p&gt;Also, by capturing the email addresses in the first step, the login process can be tailored to different organisation’s requirements in the future. For example, login could be handled using the same details as you use to login to your organisation’s systems. This is known as Single Sign On or SSO.&lt;/p&gt;
+
+&lt;p&gt;Note that MFA will be rolled out progressively in the near future on a schedule yet to be agreed. You will be informed well prior to MFA being required with a timeline and supporting documentation.&lt;/p&gt;
+
+&lt;p&gt;Please email &lt;a href=&quot;mailto:support@pmhc-mds.com&quot;&gt;support@pmhc-mds.com&lt;/a&gt; if you have any questions or issues.&lt;/p&gt;
+
+&lt;p&gt;Thank you&lt;/p&gt;
+
+&lt;p&gt;The PMHC-MDS team at Logicly&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+				<link>https://www.pmhc-mds.com/2023/10/25/PMHC-MDS-Reminder-of-change-to-login-workflow/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2023/10/25/PMHC-MDS-Reminder-of-change-to-login-workflow/</guid>
+			</item>
+		
+			<item>
+				<title>PMHC-MDS - Change to login workflow - 17/10/2023</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds---change-to-login-workflow&quot;&gt;PMHC-MDS - Change to login workflow&lt;/h4&gt;
+
+&lt;p&gt;As part of Logicly’s ongoing commitment to data security and in response to the Australian Signals Directorate’s Information Security Manual guidance, we are introducing a new authentication process for accessing the PMHC-MDS.&lt;/p&gt;
+
+&lt;h5 id=&quot;what-is-changing&quot;&gt;What is changing?&lt;/h5&gt;
+
+&lt;p&gt;The immediate change for users will be a requirement to use your full email address as your username when logging in to the application. Once you’ve entered your full email address on the first screen you’ll be asked to enter your password on a second screen, and then you will access the application as normal. See examples below.&lt;/p&gt;
+
+&lt;div style=&quot;text-align: center;background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;&quot;&gt;
+  &lt;div&gt;                 
+     &lt;div&gt;&lt;p&gt;First screen&lt;/p&gt;&lt;/div&gt;    
+     &lt;div&gt;&lt;img alt=&quot;Enter email address&quot; src=&quot;https://www.logicly.com.au/email/auth0-login-workflow/step-1.png&quot; width=&quot;250&quot; /&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div&gt;           
+    &lt;div&gt;&lt;p&gt;Second screen&lt;/p&gt;&lt;/div&gt;    
+    &lt;div&gt;&lt;img alt=&quot;Enter password&quot; src=&quot;https://www.logicly.com.au/email/auth0-login-workflow/step-2.png&quot; width=&quot;250&quot; /&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h5 id=&quot;when-will-this-happen&quot;&gt;When will this happen?&lt;/h5&gt;
+
+&lt;p&gt;Logicly intends to release this change in October. A reminder email will be sent in the days prior to the change.&lt;/p&gt;
+
+&lt;h5 id=&quot;why-is-this-happening&quot;&gt;Why is this happening?&lt;/h5&gt;
+
+&lt;p&gt;The change is being made in order to enable or enhance multi-factor authentication (MFA) within the application and to facilitate future security improvements around the authentication and authorisation process.&lt;/p&gt;
+
+&lt;p&gt;Also, by capturing the email addresses in the first step, the login process can be tailored to different organisation’s requirements in the future. For example, login could be handled using the same details as you use to login to your organisation’s systems. This is known as Single Sign On or SSO.&lt;/p&gt;
+
+&lt;p&gt;Note that MFA will be rolled out progressively in the near future on a schedule yet to be agreed. You will be informed well prior to MFA being required with a timeline and supporting documentation.&lt;/p&gt;
+
+&lt;p&gt;Please email &lt;a href=&quot;mailto:support@pmhc-mds.com&quot;&gt;support@pmhc-mds.com&lt;/a&gt; if you have any questions or issues.&lt;/p&gt;
+
+&lt;p&gt;Thank you&lt;/p&gt;
+
+&lt;p&gt;The PMHC-MDS team at Logicly&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+				<link>https://www.pmhc-mds.com/2023/10/17/PMHC-MDS-Change-to-login-workflow/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2023/10/17/PMHC-MDS-Change-to-login-workflow/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 16/8/2023</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v273&quot;&gt;PMHC MDS Update v2.7.3&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.7.3 was released on 
+August 16, 2023.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The B5: Activity Reports by provider workforce characteristics (category, 
+ATSI Status, ATSI cultural training, and gender) has been enhanced to add 
+options to report on all practitioners for a service contact or only the 
+primary practitioner for a service contact. Previously, the B5 only reported 
+on the primary practitioner.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;In line with best practices, read-only filesystems are utilised to improve 
+the security of PMHC MDS.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+				<link>https://www.pmhc-mds.com/2023/08/16/Update-to-the-PMHC-MDS-v-2-7-3/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2023/08/16/Update-to-the-PMHC-MDS-v-2-7-3/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 27/7/2023</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v270&quot;&gt;PMHC MDS Update v2.7.0&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.7.0 was released on 
+July 27, 2023.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Reinstate the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;!wayback&lt;/code&gt; tag for filtering reports&lt;/li&gt;
+  &lt;li&gt;The following new reports have been implemented:
+    &lt;ul&gt;
+      &lt;li&gt;I8: Links Without an Existing Intake&lt;/li&gt;
+      &lt;li&gt;I9: Dispatches to unidentified MDS treatment organisations&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following access issues have been fixed in OMSSS:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed an issue with questions on SIDAS and WHO5&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following access issues have been fixed:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a login issue with Safari&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following issues have been fixed in Data Entry:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug where the tags field wasn’t always saving unless toggled&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where the time field was displaying the current time when it 
+should be blank&lt;/li&gt;
+  &lt;li&gt;Fixed a bug in Safari where the date and time fields were not displaying 
+a value&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where opening a record showed an error if the key was 50 
+characters&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where duplicating a service contact record failed where the 
+service contact had been created prior to version 4 and did not have a 
+start time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following issues have been fixed in Upload:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug where the YES Invitation upload screen was displaying a 403 error 
+after a successful upload&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following issues have been fixed in Reports:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed an issue with PHN filtering in A1&lt;/li&gt;
+  &lt;li&gt;Fixed an issue with client consent filtering on the I2 and I6&lt;/li&gt;
+  &lt;li&gt;Improvement speed on some reports around the regional/org levels filtering&lt;/li&gt;
+  &lt;li&gt;Improved speed on the C1 report, which was not loading&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+				<link>https://www.pmhc-mds.com/2023/07/27/Update-to-the-PMHC-MDS-v-2-7-0/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2023/07/27/Update-to-the-PMHC-MDS-v-2-7-0/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 1/6/2023</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v263&quot;&gt;PMHC MDS Update v2.6.3&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.6.3 was released on 
+June 1, 2023.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The following new reports have been implemented:
+    &lt;ul&gt;
+      &lt;li&gt;I6: Intake Dispatch Status by Intake Organisation&lt;/li&gt;
+      &lt;li&gt;I7: Link Status of Episodes Dispatched to Organisation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The A1 report has been enhanced such that:
+    &lt;ul&gt;
+      &lt;li&gt;The ‘Option’ drop down has been renamed to ‘Group By’&lt;/li&gt;
+      &lt;li&gt;When ‘National’ is selected as a Reporting Level, a ‘by 
+State/Territory’ option has been added to the ‘Group By’ selector.&lt;/li&gt;
+      &lt;li&gt;A ‘State/Territory’ Reporting Level has been added which allows 
+Grouping By ‘None’, ‘PHN’, ‘Practitioner Category’ or ‘Principal 
+Focus of Treatment Plan’&lt;/li&gt;
+      &lt;li&gt;A ‘None’ option has been added to the Group By to allow a report 
+that only contains a National/State or Territory/PHN/PO total&lt;/li&gt;
+      &lt;li&gt;A ‘Filter By’ selector has been added that allows multiple selections 
+of the entity that was selected for the Group By&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following issues have been fixed:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug where a pop-up error was being returned after uploading 
+YES-PHN invitations&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where the episode end date was not being exported in the 
+correct format for YES-PHN invitations&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where verbose internal errors were being incorrectly passed through
+to the user&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where the Upload Details tab was not showing warning messages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+				<link>https://www.pmhc-mds.com/2023/06/01/Update/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2023/06/01/Update/</guid>
+			</item>
+		
+			<item>
+				<title>PMHC MDS Early Psychosis Youth Service (EPYS) Program reporting update - 1/5/2023</title>
+				        
+				
+					<description>&lt;p&gt;The following advice was communicated by the Department of Health and Aged Care
+via e-mail to PHN CEOs on 1 May 2023 in an “Early Psychosis Youth Service (EPYS) Program 
+reporting and commissioning update”:&lt;/p&gt;
+
+&lt;p&gt;EPYS data reporting: 
+PHN service providers are not required to report EPYS activity through 
+the Primary Mental Health Care Minimum Dataset (PMHC MDS), and this is 
+currently not supported. EPYS program data should be collected through 
+the headspace Application Platform Interface (hAPI), based on the 
+Minimum Data Set specified. The Department will work with headspace 
+National to consider how EPYS data in hAPI may be submitted via the 
+PMHC MDS in the future and what changes will be required to support 
+that. We encourage PHNs to minimise duplicative reporting requirements 
+for service providers, and provide feedback to the Department on data 
+collection and reporting via &lt;a href=&quot;mailto:MentalHealthData@health.gov.au&quot;&gt;MentalHealthData@health.gov.au&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+				<link>https://www.pmhc-mds.com/2023/05/03/EPYS-reporting-update/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2023/05/03/EPYS-reporting-update/</guid>
+			</item>
+		
+	</channel>
+</rss>
