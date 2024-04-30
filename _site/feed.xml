@@ -80,6 +80,84 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Fri, 02 Feb 2024 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/2024/02/02/Update-to-the-PMHC-MDS-v-2-9-7/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/02/02/Update-to-the-PMHC-MDS-v-2-9-7/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 2/2/2024</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v297&quot;&gt;PMHC MDS Update v2.9.7&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.9.7 was released
+on February 2, 2024.&lt;/p&gt;
+
+&lt;p&gt;The following update has been applied to the sign-in interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A link to allow password reset was added next to the Sign in button&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The ‘B1 - Activity Report: Client Characteristics’, ‘B2 - Activity 
+Report: Episode Characteristics’ and ‘B3 - Activity Report: Service 
+Contact Characteristics’ reports have been enhanced such that:
+    &lt;ul&gt;
+      &lt;li&gt;A ‘State/Territory’ Reporting Level has been added&lt;/li&gt;
+      &lt;li&gt;A ‘Group By’ selector has been added with the following options
+for each Reporting Level:
+        &lt;ul&gt;
+          &lt;li&gt;National - ‘None’, ‘State/Territory’, ‘PHN’&lt;/li&gt;
+          &lt;li&gt;State/Territory - ‘None’, ‘PHN’&lt;/li&gt;
+          &lt;li&gt;Regional - ‘None’, ‘PO’&lt;/li&gt;
+          &lt;li&gt;Provider Organisation - ‘None’&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;A ‘Filter By’ selector has been added that allows multiple selections
+of the entity that was selected for the Group By&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Improved the speed of the ‘App2 - Culturally appropriate services for 
+Indigenous population’ report when reporting at a Regional level&lt;/li&gt;
+  &lt;li&gt;Improved the speed of the ‘B5 - Activity reports by provider workforce 
+characteristics’ report when reporting at a National level&lt;/li&gt;
+  &lt;li&gt;Fixed a bug that was occasionally causing decimal numbers to be rounded 
+the wrong way&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where a CSV report could not be downloaded&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the upload interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Improved a validation error for the Service Contact Start Time to show 
+an example from the upload where the time format has not been supplied 
+correctly&lt;/li&gt;
+  &lt;li&gt;Allow referral dates that are dated UTC tomorrow in order to accommodate 
+different time zones&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where the “Uploader” field was missing from the filters section 
+of the View Uploads tab&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the user management interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug where the Actions button was inactive in the Edit user roles tab&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where the Organisation Name was being displayed in the 
+Organisation Path column in the user roles tab&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where the ‘Invitation issued by’ filter on the View Invitations 
+tab was not working properly&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the organisation management 
+interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Improved the speed of viewing lists of organisations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 02 Feb 2024 00:00:00 -0600</pubDate>
 				<link>http://0.0.0.0:4000/2024/02/02/Update-to-the-PMHC-MDS-v-2-9-2/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2024/02/02/Update-to-the-PMHC-MDS-v-2-9-2/</guid>
 			</item>
@@ -454,45 +532,6 @@ collection and reporting via &lt;a href=&quot;mailto:MentalHealthData@health.gov
 				<pubDate>Wed, 03 May 2023 00:00:00 -0500</pubDate>
 				<link>http://0.0.0.0:4000/2023/05/03/EPYS-reporting-update/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2023/05/03/EPYS-reporting-update/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 30/3/2023</title>
-				        
-				
-					<description>&lt;h4 id=&quot;pmhc-mds-update-v257&quot;&gt;PMHC MDS Update v2.5.7&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.5.7 was released on 
-March 30, 2023.&lt;/p&gt;
-
-&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The following new report has been implemented:
-    &lt;ul&gt;
-      &lt;li&gt;B9: Activity Report: Number of practitioners&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The I5: Intake Conclusion Referral Pathway report has been updated to 
-include a ‘PHN Funded Pathways’ title spanning AMHC, Head to Health,
-and Other PHN funded columns.&lt;/li&gt;
-  &lt;li&gt;Regional level reports for hAPI were restored -  this is only applicable 
-to users who have the Reporting role at headspace&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following updates have been applied in uploads:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Duplicate Service Contact Practitioner errors are now all reported at once&lt;/li&gt;
-  &lt;li&gt;It is now enforced that Service Contacts that are added in an upload have 
-a primary practitioner identified.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The user guides have been updated to reflect these updates. They are available
-at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 30 Mar 2023 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2023/03/30/Update/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2023/03/30/Update/</guid>
 			</item>
 		
 	</channel>
