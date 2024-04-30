@@ -7,6 +7,62 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS - 29/4/2024</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v2111&quot;&gt;PMHC MDS Update v2.11.1&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.11.1 was released
+on April 29, 2024.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied in the upload, data entry and 
+reporting interfaces:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Organisations providing the Supporting Recovery pilot can now record 
+the Supporting Recovery Program Type against PMHC MDS Intakes and 
+Episodes. More information, including the organisations providing 
+services under this pilot can be found at 
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/data-model-and-specifications.html#program-type&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/data-model-and-specifications.html#program-type&lt;/a&gt;. 
+There are restrictions on the Funding Source of Service Contacts 
+that can be used with the Supporting Recovery Program Type as documented at 
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/validation-rules.html#service-contact&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/validation-rules.html#service-contact&lt;/a&gt;. 
+If organisations would like to change the Program Type of an existing 
+Intake or Episode to Supporting Recovery, please contact the PMHC 
+Helpdesk on support@pmhc-mds.com.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the upload interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The PMHC MDS has stored and reported YES-PHN data collected via the Online 
+Measures Self Service System (OMSSS) since November 2021. YES-PHN data 
+collected outside of OMSSS can now be uploaded using the  PMHC MDS Survey 
+Specification defined at 
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-survey/en/v1/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-survey/en/v1/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the data extract interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;YES-PHN unit record data can now be extracted from the PMHC MDS using the 
+PMHC MDS Survey Specification defined at 
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-survey/en/v1/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-survey/en/v1/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Additionally, a service that scans records in the PMHC MDS looking for 
+name-like keys and sends an email to alert users with the Organisation Manager 
+role will soon be implemented. This is being implemented because the PMHC MDS 
+should only contain deidentified data, however it has been found that client 
+names have been used in keys.&lt;/p&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 29 Apr 2024 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2024/04/29/Update-to-the-PMHC-MDS-v-2-11-1/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/04/29/Update-to-the-PMHC-MDS-v-2-11-1/</guid>
+			</item>
+		
+			<item>
 				<title>Update to the PMHC MDS - 2/2/2024</title>
 				        
 				
@@ -454,45 +510,6 @@ collection and reporting via &lt;a href=&quot;mailto:MentalHealthData@health.gov
 				<pubDate>Wed, 03 May 2023 00:00:00 -0500</pubDate>
 				<link>http://0.0.0.0:4000/2023/05/03/EPYS-reporting-update/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2023/05/03/EPYS-reporting-update/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 30/3/2023</title>
-				        
-				
-					<description>&lt;h4 id=&quot;pmhc-mds-update-v257&quot;&gt;PMHC MDS Update v2.5.7&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.5.7 was released on 
-March 30, 2023.&lt;/p&gt;
-
-&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The following new report has been implemented:
-    &lt;ul&gt;
-      &lt;li&gt;B9: Activity Report: Number of practitioners&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The I5: Intake Conclusion Referral Pathway report has been updated to 
-include a ‘PHN Funded Pathways’ title spanning AMHC, Head to Health,
-and Other PHN funded columns.&lt;/li&gt;
-  &lt;li&gt;Regional level reports for hAPI were restored -  this is only applicable 
-to users who have the Reporting role at headspace&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following updates have been applied in uploads:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Duplicate Service Contact Practitioner errors are now all reported at once&lt;/li&gt;
-  &lt;li&gt;It is now enforced that Service Contacts that are added in an upload have 
-a primary practitioner identified.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The user guides have been updated to reflect these updates. They are available
-at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 30 Mar 2023 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2023/03/30/Update/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2023/03/30/Update/</guid>
 			</item>
 		
 	</channel>
