@@ -7,6 +7,62 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS - 29/4/2024</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v2111&quot;&gt;PMHC MDS Update v2.11.1&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.11.1 was released
+on April 29, 2024.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied in the upload, data entry and 
+reporting interfaces:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Organisations providing the Supporting Recovery pilot can now record 
+the Supporting Recovery Program Type against PMHC MDS Intakes and 
+Episodes. More information, including the organisations providing 
+services under this pilot can be found at 
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/data-model-and-specifications.html#program-type&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/data-model-and-specifications.html#program-type&lt;/a&gt;. 
+There are restrictions on the Funding Source of Service Contacts 
+that can be used with the Supporting Recovery Program Type as documented at 
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/validation-rules.html#service-contact&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/validation-rules.html#service-contact&lt;/a&gt;. 
+If organisations would like to change the Program Type of an existing 
+Intake or Episode to Supporting Recovery, please contact the PMHC 
+Helpdesk on support@pmhc-mds.com.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the upload interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The PMHC MDS has stored and reported YES-PHN data collected via the Online 
+Measures Self Service System (OMSSS) since November 2021. YES-PHN data 
+collected outside of OMSSS can now be uploaded using the  PMHC MDS Survey 
+Specification defined at 
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-survey/en/v1/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-survey/en/v1/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the data extract interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;YES-PHN unit record data can now be extracted from the PMHC MDS using the 
+PMHC MDS Survey Specification defined at 
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification-survey/en/v1/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification-survey/en/v1/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Additionally, a service that scans records in the PMHC MDS looking for 
+name-like keys and sends an email to alert users with the Organisation Manager 
+role will soon be implemented. This is being implemented because the PMHC MDS 
+should only contain deidentified data, however it has been found that client 
+names have been used in keys.&lt;/p&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 29 Apr 2024 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2024/04/29/Update-to-the-PMHC-MDS-v-2-11-1/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/04/29/Update-to-the-PMHC-MDS-v-2-11-1/</guid>
+			</item>
+		
+			<item>
 				<title>Update to the PMHC MDS - 2/2/2024</title>
 				        
 				
@@ -506,32 +562,6 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 				<pubDate>Thu, 01 Jun 2023 00:00:00 -0500</pubDate>
 				<link>http://0.0.0.0:4000/2023/06/01/Update/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2023/06/01/Update/</guid>
-			</item>
-		
-			<item>
-				<title>PMHC MDS Early Psychosis Youth Service (EPYS) Program reporting update - 1/5/2023</title>
-				        
-				
-					<description>&lt;p&gt;The following advice was communicated by the Department of Health and Aged Care
-via e-mail to PHN CEOs on 1 May 2023 in an “Early Psychosis Youth Service (EPYS) Program 
-reporting and commissioning update”:&lt;/p&gt;
-
-&lt;p&gt;EPYS data reporting: 
-PHN service providers are not required to report EPYS activity through 
-the Primary Mental Health Care Minimum Dataset (PMHC MDS), and this is 
-currently not supported. EPYS program data should be collected through 
-the headspace Application Platform Interface (hAPI), based on the 
-Minimum Data Set specified. The Department will work with headspace 
-National to consider how EPYS data in hAPI may be submitted via the 
-PMHC MDS in the future and what changes will be required to support 
-that. We encourage PHNs to minimise duplicative reporting requirements 
-for service providers, and provide feedback to the Department on data 
-collection and reporting via &lt;a href=&quot;mailto:MentalHealthData@health.gov.au&quot;&gt;MentalHealthData@health.gov.au&lt;/a&gt;&lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 03 May 2023 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2023/05/03/EPYS-reporting-update/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2023/05/03/EPYS-reporting-update/</guid>
 			</item>
 		
 	</channel>
