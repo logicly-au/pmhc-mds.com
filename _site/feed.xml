@@ -176,84 +176,6 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 			</item>
 		
 			<item>
-				<title>Update to the PMHC MDS - 2/2/2024</title>
-				        
-				
-					<description>&lt;h4 id=&quot;pmhc-mds-update-v297&quot;&gt;PMHC MDS Update v2.9.7&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.9.7 was released
-on February 2, 2024.&lt;/p&gt;
-
-&lt;p&gt;The following update has been applied to the sign-in interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;A link to allow password reset was added next to the Sign in button&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The ‘B1 - Activity Report: Client Characteristics’, ‘B2 - Activity 
-Report: Episode Characteristics’ and ‘B3 - Activity Report: Service 
-Contact Characteristics’ reports have been enhanced such that:
-    &lt;ul&gt;
-      &lt;li&gt;A ‘State/Territory’ Reporting Level has been added&lt;/li&gt;
-      &lt;li&gt;A ‘Group By’ selector has been added with the following options
-for each Reporting Level:
-        &lt;ul&gt;
-          &lt;li&gt;National - ‘None’, ‘State/Territory’, ‘PHN’&lt;/li&gt;
-          &lt;li&gt;State/Territory - ‘None’, ‘PHN’&lt;/li&gt;
-          &lt;li&gt;Regional - ‘None’, ‘PO’&lt;/li&gt;
-          &lt;li&gt;Provider Organisation - ‘None’&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;A ‘Filter By’ selector has been added that allows multiple selections
-of the entity that was selected for the Group By&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Improved the speed of the ‘App2 - Culturally appropriate services for 
-Indigenous population’ report when reporting at a Regional level&lt;/li&gt;
-  &lt;li&gt;Improved the speed of the ‘B5 - Activity reports by provider workforce 
-characteristics’ report when reporting at a National level&lt;/li&gt;
-  &lt;li&gt;Fixed a bug that was occasionally causing decimal numbers to be rounded 
-the wrong way&lt;/li&gt;
-  &lt;li&gt;Fixed a bug where a CSV report could not be downloaded&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following updates have been applied in the upload interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Improved a validation error for the Service Contact Start Time to show 
-an example from the upload where the time format has not been supplied 
-correctly&lt;/li&gt;
-  &lt;li&gt;Allow referral dates that are dated UTC tomorrow in order to accommodate 
-different time zones&lt;/li&gt;
-  &lt;li&gt;Fixed a bug where the “Uploader” field was missing from the filters section 
-of the View Uploads tab&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following updates have been applied in the user management interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Fixed a bug where the Actions button was inactive in the Edit user roles tab&lt;/li&gt;
-  &lt;li&gt;Fixed a bug where the Organisation Name was being displayed in the 
-Organisation Path column in the user roles tab&lt;/li&gt;
-  &lt;li&gt;Fixed a bug where the ‘Invitation issued by’ filter on the View Invitations 
-tab was not working properly&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following updates have been applied in the organisation management 
-interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Improved the speed of viewing lists of organisations&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The user guides have been updated to reflect these updates. They are available
-at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 02 Feb 2024 00:00:00 -0600</pubDate>
-				<link>http://0.0.0.0:4000/2024/02/02/Update-to-the-PMHC-MDS-v-2-9-2/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/02/02/Update-to-the-PMHC-MDS-v-2-9-2/</guid>
-			</item>
-		
-			<item>
 				<title>PMHC MDS - ‘Error 500’ issues on log-in</title>
 				        
 				
@@ -544,6 +466,59 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 				<pubDate>Thu, 27 Jul 2023 00:00:00 -0500</pubDate>
 				<link>http://0.0.0.0:4000/2023/07/27/Update-to-the-PMHC-MDS-v-2-7-0/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2023/07/27/Update-to-the-PMHC-MDS-v-2-7-0/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 1/6/2023</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v263&quot;&gt;PMHC MDS Update v2.6.3&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.6.3 was released on 
+June 1, 2023.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The following new reports have been implemented:
+    &lt;ul&gt;
+      &lt;li&gt;I6: Intake Dispatch Status by Intake Organisation&lt;/li&gt;
+      &lt;li&gt;I7: Link Status of Episodes Dispatched to Organisation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The A1 report has been enhanced such that:
+    &lt;ul&gt;
+      &lt;li&gt;The ‘Option’ drop down has been renamed to ‘Group By’&lt;/li&gt;
+      &lt;li&gt;When ‘National’ is selected as a Reporting Level, a ‘by 
+State/Territory’ option has been added to the ‘Group By’ selector.&lt;/li&gt;
+      &lt;li&gt;A ‘State/Territory’ Reporting Level has been added which allows 
+Grouping By ‘None’, ‘PHN’, ‘Practitioner Category’ or ‘Principal 
+Focus of Treatment Plan’&lt;/li&gt;
+      &lt;li&gt;A ‘None’ option has been added to the Group By to allow a report 
+that only contains a National/State or Territory/PHN/PO total&lt;/li&gt;
+      &lt;li&gt;A ‘Filter By’ selector has been added that allows multiple selections 
+of the entity that was selected for the Group By&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following issues have been fixed:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug where a pop-up error was being returned after uploading 
+YES-PHN invitations&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where the episode end date was not being exported in the 
+correct format for YES-PHN invitations&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where verbose internal errors were being incorrectly passed through
+to the user&lt;/li&gt;
+  &lt;li&gt;Fixed a bug where the Upload Details tab was not showing warning messages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 01 Jun 2023 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2023/06/01/Update/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2023/06/01/Update/</guid>
 			</item>
 		
 	</channel>
