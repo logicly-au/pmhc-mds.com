@@ -3,8 +3,101 @@
 	<channel>
 		<title></title>
 		<description></description>		
-		<link>https://www.pmhc-mds.com</link>
-		<atom:link href="https://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://0.0.0.0:4000</link>
+		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Clarification and Update to the PMHC MDS - 30/7/2024 (v2.12.8)</title>
+				        
+				
+					<description>&lt;p&gt;You may have seen a recent PMHC MDS notification that users from State 
+and Territory Governments will now be given access to aggregate PMHC MDS 
+reports. We wish to advise that this only means that the technical data 
+systems of the PMHC MDS have been updated in order to allow for access to be 
+granted. Sharing of the PMHC MDS with State and Territory Governments as per 
+commitments under the National Mental Health and Suicide Prevention Agreement 
+is being closely managed by the Department of Health and Aged Care and access 
+will only be granted after the relevant State or Territory health 
+department/agency has signed a Data Sharing Agreement and agreed to follow a 
+Data Access Protocol. These documents describe roles and responsibilities for 
+specific users within a State or Territory health department/agency to ensure 
+PMHC MDS data is handled appropriately and safely. Further information will 
+be provided by the Department in due course.&lt;/p&gt;
+
+&lt;h4 id=&quot;pmhc-mds-update-v2128&quot;&gt;PMHC MDS Update v2.12.8&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.12.8 was released on July 30, 2024.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug where reports using The Wayback data source returned the error 
+message ‘An error occurred: bad report data source’&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 30 Jul 2024 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2024/07/30/Update-to-the-PMHC-MDS-v-2-12-8/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/07/30/Update-to-the-PMHC-MDS-v-2-12-8/</guid>
+			</item>
+		
+			<item>
+				<title>Update to the PMHC MDS - 29/7/2024 (v2.12.7)</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v2127&quot;&gt;PMHC MDS Update v2.12.7&lt;/h4&gt;
+
+&lt;p&gt;As per the bilateral agreements between the Commonwealth and State/Territory 
+Governments, users from State and Territory Governments can now be given 
+access to aggregate reports. For more information please refer to the updated 
+guidance on client consent at 
+https://pmhc-mds.com/doc/pmhc-consent-guidance-20240430.pdf.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The reports that allow state/territory breakdowns (A1, B1, B2, B3) now use 
+the state/territory of the commissioning PHN rather than the state/territory 
+of the provider organisation that delivered the service&lt;/li&gt;
+  &lt;li&gt;The efficiency of some reports has been improved&lt;/li&gt;
+  &lt;li&gt;Provider organisations that are not active in the selected reporting period 
+are now being filtered out of Provider Organisation drop down&lt;/li&gt;
+  &lt;li&gt;Fixed a bug in the B1 report where if you generated a B1 report down to the 
+PO level and then filtered by a specific provider organisation, that filtering 
+did not get applied to the total row of the report&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied to the user management interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed an issue that was causing inactive users to be inconsistently  listed 
+in the User Auditing tab and the Edit Roles tab&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the upload interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Added a check to ensure that upload files have the appropriate extension for 
+their file type, that is, zip files must have a .zip extension and excel 
+files must have a .xlsx extension&lt;/li&gt;
+  &lt;li&gt;Improved the error message for duplicate values for the Organisation Type 
+Referred to at Episode Conclusion field&lt;/li&gt;
+  &lt;li&gt;Improved the error message when duplicate Service Contact Practitioners are 
+recorded for a Service Contact&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the Upload API:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;One API key can now be used to upload to multiple provider organisations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 29 Jul 2024 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2024/07/29/Update-to-the-PMHC-MDS-v-2-12-7/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/07/29/Update-to-the-PMHC-MDS-v-2-12-7/</guid>
+			</item>
 		
 			<item>
 				<title>PMHC MDS IAR-DST Version 2 - 08/07/2024</title>
@@ -38,8 +131,8 @@ in the PMHC MDS.&lt;/p&gt;
 </description>
 				
 				<pubDate>Mon, 08 Jul 2024 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2024/07/08/IAR-DST-V2-specification-release/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/07/08/IAR-DST-V2-specification-release/</guid>
+				<link>http://0.0.0.0:4000/2024/07/08/IAR-DST-V2-specification-release/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/07/08/IAR-DST-V2-specification-release/</guid>
 			</item>
 		
 			<item>
@@ -94,8 +187,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Mon, 29 Apr 2024 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2024/04/29/Update-to-the-PMHC-MDS-v-2-11-1/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/04/29/Update-to-the-PMHC-MDS-v-2-11-1/</guid>
+				<link>http://0.0.0.0:4000/2024/04/29/Update-to-the-PMHC-MDS-v-2-11-1/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/04/29/Update-to-the-PMHC-MDS-v-2-11-1/</guid>
 			</item>
 		
 			<item>
@@ -172,8 +265,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Fri, 02 Feb 2024 00:00:00 -0600</pubDate>
-				<link>https://www.pmhc-mds.com/2024/02/02/Update-to-the-PMHC-MDS-v-2-9-7/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/02/02/Update-to-the-PMHC-MDS-v-2-9-7/</guid>
+				<link>http://0.0.0.0:4000/2024/02/02/Update-to-the-PMHC-MDS-v-2-9-7/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/02/02/Update-to-the-PMHC-MDS-v-2-9-7/</guid>
 			</item>
 		
 			<item>
@@ -198,8 +291,8 @@ Logicly&lt;/p&gt;
 </description>
 				
 				<pubDate>Tue, 05 Dec 2023 00:00:00 -0600</pubDate>
-				<link>https://www.pmhc-mds.com/2023/12/05/PMHC-MDS-issues-on-log-in/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2023/12/05/PMHC-MDS-issues-on-log-in/</guid>
+				<link>http://0.0.0.0:4000/2023/12/05/PMHC-MDS-issues-on-log-in/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2023/12/05/PMHC-MDS-issues-on-log-in/</guid>
 			</item>
 		
 			<item>
@@ -256,8 +349,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Fri, 03 Nov 2023 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2023/11/03/Update-to-the-PMHC-MDS-v-2-8-5/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2023/11/03/Update-to-the-PMHC-MDS-v-2-8-5/</guid>
+				<link>http://0.0.0.0:4000/2023/11/03/Update-to-the-PMHC-MDS-v-2-8-5/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2023/11/03/Update-to-the-PMHC-MDS-v-2-8-5/</guid>
 			</item>
 		
 			<item>
@@ -317,8 +410,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Wed, 25 Oct 2023 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2023/10/25/PMHC-MDS-Reminder-of-change-to-login-workflow/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2023/10/25/PMHC-MDS-Reminder-of-change-to-login-workflow/</guid>
+				<link>http://0.0.0.0:4000/2023/10/25/PMHC-MDS-Reminder-of-change-to-login-workflow/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2023/10/25/PMHC-MDS-Reminder-of-change-to-login-workflow/</guid>
 			</item>
 		
 			<item>
@@ -365,8 +458,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Tue, 17 Oct 2023 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2023/10/17/PMHC-MDS-Change-to-login-workflow/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2023/10/17/PMHC-MDS-Change-to-login-workflow/</guid>
+				<link>http://0.0.0.0:4000/2023/10/17/PMHC-MDS-Change-to-login-workflow/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2023/10/17/PMHC-MDS-Change-to-login-workflow/</guid>
 			</item>
 		
 			<item>
@@ -398,128 +491,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Wed, 16 Aug 2023 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2023/08/16/Update-to-the-PMHC-MDS-v-2-7-3/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2023/08/16/Update-to-the-PMHC-MDS-v-2-7-3/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 27/7/2023</title>
-				        
-				
-					<description>&lt;h4 id=&quot;pmhc-mds-update-v270&quot;&gt;PMHC MDS Update v2.7.0&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.7.0 was released on 
-July 27, 2023.&lt;/p&gt;
-
-&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Reinstate the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;!wayback&lt;/code&gt; tag for filtering reports&lt;/li&gt;
-  &lt;li&gt;The following new reports have been implemented:
-    &lt;ul&gt;
-      &lt;li&gt;I8: Links Without an Existing Intake&lt;/li&gt;
-      &lt;li&gt;I9: Dispatches to unidentified MDS treatment organisations&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following access issues have been fixed in OMSSS:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Fixed an issue with questions on SIDAS and WHO5&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following access issues have been fixed:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Fixed a login issue with Safari&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following issues have been fixed in Data Entry:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Fixed a bug where the tags field wasn’t always saving unless toggled&lt;/li&gt;
-  &lt;li&gt;Fixed a bug where the time field was displaying the current time when it 
-should be blank&lt;/li&gt;
-  &lt;li&gt;Fixed a bug in Safari where the date and time fields were not displaying 
-a value&lt;/li&gt;
-  &lt;li&gt;Fixed a bug where opening a record showed an error if the key was 50 
-characters&lt;/li&gt;
-  &lt;li&gt;Fixed a bug where duplicating a service contact record failed where the 
-service contact had been created prior to version 4 and did not have a 
-start time&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following issues have been fixed in Upload:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Fixed a bug where the YES Invitation upload screen was displaying a 403 error 
-after a successful upload&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following issues have been fixed in Reports:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Fixed an issue with PHN filtering in A1&lt;/li&gt;
-  &lt;li&gt;Fixed an issue with client consent filtering on the I2 and I6&lt;/li&gt;
-  &lt;li&gt;Improvement speed on some reports around the regional/org levels filtering&lt;/li&gt;
-  &lt;li&gt;Improved speed on the C1 report, which was not loading&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The user guides have been updated to reflect these updates. They are available
-at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 27 Jul 2023 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2023/07/27/Update-to-the-PMHC-MDS-v-2-7-0/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2023/07/27/Update-to-the-PMHC-MDS-v-2-7-0/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 1/6/2023</title>
-				        
-				
-					<description>&lt;h4 id=&quot;pmhc-mds-update-v263&quot;&gt;PMHC MDS Update v2.6.3&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.6.3 was released on 
-June 1, 2023.&lt;/p&gt;
-
-&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The following new reports have been implemented:
-    &lt;ul&gt;
-      &lt;li&gt;I6: Intake Dispatch Status by Intake Organisation&lt;/li&gt;
-      &lt;li&gt;I7: Link Status of Episodes Dispatched to Organisation&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The A1 report has been enhanced such that:
-    &lt;ul&gt;
-      &lt;li&gt;The ‘Option’ drop down has been renamed to ‘Group By’&lt;/li&gt;
-      &lt;li&gt;When ‘National’ is selected as a Reporting Level, a ‘by 
-State/Territory’ option has been added to the ‘Group By’ selector.&lt;/li&gt;
-      &lt;li&gt;A ‘State/Territory’ Reporting Level has been added which allows 
-Grouping By ‘None’, ‘PHN’, ‘Practitioner Category’ or ‘Principal 
-Focus of Treatment Plan’&lt;/li&gt;
-      &lt;li&gt;A ‘None’ option has been added to the Group By to allow a report 
-that only contains a National/State or Territory/PHN/PO total&lt;/li&gt;
-      &lt;li&gt;A ‘Filter By’ selector has been added that allows multiple selections 
-of the entity that was selected for the Group By&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following issues have been fixed:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Fixed a bug where a pop-up error was being returned after uploading 
-YES-PHN invitations&lt;/li&gt;
-  &lt;li&gt;Fixed a bug where the episode end date was not being exported in the 
-correct format for YES-PHN invitations&lt;/li&gt;
-  &lt;li&gt;Fixed a bug where verbose internal errors were being incorrectly passed through
-to the user&lt;/li&gt;
-  &lt;li&gt;Fixed a bug where the Upload Details tab was not showing warning messages&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The user guides have been updated to reflect these updates. They are available
-at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 01 Jun 2023 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2023/06/01/Update/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2023/06/01/Update/</guid>
+				<link>http://0.0.0.0:4000/2023/08/16/Update-to-the-PMHC-MDS-v-2-7-3/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2023/08/16/Update-to-the-PMHC-MDS-v-2-7-3/</guid>
 			</item>
 		
 	</channel>
