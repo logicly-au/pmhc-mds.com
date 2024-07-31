@@ -84,6 +84,14 @@
         <ul>
   
     <li>
+      <a href="#/2024/07/30/Update-to-the-PMHC-MDS-v-2-12-8/">Clarification and Update to the PMHC MDS - 30/7/2024 (v2.12.8)</a><span> | July 30, 2024</span>
+    </li>
+  
+    <li>
+      <a href="#/2024/07/29/Update-to-the-PMHC-MDS-v-2-12-7/">Update to the PMHC MDS - 29/7/2024 (v2.12.7)</a><span> | July 29, 2024</span>
+    </li>
+  
+    <li>
       <a href="#/2024/07/08/IAR-DST-V2-specification-release/">PMHC MDS IAR-DST Version 2 - 08/07/2024</a><span> | July 08, 2024</span>
     </li>
   
@@ -730,6 +738,89 @@
 </ul>
 
 <div>
+  
+    <div class="post">
+      <div id="/2024/07/30/Update-to-the-PMHC-MDS-v-2-12-8/"><h2>Clarification and Update to the PMHC MDS - 30/7/2024 (v2.12.8)</h2></div>
+      <h3>July 30, 2024</h3>
+	    <p>You may have seen a recent PMHC MDS notification that users from State 
+and Territory Governments will now be given access to aggregate PMHC MDS 
+reports. We wish to advise that this only means that the technical data 
+systems of the PMHC MDS have been updated in order to allow for access to be 
+granted. Sharing of the PMHC MDS with State and Territory Governments as per 
+commitments under the National Mental Health and Suicide Prevention Agreement 
+is being closely managed by the Department of Health and Aged Care and access 
+will only be granted after the relevant State or Territory health 
+department/agency has signed a Data Sharing Agreement and agreed to follow a 
+Data Access Protocol. These documents describe roles and responsibilities for 
+specific users within a State or Territory health department/agency to ensure 
+PMHC MDS data is handled appropriately and safely. Further information will 
+be provided by the Department in due course.</p>
+
+<h4 id="pmhc-mds-update-v2128">PMHC MDS Update v2.12.8</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v2.12.8 was released on July 30, 2024.</p>
+
+<p>The following updates have been applied in the reporting interface:</p>
+<ul>
+  <li>Fixed a bug where reports using The Wayback data source returned the error 
+message ‘An error occurred: bad report data source’</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available
+at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.</p>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2024/07/29/Update-to-the-PMHC-MDS-v-2-12-7/"><h2>Update to the PMHC MDS - 29/7/2024 (v2.12.7)</h2></div>
+      <h3>July 29, 2024</h3>
+	    <h4 id="pmhc-mds-update-v2127">PMHC MDS Update v2.12.7</h4>
+
+<p>As per the bilateral agreements between the Commonwealth and State/Territory 
+Governments, users from State and Territory Governments can now be given 
+access to aggregate reports. For more information please refer to the updated 
+guidance on client consent at 
+https://pmhc-mds.com/doc/pmhc-consent-guidance-20240430.pdf.</p>
+
+<p>The following updates have been applied in the reporting interface:</p>
+<ul>
+  <li>The reports that allow state/territory breakdowns (A1, B1, B2, B3) now use 
+the state/territory of the commissioning PHN rather than the state/territory 
+of the provider organisation that delivered the service</li>
+  <li>The efficiency of some reports has been improved</li>
+  <li>Provider organisations that are not active in the selected reporting period 
+are now being filtered out of Provider Organisation drop down</li>
+  <li>Fixed a bug in the B1 report where if you generated a B1 report down to the 
+PO level and then filtered by a specific provider organisation, that filtering 
+did not get applied to the total row of the report</li>
+</ul>
+
+<p>The following updates have been applied to the user management interface:</p>
+<ul>
+  <li>Fixed an issue that was causing inactive users to be inconsistently  listed 
+in the User Auditing tab and the Edit Roles tab</li>
+</ul>
+
+<p>The following updates have been applied in the upload interface:</p>
+<ul>
+  <li>Added a check to ensure that upload files have the appropriate extension for 
+their file type, that is, zip files must have a .zip extension and excel 
+files must have a .xlsx extension</li>
+  <li>Improved the error message for duplicate values for the Organisation Type 
+Referred to at Episode Conclusion field</li>
+  <li>Improved the error message when duplicate Service Contact Practitioners are 
+recorded for a Service Contact</li>
+</ul>
+
+<p>The following updates have been applied in the Upload API:</p>
+<ul>
+  <li>One API key can now be used to upload to multiple provider organisations</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available
+at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.</p>
+
+    </div>
   
     <div class="post">
       <div id="/2024/07/08/IAR-DST-V2-specification-release/"><h2>PMHC MDS IAR-DST Version 2 - 08/07/2024</h2></div>
