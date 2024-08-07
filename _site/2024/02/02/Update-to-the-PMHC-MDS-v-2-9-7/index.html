@@ -13,7 +13,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>PMHC MDS Resources Documentation update - 16/12/2016</title>
+    <title>Update to the PMHC MDS - 2/2/2024</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="alternate" type="application/rss+xml" title="PMHC-MDS RSS" href="/feed.xml">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -81,22 +81,73 @@
       </div>
       <div class="row">
 	  <div class="col-xs-12 col-sm-12 col-md-8">
-        <p>The documentation at <a href="https://pmhc-mds.com/resources/">https://pmhc-mds.com/resources/</a> has been updated.</p>
+        <h4 id="pmhc-mds-update-v297">PMHC MDS Update v2.9.7</h4>
 
-<p>The following documents have been updated:</p>
+<p>We are pleased to announce that PMHC MDS Update v2.9.7 was released
+on February 2, 2024.</p>
 
+<p>The following update has been applied to the sign-in interface:</p>
 <ul>
-  <li><a href="https://www.pmhc-mds.com/doc/pmhc-mds-q-and-a-20161212.pdf">Ongoing questions and answers</a></li>
+  <li>A link to allow password reset was added next to the Sign in button</li>
 </ul>
 
-<p>The following documents are now available:</p>
-
+<p>The following updates have been applied in the reporting interface:</p>
 <ul>
-  <li>Guidance on client consent (This guidance has been updated since it was released in 2016. The most recent guidance is available from the <a href="https://pmhc-mds.com/resources/">PMHC MDS Resources</a>)</li>
-  <li><a href="https://www.pmhc-mds.com/doc/pmhc-scoring-k10p-20170210.pdf">Kessler 10+ (K10+)</a> outcome measures and scoring rules</li>
-  <li><a href="https://www.pmhc-mds.com/doc/pmhc-scoring-k5-20161215.pdf">Kessler 5 (K5)</a> outcome measures and scoring rules</li>
-  <li><a href="https://www.pmhc-mds.com/doc/pmhc-scoring-sdq-20161201.pdf">Strengths and Difficulties Questionnaire (SDQ)</a> outcome measures and scoring rules</li>
+  <li>The ‘B1 - Activity Report: Client Characteristics’, ‘B2 - Activity 
+Report: Episode Characteristics’ and ‘B3 - Activity Report: Service 
+Contact Characteristics’ reports have been enhanced such that:
+    <ul>
+      <li>A ‘State/Territory’ Reporting Level has been added</li>
+      <li>A ‘Group By’ selector has been added with the following options
+for each Reporting Level:
+        <ul>
+          <li>National - ‘None’, ‘State/Territory’, ‘PHN’</li>
+          <li>State/Territory - ‘None’, ‘PHN’</li>
+          <li>Regional - ‘None’, ‘PO’</li>
+          <li>Provider Organisation - ‘None’</li>
+        </ul>
+      </li>
+      <li>A ‘Filter By’ selector has been added that allows multiple selections
+of the entity that was selected for the Group By</li>
+    </ul>
+  </li>
+  <li>Improved the speed of the ‘App2 - Culturally appropriate services for 
+Indigenous population’ report when reporting at a Regional level</li>
+  <li>Improved the speed of the ‘B5 - Activity reports by provider workforce 
+characteristics’ report when reporting at a National level</li>
+  <li>Fixed a bug that was occasionally causing decimal numbers to be rounded 
+the wrong way</li>
+  <li>Fixed a bug where a CSV report could not be downloaded</li>
 </ul>
+
+<p>The following updates have been applied in the upload interface:</p>
+<ul>
+  <li>Improved a validation error for the Service Contact Start Time to show 
+an example from the upload where the time format has not been supplied 
+correctly</li>
+  <li>Allow referral dates that are dated UTC tomorrow in order to accommodate 
+different time zones</li>
+  <li>Fixed a bug where the “Uploader” field was missing from the filters section 
+of the View Uploads tab</li>
+</ul>
+
+<p>The following updates have been applied in the user management interface:</p>
+<ul>
+  <li>Fixed a bug where the Actions button was inactive in the Edit user roles tab</li>
+  <li>Fixed a bug where the Organisation Name was being displayed in the 
+Organisation Path column in the user roles tab</li>
+  <li>Fixed a bug where the ‘Invitation issued by’ filter on the View Invitations 
+tab was not working properly</li>
+</ul>
+
+<p>The following updates have been applied in the organisation management 
+interface:</p>
+<ul>
+  <li>Improved the speed of viewing lists of organisations</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available
+at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.</p>
 
 	  </div>
       </div>

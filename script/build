@@ -15,5 +15,5 @@ docker run \
 docker run \
   -it --rm --label=html5validator \
   --volume=$(pwd)/_site:/app/site \
-  stratdat/html5validator \
+  logicly/html5validator \
   || echo "Fail!"

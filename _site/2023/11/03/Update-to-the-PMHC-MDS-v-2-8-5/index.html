@@ -13,7 +13,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>PMHC MDS Resources Documentation update - 16/12/2016</title>
+    <title>Update to the PMHC MDS - 3/11/2023</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="alternate" type="application/rss+xml" title="PMHC-MDS RSS" href="/feed.xml">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -81,22 +81,53 @@
       </div>
       <div class="row">
 	  <div class="col-xs-12 col-sm-12 col-md-8">
-        <p>The documentation at <a href="https://pmhc-mds.com/resources/">https://pmhc-mds.com/resources/</a> has been updated.</p>
+        <h4 id="pmhc-mds-update-v285">PMHC MDS Update v2.8.5</h4>
 
-<p>The following documents have been updated:</p>
+<p>We are pleased to announce that PMHC MDS Update v2.8.5 was released on
+November 3, 2023.</p>
 
+<p>The following updates have been applied in the reporting interface:</p>
 <ul>
-  <li><a href="https://www.pmhc-mds.com/doc/pmhc-mds-q-and-a-20161212.pdf">Ongoing questions and answers</a></li>
+  <li>The App-3 — Suicide Risk Followup Reports has had a fix on the Unknown age
+group counting. Now, it includes episodes without service contacts</li>
+  <li>Improvement speed on the A6 reports</li>
+  <li>Fixed an error where totals for hAPI providers were showing counts of 0 at
+the Regional level</li>
 </ul>
 
-<p>The following documents are now available:</p>
-
+<p>The following updates have been applied in the upload interface:</p>
 <ul>
-  <li>Guidance on client consent (This guidance has been updated since it was released in 2016. The most recent guidance is available from the <a href="https://pmhc-mds.com/resources/">PMHC MDS Resources</a>)</li>
-  <li><a href="https://www.pmhc-mds.com/doc/pmhc-scoring-k10p-20170210.pdf">Kessler 10+ (K10+)</a> outcome measures and scoring rules</li>
-  <li><a href="https://www.pmhc-mds.com/doc/pmhc-scoring-k5-20161215.pdf">Kessler 5 (K5)</a> outcome measures and scoring rules</li>
-  <li><a href="https://www.pmhc-mds.com/doc/pmhc-scoring-sdq-20161201.pdf">Strengths and Difficulties Questionnaire (SDQ)</a> outcome measures and scoring rules</li>
+  <li>Return a validation error when the Service Contact Start Time field includes
+AM/PM</li>
 </ul>
+
+<p>The following updates have been applied in the upload API:</p>
+<ul>
+  <li>Fixed an error where records with today’s date were incorrectly being
+identified as future dated</li>
+  <li>Fixed a bug that was causing uploads via the API to fail</li>
+</ul>
+
+<p>The following updates have been applied in the data extract interface:</p>
+<ul>
+  <li>Added a new feature where users can now select the data specification type
+to be extracted</li>
+  <li>Fixed an error where headspace records were not included in extracts</li>
+</ul>
+
+<p>The following updates have been applied in the user management interface:</p>
+<ul>
+  <li>Fixed an error where user roles were not being applied after users accepted
+their invitation</li>
+</ul>
+
+<p>The following updates have been applied in the reporting specifications:</p>
+<ul>
+  <li>PMHC Outcome Measure Standard Deviations 2023 as XLSX</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available
+at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.</p>
 
 	  </div>
       </div>
