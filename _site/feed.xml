@@ -7,6 +7,39 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS - 11/8/2024 (v2.13.0)</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v2130&quot;&gt;PMHC MDS Update v2.13.0&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.13.0 was released on August 1, 2024.&lt;/p&gt;
+
+&lt;p&gt;As previously advised, Version 2 of the Initial Assessment and Referral Decision Support 
+Tool can now be recorded in the PMHC MDS.&lt;/p&gt;
+
+&lt;p&gt;Version 2 includes separate rating guides available for use with Children (aged 5-11), 
+Adolescents (aged 12-17), Adults (aged 18-64), Older Adults (aged 65 and over). 
+More information regarding IAR-DST Version 2 is available via the official IAR-DST
+v2 specification documentation at &lt;a href=&quot;https://docs.iar-dst.online/en/v2/&quot; target=&quot;_blank&quot;&gt;https://docs.iar-dst.online/en/v2/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The PMHC MDS data entry interface will now accept either Version 1 or Version 2 of the IAR-DST.&lt;/p&gt;
+
+&lt;p&gt;Both Version 1 and Version 2 of the IAR-DST can now be uploaded to the PMHC MDS using the 
+v4.0.4 data specification. v4.0.4 is backwards compatible with the existing v4 
+specifications. Therefore, any organisations that are not yet ready to collect IAR-DST 
+Version 2 data, can continue to upload with their current file format. The v4.0.4 
+data specification is available at &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Specific information about implementing Version 2 of the IAR-DST is available at
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/data-model-and-specifications.html#iar-dst&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/data-model-and-specifications.html#iar-dst&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sun, 11 Aug 2024 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2024/08/11/Update-to-the-PMHC-MDS-v-2-13-0/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/08/11/Update-to-the-PMHC-MDS-v-2-13-0/</guid>
+			</item>
+		
+			<item>
 				<title>PMHC MDS IAR-DST Version 2 and Outcome Measures Standard Deviations - 09/08/2024</title>
 				        
 				
@@ -463,54 +496,6 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 				<pubDate>Wed, 25 Oct 2023 00:00:00 -0500</pubDate>
 				<link>http://0.0.0.0:4000/2023/10/25/PMHC-MDS-Reminder-of-change-to-login-workflow/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2023/10/25/PMHC-MDS-Reminder-of-change-to-login-workflow/</guid>
-			</item>
-		
-			<item>
-				<title>PMHC-MDS - Change to login workflow - 17/10/2023</title>
-				        
-				
-					<description>&lt;h4 id=&quot;pmhc-mds---change-to-login-workflow&quot;&gt;PMHC-MDS - Change to login workflow&lt;/h4&gt;
-
-&lt;p&gt;As part of Logicly’s ongoing commitment to data security and in response to the Australian Signals Directorate’s Information Security Manual guidance, we are introducing a new authentication process for accessing the PMHC-MDS.&lt;/p&gt;
-
-&lt;h5 id=&quot;what-is-changing&quot;&gt;What is changing?&lt;/h5&gt;
-
-&lt;p&gt;The immediate change for users will be a requirement to use your full email address as your username when logging in to the application. Once you’ve entered your full email address on the first screen you’ll be asked to enter your password on a second screen, and then you will access the application as normal. See examples below.&lt;/p&gt;
-
-&lt;div style=&quot;text-align: center;background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;&quot;&gt;
-  &lt;div&gt;                 
-     &lt;div&gt;&lt;p&gt;First screen&lt;/p&gt;&lt;/div&gt;    
-     &lt;div&gt;&lt;img alt=&quot;Enter email address&quot; src=&quot;https://www.logicly.com.au/email/auth0-login-workflow/step-1.png&quot; width=&quot;250&quot; /&gt;&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div&gt;           
-    &lt;div&gt;&lt;p&gt;Second screen&lt;/p&gt;&lt;/div&gt;    
-    &lt;div&gt;&lt;img alt=&quot;Enter password&quot; src=&quot;https://www.logicly.com.au/email/auth0-login-workflow/step-2.png&quot; width=&quot;250&quot; /&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h5 id=&quot;when-will-this-happen&quot;&gt;When will this happen?&lt;/h5&gt;
-
-&lt;p&gt;Logicly intends to release this change in October. A reminder email will be sent in the days prior to the change.&lt;/p&gt;
-
-&lt;h5 id=&quot;why-is-this-happening&quot;&gt;Why is this happening?&lt;/h5&gt;
-
-&lt;p&gt;The change is being made in order to enable or enhance multi-factor authentication (MFA) within the application and to facilitate future security improvements around the authentication and authorisation process.&lt;/p&gt;
-
-&lt;p&gt;Also, by capturing the email addresses in the first step, the login process can be tailored to different organisation’s requirements in the future. For example, login could be handled using the same details as you use to login to your organisation’s systems. This is known as Single Sign On or SSO.&lt;/p&gt;
-
-&lt;p&gt;Note that MFA will be rolled out progressively in the near future on a schedule yet to be agreed. You will be informed well prior to MFA being required with a timeline and supporting documentation.&lt;/p&gt;
-
-&lt;p&gt;Please email &lt;a href=&quot;mailto:support@pmhc-mds.com&quot;&gt;support@pmhc-mds.com&lt;/a&gt; if you have any questions or issues.&lt;/p&gt;
-
-&lt;p&gt;Thank you&lt;/p&gt;
-
-&lt;p&gt;The PMHC-MDS team at Logicly&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Tue, 17 Oct 2023 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2023/10/17/PMHC-MDS-Change-to-login-workflow/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2023/10/17/PMHC-MDS-Change-to-login-workflow/</guid>
 			</item>
 		
 	</channel>
