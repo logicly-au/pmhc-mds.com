@@ -17,7 +17,7 @@ the Australian Signals Directorate’s Information Security Manual guidance,
 we are rolling out Multi-Factor Authentication (MFA) to all users that 
 access the PMHC-MDS.&lt;/p&gt;
 
-&lt;h5 id=&quot;what-is-changing&quot;&gt;What is changing?&lt;/h5&gt;
+&lt;h5 id=&quot;mfa-introduction-what-is-changing&quot;&gt;What is changing?&lt;/h5&gt;
 
 &lt;p&gt;After entering your username and password you will be required to complete 
 a second authentication step. MFA is an additional layer of authentication 
@@ -40,12 +40,12 @@ to the users computer and touched during login&lt;/li&gt;
 and how to set them up: &lt;a href=&quot;https://docs.logicly.com.au/en/latest/mfa-user-guide&quot; target=&quot;_blank&quot;&gt;https://docs.logicly.com.au/en/latest/mfa-user-guide&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;when-will-this-happen&quot;&gt;When will this happen?&lt;/h5&gt;
+&lt;h5 id=&quot;mfa-introduction-when-will-this-happen&quot;&gt;When will this happen?&lt;/h5&gt;
 
 &lt;p&gt;Logicly intends to release this change on 11th November 2024.  A reminder 
 email will be sent in the days prior to the change.&lt;/p&gt;
 
-&lt;h5 id=&quot;why-is-this-happening&quot;&gt;Why is this happening?&lt;/h5&gt;
+&lt;h5 id=&quot;mfa-introduction-why-is-this-happening&quot;&gt;Why is this happening?&lt;/h5&gt;
 
 &lt;p&gt;The change is being made in order to meet security improvements around the 
 authentication and authorisation process for the PMHC-MDS.&lt;/p&gt;
