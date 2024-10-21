@@ -7,6 +7,35 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS - 20/10/2024 (v2.13.7)</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v2137&quot;&gt;PMHC MDS Update v2.13.7&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.13.7 was released on 
+October 20, 2024.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Improved the speed of the A1, B1, B2, B3 reports based on PHN and 
+Provider Organisation level of reporting&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the upload interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Improved the validation message when there are missing columns&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sun, 20 Oct 2024 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2024/10/20/Update-to-the-PMHC-MDS-v-2-13-7/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/10/20/Update-to-the-PMHC-MDS-v-2-13-7/</guid>
+			</item>
+		
+			<item>
 				<title>PMHC MDS - Change to login workflow - introduction of MFA - 16/10/2024</title>
 				        
 				
@@ -17,7 +46,7 @@ the Australian Signals Directorate’s Information Security Manual guidance,
 we are rolling out Multi-Factor Authentication (MFA) to all users that 
 access the PMHC-MDS.&lt;/p&gt;
 
-&lt;h5 id=&quot;what-is-changing&quot;&gt;What is changing?&lt;/h5&gt;
+&lt;h5 id=&quot;mfa-introduction-what-is-changing&quot;&gt;What is changing?&lt;/h5&gt;
 
 &lt;p&gt;After entering your username and password you will be required to complete 
 a second authentication step. MFA is an additional layer of authentication 
@@ -40,12 +69,12 @@ to the users computer and touched during login&lt;/li&gt;
 and how to set them up: &lt;a href=&quot;https://docs.logicly.com.au/en/latest/mfa-user-guide&quot; target=&quot;_blank&quot;&gt;https://docs.logicly.com.au/en/latest/mfa-user-guide&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;when-will-this-happen&quot;&gt;When will this happen?&lt;/h5&gt;
+&lt;h5 id=&quot;mfa-introduction-when-will-this-happen&quot;&gt;When will this happen?&lt;/h5&gt;
 
 &lt;p&gt;Logicly intends to release this change on 11th November 2024.  A reminder 
 email will be sent in the days prior to the change.&lt;/p&gt;
 
-&lt;h5 id=&quot;why-is-this-happening&quot;&gt;Why is this happening?&lt;/h5&gt;
+&lt;h5 id=&quot;mfa-introduction-why-is-this-happening&quot;&gt;Why is this happening?&lt;/h5&gt;
 
 &lt;p&gt;The change is being made in order to meet security improvements around the 
 authentication and authorisation process for the PMHC-MDS.&lt;/p&gt;
@@ -433,64 +462,6 @@ Logicly&lt;/p&gt;
 				<pubDate>Tue, 05 Dec 2023 00:00:00 -0600</pubDate>
 				<link>http://0.0.0.0:4000/2023/12/05/PMHC-MDS-issues-on-log-in/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2023/12/05/PMHC-MDS-issues-on-log-in/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 3/11/2023</title>
-				        
-				
-					<description>&lt;h4 id=&quot;pmhc-mds-update-v285&quot;&gt;PMHC MDS Update v2.8.5&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.8.5 was released on
-November 3, 2023.&lt;/p&gt;
-
-&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The App-3 — Suicide Risk Followup Reports has had a fix on the Unknown age
-group counting. Now, it includes episodes without service contacts&lt;/li&gt;
-  &lt;li&gt;Improvement speed on the A6 reports&lt;/li&gt;
-  &lt;li&gt;Fixed an error where totals for hAPI providers were showing counts of 0 at
-the Regional level&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following updates have been applied in the upload interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Return a validation error when the Service Contact Start Time field includes
-AM/PM&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following updates have been applied in the upload API:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Fixed an error where records with today’s date were incorrectly being
-identified as future dated&lt;/li&gt;
-  &lt;li&gt;Fixed a bug that was causing uploads via the API to fail&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following updates have been applied in the data extract interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Added a new feature where users can now select the data specification type
-to be extracted&lt;/li&gt;
-  &lt;li&gt;Fixed an error where headspace records were not included in extracts&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following updates have been applied in the user management interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Fixed an error where user roles were not being applied after users accepted
-their invitation&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following updates have been applied in the reporting specifications:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;PMHC Outcome Measure Standard Deviations 2023 as XLSX&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The user guides have been updated to reflect these updates. They are available
-at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 03 Nov 2023 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2023/11/03/Update-to-the-PMHC-MDS-v-2-8-5/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2023/11/03/Update-to-the-PMHC-MDS-v-2-8-5/</guid>
 			</item>
 		
 	</channel>
