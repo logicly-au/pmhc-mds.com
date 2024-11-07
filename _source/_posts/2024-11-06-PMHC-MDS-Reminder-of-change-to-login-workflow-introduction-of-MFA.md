@@ -12,14 +12,14 @@ Thank you
 
 The PMHC-MDS team at Logicly
 
-#### PMHC-MDS - Change to login workflow - introduction of MFA ####
+#### PMHC-MDS - Change to login workflow - introduction of MFA #### {#mfa-reminder-what-is-changing}
 
 As part of Logicly’s ongoing commitment to data security and in response to
 the Australian Signals Directorate’s Information Security Manual guidance, 
 we are rolling out Multi-Factor Authentication (MFA) to all users that 
 access the PMHC-MDS.
 
-##### What is changing? ##### {#mfa-introduction-what-is-changing}
+##### What is changing? ##### {#mfa-reminder-what-is-changing}
 
 After entering your username and password you will be required to complete 
 a second authentication step. MFA is an additional layer of authentication 
@@ -40,12 +40,12 @@ including:
 * We have a user guide that will help step users through different options 
   and how to set them up: [https://docs.logicly.com.au/en/latest/mfa-user-guide](https://docs.logicly.com.au/en/latest/mfa-user-guide){:target="_blank"}.
 
-##### When will this happen? ##### {#mfa-introduction-when-will-this-happen}
+##### When will this happen? ##### {#mfa-reminder-when-will-this-happen}
 
 Logicly intends to release this change on 11th November 2024.  A reminder 
 email will be sent in the days prior to the change.
 
-##### Why is this happening? ##### {#mfa-introduction-why-is-this-happening}
+##### Why is this happening? ##### {#mfa-reminder-why-is-this-happening}
 
 The change is being made in order to meet security improvements around the 
 authentication and authorisation process for the PMHC-MDS.
