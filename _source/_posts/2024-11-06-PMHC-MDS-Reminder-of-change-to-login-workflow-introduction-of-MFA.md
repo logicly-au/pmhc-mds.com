@@ -12,7 +12,7 @@ Thank you
 
 The PMHC-MDS team at Logicly
 
-#### PMHC-MDS - Change to login workflow - introduction of MFA #### {#mfa-reminder-what-is-changing}
+#### PMHC-MDS - Change to login workflow - introduction of MFA #### {#mfa-reminder-change-to-login-workflow}
 
 As part of Logicly’s ongoing commitment to data security and in response to
 the Australian Signals Directorate’s Information Security Manual guidance, 
