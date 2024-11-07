@@ -20,14 +20,14 @@ on Monday 11th November 2024. The details sent originally are included again bel
 
 &lt;p&gt;The PMHC-MDS team at Logicly&lt;/p&gt;
 
-&lt;h4 id=&quot;pmhc-mds---change-to-login-workflow---introduction-of-mfa&quot;&gt;PMHC-MDS - Change to login workflow - introduction of MFA&lt;/h4&gt;
+&lt;h4 id=&quot;mfa-reminder-what-is-changing&quot;&gt;PMHC-MDS - Change to login workflow - introduction of MFA&lt;/h4&gt;
 
 &lt;p&gt;As part of Logicly’s ongoing commitment to data security and in response to
 the Australian Signals Directorate’s Information Security Manual guidance, 
 we are rolling out Multi-Factor Authentication (MFA) to all users that 
 access the PMHC-MDS.&lt;/p&gt;
 
-&lt;h5 id=&quot;mfa-introduction-what-is-changing&quot;&gt;What is changing?&lt;/h5&gt;
+&lt;h5 id=&quot;mfa-reminder-what-is-changing&quot;&gt;What is changing?&lt;/h5&gt;
 
 &lt;p&gt;After entering your username and password you will be required to complete 
 a second authentication step. MFA is an additional layer of authentication 
@@ -50,12 +50,12 @@ to the users computer and touched during login&lt;/li&gt;
 and how to set them up: &lt;a href=&quot;https://docs.logicly.com.au/en/latest/mfa-user-guide&quot; target=&quot;_blank&quot;&gt;https://docs.logicly.com.au/en/latest/mfa-user-guide&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;mfa-introduction-when-will-this-happen&quot;&gt;When will this happen?&lt;/h5&gt;
+&lt;h5 id=&quot;mfa-reminder-when-will-this-happen&quot;&gt;When will this happen?&lt;/h5&gt;
 
 &lt;p&gt;Logicly intends to release this change on 11th November 2024.  A reminder 
 email will be sent in the days prior to the change.&lt;/p&gt;
 
-&lt;h5 id=&quot;mfa-introduction-why-is-this-happening&quot;&gt;Why is this happening?&lt;/h5&gt;
+&lt;h5 id=&quot;mfa-reminder-why-is-this-happening&quot;&gt;Why is this happening?&lt;/h5&gt;
 
 &lt;p&gt;The change is being made in order to meet security improvements around the 
 authentication and authorisation process for the PMHC-MDS.&lt;/p&gt;
@@ -68,8 +68,8 @@ authentication and authorisation process for the PMHC-MDS.&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 06 Nov 2024 00:00:00 -0600</pubDate>
-				<link>http://0.0.0.0:4000/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA-copy/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA-copy/</guid>
+				<link>http://0.0.0.0:4000/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</guid>
 			</item>
 		
 			<item>
