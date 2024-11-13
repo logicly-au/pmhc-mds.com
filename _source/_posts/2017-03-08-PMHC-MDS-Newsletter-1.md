@@ -181,22 +181,12 @@ title: PMHC MDS Newsletter 1
     <td>
       <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
       <h3>Useful Links</h3>
-    </td>
-  </tr>
-</table>
-<table role="presentation">
-  <tr>
-    <td>
-      <a href="https://docs.pmhc-mds.com/user-documentation/index.html#user-docs"><img class="useful" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2Fba8fcb99-271d-41fa-9c34-25ae0dd66f55.png" title="User Guide" alt="User Guide"></a>
-    </td>
-    <td>
-      <a href="https://docs.pmhc-mds.com/faqs/index.html"><img class="useful" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F7656d922-3d40-46a1-9caf-975718e0eeb0.png" title="FAQs" alt="FAQs"></a>
-    </td>
-    <td>
-      <a href="https://docs.pmhc-mds.com/data-specification/index.html"><img class="useful" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8500a945-3991-4688-b3c0-04d8199deb49.png" title="Specifications" alt="Specifications"></a>
-    </td>
-    <td>
-      <a href="https://www.pmhc-mds.com/communications/"><img class="useful" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F7efbd585-d767-422d-97f7-885ea559e9a7.png" title="Announcements" alt="Announcements"></a>
+      <ul>
+        <li><a href="https://docs.pmhc-mds.com/user-documentation/index.html#user-docs">User Guide</a></li>
+        <li><a href="https://docs.pmhc-mds.com/faqs/index.html">FAQs</a></li>
+        <li><a href="https://docs.pmhc-mds.com/data-specification/index.html">Specifications</a></li>
+        <li><a href="https://www.pmhc-mds.com/communications/">Announcements</a></li>
+      </ul>
     </td>
   </tr>
 </table>
