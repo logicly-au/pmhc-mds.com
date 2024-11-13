@@ -15,7 +15,7 @@
   <div class="l-announcements">
     {% for post in site.posts offset:1 limit:3 %}
     <p>
-      <a href="/communications/#{{ post.url }}">{{ post.title }}</a><span> | {{ post.date | date: '%B %d, %Y' }}</span>
+      <a href="/communications/#{{ post.url }}">{{ post.title }}</a><span> <span aria-hidden="true">|</span> {{ post.date | date: '%B %d, %Y' }}</span>
     </p>
     {% endfor %}
   </div>
