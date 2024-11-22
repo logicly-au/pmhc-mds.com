@@ -687,11 +687,11 @@ at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.co
 <div style="text-align: center;background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
   <div>                 
      <div><p>First screen</p></div>    
-     <div><img alt="Enter email address" src="https://www.logicly.com.au/email/auth0-login-workflow/step-1.png" width="250" /></div>
+     <div><img alt="A screenshot of the new first login screen showing the Logicly logo, the words 'Welcome. Log in to Logicly to continue' followed by a text field that requires an email address and then a 'Continue' button." src="https://www.logicly.com.au/email/auth0-login-workflow/step-1.png" width="250" /></div>
   </div>
   <div>           
     <div><p>Second screen</p></div>    
-    <div><img alt="Enter password" src="https://www.logicly.com.au/email/auth0-login-workflow/step-2.png" width="250" /></div>
+    <div><img alt="A screenshot of the new second login screen showing the Logicly logo, the words 'Enter Your Password. Enter you password for Logicly to continue.' followed by an inactive text field that shows the email address entered in the first screen and an Edit link, then another text field that requires a password and then a 'Continue' button." src="https://www.logicly.com.au/email/auth0-login-workflow/step-2.png" width="250" /></div>
   </div>
 </div>
 
@@ -729,11 +729,11 @@ at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.co
 <div style="text-align: center;background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
   <div>                 
      <div><p>First screen</p></div>    
-     <div><img alt="Enter email address" src="https://www.logicly.com.au/email/auth0-login-workflow/step-1.png" width="250" /></div>
+     <div><img alt="A screenshot of the new first login screen showing the Logicly logo, the words 'Welcome. Log in to Logicly to continue' followed by a text field that requires an email address and then a 'Continue' button." src="https://www.logicly.com.au/email/auth0-login-workflow/step-1.png" width="250" /></div>
   </div>
   <div>           
     <div><p>Second screen</p></div>    
-    <div><img alt="Enter password" src="https://www.logicly.com.au/email/auth0-login-workflow/step-2.png" width="250" /></div>
+    <div><img alt="A screenshot of the new second login screen showing the Logicly logo, the words 'Enter Your Password. Enter you password for Logicly to continue.' followed by an inactive text field that shows the email address entered in the first screen and an Edit link, then another text field that requires a password and then a 'Continue' button." src="https://www.logicly.com.au/email/auth0-login-workflow/step-2.png" width="250" /></div>
   </div>
 </div>
 
@@ -1267,15 +1267,15 @@ PHNs may choose to collect Intake and IAR data for other non-Head to Health prog
 <p>For technical support, please contact Logicly at <a href="mailto:support@pmhc-mds.com">support@pmhc-mds.com</a></p>
 
 <p> </p>
-<h5 id="attachment-a--updated-descriptions-in-pmhc-mds-v4-specification">Attachment A – Updated descriptions in PMHC-MDS v4 specification</h5>
+<h4 id="attachment-a--updated-descriptions-in-pmhc-mds-v4-specification">Attachment A – Updated descriptions in PMHC-MDS v4 specification</h4>
 
 <p>This document outlines the updates to the PMHC-MDS v4 documentation that will be available at <a href="https://docs.pmhc-mds.com/projects/data-specification/en/v4/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification/en/v4/</a>. Changes are identified in red text.</p>
 
 <p>PHNs will be notified of the updates to the PMHC-MDS v4 documentation through a system release communication via Logicly.</p>
 
-<p><strong>1. Introduction</strong></p>
+<h5 id="1-introduction">1. Introduction</h5>
 
-<p><strong>1.1.1. Intake Context</strong></p>
+<h6 id="111-intake-context">1.1.1. Intake Context</h6>
 
 <p>Where an organisation is only providing intake services and not providing any treatment services, they can use the following data model to submit data to the PMHC-MDS:</p>
 
@@ -1291,13 +1291,13 @@ PHNs may choose to collect Intake and IAR data for other non-Head to Health prog
 
 <p>Episode and Service contact activity is not submitted in this context.</p>
 
-<p><span style="color:red">The collection of Intake and IAR data may not be required for all programs. Please see 5.3.5 Intake.</span></p>
+<p><span style="color:#ed0000">The collection of Intake and IAR data may not be required for all programs. Please see 5.3.5 Intake.</span></p>
 
-<p><strong>1.2. New Records and Fields in Version 4</strong></p>
+<h5 id="12-new-records-and-fields-in-version-4">1.2. New Records and Fields in Version 4</h5>
 
-<p><strong>1.2.1. Intake</strong></p>
+<h6 id="121-intake">1.2.1. Intake</h6>
 
-<p><span style="color:red">The model now records a new Intake record where an episode has undertaken an Intake process. The collection of Intake and IAR data may not be required for all programs. Please see 5.3.5 Intake.</span></p>
+<p><span style="color:#ed0000">The model now records a new Intake record where an episode has undertaken an Intake process. The collection of Intake and IAR data may not be required for all programs. Please see 5.3.5 Intake.</span></p>
 
 <p>The Intake table records information about the intake.</p>
 
@@ -1305,9 +1305,9 @@ PHNs may choose to collect Intake and IAR data for other non-Head to Health prog
 
 <p>The values of these fields should be passed along by the intake organisation to the treatment organisation where the treatment organisation will use them to fill in Intake Organisation Path and Intake Key. This will then link the Intake record at the intake organisation with the Episode record at the treatment organisation.</p>
 
-<p><strong>1.2.2. IAR-DST Measure</strong></p>
+<h6 id="122-iar-dst-measure">1.2.2. IAR-DST Measure</h6>
 
-<p><span style="color:red">The model now captures</span> the domains and the recommended level of care pertinent to the IAR-DST that clients have completed for them as part of the intake process. A new IAR-DST record will be created for each intake process.</p>
+<p><span style="color:#ed0000">The model now captures</span> the domains and the recommended level of care pertinent to the IAR-DST that clients have completed for them as part of the intake process. A new IAR-DST record will be created for each intake process.</p>
 
 <p>Consistent with the existing measures in the MDS, the domain scores will be captured as well as the recommended level of care. The purpose of collecting both domain scores and recommended level of care is to:</p>
 
@@ -1316,9 +1316,9 @@ PHNs may choose to collect Intake and IAR data for other non-Head to Health prog
   <li>provide a resource that can be used to better understand how the IAR-DST scoring algorithm performs in real world environments supporting ongoing improvement of the tool.</li>
 </ul>
 
-<p><span style="color:red">The collection of Intake and IAR data may not be required for all programs. Please see 5.3.5 Intake.</span></p>
+<p><span style="color:#ed0000">The collection of Intake and IAR data may not be required for all programs. Please see 5.3.5 Intake.</span></p>
 
-<p><strong>1.2.3. Episode and Intake Episode</strong></p>
+<h6 id="123-episode-and-intake-episode">1.2.3. Episode and Intake Episode</h6>
 
 <p>When the client is referred to a PMHC MDS reporting treatment service a new Episode record is created.
 Where the client has been referred via an intake process, an additional Intake Episode record is also created.</p>
@@ -1332,33 +1332,33 @@ Where the client has been referred via an intake process, an additional Intake E
 
 <p>The Episode record has been expanded with one new field - the organisation(s) to which the organisation refers the client (Organisation type referred to at Episode conclusion)</p>
 
-<p><span style="color:red">The collection of Intake and IAR data may not be required for all programs. Please see 5.3.5 Intake.</span></p>
+<p><span style="color:#ed0000">The collection of Intake and IAR data may not be required for all programs. Please see 5.3.5 Intake.</span></p>
 
-<p><strong>5.2 Key concepts</strong></p>
+<h5 id="52-key-concepts">5.2 Key concepts</h5>
 
-<p><strong>5.2.5. Intake</strong></p>
+<h6 id="525-intake">5.2.5. Intake</h6>
 
 <p>For the purpose of the PMHC MDS, an Intake is defined as a point of contact between a client and a PHN-commissioned organisation where the client is assessed to determine the appropriate level of care and referred to a service provider to provide clinical care. An Intake may include the collection of an IAR-DST measure.</p>
 
-<p><span style="color:red">The collection of Intake and IAR data may not be required for all programs. Please see 5.3.5 Intake.</span></p>
+<p><span style="color:#ed0000">The collection of Intake and IAR data may not be required for all programs. Please see 5.3.5 Intake.</span></p>
 
-<p><strong>5.3 Record formats</strong></p>
+<h5 id="53-record-formats">5.3 Record formats</h5>
 
-<p><strong>5.3.5 Intake</strong></p>
+<h6 id="535-intake">5.3.5 Intake</h6>
 
 <p>See Intake for definition of an intake.</p>
 
-<p><span style="color:red">The collection of Intake and IAR data is a requirement for Head to Health programs. This includes the Head to Health Phone Service, centres, satellites and Pop-Up clinics. PHNs may choose to collect Intake and IAR data for other non-Head to Health programs using the PMHC-MDS v4 specification, however reporting of this data remains optional subject to further guidance from the department.</span></p>
+<p><span style="color:#ed0000">The collection of Intake and IAR data is a requirement for Head to Health programs. This includes the Head to Health Phone Service, centres, satellites and Pop-Up clinics. PHNs may choose to collect Intake and IAR data for other non-Head to Health programs using the PMHC-MDS v4 specification, however reporting of this data remains optional subject to further guidance from the department.</span></p>
 
 <p>Intakes are managed by the provider organisations via upload.</p>
 
-<p><strong>5.3.11. Measures</strong></p>
+<h5 id="5311-measures">5.3.11. Measures</h5>
 
-<p><strong>5.3.11.1. Measures at Intake</strong></p>
+<h6 id="53111-measures-at-intake">5.3.11.1. Measures at Intake</h6>
 
 <p>Where an Intake is recorded, the PMHC MDS requires the use of the IAR-DST IAR-DST.</p>
 
-<p><span style="color:red">The collection of Intake and IAR data may not be required for all programs. Please see 5.3.5 Intake.</span></p>
+<p><span style="color:#ed0000">The collection of Intake and IAR data may not be required for all programs. Please see 5.3.5 Intake.</span></p>
 "
 	}
 
@@ -2313,10 +2313,10 @@ at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.co
                 <tr>
                   <td style="padding:0 0 36px 0;color:#3c3c3b;">
                     <p style="margin:0 0 12px 0;font-family: 'Raleway', Verdana, sans-serif;font-size:16px;line-height:24px;">As you know,
-                    Strategic Data is the team behind the <a href="https://pmhc-mds.com/" target="_blank" style="color:#E94E1B;text-decoration:none;">Primary Mental
+                    Strategic Data is the team behind the <a href="https://pmhc-mds.com/" target="_blank" style="color:#d73e0a;">Primary Mental
                     Health Care Minimum Data Set (PMHC MDS)</a>,
                     developed on behalf of the Department of Health.</p>
-                    <p style="margin:0 0 12px 0;font-family: 'Raleway', Verdana, sans-serif;font-size:16px;line-height:24px;">We’re getting in touch to let you know that we’re rebranding - Strategic Data will soon become <a href="https://www.logicly.com.au/" target="_blank" style="color:#E94E1B;text-decoration:none;">Logicly</a>.</p>
+                    <p style="margin:0 0 12px 0;font-family: 'Raleway', Verdana, sans-serif;font-size:16px;line-height:24px;">We’re getting in touch to let you know that we’re rebranding - Strategic Data will soon become <a href="https://www.logicly.com.au/" target="_blank" style="color:#d73e0a;">Logicly</a>.</p>
                   </td>
                 </tr>
                 <tr>
@@ -2344,7 +2344,7 @@ at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.co
                     <h3 style="margin:20px 0 10px 0;font-family: 'Raleway', Verdana, sans-serif;font-weight:600;">Why did we change our name?</h3>
                     <p style="margin:0 0 12px 0;font-family: 'Raleway', Verdana, sans-serif;font-size:16px;line-height:24px;">Logicly is more than just a new business name, it’s a recognition of how far we’ve come in our 25 years of business. We’ve transformed our approach, built a tried and tested process, and grown our skill set so that we’re less about managing data and more about solving complex information challenges.</p>
                     <p style="margin:0 0 12px 0;font-family: 'Raleway', Verdana, sans-serif;font-size:16px;line-height:24px;">Logicly is our new chapter. We know that we provide our greatest value when we partner with you to simplify complex information problems and co-design high quality, purpose-specific applications. And we achieve this by approaching each aspect of our work logically.</p>
-                    <p style="margin:0 0 12px 0;font-family: 'Raleway', Verdana, sans-serif;font-size:16px;line-height:24px;">Head to our website for more information on why Strategic Data is about to become <a href="https://www.logicly.com.au/whylogicly/" target="_blank" style="color:#E94E1B;text-decoration:none;">Logicly</a>, or give us a call on +61 3 9340 9000.</p>
+                    <p style="margin:0 0 12px 0;font-family: 'Raleway', Verdana, sans-serif;font-size:16px;line-height:24px;">Head to our website for more information on why Strategic Data is about to become <a href="https://www.logicly.com.au/whylogicly/" target="_blank" style="color:#d73e0a;">Logicly</a>, or give us a call on +61 3 9340 9000.</p>
                     <p style="margin:0 0 12px 0;font-family: 'Raleway', Verdana, sans-serif;font-size:16px;line-height:24px;">Thanks for being an important part of our journey, and our future.</p>
                     <p style="margin:24px 0 0px 0;font-family: 'Raleway', Verdana, sans-serif;font-size:16px;line-height:24px;">Team Logicly</p>
                   </td>
@@ -6245,7 +6245,7 @@ Department of Health</p>
   </tr>
   <tr>
     <td>
-      <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="Divider" alt="Divider" />
+      <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="Divider" />
 
       <table role="presentation">
         <tr>
@@ -6276,7 +6276,7 @@ Department of Health</p>
   </tr>
   <tr>
     <td>
-      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
+      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" />
 
       <div class="section">
         <img class="flame" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F5431bccf-3db3-45a7-b9b1-1da2315880ca.png" title="" alt="" />
@@ -6303,7 +6303,7 @@ Department of Health</p>
   </tr>
   <tr>
     <td>
-      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
+      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" />
       <h3>
         What are the hot topics?
       </h3>
@@ -6363,7 +6363,7 @@ Department of Health</p>
   </tr>
   <tr>
     <td>
-      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
+      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" />
 
       <div class="section">
         <img class="flame" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2FProposed+-+PMHC+Mailing-List+Image+cropped+%281%29.jpg" title="" alt="" />
@@ -6389,7 +6389,7 @@ Department of Health</p>
   </tr>
   <tr>
     <td>
-      <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
+      <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" />
 
       <h3>
         What to expect next?
@@ -6447,7 +6447,7 @@ Department of Health</p>
   </tr>
   <tr>
     <td>
-      <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
+      <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" />
       <div class="section">
         <img class="flame" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F2fcc4ec8-797f-433b-8455-02bf3adc61d5.png" title="" alt="" />
         <h3>
@@ -6467,26 +6467,14 @@ Department of Health</p>
   </tr>
   <tr>
     <td>
-      <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
-      <h3>
-        Useful Links
-      </h3>
-    </td>
-  </tr>
-</table>
-<table role="presentation">
-  <tr>
-    <td>
-      <a href="https://docs.pmhc-mds.com/user-documentation/index.html#user-docs"><img class="useful" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2Fba8fcb99-271d-41fa-9c34-25ae0dd66f55.png" title="User Guide" alt="User Guide" /></a>
-    </td>
-    <td>
-      <a href="https://docs.pmhc-mds.com/faqs/index.html"><img class="useful" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F7656d922-3d40-46a1-9caf-975718e0eeb0.png" title="FAQs" alt="FAQs" /></a>
-    </td>
-    <td>
-      <a href="https://docs.pmhc-mds.com/data-specification/index.html"><img class="useful" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8500a945-3991-4688-b3c0-04d8199deb49.png" title="Specifications" alt="Specifications" /></a>
-    </td>
-    <td>
-      <a href="https://www.pmhc-mds.com/communications/"><img class="useful" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F7efbd585-d767-422d-97f7-885ea559e9a7.png" title="Announcements" alt="Announcements" /></a>
+      <img src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" />
+      <h3>Useful Links</h3>
+      <ul>
+        <li><a href="https://docs.pmhc-mds.com/user-documentation/index.html#user-docs">User Guide</a></li>
+        <li><a href="https://docs.pmhc-mds.com/faqs/index.html">FAQs</a></li>
+        <li><a href="https://docs.pmhc-mds.com/data-specification/index.html">Specifications</a></li>
+        <li><a href="https://www.pmhc-mds.com/communications/">Announcements</a></li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -6685,7 +6673,7 @@ Department of Health</p>
   </tr>
   <tr>
     <td>
-      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
+      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" />
 
       <div class="section">
         <img class="flame" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F5431bccf-3db3-45a7-b9b1-1da2315880ca.png" title="" alt="" />
@@ -6706,7 +6694,7 @@ Department of Health</p>
   </tr>
   <tr>
     <td>
-      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
+      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" />
       <h3>What are the hot topics?</h3>
       <p class="large">
         The PMHC MDS Helpdesk has had a few similar enquiries from various PHNs recently, and we thought it would be valuable to share these.
@@ -6764,7 +6752,7 @@ Department of Health</p>
   </tr>
   <tr>
     <td>
-      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
+      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" />
       <div class="section">
         <h3>We would like to know you better!</h3>
         <p>
@@ -6781,7 +6769,7 @@ Department of Health</p>
   </tr>
   <tr>
     <td>
-      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
+      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" />
       <h3>
         What to expect next?
       </h3>
@@ -6819,7 +6807,7 @@ Department of Health</p>
   </tr>
   <tr>
     <td>
-      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
+      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" />
       <div class="section">
         <img class="info" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F2fcc4ec8-797f-433b-8455-02bf3adc61d5.png" title="" alt="Information Icon" />
         <h3>Who to contact?</h3>
@@ -6842,24 +6830,14 @@ Department of Health</p>
   </tr>
   <tr>
     <td>
-      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" alt="Divider" />
+      <img class="divider" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8aad9974-923c-4090-9a73-76e146c3c043.png" title="" />
       <h3>Useful Links</h3>
-    </td>
-  </tr>
-</table>
-<table role="presentation">
-  <tr>
-    <td>
-      <a href="https://docs.pmhc-mds.com/user-documentation/index.html#user-docs"><img class="useful" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2Fba8fcb99-271d-41fa-9c34-25ae0dd66f55.png" title="User Guide" alt="User Guide" /></a>
-    </td>
-    <td>
-      <a href="https://docs.pmhc-mds.com/faqs/index.html"><img class="useful" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F7656d922-3d40-46a1-9caf-975718e0eeb0.png" title="FAQs" alt="FAQs" /></a>
-    </td>
-    <td>
-      <a href="https://docs.pmhc-mds.com/data-specification/index.html"><img class="useful" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F8500a945-3991-4688-b3c0-04d8199deb49.png" title="Specifications" alt="Specifications" /></a>
-    </td>
-    <td>
-      <a href="https://www.pmhc-mds.com/communications/"><img class="useful" src="https://eoa-editor.s3.amazonaws.com/ac9c8056a6362e07a7a4a27c33f8d343517cf25b%2F7efbd585-d767-422d-97f7-885ea559e9a7.png" title="Announcements" alt="Announcements" /></a>
+      <ul>
+        <li><a href="https://docs.pmhc-mds.com/user-documentation/index.html#user-docs">User Guide</a></li>
+        <li><a href="https://docs.pmhc-mds.com/faqs/index.html">FAQs</a></li>
+        <li><a href="https://docs.pmhc-mds.com/data-specification/index.html">Specifications</a></li>
+        <li><a href="https://www.pmhc-mds.com/communications/">Announcements</a></li>
+      </ul>
     </td>
   </tr>
 </table>
