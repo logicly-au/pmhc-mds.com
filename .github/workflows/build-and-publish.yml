@@ -1,38 +1,44 @@
 name: Build and publish gh-pages website
 
+# Based on github's starter workflow
+# https://github.com/actions/starter-workflows/blob/main/pages/jekyll.yml
+
 on:
   workflow_dispatch:
+  pull_request:
   push:
     branches:
       - main
 
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-  publish:
-    permissions:
-      # must be able to write to the gh-pages branch
-      contents: write
+  build-and-validate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      # cache gems
-      - name: Cache
-        uses: actions/cache@v3
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
+          ruby-version: '3.3' # Not needed with a .ruby-version file
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+          cache-version: 0 # Increment this number if you need to re-download cached gems
 
-      # Jekyll
-      - name: Build site with Jekyll
-        uses:  helaili/jekyll-action@v2
-        with:
-          build_only: true
-          build_dir: _site
-          jekyll_src: _source
-          jekyll_build_options: "--config _config.yml"
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        # Outputs to the './_site' directory by default
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
 
       - name: HTML proofer
         uses: docker://18fgsa/html-proofer
@@ -45,21 +51,23 @@ jobs:
           entrypoint: html5validator
           args: --root /github/workspace/_site
 
-      # push to ghpages
-      - name: Check GitHub Pages status
-        uses: crazy-max/ghaction-github-status@v3
-        with:
-          pages_threshold: major_outage
+      - name: Upload artifact
+        # Automatically uploads an artifact from the './_site' directory by default
+        uses: actions/upload-pages-artifact@v3
 
-      # Commit _site as gh-pages branch
+  # Publish
+  publish:
+    name: Publish to GH pages (main only)
+    needs: [ build-and-validate ]
+    if: github.ref_name == 'main'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
+    runs-on: ubuntu-latest
+    steps:
       - name: Deploy to GitHub Pages
-        if: success()
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: _site
-          fqdn: pmhc-mds.com
-          jekyll: false
-          target_branch: gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+        id: deployment
+        uses: actions/deploy-pages@v4
