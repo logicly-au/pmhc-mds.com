@@ -49,14 +49,14 @@ The addition of the sites field does *not* apply to data submitted under the Way
 
 POs should ensure that site names are clear and easily distinguishable from other MMHCs and services in their PHN region. To support accurate reporting and monitoring of service activity data through the PMHC MDS, it is recommended that the MMHC location is included in the site name (e.g., Townsville MMHC should include ‘Townsville’ somewhere in the site name such as TOWNSVILLE2024). Where a single MMHC is operating across more than one location, it is at the discretion of the PO whether to include this level of detail in the site name. PHNs can contact the Department [(MentalHealthData@health.gov.au)](mailto:MentalHealthData@health.gov.au) to discuss individual requirements about implementing the MMHC naming guidance, as needed.
 
-###### Other {#other-2024-10}
+###### Other {#other-2024x10}
 
 PHNs and POs who wish to utilise the sites field for services that are not delivered through MMHCs are requested to name sites in a reasonable and sensible way that maintains confidentiality for the relevant provider and complies with privacy legislation.   Logicly have updated the guidance available via the PMHC MDS data specification to include general naming guidance and validation requirements for the sites field: [Draft PMHC MDS Data Specification 4.1.0-Draft documentation](https://docs.pmhc-mds.com/projects/data-specification/en/v4.1/){:target="_blank"}. 
 
-##### Action Required {#naction-required-2024x10}
+##### Action Required {#action-required-2024x10}
 
 The v4.1 specification is planned for release from 1 November 2024. PHNs will be notified through a system release e-mail notification from Logicly’s PMHC-MDS support service. Once released, PHNs will need to ensure that this information is distributed to relevant staff and service providers, and that their processes are updated accordingly.
 
 PHNs are encouraged to begin submitting data under PMHC MDS specification v4.1 once it is released. For a 6-month period from the v4.1 release date, the PMHC MDS will still accept the v4.0 upload format before it is phased out.
 
-For technical support, please contact Logicly at [support@pmhc-mds.com](support@pmhc-mds.com). 
+For technical support, please contact Logicly at [support@pmhc-mds.com](mailto:support@pmhc-mds.com). 

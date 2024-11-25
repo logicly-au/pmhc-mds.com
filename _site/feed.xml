@@ -201,17 +201,17 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 
 &lt;p&gt;POs should ensure that site names are clear and easily distinguishable from other MMHCs and services in their PHN region. To support accurate reporting and monitoring of service activity data through the PMHC MDS, it is recommended that the MMHC location is included in the site name (e.g., Townsville MMHC should include ‘Townsville’ somewhere in the site name such as TOWNSVILLE2024). Where a single MMHC is operating across more than one location, it is at the discretion of the PO whether to include this level of detail in the site name. PHNs can contact the Department &lt;a href=&quot;mailto:MentalHealthData@health.gov.au&quot;&gt;(MentalHealthData@health.gov.au)&lt;/a&gt; to discuss individual requirements about implementing the MMHC naming guidance, as needed.&lt;/p&gt;
 
-&lt;h6 id=&quot;other-2024-10&quot;&gt;Other&lt;/h6&gt;
+&lt;h6 id=&quot;other-2024x10&quot;&gt;Other&lt;/h6&gt;
 
 &lt;p&gt;PHNs and POs who wish to utilise the sites field for services that are not delivered through MMHCs are requested to name sites in a reasonable and sensible way that maintains confidentiality for the relevant provider and complies with privacy legislation.   Logicly have updated the guidance available via the PMHC MDS data specification to include general naming guidance and validation requirements for the sites field: &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4.1/&quot; target=&quot;_blank&quot;&gt;Draft PMHC MDS Data Specification 4.1.0-Draft documentation&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h5 id=&quot;naction-required-2024x10&quot;&gt;Action Required&lt;/h5&gt;
+&lt;h5 id=&quot;action-required-2024x10&quot;&gt;Action Required&lt;/h5&gt;
 
 &lt;p&gt;The v4.1 specification is planned for release from 1 November 2024. PHNs will be notified through a system release e-mail notification from Logicly’s PMHC-MDS support service. Once released, PHNs will need to ensure that this information is distributed to relevant staff and service providers, and that their processes are updated accordingly.&lt;/p&gt;
 
 &lt;p&gt;PHNs are encouraged to begin submitting data under PMHC MDS specification v4.1 once it is released. For a 6-month period from the v4.1 release date, the PMHC MDS will still accept the v4.0 upload format before it is phased out.&lt;/p&gt;
 
-&lt;p&gt;For technical support, please contact Logicly at &lt;a href=&quot;support@pmhc-mds.com&quot;&gt;support@pmhc-mds.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For technical support, please contact Logicly at &lt;a href=&quot;mailto:support@pmhc-mds.com&quot;&gt;support@pmhc-mds.com&lt;/a&gt;.&lt;/p&gt;
 </description>
 				
 				<pubDate>Sun, 27 Oct 2024 00:00:00 -0500</pubDate>
