@@ -4,7 +4,7 @@
 <div class="post">
   <h3>Latest</h3>
     {% for post in site.posts limit:1 %}
-      <a href="/communications/#{{ post.url }}"><h4>{{ post.title }}</h4></a>
+      <h4><a href="/communications/#{{ post.url }}">{{ post.title }}</a></h4>
       {{ post.excerpt }}
     {% endfor %}
 </div>
