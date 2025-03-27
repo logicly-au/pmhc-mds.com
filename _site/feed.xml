@@ -3,8 +3,8 @@
 	<channel>
 		<title></title>
 		<description></description>		
-		<link>http://0.0.0.0:4000</link>
-		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://www.pmhc-mds.com</link>
+		<atom:link href="https://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>FOR ACTION&amp;#58; Tags in the PMHC MDS</title>
@@ -58,7 +58,7 @@ in this circular.&lt;/li&gt;
 
 &lt;p&gt;Some issues have been identified in relation to the tag field in the PMHC MDS. There are two types of tags available to users in the PMHC MDS; &lt;em&gt;system&lt;/em&gt; tags that start with “!” and &lt;em&gt;user&lt;/em&gt; tags that do not start with “!”. &lt;em&gt;System&lt;/em&gt; tags beginning with an exclamation mark (!) are reserved for use by the department only.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;System&lt;/em&gt; tags have been used to implement extension data specifications such as Wayback (!wayback) and headspace (!headspace). They have also been used to record data where extra partitioning of data was needed for reporting purposes. An example of this was for the bushfire response in 2020. A !br20 tag was implemented to track episodes where one or more services were funded through the bushfire response. The current list of reserved system tags is available at &lt;a href=&quot;https://docs.pmhcmds.com/projects/data-specification/en/v4/reserved-tags.html&quot; target=&quot;_blank&quot;&gt;https://docs.pmhcmds.com/projects/data-specification/en/v4/reserved-tags.html&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;System&lt;/em&gt; tags have been used to implement extension data specifications such as Wayback (!wayback) and headspace (!headspace). They have also been used to record data where extra partitioning of data was needed for reporting purposes. An example of this was for the bushfire response in 2020. A !br20 tag was implemented to track episodes where one or more services were funded through the bushfire response. The current list of reserved system tags is available at &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/reserved-tags.html&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/reserved-tags.html&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;User&lt;/em&gt; tags can be used by PHNs/POs to tag records in order to partition data to accommodate local requirements as desired.&lt;/p&gt;
 
@@ -80,8 +80,8 @@ in this circular.&lt;/li&gt;
 </description>
 				
 				<pubDate>Thu, 20 Feb 2025 00:00:00 -0600</pubDate>
-				<link>http://0.0.0.0:4000/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</guid>
+				<link>https://www.pmhc-mds.com/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</guid>
 			</item>
 		
 			<item>
@@ -121,8 +121,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Fri, 20 Dec 2024 00:00:00 -0600</pubDate>
-				<link>http://0.0.0.0:4000/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</guid>
+				<link>https://www.pmhc-mds.com/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</guid>
 			</item>
 		
 			<item>
@@ -187,8 +187,8 @@ authentication and authorisation process for the PMHC-MDS.&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 06 Nov 2024 00:00:00 -0600</pubDate>
-				<link>http://0.0.0.0:4000/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</guid>
+				<link>https://www.pmhc-mds.com/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</guid>
 			</item>
 		
 			<item>
@@ -263,8 +263,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Fri, 01 Nov 2024 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</guid>
+				<link>https://www.pmhc-mds.com/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</guid>
 			</item>
 		
 			<item>
@@ -334,8 +334,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Sun, 27 Oct 2024 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/</guid>
+				<link>https://www.pmhc-mds.com/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/</guid>
 			</item>
 		
 			<item>
@@ -363,8 +363,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Sun, 20 Oct 2024 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2024/10/20/Update-to-the-PMHC-MDS-v-2-13-7/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/10/20/Update-to-the-PMHC-MDS-v-2-13-7/</guid>
+				<link>https://www.pmhc-mds.com/2024/10/20/Update-to-the-PMHC-MDS-v-2-13-7/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/10/20/Update-to-the-PMHC-MDS-v-2-13-7/</guid>
 			</item>
 		
 			<item>
@@ -419,8 +419,8 @@ authentication and authorisation process for the PMHC-MDS.&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 16 Oct 2024 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2024/10/16/PMHC-MDS-Change-to-login-workflow-introduction-of-MFA/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/10/16/PMHC-MDS-Change-to-login-workflow-introduction-of-MFA/</guid>
+				<link>https://www.pmhc-mds.com/2024/10/16/PMHC-MDS-Change-to-login-workflow-introduction-of-MFA/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/10/16/PMHC-MDS-Change-to-login-workflow-introduction-of-MFA/</guid>
 			</item>
 		
 			<item>
@@ -452,8 +452,8 @@ data specification is available at &lt;a href=&quot;https://docs.pmhc-mds.com/pr
 </description>
 				
 				<pubDate>Sun, 11 Aug 2024 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2024/08/11/Update-to-the-PMHC-MDS-v-2-13-0/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/08/11/Update-to-the-PMHC-MDS-v-2-13-0/</guid>
+				<link>https://www.pmhc-mds.com/2024/08/11/Update-to-the-PMHC-MDS-v-2-13-0/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/08/11/Update-to-the-PMHC-MDS-v-2-13-0/</guid>
 			</item>
 		
 			<item>
@@ -503,8 +503,8 @@ in order to assist organisations who wish to replicate the system reports.&lt;/p
 </description>
 				
 				<pubDate>Fri, 09 Aug 2024 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2024/08/09/IAR-DST-V2-specification-release-outcome-measure-standard-deviations/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/08/09/IAR-DST-V2-specification-release-outcome-measure-standard-deviations/</guid>
+				<link>https://www.pmhc-mds.com/2024/08/09/IAR-DST-V2-specification-release-outcome-measure-standard-deviations/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/08/09/IAR-DST-V2-specification-release-outcome-measure-standard-deviations/</guid>
 			</item>
 		
 			<item>
@@ -540,8 +540,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Tue, 30 Jul 2024 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2024/07/30/Update-to-the-PMHC-MDS-v-2-12-8/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/07/30/Update-to-the-PMHC-MDS-v-2-12-8/</guid>
+				<link>https://www.pmhc-mds.com/2024/07/30/Update-to-the-PMHC-MDS-v-2-12-8/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/07/30/Update-to-the-PMHC-MDS-v-2-12-8/</guid>
 			</item>
 		
 	</channel>
