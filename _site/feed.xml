@@ -3,8 +3,45 @@
 	<channel>
 		<title></title>
 		<description></description>		
-		<link>https://www.pmhc-mds.com</link>
-		<atom:link href="https://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://0.0.0.0:4000</link>
+		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Update to the PMHC MDS - 28/03/2025 (v2.14.12)</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v21412&quot;&gt;PMHC MDS Update v2.14.12&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.14.12 was released on 
+March 28, 2025.&lt;/p&gt;
+
+&lt;p&gt;The following features have been implemented in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The Department of Health and Aged Care and State organisations can now 
+view the A1, B1, B2 and B3 reports down to the Provider Organisation 
+reporting level&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been implemented in the data extract interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Implemented a fix to allow a PHN user to download data from a headspace 
+provider organisation within their PHN&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the upload interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Improved the error message when 09099999 is provided on an Intake for 
+either Referral date or Date Client Contacted Intake&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 28 Mar 2025 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2025/03/28/Update-to-the-PMHC-MDS-v-2-14-12/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2025/03/28/Update-to-the-PMHC-MDS-v-2-14-12/</guid>
+			</item>
 		
 			<item>
 				<title>FOR ACTION&amp;#58; Tags in the PMHC MDS</title>
@@ -80,8 +117,8 @@ in this circular.&lt;/li&gt;
 </description>
 				
 				<pubDate>Thu, 20 Feb 2025 00:00:00 -0600</pubDate>
-				<link>https://www.pmhc-mds.com/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</guid>
+				<link>http://0.0.0.0:4000/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</guid>
 			</item>
 		
 			<item>
@@ -121,8 +158,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Fri, 20 Dec 2024 00:00:00 -0600</pubDate>
-				<link>https://www.pmhc-mds.com/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</guid>
+				<link>http://0.0.0.0:4000/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</guid>
 			</item>
 		
 			<item>
@@ -187,8 +224,8 @@ authentication and authorisation process for the PMHC-MDS.&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 06 Nov 2024 00:00:00 -0600</pubDate>
-				<link>https://www.pmhc-mds.com/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</guid>
+				<link>http://0.0.0.0:4000/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</guid>
 			</item>
 		
 			<item>
@@ -263,8 +300,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Fri, 01 Nov 2024 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</guid>
+				<link>http://0.0.0.0:4000/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</guid>
 			</item>
 		
 			<item>
@@ -334,8 +371,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Sun, 27 Oct 2024 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/</guid>
+				<link>http://0.0.0.0:4000/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/</guid>
 			</item>
 		
 			<item>
@@ -363,8 +400,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Sun, 20 Oct 2024 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2024/10/20/Update-to-the-PMHC-MDS-v-2-13-7/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/10/20/Update-to-the-PMHC-MDS-v-2-13-7/</guid>
+				<link>http://0.0.0.0:4000/2024/10/20/Update-to-the-PMHC-MDS-v-2-13-7/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/10/20/Update-to-the-PMHC-MDS-v-2-13-7/</guid>
 			</item>
 		
 			<item>
@@ -419,8 +456,8 @@ authentication and authorisation process for the PMHC-MDS.&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 16 Oct 2024 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2024/10/16/PMHC-MDS-Change-to-login-workflow-introduction-of-MFA/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/10/16/PMHC-MDS-Change-to-login-workflow-introduction-of-MFA/</guid>
+				<link>http://0.0.0.0:4000/2024/10/16/PMHC-MDS-Change-to-login-workflow-introduction-of-MFA/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/10/16/PMHC-MDS-Change-to-login-workflow-introduction-of-MFA/</guid>
 			</item>
 		
 			<item>
@@ -452,8 +489,8 @@ data specification is available at &lt;a href=&quot;https://docs.pmhc-mds.com/pr
 </description>
 				
 				<pubDate>Sun, 11 Aug 2024 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2024/08/11/Update-to-the-PMHC-MDS-v-2-13-0/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/08/11/Update-to-the-PMHC-MDS-v-2-13-0/</guid>
+				<link>http://0.0.0.0:4000/2024/08/11/Update-to-the-PMHC-MDS-v-2-13-0/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/08/11/Update-to-the-PMHC-MDS-v-2-13-0/</guid>
 			</item>
 		
 			<item>
@@ -503,45 +540,8 @@ in order to assist organisations who wish to replicate the system reports.&lt;/p
 </description>
 				
 				<pubDate>Fri, 09 Aug 2024 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2024/08/09/IAR-DST-V2-specification-release-outcome-measure-standard-deviations/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/08/09/IAR-DST-V2-specification-release-outcome-measure-standard-deviations/</guid>
-			</item>
-		
-			<item>
-				<title>Clarification and Update to the PMHC MDS - 30/7/2024 (v2.12.8)</title>
-				        
-				
-					<description>&lt;p&gt;You may have seen a recent PMHC MDS notification that users from State 
-and Territory Governments will now be given access to aggregate PMHC MDS 
-reports. We wish to advise that this only means that the technical data 
-systems of the PMHC MDS have been updated in order to allow for access to be 
-granted. Sharing of the PMHC MDS with State and Territory Governments as per 
-commitments under the National Mental Health and Suicide Prevention Agreement 
-is being closely managed by the Department of Health and Aged Care and access 
-will only be granted after the relevant State or Territory health 
-department/agency has signed a Data Sharing Agreement and agreed to follow a 
-Data Access Protocol. These documents describe roles and responsibilities for 
-specific users within a State or Territory health department/agency to ensure 
-PMHC MDS data is handled appropriately and safely. Further information will 
-be provided by the Department in due course.&lt;/p&gt;
-
-&lt;h4 id=&quot;pmhc-mds-update-v2128&quot;&gt;PMHC MDS Update v2.12.8&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.12.8 was released on July 30, 2024.&lt;/p&gt;
-
-&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Fixed a bug where reports using The Wayback data source returned the error 
-message ‘An error occurred: bad report data source’&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The user guides have been updated to reflect these updates. They are available
-at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Tue, 30 Jul 2024 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2024/07/30/Update-to-the-PMHC-MDS-v-2-12-8/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/07/30/Update-to-the-PMHC-MDS-v-2-12-8/</guid>
+				<link>http://0.0.0.0:4000/2024/08/09/IAR-DST-V2-specification-release-outcome-measure-standard-deviations/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/08/09/IAR-DST-V2-specification-release-outcome-measure-standard-deviations/</guid>
 			</item>
 		
 	</channel>
