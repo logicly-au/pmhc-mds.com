@@ -1,6 +1,38 @@
 [
 
 	{
+		"title"    : "Update to the PMHC MDS - 28/03/2025 (v2.14.12)",
+		"date"     : "March 28, 2025",
+		"content"  : "<h4 id="pmhc-mds-update-v21412">PMHC MDS Update v2.14.12</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v2.14.12 was released on 
+March 28, 2025.</p>
+
+<p>The following features have been implemented in the reporting interface:</p>
+<ul>
+  <li>The Department of Health and Aged Care and State organisations can now 
+view the A1, B1, B2 and B3 reports down to the Provider Organisation 
+reporting level</li>
+</ul>
+
+<p>The following updates have been implemented in the data extract interface:</p>
+<ul>
+  <li>Implemented a fix to allow a PHN user to download data from a headspace 
+provider organisation within their PHN</li>
+</ul>
+
+<p>The following updates have been applied in the upload interface:</p>
+<ul>
+  <li>Improved the error message when 09099999 is provided on an Intake for 
+either Referral date or Date Client Contacted Intake</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available
+at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.</p>
+"
+	}
+
+	{
 		"title"    : "FOR ACTION&#58; Tags in the PMHC MDS",
 		"date"     : "February 20, 2025",
 		"content"  : "<p>The below circular was sent to PHN CEOs on Friday 20 February 2025.</p>
