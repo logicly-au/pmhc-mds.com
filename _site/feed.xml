@@ -3,8 +3,30 @@
 	<channel>
 		<title></title>
 		<description></description>		
-		<link>http://0.0.0.0:4000</link>
-		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://www.pmhc-mds.com</link>
+		<atom:link href="https://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Reminder of the End of Life for PMHC MDS version 4.0 Data Specification</title>
+				        
+				
+					<description>&lt;p&gt;The PMHC MDS currently supports uploads in both the PMHC version 4.0 format as
+documented at &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/&lt;/a&gt;
+and the PMHC version 4.1 format as documented at
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4.1/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4.1/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;After the 1st of May 2025 the PMHC MDS will no longer accept uploads using the
+Version 4.0 formats. Please ensure that your systems have been migrated to
+using the Version 4.1 upload format before this date.&lt;/p&gt;
+
+&lt;p&gt;A summary of the changes between version 4.0 and 4.1 is available at
+&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4.1/upgrading-from-previous-versions.html&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4.1/upgrading-from-previous-versions.html&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 10 Apr 2025 00:00:00 -0500</pubDate>
+				<link>https://www.pmhc-mds.com/2025/04/10/Reminder-PMHC-4.0-EOL/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/04/10/Reminder-PMHC-4.0-EOL/</guid>
+			</item>
 		
 			<item>
 				<title>Update to the PMHC MDS - 28/03/2025 (v2.14.12)</title>
@@ -39,8 +61,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Fri, 28 Mar 2025 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2025/03/28/Update-to-the-PMHC-MDS-v-2-14-12/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2025/03/28/Update-to-the-PMHC-MDS-v-2-14-12/</guid>
+				<link>https://www.pmhc-mds.com/2025/03/28/Update-to-the-PMHC-MDS-v-2-14-12/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/03/28/Update-to-the-PMHC-MDS-v-2-14-12/</guid>
 			</item>
 		
 			<item>
@@ -117,8 +139,8 @@ in this circular.&lt;/li&gt;
 </description>
 				
 				<pubDate>Thu, 20 Feb 2025 00:00:00 -0600</pubDate>
-				<link>http://0.0.0.0:4000/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</guid>
+				<link>https://www.pmhc-mds.com/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</guid>
 			</item>
 		
 			<item>
@@ -158,8 +180,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Fri, 20 Dec 2024 00:00:00 -0600</pubDate>
-				<link>http://0.0.0.0:4000/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</guid>
+				<link>https://www.pmhc-mds.com/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</guid>
 			</item>
 		
 			<item>
@@ -224,8 +246,8 @@ authentication and authorisation process for the PMHC-MDS.&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 06 Nov 2024 00:00:00 -0600</pubDate>
-				<link>http://0.0.0.0:4000/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</guid>
+				<link>https://www.pmhc-mds.com/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</guid>
 			</item>
 		
 			<item>
@@ -300,8 +322,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Fri, 01 Nov 2024 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</guid>
+				<link>https://www.pmhc-mds.com/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</guid>
 			</item>
 		
 			<item>
@@ -371,8 +393,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Sun, 27 Oct 2024 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/</guid>
+				<link>https://www.pmhc-mds.com/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/</guid>
 			</item>
 		
 			<item>
@@ -400,8 +422,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Sun, 20 Oct 2024 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2024/10/20/Update-to-the-PMHC-MDS-v-2-13-7/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/10/20/Update-to-the-PMHC-MDS-v-2-13-7/</guid>
+				<link>https://www.pmhc-mds.com/2024/10/20/Update-to-the-PMHC-MDS-v-2-13-7/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/10/20/Update-to-the-PMHC-MDS-v-2-13-7/</guid>
 			</item>
 		
 			<item>
@@ -456,8 +478,8 @@ authentication and authorisation process for the PMHC-MDS.&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 16 Oct 2024 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2024/10/16/PMHC-MDS-Change-to-login-workflow-introduction-of-MFA/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/10/16/PMHC-MDS-Change-to-login-workflow-introduction-of-MFA/</guid>
+				<link>https://www.pmhc-mds.com/2024/10/16/PMHC-MDS-Change-to-login-workflow-introduction-of-MFA/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/10/16/PMHC-MDS-Change-to-login-workflow-introduction-of-MFA/</guid>
 			</item>
 		
 			<item>
@@ -489,59 +511,8 @@ data specification is available at &lt;a href=&quot;https://docs.pmhc-mds.com/pr
 </description>
 				
 				<pubDate>Sun, 11 Aug 2024 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2024/08/11/Update-to-the-PMHC-MDS-v-2-13-0/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/08/11/Update-to-the-PMHC-MDS-v-2-13-0/</guid>
-			</item>
-		
-			<item>
-				<title>PMHC MDS IAR-DST Version 2 and Outcome Measures Standard Deviations - 09/08/2024</title>
-				        
-				
-					<description>&lt;h4 id=&quot;pmhc-mds-iar-dst-version-2-update&quot;&gt;PMHC MDS IAR-DST Version 2&lt;/h4&gt;
-
-&lt;p&gt;From early next week, Version 2 of the Initial Assessment and Referral 
-Decision Support Tool will be able to be recorded in the PMHC MDS.&lt;/p&gt;
-
-&lt;p&gt;Version 2 includes separate rating guides available for use with 
-Children (aged 5-11), Adolescents (aged 12-17), Adults (aged 18-64), 
-Older Adults (aged 65 and over). More information regarding IAR-DST 
-Version 2 is available via the official IAR-DST v2 specification 
-documentation at &lt;a href=&quot;https://docs.iar-dst.online/en/v2/&quot; target=&quot;_blank&quot;&gt;https://docs.iar-dst.online/en/v2/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Once upgraded, the PMHC MDS data entry interface will accept either Version 1 or
-Version 2 of the IAR-DST.&lt;/p&gt;
-
-&lt;p&gt;Both Version 1 and Version 2 of the IAR-DST will be able to be uploaded 
-to the PMHC MDS using the v4.0.4 data specification. v4.0.4 is backwards 
-compatible with the existing v4 specifications. Therefore, any organisations 
-that are not yet ready to collect IAR-DST Version 2 data, can continue to 
-upload with their current file format. The v4.0.4 data specification is 
-already available at &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Specific information about implementing Version 2 of the IAR-DST is available at
-&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/data-model-and-specifications.html#iar-dst&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/data-model-and-specifications.html#iar-dst&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;A further announcement will be made when Version 2 of the IAR-DST is available
-in the PMHC MDS.&lt;/p&gt;
-
-&lt;p&gt;The v4.0.4 data specification differs from the v4.0.3 data specification in
-that the 2.older value for the IAR-DST version field has been updated to
-2.older-adult in order to make it consistent with the IAR-DST specification.&lt;/p&gt;
-
-&lt;h4 id=&quot;outcome-measure-standard-deviations&quot;&gt;Outcome Measure Standard Deviations&lt;/h4&gt;
-
-&lt;p&gt;Some reports, such as the Out series reports, use extra inputs that cannot be 
-generated locally. Logicly supplies these inputs at 
-&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/reporting-arrangements.html#inputs-to-help-replicate-system-generated-reports&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/reporting-arrangements.html#inputs-to-help-replicate-system-generated-reports&lt;/a&gt;
-in order to assist organisations who wish to replicate the system reports.&lt;/p&gt;
-
-&lt;p&gt;The outcome measure standard deviations for 2024 are now available at 
-&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/reporting-arrangements.html#outcome-measure-standard-deviations&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/reporting-arrangements.html#outcome-measure-standard-deviations&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 09 Aug 2024 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2024/08/09/IAR-DST-V2-specification-release-outcome-measure-standard-deviations/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/08/09/IAR-DST-V2-specification-release-outcome-measure-standard-deviations/</guid>
+				<link>https://www.pmhc-mds.com/2024/08/11/Update-to-the-PMHC-MDS-v-2-13-0/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/08/11/Update-to-the-PMHC-MDS-v-2-13-0/</guid>
 			</item>
 		
 	</channel>
