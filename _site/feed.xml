@@ -3,8 +3,8 @@
 	<channel>
 		<title></title>
 		<description></description>		
-		<link>http://0.0.0.0:4000</link>
-		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://www.pmhc-mds.com</link>
+		<atom:link href="https://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Final reminder of the End of Life for PMHC MDS version 4.0 Data Specification - 28/04/2025</title>
@@ -29,8 +29,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Mon, 28 Apr 2025 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2025/04/28/Final-PMHC-MDS-Version-4-0-data-specification-end-of-life/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2025/04/28/Final-PMHC-MDS-Version-4-0-data-specification-end-of-life/</guid>
+				<link>https://www.pmhc-mds.com/2025/04/28/Final-PMHC-MDS-Version-4-0-data-specification-end-of-life/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/04/28/Final-PMHC-MDS-Version-4-0-data-specification-end-of-life/</guid>
 			</item>
 		
 			<item>
@@ -51,8 +51,8 @@ using the Version 4.1 upload format before this date.&lt;/p&gt;
 </description>
 				
 				<pubDate>Thu, 10 Apr 2025 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2025/04/10/Reminder-PMHC-4.0-EOL/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2025/04/10/Reminder-PMHC-4.0-EOL/</guid>
+				<link>https://www.pmhc-mds.com/2025/04/10/Reminder-PMHC-4.0-EOL/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/04/10/Reminder-PMHC-4.0-EOL/</guid>
 			</item>
 		
 			<item>
@@ -88,8 +88,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Fri, 28 Mar 2025 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2025/03/28/Update-to-the-PMHC-MDS-v-2-14-12/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2025/03/28/Update-to-the-PMHC-MDS-v-2-14-12/</guid>
+				<link>https://www.pmhc-mds.com/2025/03/28/Update-to-the-PMHC-MDS-v-2-14-12/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/03/28/Update-to-the-PMHC-MDS-v-2-14-12/</guid>
 			</item>
 		
 			<item>
@@ -166,8 +166,8 @@ in this circular.&lt;/li&gt;
 </description>
 				
 				<pubDate>Thu, 20 Feb 2025 00:00:00 -0600</pubDate>
-				<link>http://0.0.0.0:4000/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</guid>
+				<link>https://www.pmhc-mds.com/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</guid>
 			</item>
 		
 			<item>
@@ -207,8 +207,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Fri, 20 Dec 2024 00:00:00 -0600</pubDate>
-				<link>http://0.0.0.0:4000/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</guid>
+				<link>https://www.pmhc-mds.com/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</guid>
 			</item>
 		
 			<item>
@@ -273,8 +273,8 @@ authentication and authorisation process for the PMHC-MDS.&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 06 Nov 2024 00:00:00 -0600</pubDate>
-				<link>http://0.0.0.0:4000/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</guid>
+				<link>https://www.pmhc-mds.com/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</guid>
 			</item>
 		
 			<item>
@@ -349,8 +349,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Fri, 01 Nov 2024 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</guid>
+				<link>https://www.pmhc-mds.com/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</guid>
 			</item>
 		
 			<item>
@@ -420,8 +420,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Sun, 27 Oct 2024 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/</guid>
+				<link>https://www.pmhc-mds.com/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/</guid>
 			</item>
 		
 			<item>
@@ -449,8 +449,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Sun, 20 Oct 2024 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2024/10/20/Update-to-the-PMHC-MDS-v-2-13-7/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/10/20/Update-to-the-PMHC-MDS-v-2-13-7/</guid>
+				<link>https://www.pmhc-mds.com/2024/10/20/Update-to-the-PMHC-MDS-v-2-13-7/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/10/20/Update-to-the-PMHC-MDS-v-2-13-7/</guid>
 			</item>
 		
 			<item>
@@ -505,8 +505,8 @@ authentication and authorisation process for the PMHC-MDS.&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 16 Oct 2024 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2024/10/16/PMHC-MDS-Change-to-login-workflow-introduction-of-MFA/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/10/16/PMHC-MDS-Change-to-login-workflow-introduction-of-MFA/</guid>
+				<link>https://www.pmhc-mds.com/2024/10/16/PMHC-MDS-Change-to-login-workflow-introduction-of-MFA/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/10/16/PMHC-MDS-Change-to-login-workflow-introduction-of-MFA/</guid>
 			</item>
 		
 	</channel>
