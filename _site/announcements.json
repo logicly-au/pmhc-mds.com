@@ -1,6 +1,28 @@
 [
 
 	{
+		"title"    : "Final reminder of the End of Life for PMHC MDS version 4.0 Data Specification - 28/04/2025",
+		"date"     : "April 28, 2025",
+		"content"  : "<h4 id="final-reminder-of-the-end-of-life-for-pmhc-mds-version-40-data-specification">Final reminder of the End of Life for PMHC MDS version 4.0 Data Specification</h4>
+
+<p>The PMHC MDS currently supports uploads in both the PMHC version 4.0 format as
+documented at <a href="https://docs.pmhc-mds.com/projects/data-specification/en/v4/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification/en/v4/</a>
+and the PMHC version 4.1 format as documented at
+<a href="https://docs.pmhc-mds.com/projects/data-specification/en/v4.1/" target="_blank">https://docs.pmhc-mds.com/projects/data-specification/en/v4.1/</a>.</p>
+
+<p>This is a final reminder that after the 1st of May 2025 the PMHC MDS will no longer accept uploads using the
+Version 4.0 formats. Please ensure that your systems have been migrated to
+using the Version 4.1 upload format before this date.</p>
+
+<p>A summary of the changes between version 4.0 and 4.1 is available at
+<a href="https://docs.pmhc-mds.com/projects/data-specification/en/v4.1/upgrading-from-previous-versions.html" target="_blank">https://docs.pmhc-mds.com/projects/data-specification/en/v4.1/upgrading-from-previous-versions.html</a></p>
+
+<p>The user guides have been updated to reflect these updates. They are available
+at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.</p>
+"
+	}
+
+	{
 		"title"    : "Reminder of the End of Life for PMHC MDS version 4.0 Data Specification",
 		"date"     : "April 10, 2025",
 		"content"  : "<p>The PMHC MDS currently supports uploads in both the PMHC version 4.0 format as
