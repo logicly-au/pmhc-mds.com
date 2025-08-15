@@ -178,7 +178,7 @@ episodes under the Universal Aftercare Outside of Hospital/Expanded Referral Pat
 Trial. The !uaooh tag will only be allowed on Episode records where the Program Type is ‘9:
 Universal Aftercare’.
 
-###### Reporting
+###### Reporting {#reporting-2025x08x15}
 
 The existing Way Back-specific reports (W1–W4) will be retired and replaced with updated
 reports in the standard reports tab (the W1 report will be converted from a downloadable Excel
