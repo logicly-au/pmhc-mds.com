@@ -3,8 +3,251 @@
 	<channel>
 		<title></title>
 		<description></description>		
-		<link>https://www.pmhc-mds.com</link>
-		<atom:link href="https://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://0.0.0.0:4000</link>
+		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>FOR ACTION&amp;#58; Primary Mental Health Care Minimum Data Set upcoming changes for Medicare Mental Health Centres and Universal Aftercare</title>
+				        
+				
+					<description>&lt;p&gt;The below circular was sent to PHN CEOs on Friday 15 August 2025.&lt;/p&gt;
+
+&lt;p&gt;-----------------------&lt;/p&gt;
+
+&lt;p&gt;Dear PHN CEOs,&lt;/p&gt;
+
+&lt;p&gt;This circular is to inform PHNs and their service providers of forthcoming updates to the Primary Mental Health Care Minimum Data Set (PMHC MDS), as part of the Version 4.1.1 release. These updates are aligned with ongoing efforts to strengthen data quality, enhance reporting capabilities, and ensure consistency with evolving national mental health program structures.&lt;/p&gt;
+
+&lt;p&gt;As part of this release, enhancements will be made to the way data for Medicare Mental Health Centres (MMHCs) is reported.&lt;/p&gt;
+
+&lt;p&gt;Additionally, we wish to provide early notice of the upcoming rebranding of The Way Back Support Service (TWBSS) to Universal Aftercare.&lt;/p&gt;
+
+&lt;p&gt;To support the information in this circular, PHNs are asked to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ensure relevant staff receive and review the information provided in this circular.&lt;/li&gt;
+  &lt;li&gt;Ensure all data for MMHCs is uploaded in accordance with the guidance provided in this circular by 1 October 2025.&lt;/li&gt;
+  &lt;li&gt;Ensure all Universal Aftercare data is uploaded to the PMHC MDS in line with relevant guidance provided.&lt;/li&gt;
+  &lt;li&gt;Further guidance regarding Universal Aftercare rebrand will be provided in due course.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Please refer to the attached document for additional detail.&lt;/p&gt;
+
+&lt;p&gt;For any queries please contact &lt;a href=&quot;mailto:MentalHealthData@health.gov.au&quot;&gt;MentalHealthData@health.gov.au&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Kind regards,&lt;/p&gt;
+
+&lt;p&gt;Mental Health Data&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PHN CEO Circular – August 2025&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;updates-in-the-pmhc-mds&quot;&gt;Updates in the PMHC MDS&lt;/h4&gt;
+
+&lt;h5 id=&quot;overview-2025x08x15&quot;&gt;Overview&lt;/h5&gt;
+
+&lt;p&gt;This circular is to inform Primary Health Networks (PHNs) and their service providers of
+forthcoming updates to the Primary Mental Health Care Minimum Data Set (PMHC MDS), as
+part of the Version 4.1.1 release. These updates are aligned with ongoing efforts to strengthen
+data quality, enhance reporting capabilities, and ensure consistency with evolving national
+mental health program structures. As part of this release, enhancements will be made to the
+way data for Medicare Mental Health Centres (MMHCs) is reported.&lt;/p&gt;
+
+&lt;p&gt;Additionally, we wish to provide early notice of the upcoming rebranding of The Way Back
+Support Service (TWBSS) to Universal Aftercare. This change reflects that transition away from
+Beyond Blue’s oversight of TWBSS is complete in relevant jurisdictions, and arrangements are
+now in place to support implementation of universal aftercare services in all states and
+territories. Under the National Mental Health and Suicide Prevention Agreement bilateral
+schedules, states and territories have flexibility to implement and adapt aftercare service
+models to meet the needs of local communities, while contributing to national availability of
+aftercare supports. These updates to the PMHC MDS are designed to support improved
+monitoring, evaluation, and comparability of services across jurisdictions, and will be
+accompanied by updated technical documentation and guidance.&lt;/p&gt;
+
+&lt;p&gt;To support the information in this circular, PHNs are asked to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ensure relevant staff receive and review the information provided in this circular.&lt;/li&gt;
+  &lt;li&gt;Ensure all data for MMHCs is uploaded in accordance with the guidance provided in this
+circular by 1 October 2025.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ensure all Universal Aftercare data is uploaded to the PMHC MDS in line with relevant
+guidance provided.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Further guidance regarding Universal Aftercare rebrand will be provided in due
+course.
+For any questions regarding this information please contact &lt;a href=&quot;mailto:MentalHealthData@health.gov.au&quot;&gt;MentalHealthData@health.gov.au&lt;/a&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;background-2025x08x15&quot;&gt;Background&lt;/h5&gt;
+
+&lt;h6 id=&quot;mmhcs&quot;&gt;MMHCs&lt;/h6&gt;
+
+&lt;p&gt;As of July 2025, there are 41 Centres open nationally. Medicare Mental Health Centres provide a
+welcoming place where everyone can access free mental health information, services and
+supports. Centres are staffed by a team of qualified mental health professionals and people
+with lived experience of mental health. Support through the Centres is free for everyone who
+walks in the door. Consumers do not need an appointment or a referral.&lt;/p&gt;
+
+&lt;p&gt;As all Medicare Mental Health Centres have been rebranded, there are new additions to the
+available domains in the PMHC MDS which are incorporated under Program Type, Funding
+Source and Organisation Type.&lt;/p&gt;
+
+&lt;p&gt;For policy and funding queries about the Medicare Mental Health Centres program, please
+contact &lt;a href=&quot;mailto:Mental.Health.Liaison@health.gov.au&quot;&gt;Mental.Health.Liaison@health.gov.au&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h6 id=&quot;universal-aftercare&quot;&gt;Universal Aftercare&lt;/h6&gt;
+
+&lt;p&gt;The Way Back Support Service was originally developed and delivered by Beyond Blue as a trial
+suicide aftercare model, with the Australian Government subsequently funding roll-out of this
+model in several jurisdictions. Under the National Mental Health and Suicide Prevention
+Agreement, the Commonwealth and states and territories agreed to be jointly responsible for
+providing aftercare programs, which reflect and respond to local needs and circumstance. This
+shift marked the evolution of aftercare services from a specific model, available in some
+jurisdictions, to a nationally supported and scalable program now referred to as Universal
+Aftercare.&lt;/p&gt;
+
+&lt;p&gt;To reflect this transition, and ensure consistency in data collection and reporting, references to
+The Way Back in the PMHC MDS will be rebranded to Universal Aftercare. This includes
+introducing a dedicated Universal Aftercare Program Type. This will also include the
+introduction of a new tag for the Universal Aftercare Outside of Hospital/Expanded Referral
+Pathway Trial. These changes will support improved monitoring, evaluation, and comparability
+of aftercare services across jurisdictions.&lt;/p&gt;
+
+&lt;p&gt;For policy or funding queries, please contact &lt;a href=&quot;mailto:SuicidePrevention@health.gov.au&quot;&gt;SuicidePrevention@health.gov.au&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h5 id=&quot;key-changes-2025x08x15&quot;&gt;Key Changes&lt;/h5&gt;
+
+&lt;p&gt;Two data specification updates are planned to implement both the MMHC and Universal
+Aftercare changes.&lt;/p&gt;
+
+&lt;h6 id=&quot;version-411-next-planned-release&quot;&gt;Version 4.1.1 (next planned release)&lt;/h6&gt;
+
+&lt;p&gt;Version 4.1.1 begins the rebranding of AMHC and Head to Health to MMHC. It will include the
+following changes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A ‘8: MMHC’ response will be added to Program Type on both the Intake and Episode
+records.&lt;/li&gt;
+  &lt;li&gt;Response ‘24: Head to Health Kids Hubs’ on Funding Source will be renamed to ‘24:
+Kids Hubs’ on the Service Contact record&lt;/li&gt;
+  &lt;li&gt;A ‘28: MMHC’ response will be added to Funding Source on the Service Contact record&lt;/li&gt;
+  &lt;li&gt;A ‘45: MMHC’ response will be added to Organisation type referred to at Intake
+conclusion on the Intake record&lt;/li&gt;
+  &lt;li&gt;A ‘25: MMHC’ response will be added to Organisation type referred to at Episode
+conclusion on the Episode record&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Version 4.1.1 is backwards compatible with Version 4.1.0. Only organisations using the above
+responses will need to change their uploads.&lt;/p&gt;
+
+&lt;h6 id=&quot;version-50-to-be-released-end-of-november&quot;&gt;Version 5.0 (to be released end of November)&lt;/h6&gt;
+
+&lt;p&gt;Version 5.0 will complete the rebranding to MMHC and Universal Aftercare. It will include the
+following changes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A ‘9: Universal Aftercare’ response will be added to the Program Type field on both the
+Intake and Episode tables&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Seven entirely new tables will be added corresponding to the existing tables in the
+Wayback extension. These tables will only need to be submitted where Episodes using
+the new ‘9: Universal Aftercare’ Program Type are included&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;UA Episode&lt;/li&gt;
+      &lt;li&gt;UA Recommendation Out&lt;/li&gt;
+      &lt;li&gt;UA Critical Incident&lt;/li&gt;
+      &lt;li&gt;UA Plan&lt;/li&gt;
+      &lt;li&gt;UA Needs Identification (NI)&lt;/li&gt;
+      &lt;li&gt;SIDAS&lt;/li&gt;
+      &lt;li&gt;WHO-5&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The following changes will be applied to the Program Type field on both the Intake and
+Episode tables:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;‘2: Head to Health’ renamed to ‘2: Head to Health Clinic’. This response is only
+to be used by remaining temporary Head to Health Clinics in NSW and Victoria.
+Please refer to Program Type for more information&lt;/li&gt;
+      &lt;li&gt;‘3: AMHC’ will be retired. An error will be returned if this response is used&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Additionally, the following changes will also be included in Version 5.0:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A new Veteran field will be added to the Intake and Episode tables. This field was
+included in The Way Back specification. There is a new IAR-DST variant in development
+for Veterans. Veterans will be included on the Intake and Episode tables instead of the
+new UA Episode table so that it can be used for monitoring both the IAR-DST and
+Universal Aftercare&lt;/li&gt;
+  &lt;li&gt;A new IAR-DST - Practitioner Reason for Override will be added to the IAR-DST table&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When Version 5 is released, existing episodes tagged with !wayback will be migrated to the new
+Universal Aftercare Program Type. The !wayback tag will be retained for historical reference
+only.&lt;/p&gt;
+
+&lt;p&gt;Uploading of both the new Version 5 specification as well as continued upload of the existing
+Version 4.1 specification/Version 3 Wayback extension will be allowed for a 6-month period.
+During this period, any data uploaded under the Version 4.1 or Version 3.0 Wayback
+specifications will be migrated during the upload process. After the 6-month period, only
+Version 5 uploads will be accepted.&lt;/p&gt;
+
+&lt;h6 id=&quot;universal-aftercare-outside-of-hospitalexpanded-referral-pathway-trial&quot;&gt;Universal Aftercare Outside of Hospital/Expanded Referral Pathway Trial&lt;/h6&gt;
+
+&lt;p&gt;A new system tag (!uaooh) will be introduced at the same time as Version 5 to distinguish
+episodes under the Universal Aftercare Outside of Hospital/Expanded Referral Pathway
+Trial. The !uaooh tag will only be allowed on Episode records where the Program Type is ‘9:
+Universal Aftercare’.&lt;/p&gt;
+
+&lt;h6 id=&quot;reporting-2025x08x15&quot;&gt;Reporting&lt;/h6&gt;
+
+&lt;p&gt;The existing Way Back-specific reports (W1–W4) will be retired and replaced with updated
+reports in the standard reports tab (the W1 report will be converted from a downloadable Excel
+template to a CSV format). These will be accessible to PHNs, the Department, and State and
+Territory Health Departments/Agencies.&lt;/p&gt;
+
+&lt;p&gt;New reports are also in development to support MMHC.&lt;/p&gt;
+
+&lt;h5 id=&quot;action-required-2025x08x15&quot;&gt;Action required&lt;/h5&gt;
+
+&lt;h6 id=&quot;mmhcs-1&quot;&gt;MMHCs&lt;/h6&gt;
+
+&lt;p&gt;When Version 4.1.1 is released, Medicare Mental Health Centres should use the new domains
+for Program Type, Funding Source and Organisation Type as outlined above. The Head to Health
+or AMHC Program Types should no longer be used.&lt;/p&gt;
+
+&lt;p&gt;Medicare Mental Health Centres may wish to amend data retrospectively using these new
+domains, but this is not mandatory.&lt;/p&gt;
+
+&lt;p&gt;Remaining temporary Head to Health Clinics in NSW and Victoria should not use the new
+MMHC domains and continue use of the Head to Health Program Type.&lt;/p&gt;
+
+&lt;h6 id=&quot;universal-aftercare-1&quot;&gt;Universal Aftercare&lt;/h6&gt;
+
+&lt;p&gt;A draft Version 5.0 specification will shortly be published. PHNs or service providers should
+implement changes to their system so that they can start providing data in the Version 5.0
+format when it is released. Further guidance will be provided in due course to support a smooth
+transition. Once the rebrand is in place, all Universal Aftercare data – including data collected
+through the Outside of Hospital/Expanded Referral Pathway Trial – must be reported using the
+Universal Aftercare Program Type in the PMHC MDS. Additionally, data collected as part of the
+trial must be tagged with the new identifier to ensure it is easily distinguishable within the
+dataset. This will support accurate tracking and analysis of trial-specific outcomes.&lt;/p&gt;
+
+&lt;p&gt;For technical support regarding the PMHC MDS, please contact Logicly at &lt;a href=&quot;mailto:support@pmhc-mds.com&quot;&gt;support@pmhc-mds.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 15 Aug 2025 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2025/08/15/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-upcoming-changes-for-Medicare-Mental-Health-Centres-and-Universal-Aftercare/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2025/08/15/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-upcoming-changes-for-Medicare-Mental-Health-Centres-and-Universal-Aftercare/</guid>
+			</item>
 		
 			<item>
 				<title>Update to the PMHC MDS - 6/5/2025 (v2.15.0)</title>
@@ -38,8 +281,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Tue, 06 May 2025 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2025/05/06/Update-to-the-PMHC-MDS-v-2-15-0/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/05/06/Update-to-the-PMHC-MDS-v-2-15-0/</guid>
+				<link>http://0.0.0.0:4000/2025/05/06/Update-to-the-PMHC-MDS-v-2-15-0/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2025/05/06/Update-to-the-PMHC-MDS-v-2-15-0/</guid>
 			</item>
 		
 			<item>
@@ -65,8 +308,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Mon, 28 Apr 2025 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2025/04/28/Final-PMHC-MDS-Version-4-0-data-specification-end-of-life/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/04/28/Final-PMHC-MDS-Version-4-0-data-specification-end-of-life/</guid>
+				<link>http://0.0.0.0:4000/2025/04/28/Final-PMHC-MDS-Version-4-0-data-specification-end-of-life/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2025/04/28/Final-PMHC-MDS-Version-4-0-data-specification-end-of-life/</guid>
 			</item>
 		
 			<item>
@@ -87,8 +330,8 @@ using the Version 4.1 upload format before this date.&lt;/p&gt;
 </description>
 				
 				<pubDate>Thu, 10 Apr 2025 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2025/04/10/Reminder-PMHC-4.0-EOL/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/04/10/Reminder-PMHC-4.0-EOL/</guid>
+				<link>http://0.0.0.0:4000/2025/04/10/Reminder-PMHC-4.0-EOL/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2025/04/10/Reminder-PMHC-4.0-EOL/</guid>
 			</item>
 		
 			<item>
@@ -124,8 +367,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Fri, 28 Mar 2025 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2025/03/28/Update-to-the-PMHC-MDS-v-2-14-12/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/03/28/Update-to-the-PMHC-MDS-v-2-14-12/</guid>
+				<link>http://0.0.0.0:4000/2025/03/28/Update-to-the-PMHC-MDS-v-2-14-12/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2025/03/28/Update-to-the-PMHC-MDS-v-2-14-12/</guid>
 			</item>
 		
 			<item>
@@ -202,8 +445,8 @@ in this circular.&lt;/li&gt;
 </description>
 				
 				<pubDate>Thu, 20 Feb 2025 00:00:00 -0600</pubDate>
-				<link>https://www.pmhc-mds.com/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</guid>
+				<link>http://0.0.0.0:4000/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</guid>
 			</item>
 		
 			<item>
@@ -243,8 +486,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Fri, 20 Dec 2024 00:00:00 -0600</pubDate>
-				<link>https://www.pmhc-mds.com/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</guid>
+				<link>http://0.0.0.0:4000/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</guid>
 			</item>
 		
 			<item>
@@ -309,8 +552,8 @@ authentication and authorisation process for the PMHC-MDS.&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 06 Nov 2024 00:00:00 -0600</pubDate>
-				<link>https://www.pmhc-mds.com/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</guid>
+				<link>http://0.0.0.0:4000/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</guid>
 			</item>
 		
 			<item>
@@ -385,8 +628,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Fri, 01 Nov 2024 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</guid>
+				<link>http://0.0.0.0:4000/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</guid>
 			</item>
 		
 			<item>
@@ -456,37 +699,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Sun, 27 Oct 2024 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 20/10/2024 (v2.13.7)</title>
-				        
-				
-					<description>&lt;h4 id=&quot;pmhc-mds-update-v2137&quot;&gt;PMHC MDS Update v2.13.7&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.13.7 was released on 
-October 20, 2024.&lt;/p&gt;
-
-&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Improved the speed of the A1, B1, B2, B3 reports based on PHN and 
-Provider Organisation level of reporting&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following updates have been applied in the upload interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Improved the validation message when there are missing columns&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The user guides have been updated to reflect these updates. They are available
-at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Sun, 20 Oct 2024 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2024/10/20/Update-to-the-PMHC-MDS-v-2-13-7/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2024/10/20/Update-to-the-PMHC-MDS-v-2-13-7/</guid>
+				<link>http://0.0.0.0:4000/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/</guid>
 			</item>
 		
 	</channel>
