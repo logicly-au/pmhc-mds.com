@@ -13,7 +13,7 @@ Adult Mental Health Centres (AMHC) and HeadtoHealth to Medicare Mental
 Health Centres (MMHC).
 
 The PHN CEO circular has been published at 
-[https://pmhc-mds.com/communications/#/2025/08/15/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-upcoming-changes-for-Medicare-Mental-Health-Centres-and-Universal-Aftercare/]([https://pmhc-mds.com/communications/#/2025/08/15/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-upcoming-changes-for-Medicare-Mental-Health-Centres-and-Universal-Aftercare/).
+[https://pmhc-mds.com/communications/#/2025/08/15/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-upcoming-changes-for-Medicare-Mental-Health-Centres-and-Universal-Aftercare/](https://pmhc-mds.com/communications/#/2025/08/15/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-upcoming-changes-for-Medicare-Mental-Health-Centres-and-Universal-Aftercare/).
 
 The following features have been implemented in the data entry interface:
 * A ‘MMHC’ response has been added to Program Type on both the Intake 
