@@ -7,7 +7,7 @@ title: Update to the PMHC MDS and Data Specifications - 18/8/2025 (v2.16.0)
 We are pleased to announce that PMHC MDS Update v2.16.0 was released on 
 August 18, 2025.
 
-As per the Department of Health and Aged Care’s August 2025 PHN CEO 
+As per the Department of Health, Disability and Ageing's August 2025 PHN CEO 
 Circular, the PMHC MDS has been updated to support the rebranding of 
 Adult Mental Health Centres (AMHC) and HeadtoHealth to Medicare Mental 
 Health Centres (MMHC).
