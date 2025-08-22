@@ -69,8 +69,10 @@ currently offer and who it's for:
   </tr>
 </table>
 
+
 **Not sure which role you have?**
-You will be able to identify the roles you have been granted by the tabs you have access to when logged in. You can find more information about user roles at: [https://docs.pmhc-mds.com/user-documentation/users.html#users-roles](https://docs.pmhc-mds.com/user-documentation/users.html#users-roles).*
+
+You will be able to identify the roles you have been granted by the tabs you have access to when logged in. You can find more information about user roles at: [https://docs.pmhc-mds.com/user-documentation/users.html#users-roles](https://docs.pmhc-mds.com/user-documentation/users.html#users-roles).
 
 *Please note:* You are welcome to attend our training sessions even if you don't
 yet have an active login to the PMHC MDS. However, we highly recommend organising
