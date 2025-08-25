@@ -18,56 +18,86 @@ step by step instructions for each role within the PMHC MDS.
 
 ## <a id="group_training"></a>Online group training
 
-Online group training sessions are currently hosted by the PMHC Helpdesk between 10am - 6pm AEST/AEDT.
+Online training sessions are designed to help organisations make the most of the
+PMHC MDS! Our sessions are hosted by the PMHC Helpdesk and are available between
+10am - 6pm Melbourne time, Monday through Thursday.
 
-Access to the PMHC MDS is based around roles, and therefore online group
-training sessions have been designed for a role. The following provides a
-summary of each of the roles that we currently provide training for:
+To ensure you receive the most relevant information, our training is tailored to
+specific user roles within the PMHC MDS. Below is a summary of the training we
+currently offer and who it's for:
 
 <table class="table-bordered">
   <tr>
-    <th>Training</th>
-    <th>Role / Tasks </th>
+    <th>Training Session</th>
+    <th>Who is it for?</th>
     <th>Training Duration</th>
   </tr>
   <tr>
+    <td>PHN Overview</td>
+    <td>PHN users with various roles at the PHN and associated Provider Organisations</td>
+    <td>75 minutes</td>
+  </tr>
+  <tr>
     <td>User Management</td>
-    <td>A user with the User Management role for an organisation can manage user accounts for that organisation</td>
+    <td>Users with the User Management role, who are responsible for managing user accounts for their organisation</td>
     <td>30 minutes</td>
   </tr>
   <tr>
     <td>Upload</td>
-    <td>A user with the Upload role can upload data to the associated organisation</td>
+    <td>Users with the Upload role, who upload data to their associated organisation</td>
     <td>30 minutes</td>
   </tr>
   <tr>
-    <td>Data Entry</td>
-    <td>A user with the Data Entry role can enter client data and practitioners from the associated organisation</td>
+    <td>Data Entry - Intake</td>
+    <td>Users with the Data Entry role, who enter client intake data for their associated organisation</td>
+    <td>30 minutes</td>
+  </tr>
+  <tr>
+    <td>Data Entry - Treatment</td>
+    <td>Users with the Data Entry role, who enter client treatment data and practitioner information for their associated organisation</td>
     <td>60 minutes</td>
   </tr>
-    <tr>
-    <td>PHN Overview</td>
-    <td>A user with various roles at at the PHN and associated Provider Organisations</td>
-    <td>60 minutes</td>
+  <tr>
+    <td>Data Entry - Intake & Treatment</td>
+    <td>Users with the Data Entry role, who enter client intake and treatment data and practitioner information for their associated organisation</td>
+    <td>90 minutes</td>
+  </tr>
+  <tr>
+    <td>Data Entry - Universal Aftercare (Previously known as The Way Back)</td>
+    <td>Users with the Data Entry role, who enter client Universal Aftercare data and practitioner information for their associated organisation</td>
+    <td>90 minutes</td>
   </tr>
 </table>
 
-*Unsure which role you have? More information can be found at [https://docs.pmhc-mds.com/user-documentation/users.html#users-roles](https://docs.pmhc-mds.com/user-documentation/users.html#users-roles).*
 
-Online training sessions are held through an online GoToMeeting session by request. Each
-session will be limited to approx. 25 users and can have a combination of staff from one
-Provider Organisation, or various Provider Organisation users from around Australia.
+**Not sure which role you have?**
 
-To book in for an online training session please email [support@pmhc-mds.com](mailto:support@pmhc-mds.com)
-with your preferred training session role type and date/time. A GoToMeeting link will be sent to
-you via a calendar invitation.
+You will be able to identify the roles you have been granted by the tabs you have access to when logged in. You can find more information about user roles at: [https://docs.pmhc-mds.com/user-documentation/users.html#users-roles](https://docs.pmhc-mds.com/user-documentation/users.html#users-roles).
 
-Please note: Users who do not yet have an active login to the PMHC MDS can
-still attend our training sessions. It would be very beneficial to organise
-access prior to the training session, as this will then enable users to login
-and commence using the PMHC MDS straight after the training session concludes.
-*(More information on obtaining a login can be viewed in Step 4 above, or on
-the PMHC MDS FAQS which can be found at [https://docs.pmhc-mds.com/faqs/system/access.html](https://docs.pmhc-mds.com/faqs/system/access.html))*
+*Please note:* You are welcome to attend our training sessions even if you don't
+yet have an active login to the PMHC MDS. However, we highly recommend organising
+your access prior to the training session. This will enable you to understand which
+training module is relevant, as well as having the ability to log in and begin using
+the PMHC MDS immediately after the session concludes. (For more information on obtaining
+a login, please refer to the PMHC MDS FAQs at: [https://docs.pmhc-mds.com/faqs/system/access.html](https://docs.pmhc-mds.com/faqs/system/access.html))
+
+**Are there other training topics?**
+
+Can’t find the training you are after? Please reach out to us and we’ll do our
+best to develop customised training to accommodate your needs where possible.
+
+**How is training hosted?**
+
+Our online training sessions are conducted via Microsoft Teams and are available
+by request. Each session can include staff from a single organisation or a
+combination of users from various organisations across Australia.
+
+**How to Book Your Session?**
+
+To book in for an online training session, please email the PMHC Helpdesk at [support@pmhc-mds.com](mailto:support@pmhc-mds.com).
+In your email, please specify your preferred training session type and suggest
+some preferred dates/times. We will then send attendees a Microsoft Teams link
+via a calendar invitation.
 
 ## <a id="video_training_library"></a>Video Training library
 
