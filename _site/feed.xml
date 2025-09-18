@@ -7,6 +7,49 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS and Data Specifications - 18/89/2025 (v2.16.3)</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v2163&quot;&gt;PMHC MDS Update v2.16.3&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.16.3 was released on 
+September 18, 2025.&lt;/p&gt;
+
+&lt;p&gt;The following features have been applied in the data entry interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug where Episodes were showing as being uncommenced after 
+an attended service contact was added&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following features have been applied in the user management interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug so that adding a user’s first role also authorises them 
+to use the application&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug where State and Territory users could not see Provider 
+Level aggregation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the upload interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug that prevent uploads from being filtered by their Upload ID&lt;/li&gt;
+  &lt;li&gt;A message has been added to the Upload Details to make it explicit 
+if the data was processed successfully&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 18 Sep 2025 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2025/09/18/Update-to-the-PMHC-MDS-v-2-16-3/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2025/09/18/Update-to-the-PMHC-MDS-v-2-16-3/</guid>
+			</item>
+		
+			<item>
 				<title>Update to the PMHC MDS and Data Specifications - 18/8/2025 (v2.16.0)</title>
 				        
 				
@@ -646,82 +689,6 @@ authentication and authorisation process for the PMHC-MDS.&lt;/p&gt;
 				<pubDate>Wed, 06 Nov 2024 00:00:00 -0600</pubDate>
 				<link>http://0.0.0.0:4000/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2024/11/06/PMHC-MDS-Reminder-of-change-to-login-workflow-introduction-of-MFA/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 1/11/2024 (v2.14.2)</title>
-				        
-				
-					<description>&lt;h4 id=&quot;pmhc-mds-update-v2142&quot;&gt;PMHC MDS Update v2.14.2&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.14.2 was released on 
-November 1, 2024.&lt;/p&gt;
-
-&lt;p&gt;As per the Department of Health and Aged Care’s October 2024 PHN CEO 
-Circular, the PMHC MDS has been updated to support the capture of data 
-at a more granular level in cases where a provider organisation operates 
-out of multiple sites within the same PHN.&lt;/p&gt;
-
-&lt;p&gt;The following features have been implemented in the data entry interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;A new ‘Sites’ tab is available in the data entry interface for Provider 
-Organisations. This tab allows sites for the provider organisation to be
-defined.&lt;/li&gt;
-  &lt;li&gt;Where sites have been defined for a Provider Organisation, a drop down 
-list containing each of the sites is now displayed on the Service Contact 
-tab.&lt;/li&gt;
-  &lt;li&gt;The Service Contact Modality field now includes “SMS”. Please refer to the
-notes at &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/latest/data-model-and-specifications.html#modality&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/latest/data-model-and-specifications.html#modality&lt;/a&gt;
-for advice on how this response may be used.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following features have been applied in the upload interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The upload interface now accepts uploads in the Version 4.1 data 
-specification. This specification allows the capture of a provider
-organisation operating at multiple sites within the same PHN.
-Please see below for more information on this specification. The existing 
-Version 4.0 data specification will continue to be available until 1 May 2025. 
-After that date it will no longer be available.&lt;/li&gt;
-  &lt;li&gt;The upload interface also accepts the Version 4.0.5 data specification. This 
-specification allows for the capture of “SMS” in the Service Contact 
-Modality field. The new Version 4.1 data specification also includes this
-update.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following update has been made to the PMHC MDS user interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Idle session detection has been improved. Interacting with screen elements, 
-for example by typing or clicking, will extend user session timeouts.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;pmhc-mds-data-specification-version-41&quot;&gt;PMHC MDS Data Specification Version 4.1&lt;/h5&gt;
-
-&lt;p&gt;The PMHC MDS Data Specification update v4.1 was released on November 1 2024. 
-The following updates were implemented:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Sites - Added sites field to the Organisation record to allow the sites at 
-which a provider organisation provides services to clients to be specified&lt;/li&gt;
-  &lt;li&gt;Service Contact Site - Added site field to the Service Contact record to 
-allow the site at which a Service Contact took place to be specified&lt;/li&gt;
-  &lt;li&gt;Modality - Added response ‘5: SMS’&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;pmhc-mds-data-specification-update-version-405&quot;&gt;PMHC MDS Data Specification Update Version 4.0.5&lt;/h5&gt;
-
-&lt;p&gt;The PMHC MDS Data Specification update v4.0.5 was released on November 1 2024. 
-The following updates were implemented:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Modality - Added response ‘5: SMS’&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The user guides have been updated to reflect these updates. They are available
-at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 01 Nov 2024 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/11/01/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-2/</guid>
 			</item>
 		
 	</channel>
