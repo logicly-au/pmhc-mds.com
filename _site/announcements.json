@@ -1,6 +1,44 @@
 [
 
 	{
+		"title"    : "Update to the PMHC MDS and Data Specifications - 18/89/2025 (v2.16.3)",
+		"date"     : "September 18, 2025",
+		"content"  : "<h4 id="pmhc-mds-update-v2163">PMHC MDS Update v2.16.3</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v2.16.3 was released on 
+September 18, 2025.</p>
+
+<p>The following features have been applied in the data entry interface:</p>
+<ul>
+  <li>Fixed a bug where Episodes were showing as being uncommenced after 
+an attended service contact was added</li>
+</ul>
+
+<p>The following features have been applied in the user management interface:</p>
+<ul>
+  <li>Fixed a bug so that adding a user’s first role also authorises them 
+to use the application</li>
+</ul>
+
+<p>The following updates have been applied in the reporting interface:</p>
+<ul>
+  <li>Fixed a bug where State and Territory users could not see Provider 
+Level aggregation</li>
+</ul>
+
+<p>The following updates have been applied in the upload interface:</p>
+<ul>
+  <li>Fixed a bug that prevent uploads from being filtered by their Upload ID</li>
+  <li>A message has been added to the Upload Details to make it explicit 
+if the data was processed successfully</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available
+at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.</p>
+"
+	}
+
+	{
 		"title"    : "Update to the PMHC MDS and Data Specifications - 18/8/2025 (v2.16.0)",
 		"date"     : "August 18, 2025",
 		"content"  : "<h4 id="pmhc-mds-update-v2160">PMHC MDS Update v2.16.0</h4>
