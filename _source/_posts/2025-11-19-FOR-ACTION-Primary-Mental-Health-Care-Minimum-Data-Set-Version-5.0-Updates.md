@@ -68,7 +68,7 @@ The PMHC MDS Version 5.0 Data Specification is now available at [https://docs.pm
 Version 5.0 completes the rebranding to MMHC and Universal Aftercare. It includes the
 following changes:
 
-###### Universal Aftercare
+###### Universal Aftercare {#universal-aftercare-2025x11x19}
 
 * A ‘9: Universal Aftercare’ response will be added to the Program Type field on both the
   Intake and Episode tables. This means that Universal Aftercare data will now be
