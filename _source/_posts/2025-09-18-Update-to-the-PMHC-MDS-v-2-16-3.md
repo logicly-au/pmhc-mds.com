@@ -1,5 +1,5 @@
 ---
-title: Update to the PMHC MDS and Data Specifications - 18/9/2025 (v2.16.3)
+title: Update to the PMHC MDS - 18/9/2025 (v2.16.3)
 ---
 
 #### PMHC MDS Update v2.16.3 ####
