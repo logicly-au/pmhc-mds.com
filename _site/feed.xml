@@ -7,6 +7,176 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>PMHC MDS - Release of Version 5.0 for Upload and Data Entry - 18/12/2025 (v3.0.1)</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v301&quot;&gt;PMHC MDS Update v3.0.1&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS v3.0.1 was released on 
+December 18, 2025.&lt;/p&gt;
+
+&lt;p&gt;Version 5.0 of the data specification is now available through Data Entry,
+Upload and Data Extracts in the PMHC MDS.&lt;/p&gt;
+
+&lt;p&gt;Version 5.0 completes the rebranding of AMHC and Head to Health to MMHC and 
+the rebranding of The Way Back to Universal Aftercare. Please refer to the 
+Department of Health, Disability and Ageing Circular (DoHDA) at 
+https://pmhc-mds.com/communications/#/2025/08/15/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-upcoming-changes-for-Medicare-Mental-Health-Centres-and-Universal-Aftercare/
+and the Introduction section of the Version 5.0 specification at 
+https://docs.pmhc-mds.com/projects/data-specification/en/v5.0/introduction.html 
+for overviews of the new specification.&lt;/p&gt;
+
+&lt;p&gt;Existing data entered using the The Way Back Version 3 specification has 
+been migrated to the Version 5.0 specification. You may wish to review your data.&lt;/p&gt;
+
+&lt;h5 id=&quot;data-entry&quot;&gt;Data Entry&lt;/h5&gt;
+
+&lt;p&gt;The following changes have been made in the Data Entry interface:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The “2: Head to Health” Program Type has been renamed to 2: Head to Health 
+Clinic. This response is only to be used by remaining temporary Head to 
+Health Clinics in New South Wales and Victoria. For all other organisations,
+existing episodes using this response have been migrated to “8: MMHC”.&lt;/li&gt;
+  &lt;li&gt;The “3: AMHC” Program Type has been retired. All existing episodes using 
+this response have been migrated to “8: MMHC”.&lt;/li&gt;
+  &lt;li&gt;References to The Way Back have been changed to Universal Aftercare.&lt;/li&gt;
+  &lt;li&gt;A Veteran field has been added to Intake and Episode records.&lt;/li&gt;
+  &lt;li&gt;A Practitioner Reason for Override field as been added to the IAR-DS.&lt;/li&gt;
+  &lt;li&gt;A new system tag !uaooh has been introduced. Please refer to the DoHDA 
+circular above for information on how this tag can be used.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;upload&quot;&gt;Upload&lt;/h5&gt;
+
+&lt;p&gt;Uploads now support the Version 5.0.0 data specification as documented at 
+https://docs.pmhc-mds.com/projects/data-specification/en/v5.0/upload-specification.html.&lt;/p&gt;
+
+&lt;p&gt;There will be a six month transition period during which Version 5.0.0, 
+Version 4.1 and The Way Back Support Service Version 3 will all be accepted. 
+Version 4.1 and The Way Back Support Service Version 3 will no longer be 
+supported after 30 June 2026.&lt;/p&gt;
+
+&lt;p&gt;During the transition period, uploads in either the Version 4.1 or The Way 
+Back Support Service Version 3 specification will be converted to Version 5.0 
+during upload.&lt;/p&gt;
+
+&lt;p&gt;Please refer to https://docs.pmhc-mds.com/projects/data-specification/en/v5.0/upgrading-from-previous-versions.html 
+for a description of the changes between the Version 4.1 or The Way Back 
+Support Service Version 3 and the new Version 5.0 specification.&lt;/p&gt;
+
+&lt;h5 id=&quot;reporting&quot;&gt;Reporting&lt;/h5&gt;
+
+&lt;p&gt;The Data Source selector on the reporting interface has been updated to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Remove Head to Health&lt;/li&gt;
+  &lt;li&gt;Remove AMHC&lt;/li&gt;
+  &lt;li&gt;Add MMHC&lt;/li&gt;
+  &lt;li&gt;Remove The Way Back&lt;/li&gt;
+  &lt;li&gt;Add Universal Aftercare&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Wayback tab has been removed. The Wayback reports have been rebranded 
+and moved to the standard reports tab as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;W1: Wayback Quarterly Report Template rebrand to W1:  Universal Aftercare 
+Quarterly Report Template. The W1 can be accessed by selecting Universal 
+Aftercare as the only Data Source.&lt;/li&gt;
+  &lt;li&gt;The W2: High level summary of overall volumes by entity report has been
+retired. Counts of Universal Aftercare records can now be accessed via
+the existing A1 report.&lt;/li&gt;
+  &lt;li&gt;W3: Data Quality Report: Missing TWB Episode data rebranded to 
+A14: Data quality report - Missing UA Episode data&lt;/li&gt;
+  &lt;li&gt;W4: Data Quality Report: Missing TWB Needs Identification and Recommendation 
+Outs rebranded to A15: Data quality report - Missing UA Needs Identification 
+and Recommendation Outs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following new reports have been implemented:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A new A13: Data quality report — Universal Aftercare episodes with no linked 
+UA episode record&lt;/li&gt;
+  &lt;li&gt;M1: Client wait time&lt;/li&gt;
+  &lt;li&gt;M2: Activity Reports by Age group&lt;/li&gt;
+  &lt;li&gt;M3: Activity Reports by Gender&lt;/li&gt;
+  &lt;li&gt;M4: Activity Reports by Aboriginal and Torres Strait Islander status&lt;/li&gt;
+  &lt;li&gt;M5: IAR-DST - Recommended Level of Care&lt;/li&gt;
+  &lt;li&gt;M6: IAR-DST - Recommended Level of Care, where intake referred to MMHC&lt;/li&gt;
+  &lt;li&gt;M7: Monthly service activity&lt;/li&gt;
+  &lt;li&gt;M8: Episode of care characteristics&lt;/li&gt;
+  &lt;li&gt;M9: Activity Report: Service contact type&lt;/li&gt;
+  &lt;li&gt;M10: Activity Report: Service contact duration&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Reports can now be filtered with the new !uaooh tag. Reports can no longer be 
+filtered with the !wayback tag.&lt;/p&gt;
+
+&lt;h5 id=&quot;known-issues&quot;&gt;Known Issues&lt;/h5&gt;
+
+&lt;p&gt;In the Version 5.0 format, Program Type 2: Head to Health Clinic is only 
+accepted for remaining temporary Head to Health Clinics in New South Wales 
+and Victoria. An error will be produced for any other organisation. Similarly 
+Program Type 3: will always produce an error. While data suppliers must 
+ensure the data stored in their systems can be used to meet the PMHC-MDS 
+specification that does not place any specific constraints as to how or what 
+data organisations store locally, it only places requirements around what 
+format data is supplied to the PMHC MDS. Therefore, the Version 5.0 changes 
+do not automatically mean that organisations will need to make adjustments 
+to their existing source data.&lt;/p&gt;
+
+&lt;p&gt;However, uploads need to be internally consistent. This means that where 
+service contact or collection occasion data is modified, the linked episode 
+and client must also be included in the upload. Therefore, when uploading in 
+Version 5 all existing episodes must use Program Types accepted by the Version 
+5.0 specification. Logicly is aware that not being able to continue to submit 
+values 2: Head to Health and 3: AMHC for existing episodes may cause issues 
+for some organisations and is investigating improvements that would allow 
+the submission of the original values.&lt;/p&gt;
+
+&lt;p&gt;The current W1: Universal Aftercare Quarterly Report Template is a simplified 
+version of the previous Excel report. A CSV report that is similar to the 
+Excel report will be released shortly.&lt;/p&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 18 Dec 2025 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/2025/12/18/Release-of-Version-5-0-for-upload-and-data-entry/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2025/12/18/Release-of-Version-5-0-for-upload-and-data-entry/</guid>
+			</item>
+		
+			<item>
+				<title>Release of Version 5.0 and scheduled outage for Wednesday 17 December 2025 - 15/12/2025</title>
+				        
+				
+					<description>&lt;p&gt;The PMHC MDS Version 5.0 updates explained in the Department of Health, 
+Disability and Ageing’s (DoHDA) Circular, which was sent to PHN CEOs on 
+Wednesday 19 November 2025, will be released to production during the 
+evening of Wednesday 17 December 2025.&lt;/p&gt;
+
+&lt;p&gt;The Circular has been published at 
+&lt;a href=&quot;https://pmhc-mds.com/communications/#/2025/11/19/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-Version-5.0-Updates/&quot; target=&quot;_blank&quot;&gt;https://pmhc-mds.com/communications/#/2025/11/19/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-Version-5.0-Updates/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We will be migrating data for the Version 5.0 release on the evening of 
+Wednesday 17 December 2025. The PMHC MDS may be unavailable for several 
+hours during this period.&lt;/p&gt;
+
+&lt;p&gt;If you are planning on uploading or entering any data, we advise you to 
+complete your work before 8:00pm AEDT on Wednesday 17 December 2025.&lt;/p&gt;
+
+&lt;p&gt;Thank-you for your patience whilst this work is carried out.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 15 Dec 2025 00:00:00 -0600</pubDate>
+				<link>http://0.0.0.0:4000/2025/12/15/Release-of-Version-5-0-and-scheduled-outage/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2025/12/15/Release-of-Version-5-0-and-scheduled-outage/</guid>
+			</item>
+		
+			<item>
 				<title>FOR ACTION&amp;#58; Primary Mental Health Care Minimum Data Set Version 5.0 Updates</title>
 				        
 				
@@ -698,125 +868,6 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 				<pubDate>Fri, 28 Mar 2025 00:00:00 -0500</pubDate>
 				<link>http://0.0.0.0:4000/2025/03/28/Update-to-the-PMHC-MDS-v-2-14-12/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2025/03/28/Update-to-the-PMHC-MDS-v-2-14-12/</guid>
-			</item>
-		
-			<item>
-				<title>FOR ACTION&amp;#58; Tags in the PMHC MDS</title>
-				        
-				
-					<description>&lt;p&gt;The below circular was sent to PHN CEOs on Friday 20 February 2025.&lt;/p&gt;
-
-&lt;p&gt;-----------------------&lt;/p&gt;
-
-&lt;p&gt;Dear PHN CEOs,&lt;/p&gt;
-
-&lt;p&gt;The Department of Health and Aged Care is writing to you to request that all PHNs and/or their Provider Organisations (POs) conduct a review of the tags they use in the Primary Mental Health Care Minimum Data Set (PMHC MDS) to ensure they have been entered correctly.&lt;/p&gt;
-
-&lt;p&gt;For your action:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ensure relevant staff receive and review the information provided in this circular regarding
-review of PMHC MDS tags by 31 March 2025.&lt;/li&gt;
-  &lt;li&gt;Amend any tags that have been entered incorrectly in the PMHC MDS by 30 June 2025.&lt;/li&gt;
-  &lt;li&gt;Ensure all tags, historically and new, are entered in accordance with the guidance provided 
-in this circular.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For any questions regarding this information please contact &lt;a href=&quot;mailto:mentalhealthdata@health.gov.au&quot;&gt;mentalhealthdata@health.gov.au&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Kind regards,&lt;/p&gt;
-
-&lt;p&gt;Mental Health Data&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;PHN CEO Circular – February 2025&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;tags-in-the-pmhc-mds&quot;&gt;Tags in the PMHC MDS&lt;/h4&gt;
-
-&lt;h5 id=&quot;overview-2025x02x20&quot;&gt;Overview&lt;/h5&gt;
-
-&lt;p&gt;The Department of Health and Aged Care (the department) is writing to you to request that all PHNs and/or their Provider Organisations (POs) conduct a review of the tags they use in the Primary Mental Health Care Minimum Data Set (PMHC MDS) to ensure they have been entered correctly.&lt;/p&gt;
-
-&lt;p&gt;To support the information in this circular, PHNs are asked to:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ensure relevant staff receive and review the information provided in this circular regarding
-review of PMHC MDS tags by 31 March 2025.&lt;/li&gt;
-  &lt;li&gt;Amend any tags that have been entered incorrectly in the PMHC MDS by 30 June 2025.&lt;/li&gt;
-  &lt;li&gt;Ensure all tags, historically and new, are entered in accordance with the guidance provided 
-in this circular.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For any questions regarding this information please contact &lt;a href=&quot;mailto:mentalhealthdata@health.gov.au&quot;&gt;mentalhealthdata@health.gov.au&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h5 id=&quot;background&quot;&gt;Background&lt;/h5&gt;
-
-&lt;p&gt;Some issues have been identified in relation to the tag field in the PMHC MDS. There are two types of tags available to users in the PMHC MDS; &lt;em&gt;system&lt;/em&gt; tags that start with “!” and &lt;em&gt;user&lt;/em&gt; tags that do not start with “!”. &lt;em&gt;System&lt;/em&gt; tags beginning with an exclamation mark (!) are reserved for use by the department only.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;System&lt;/em&gt; tags have been used to implement extension data specifications such as Wayback (!wayback) and headspace (!headspace). They have also been used to record data where extra partitioning of data was needed for reporting purposes. An example of this was for the bushfire response in 2020. A !br20 tag was implemented to track episodes where one or more services were funded through the bushfire response. The current list of reserved system tags is available at &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/reserved-tags.html&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/reserved-tags.html&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;User&lt;/em&gt; tags can be used by PHNs/POs to tag records in order to partition data to accommodate local requirements as desired.&lt;/p&gt;
-
-&lt;h5 id=&quot;action-required&quot;&gt;Action required&lt;/h5&gt;
-
-&lt;p&gt;PHNs and their POs are asked to review and audit their tags in the PMHC MDS to ensure they have been entered correctly (e.g., no missing commas between tags). Of particular note, multiple tags can be added to a record by separating them with commas. Some of the existing tags may have been meant to have been multiple tags, but they have not been comma separated, so instead one long tag has been added. For example a record may have a tag ‘!covid19 this is an example !br20’ whereas the intention was to have the three tags:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;!covid19&lt;/li&gt;
-  &lt;li&gt;this is an example&lt;/li&gt;
-  &lt;li&gt;!br20&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Tags can contain lower case letters (or will get lowercased), numbers, dashes, spaces, and “!”. Leading and trailing spaces will be stripped.&lt;/p&gt;
-
-&lt;p&gt;As of 1 May 2025 the PMHC MDS will only accept system tags that are in the reserved list.&lt;/p&gt;
-
-&lt;p&gt;For technical support, please contact Logicly at &lt;a href=&quot;mailto:support@pmhc-mds.com&quot;&gt;support@pmhc-mds.com&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 20 Feb 2025 00:00:00 -0600</pubDate>
-				<link>http://0.0.0.0:4000/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2025/02/20/FOR-ACTION-Tags-in-the-PMHC-MDS/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 20/12/2024 (v2.14.7)</title>
-				        
-				
-					<description>&lt;h4 id=&quot;pmhc-mds-update-v2147&quot;&gt;PMHC MDS Update v2.14.7&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.14.7 was released on 
-December 20, 2024.&lt;/p&gt;
-
-&lt;p&gt;The following features have been implemented in the PMHC MDS interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The Tools menu can now be accessed by keyboard&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following features have been applied in the upload interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;An error is returned when a site is included on a Service Contact 
-that is not defined for the Provider Organisation&lt;/li&gt;
-  &lt;li&gt;An error is returned if there is PHN data in uploads&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following features have been implemented in the reporting interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The A1, B1, B2 and B3 reports have been updated to support the sites
-field that was added in the PMHC MDS Version 4.1 Data Specification.
-For more information about this field please refer to
-&lt;a href=&quot;https://pmhc-mds.com/communications/#/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/&quot; target=&quot;_blank&quot;&gt;https://pmhc-mds.com/communications/#/2024/10/27/New-Sites-Field-in-the-PMHC-MDS/&lt;/a&gt;
-and
-&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4.1/data-model-and-specifications.html#service-contact-site&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4.1/data-model-and-specifications.html#service-contact-site&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;State users can now view reports down to Provider Organisation level&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The user guides have been updated to reflect these updates. They are available
-at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 20 Dec 2024 00:00:00 -0600</pubDate>
-				<link>http://0.0.0.0:4000/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2024/12/20/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-14-7/</guid>
 			</item>
 		
 	</channel>
