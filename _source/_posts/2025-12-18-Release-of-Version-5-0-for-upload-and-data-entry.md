@@ -21,7 +21,7 @@ for overviews of the new specification.
 Existing data entered using the The Way Back Version 3 specification has 
 been migrated to the Version 5.0 specification. You may wish to review your data.
 
-##### Data Entry #####
+##### Data Entry ##### {#data-entry-2025x12x18}
 
 The following changes have been made in the Data Entry interface:
 
@@ -37,7 +37,7 @@ The following changes have been made in the Data Entry interface:
 * A new system tag !uaooh has been introduced. Please refer to the DoHDA 
   circular above for information on how this tag can be used.
 
-##### Upload #####
+##### Upload ##### {#upload-2025x12x18}
 
 Uploads now support the Version 5.0.0 data specification as documented at 
 https://docs.pmhc-mds.com/projects/data-specification/en/v5.0/upload-specification.html. 
@@ -55,7 +55,7 @@ Please refer to https://docs.pmhc-mds.com/projects/data-specification/en/v5.0/up
 for a description of the changes between the Version 4.1 or The Way Back 
 Support Service Version 3 and the new Version 5.0 specification.
 
-##### Reporting #####
+##### Reporting ##### {#reporting-2025x12x18}
 
 The Data Source selector on the reporting interface has been updated to:
 
