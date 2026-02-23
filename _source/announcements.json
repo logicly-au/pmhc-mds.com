@@ -7,7 +7,7 @@ layout: null
 	{
 		"title"    : "{{ post.title }}",
 		"date"     : "{{ post.date | date: "%B %d, %Y" }}",
-		"content"  : "{{ post.content }}"
+		"content"  : "{{ post.content | jsonify }}"
 	}
 {% endfor %}
 ]
