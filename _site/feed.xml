@@ -7,6 +7,45 @@
 		<atom:link href="https://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS - 23/2/2026 (v3.0.7)</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v307&quot;&gt;PMHC MDS Update v3.0.7&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v3.0.7 was released on 
+February 23, 2026.&lt;/p&gt;
+
+&lt;p&gt;The following features have been applied in the data entry interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug where Psychosocial could still be used as a Principal 
+Focus of Treatment for a new episode&lt;/li&gt;
+  &lt;li&gt;AMHC is no longer a valid response for new Intakes/Episodes for 
+the ’Organisation type referred to at Intake/Episode Conclusion‘ 
+field, but is still allowed for existing records. The 
+‘HeadtoHelp / HeadtoHealth’ is similar but is still allowed for 
+new Intakes/Episodes for remaining temporary Head to Health 
+Clinics in New South Wales and Victoria. Fixed a bug when 
+displaying these fields where these options were applied to 
+existing records.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue with the Veteran field defaulting to 
+“not stated/not adequately described”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the upload interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug with the UA Needs Identification worksheet name&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 23 Feb 2026 00:00:00 -0600</pubDate>
+				<link>https://www.pmhc-mds.com/2026/02/23/Update-to-the-PMHC-MDS-v-3-0-7/</link>
+				<guid isPermaLink="true">https://www.pmhc-mds.com/2026/02/23/Update-to-the-PMHC-MDS-v-3-0-7/</guid>
+			</item>
+		
+			<item>
 				<title>PMHC MDS - Release of Version 5.0 for Upload and Data Entry - 18/12/2025 (v3.0.1)</title>
 				        
 				
@@ -831,43 +870,6 @@ using the Version 4.1 upload format before this date.&lt;/p&gt;
 				<pubDate>Thu, 10 Apr 2025 00:00:00 -0500</pubDate>
 				<link>https://www.pmhc-mds.com/2025/04/10/Reminder-PMHC-4.0-EOL/</link>
 				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/04/10/Reminder-PMHC-4.0-EOL/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 28/03/2025 (v2.14.12)</title>
-				        
-				
-					<description>&lt;h4 id=&quot;pmhc-mds-update-v21412&quot;&gt;PMHC MDS Update v2.14.12&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v2.14.12 was released on 
-March 28, 2025.&lt;/p&gt;
-
-&lt;p&gt;The following features have been implemented in the reporting interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The Department of Health and Aged Care and State organisations can now 
-view the A1, B1, B2 and B3 reports down to the Provider Organisation 
-reporting level&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following updates have been implemented in the data extract interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Implemented a fix to allow a PHN user to download data from a headspace 
-provider organisation within their PHN&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following updates have been applied in the upload interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Improved the error message when 09099999 is provided on an Intake for 
-either Referral date or Date Client Contacted Intake&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The user guides have been updated to reflect these updates. They are available
-at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 28 Mar 2025 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2025/03/28/Update-to-the-PMHC-MDS-v-2-14-12/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/03/28/Update-to-the-PMHC-MDS-v-2-14-12/</guid>
 			</item>
 		
 	</channel>
