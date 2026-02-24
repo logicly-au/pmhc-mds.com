@@ -4,10 +4,10 @@ layout: null
 
 [
 {% for post in site.posts %}
-	{
-		"title": {{ post.title | jsonify }},
-		"date": "{{ post.date | date: "%B %d, %Y" }}",
-		"content": {{ post.content | jsonify }}
-	}{% unless forloop.last %},{% endunless -%}
-{% endfor %}
+  {
+	"title": {{ post.title | jsonify }},
+	"date": "{{ post.date | date: "%B %d, %Y" }}",
+	"content": {{ post.content | normalize_whitespace | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor -%}
 ]
