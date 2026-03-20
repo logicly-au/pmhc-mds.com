@@ -3,8 +3,44 @@
 	<channel>
 		<title></title>
 		<description></description>		
-		<link>https://www.pmhc-mds.com</link>
-		<atom:link href="https://www.pmhc-mds.com/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://0.0.0.0:4000</link>
+		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Update to the PMHC MDS - 20/3/2026 (v3.0.10)</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v3010&quot;&gt;PMHC MDS Update v3.0.10&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v3.0.10 was released on 
+March 20, 2026.&lt;/p&gt;
+
+&lt;p&gt;The following new reports have been implemented:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A13: Data quality report — Volume of completed outcome measures report&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following features have been applied in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Added ANZAC day (replacement) public holiday for NSW for reports that 
+count business days&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following features have been applied in the user management interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Users with the User Management role can now see inactive organisations 
+and remove roles that users have at inactive organisations. Roles 
+cannot be added for a user at an inactive organisation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 20 Mar 2026 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2026/03/20/Update-to-the-PMHC-MDS-v-3-0-10/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2026/03/20/Update-to-the-PMHC-MDS-v-3-0-10/</guid>
+			</item>
 		
 			<item>
 				<title>Update to the PMHC MDS - 23/2/2026 (v3.0.7)</title>
@@ -41,8 +77,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Mon, 23 Feb 2026 00:00:00 -0600</pubDate>
-				<link>https://www.pmhc-mds.com/2026/02/23/Update-to-the-PMHC-MDS-v-3-0-7/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2026/02/23/Update-to-the-PMHC-MDS-v-3-0-7/</guid>
+				<link>http://0.0.0.0:4000/2026/02/23/Update-to-the-PMHC-MDS-v-3-0-7/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2026/02/23/Update-to-the-PMHC-MDS-v-3-0-7/</guid>
 			</item>
 		
 			<item>
@@ -184,8 +220,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Thu, 18 Dec 2025 00:00:00 -0600</pubDate>
-				<link>https://www.pmhc-mds.com/2025/12/18/Release-of-Version-5-0-for-upload-and-data-entry/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/12/18/Release-of-Version-5-0-for-upload-and-data-entry/</guid>
+				<link>http://0.0.0.0:4000/2025/12/18/Release-of-Version-5-0-for-upload-and-data-entry/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2025/12/18/Release-of-Version-5-0-for-upload-and-data-entry/</guid>
 			</item>
 		
 			<item>
@@ -211,8 +247,8 @@ complete your work before 8:00pm AEDT on Wednesday 17 December 2025.&lt;/p&gt;
 </description>
 				
 				<pubDate>Mon, 15 Dec 2025 00:00:00 -0600</pubDate>
-				<link>https://www.pmhc-mds.com/2025/12/15/Release-of-Version-5-0-and-scheduled-outage/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/12/15/Release-of-Version-5-0-and-scheduled-outage/</guid>
+				<link>http://0.0.0.0:4000/2025/12/15/Release-of-Version-5-0-and-scheduled-outage/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2025/12/15/Release-of-Version-5-0-and-scheduled-outage/</guid>
 			</item>
 		
 			<item>
@@ -404,8 +440,8 @@ permitted.&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 19 Nov 2025 00:00:00 -0600</pubDate>
-				<link>https://www.pmhc-mds.com/2025/11/19/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-Version-5.0-Updates/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/11/19/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-Version-5.0-Updates/</guid>
+				<link>http://0.0.0.0:4000/2025/11/19/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-Version-5.0-Updates/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2025/11/19/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-Version-5.0-Updates/</guid>
 			</item>
 		
 			<item>
@@ -448,8 +484,8 @@ if the data was processed successfully&lt;/li&gt;
 </description>
 				
 				<pubDate>Thu, 18 Sep 2025 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2025/09/18/Update-to-the-PMHC-MDS-v-2-16-3/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/09/18/Update-to-the-PMHC-MDS-v-2-16-3/</guid>
+				<link>http://0.0.0.0:4000/2025/09/18/Update-to-the-PMHC-MDS-v-2-16-3/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2025/09/18/Update-to-the-PMHC-MDS-v-2-16-3/</guid>
 			</item>
 		
 			<item>
@@ -540,8 +576,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Mon, 18 Aug 2025 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2025/08/18/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-16-0/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/08/18/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-16-0/</guid>
+				<link>http://0.0.0.0:4000/2025/08/18/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-16-0/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2025/08/18/Update-to-the-PMHC-MDS-and-Data-Specifications-v-2-16-0/</guid>
 			</item>
 		
 			<item>
@@ -783,8 +819,8 @@ dataset. This will support accurate tracking and analysis of trial-specific outc
 </description>
 				
 				<pubDate>Fri, 15 Aug 2025 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2025/08/15/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-upcoming-changes-for-Medicare-Mental-Health-Centres-and-Universal-Aftercare/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/08/15/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-upcoming-changes-for-Medicare-Mental-Health-Centres-and-Universal-Aftercare/</guid>
+				<link>http://0.0.0.0:4000/2025/08/15/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-upcoming-changes-for-Medicare-Mental-Health-Centres-and-Universal-Aftercare/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2025/08/15/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-upcoming-changes-for-Medicare-Mental-Health-Centres-and-Universal-Aftercare/</guid>
 			</item>
 		
 			<item>
@@ -819,8 +855,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Tue, 06 May 2025 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2025/05/06/Update-to-the-PMHC-MDS-v-2-15-0/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/05/06/Update-to-the-PMHC-MDS-v-2-15-0/</guid>
+				<link>http://0.0.0.0:4000/2025/05/06/Update-to-the-PMHC-MDS-v-2-15-0/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2025/05/06/Update-to-the-PMHC-MDS-v-2-15-0/</guid>
 			</item>
 		
 			<item>
@@ -846,30 +882,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Mon, 28 Apr 2025 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2025/04/28/Final-PMHC-MDS-Version-4-0-data-specification-end-of-life/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/04/28/Final-PMHC-MDS-Version-4-0-data-specification-end-of-life/</guid>
-			</item>
-		
-			<item>
-				<title>Reminder of the End of Life for PMHC MDS version 4.0 Data Specification</title>
-				        
-				
-					<description>&lt;p&gt;The PMHC MDS currently supports uploads in both the PMHC version 4.0 format as
-documented at &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4/&lt;/a&gt;
-and the PMHC version 4.1 format as documented at
-&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4.1/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4.1/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;After the 1st of May 2025 the PMHC MDS will no longer accept uploads using the
-Version 4.0 formats. Please ensure that your systems have been migrated to
-using the Version 4.1 upload format before this date.&lt;/p&gt;
-
-&lt;p&gt;A summary of the changes between version 4.0 and 4.1 is available at
-&lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v4.1/upgrading-from-previous-versions.html&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v4.1/upgrading-from-previous-versions.html&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 10 Apr 2025 00:00:00 -0500</pubDate>
-				<link>https://www.pmhc-mds.com/2025/04/10/Reminder-PMHC-4.0-EOL/</link>
-				<guid isPermaLink="true">https://www.pmhc-mds.com/2025/04/10/Reminder-PMHC-4.0-EOL/</guid>
+				<link>http://0.0.0.0:4000/2025/04/28/Final-PMHC-MDS-Version-4-0-data-specification-end-of-life/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2025/04/28/Final-PMHC-MDS-Version-4-0-data-specification-end-of-life/</guid>
 			</item>
 		
 	</channel>
