@@ -7,12 +7,12 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Update to the PMHC MDS - 20/3/2026 (v3.0.10)</title>
+				<title>Update to the PMHC MDS - 20/3/2026 (v3.1.0)</title>
 				        
 				
-					<description>&lt;h4 id=&quot;pmhc-mds-update-v3010&quot;&gt;PMHC MDS Update v3.0.10&lt;/h4&gt;
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v310&quot;&gt;PMHC MDS Update v3.1.0&lt;/h4&gt;
 
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v3.0.10 was released on 
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v3.1.0 was released on 
 March 20, 2026.&lt;/p&gt;
 
 &lt;p&gt;The following new reports have been implemented:&lt;/p&gt;
@@ -38,8 +38,8 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 </description>
 				
 				<pubDate>Fri, 20 Mar 2026 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2026/03/20/Update-to-the-PMHC-MDS-v-3-0-10/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2026/03/20/Update-to-the-PMHC-MDS-v-3-0-10/</guid>
+				<link>http://0.0.0.0:4000/2026/03/20/Update-to-the-PMHC-MDS-v-3-1-0/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2026/03/20/Update-to-the-PMHC-MDS-v-3-1-0/</guid>
 			</item>
 		
 			<item>

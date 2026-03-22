@@ -1,10 +1,10 @@
 ---
-title: Update to the PMHC MDS - 20/3/2026 (v3.0.10)
+title: Update to the PMHC MDS - 20/3/2026 (v3.1.0)
 ---
 
-#### PMHC MDS Update v3.0.10 ####
+#### PMHC MDS Update v3.1.0 ####
 
-We are pleased to announce that PMHC MDS Update v3.0.10 was released on 
+We are pleased to announce that PMHC MDS Update v3.1.0 was released on 
 March 20, 2026.
 
 The following new reports have been implemented:
