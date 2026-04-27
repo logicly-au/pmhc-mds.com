@@ -57,7 +57,7 @@ A tick box will be added to the PMHC MDS interface to simplify data entry (examp
 
 If you have any questions, please contact:
 
-* General PMHC MDS – Strategic Data: [support@pmhc-mds.com](support@mailto:pmhc-mds.com), 03 9340 9000
+* General PMHC MDS – Strategic Data: [support@pmhc-mds.com](mailto:support@pmhc-mds.com), 03 9340 9000
 * Other queries? Department of Health, Mental Health Data Sharing and Governance Section at
 [mentalhealthdata@health.gov.au](mailto:mentalhealthdata@health.gov.au)
 

@@ -68,10 +68,10 @@ document [https://docs.pmhc-mds.com/projects/data-specification/en/v2/data-model
 ##### Further information {#further-information-01x2020}
 
 If you have any questions about the reporting requirements, please contact Sarah Hinde,
-Director, Mental Health Data on 02 6289 6817 or at [mentalhealthdata@health.gov.au](mentalhealthdata@health.gov.au)
+Director, Mental Health Data on 02 6289 6817 or at [mentalhealthdata@health.gov.au](mailto:mentalhealthdata@health.gov.au)
 
 Further details about the *Mental Health Response to Bushfire Trauma* is in PHN SharePoint
-[https://healthgov.sharepoint.com](https://healthgov.sharepoint.com) or contact [psychologicalservices@health.gov.au](psychologicalservices@health.gov.au).
+[https://healthgov.sharepoint.com](https://healthgov.sharepoint.com) or contact [psychologicalservices@health.gov.au](mailto:psychologicalservices@health.gov.au).
 
 #### Attachment A - Instructions for reporting in the PMHC MDS {#attachmenta-01x2020}
 
@@ -160,7 +160,7 @@ subsequently manually tagged via the data entry interface. This would require si
 manual processes and double handling but it is a use case supported by the PMHC MDS.
 
 If you have queries about managing data upload processes please contact the PMHC MDS
-helpdesk at [support@pmhc-mds.com](support@pmhc-mds.com) or 03 9340 9020.
+helpdesk at [support@pmhc-mds.com](mailto:support@pmhc-mds.com) or 03 9340 9020.
 
 #### Attachment B - Applying the bushfire response tag via PMHC-MDS data entry {#attachmentb-01x2020}
 
