@@ -26,7 +26,7 @@ to minimise data collection burden, and changes to reporting, for PHNs and servi
 providers. We consulted with the Primary Mental Health Care Data Reference Group on
 options and ways to support implementation of reporting changes. 
 
-##### Scope of new reporting requirements {#scope-01x2020}
+##### Scope of new reporting requirements {#scope-report-requirements-01x2020}
 
 PHNs in fire affected communities are funded through the *Australian Government Mental
 Health Response to Bushfire Trauma* to deliver services including:
