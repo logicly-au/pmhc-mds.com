@@ -57,9 +57,9 @@ A tick box will be added to the PMHC MDS interface to simplify data entry (examp
 
 If you have any questions, please contact:
 
-* General PMHC MDS – Strategic Data: [support@pmhc-mds.com](support@pmhc-mds.com), 03 9340 9000
+* General PMHC MDS – Strategic Data: [support@pmhc-mds.com](support@mailto:pmhc-mds.com), 03 9340 9000
 * Other queries? Department of Health, Mental Health Data Sharing and Governance Section at
-[mentalhealthdata@health.gov.au](mentalhealthdata@health.gov.au)
+[mentalhealthdata@health.gov.au](mailto:mentalhealthdata@health.gov.au)
 
 #### Attachment A - How to apply the tag in the PMHC MDS data entry interface {#attachmenta-25x11x2021}
 
@@ -124,4 +124,4 @@ manually tagged via the data entry interface. This would require significant man
 handling but it is a use case supported by the PMHC MDS.
 
 If you have queries about managing data upload processes please contact the PMHC MDS
-helpdesk at [support@pmhc-mds.com](support@pmhc-mds.com) or 03 9340 9020.
+helpdesk at [support@pmhc-mds.com](mailto:support@pmhc-mds.com) or 03 9340 9020.

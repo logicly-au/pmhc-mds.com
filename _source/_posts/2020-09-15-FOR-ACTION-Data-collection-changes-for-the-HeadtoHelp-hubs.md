@@ -48,7 +48,7 @@ A tick box will be added to the PMHC MDS interface to simplify data entry (examp
 ##### Further information {#further-information-09x2020}
 
 If you have any questions about the reporting requirements, please contact Sarah Hinde,
-Director, Mental Health Data on 02 6289 6817 or at [mentalhealthdata@health.gov.au](mentalhealthdata@health.gov.au)
+Director, Mental Health Data on 02 6289 6817 or at [mentalhealthdata@health.gov.au](mailto:mentalhealthdata@health.gov.au)
 
 More information about the HeadtoHelp hubs is available at [https://headtohelp.org.au/](https://headtohelp.org.au/) and
 [https://www.health.gov.au/ministers/the-hon-greg-hunt-mp/media/government-launches-new-covid-19-mental-health-clinics-in-victoria](https://www.health.gov.au/ministers/the-hon-greg-hunt-mp/media/government-launches-new-covid-19-mental-health-clinics-in-victoria)
@@ -115,4 +115,4 @@ manually tagged via the data entry interface. This would require significant man
 handling but it is a use case supported by the PMHC MDS.
 
 If you have queries about managing data upload processes please contact the PMHC MDS
-helpdesk at [support@pmhc-mds.com](support@pmhc-mds.com) or 03 9340 9020.
+helpdesk at [support@pmhc-mds.com](mailto:support@pmhc-mds.com) or 03 9340 9020.
