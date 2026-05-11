@@ -153,7 +153,7 @@ Bushfire” option. This gives the organisation control over the values that may
 In both of the above examples, development work would also be required in the data
 extraction process used to produce PMHC MDS compliant upload files. An endorsement of
 “Australian Government Mental Health Response to Bushfire” via either method would be
-converted to the tag !br20 on the extracted episode records where appropriate.
+converted to the tag `!br20` on the extracted episode records where appropriate.
 
 An alternative but not preferred option is that episode records could be uploaded and then
 subsequently manually tagged via the data entry interface. This would require significant

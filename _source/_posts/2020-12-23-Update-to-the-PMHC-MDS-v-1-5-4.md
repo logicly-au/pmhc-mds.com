@@ -25,11 +25,11 @@ for PHNs, Provider Organisations and third-party developers. See:
 
 The HeadtoHelp Hubs data entry interface is also available. It allows users to manually enter HeadtoHelp Hubs data through online forms as an alternative to uploading a spreadsheet or file. The HeadtoHelp Hubs User Guide is available at [https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/user-documentation/](https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/user-documentation/){:target="_blank"}. Information on adding HeadtoHelp data to an episode is available at [https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/user-documentation/data-entry-user-guide.html#adding-a-client-s-headtohelp-episode-data](https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/user-documentation/data-entry-user-guide.html#adding-a-client-s-headtohelp-episode-data){:target="_blank"}
 
-Reports have been updated so that they can filter episodes using either the existing ``!br20`` tag or the HeadtoHelp Hubs ``!covid19`` episode tag that has been introduced in order to support the Australian Government Mental Health HeadtoHelp Hubs program. Please refer to [https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html](https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html){:target="_blank"} for full details of when and how to use these tags.
+Reports have been updated so that they can filter episodes using either the existing `!br20` tag or the HeadtoHelp Hubs `!covid19` episode tag that has been introduced in order to support the Australian Government Mental Health HeadtoHelp Hubs program. Please refer to [https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html](https://docs.pmhc-mds.com/projects/data-specification/en/v2/reserved-tags.html){:target="_blank"} for full details of when and how to use these tags.
 
 The following bug fixes been implemented in the reporting tab:
 
-* Fixed a bug so that only ``!wayback`` tagged records are included in The Way Back
+* Fixed a bug so that only `!wayback` tagged records are included in The Way Back
   quarterly reports.
 
 

@@ -161,8 +161,8 @@ Additionally, the following changes will also be included in Version 5.0:
   Universal Aftercare
 * A new IAR-DST - Practitioner Reason for Override will be added to the IAR-DST table
 
-When Version 5 is released, existing episodes tagged with !wayback will be migrated to the new
-Universal Aftercare Program Type. The !wayback tag will be retained for historical reference
+When Version 5 is released, existing episodes tagged with `!wayback` will be migrated to the new
+Universal Aftercare Program Type. The `!wayback` tag will be retained for historical reference
 only.
 
 Uploading of both the new Version 5 specification as well as continued upload of the existing
@@ -173,9 +173,9 @@ Version 5 uploads will be accepted.
 
 ###### Universal Aftercare Outside of Hospital/Expanded Referral Pathway Trial
 
-A new system tag (!uaooh) will be introduced at the same time as Version 5 to distinguish
+A new system tag (`!uaooh`) will be introduced at the same time as Version 5 to distinguish
 episodes under the Universal Aftercare Outside of Hospital/Expanded Referral Pathway
-Trial. The !uaooh tag will only be allowed on Episode records where the Program Type is ‘9:
+Trial. The `!uaooh` tag will only be allowed on Episode records where the Program Type is ‘9:
 Universal Aftercare’.
 
 ###### Reporting {#reporting-2025x08x15}

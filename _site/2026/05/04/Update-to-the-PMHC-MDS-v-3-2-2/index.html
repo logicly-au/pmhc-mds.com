@@ -13,7 +13,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Update to the PMHC MDS - 16/2/2023</title>
+    <title>Update to the PMHC MDS - 4/5/2026 (v3.2.2)</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="alternate" type="application/rss+xml" title="PMHC-MDS RSS" href="/feed.xml">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -81,26 +81,38 @@
       </div>
       <div class="row">
 	  <div class="col-xs-12 col-sm-12 col-md-8">
-        <h4 id="pmhc-mds-update-v253">PMHC MDS Update v2.5.3</h4>
+        <h4 id="pmhc-mds-update-v322">PMHC MDS Update v3.2.2</h4>
 
-<p>We are pleased to announce that PMHC MDS Update v2.5.3 was released on 
-February 16, 2023.</p>
+<p>We are pleased to announce that PMHC MDS Update v3.2.2 was released on 
+May 4, 2026.</p>
 
-<p>The following updates have been applied:</p>
+<p>As per the Department of Health, Disability and Ageing’s (DoHDA)
+Circular on 30 April, 2026 which is published at
+<a href="https://pmhc-mds.com/communications/#/2026/04/30/FOR-ACTION-New-MMHC-system-tags-in-the-PMHC-MDS/" target="_blank">https://pmhc-mds.com/communications/#/2026/04/30/FOR-ACTION-New-MMHC-system-tags-in-the-PMHC-MDS/</a>
+the tags <code class="language-plaintext highlighter-rouge">!rhcpsychology</code> and <code class="language-plaintext highlighter-rouge">!rhcpsychiatry</code> are now available through Data Entry,
+Upload and Data Extracts in the PMHC MDS.</p>
+
+<p>Version 5.0.3 of the base PMHC MDS data specification has been released to
+add additional validations to support these tags.</p>
+
+<p>Please refer to DoHDA’s Circular linked above for details about usage of these tags.</p>
+
+<p>The following updates have been applied in the data entry interface:</p>
 <ul>
-  <li>Episodes tagged with the <code class="language-plaintext highlighter-rouge">!covid19</code> tag were being rejected. 
-This has been fixed.</li>
+  <li>Fixed a bug in the add client form that could stop navigation away from the
+unsaved data modal.</li>
 </ul>
 
-<h5 id="reminder">Reminder</h5>
+<p>The following updates have been applied in the reporting interface:</p>
+<ul>
+  <li>Updated the table headers in the A16 report to clarify what each column is counting.</li>
+</ul>
 
-<p>HeadtoHealth Episodes entered/uploaded in Version 4 no longer require 
-the <code class="language-plaintext highlighter-rouge">!covid19</code> tag.</p>
-
-<p>The <code class="language-plaintext highlighter-rouge">!covid19</code> tag has now reverted to its original use to flag that an 
-episode has occurred  as a result of the COVID-19 pandemic. For more 
-information please refer to 
-<a href="https://docs.pmhc-mds.com/projects/data-specification/en/v4/reserved-tags.html#covid19" target="_blank">https://docs.pmhc-mds.com/projects/data-specification/en/v4/reserved-tags.html#covid19</a></p>
+<p>The following updates have been applied in the data extract interface:</p>
+<ul>
+  <li>Fixed a bug in table pagination where the number of rows displayed would not change
+to more than 10.</li>
+</ul>
 
 <p>The user guides have been updated to reflect these updates. They are available
 at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.</p>

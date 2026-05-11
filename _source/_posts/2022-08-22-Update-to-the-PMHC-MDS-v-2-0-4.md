@@ -23,7 +23,7 @@ The following bugfixes have been implemented in the data entry interface:
 
 * The Suicide Referral icon was showing on summary details for episodes
   where the Suicide Referral flag was not recorded as `1: Yes`
-* Intake-Episode data was not displayed when an episode had the tag !covid19
+* Intake-Episode data was not displayed when an episode had the tag `!covid19`
 * The ‘Roles of Assigned Users’ tab was not showing the correct roles
 * The ‘Duplicate’ button was missing from the Service Contact ‘View Details’ tab
 

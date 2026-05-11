@@ -84,6 +84,14 @@
         <ul>
   
     <li>
+      <a href="#/2026/05/08/Update-to-the-PMHC-MDS-v-3-2-4/">Update to the PMHC MDS - 8/5/2026 (v3.2.4)</a><span> <span aria-hidden="true">|</span> May 08, 2026</span>
+    </li>
+  
+    <li>
+      <a href="#/2026/05/04/Update-to-the-PMHC-MDS-v-3-2-2/">Update to the PMHC MDS - 4/5/2026 (v3.2.2)</a><span> <span aria-hidden="true">|</span> May 04, 2026</span>
+    </li>
+  
+    <li>
       <a href="#/2026/04/30/FOR-INFORMATION-PMHC-MDS-transition-to-the-AIHW-contact-information/">FOR INFORMATION&#58; PMHC MDS transition to the AIHW – contact information</a><span> <span aria-hidden="true">|</span> April 30, 2026</span>
     </li>
   
@@ -844,6 +852,72 @@
 <div>
   
     <div class="post">
+      <div id="/2026/05/08/Update-to-the-PMHC-MDS-v-3-2-4/"><h2>Update to the PMHC MDS - 8/5/2026 (v3.2.4)</h2></div>
+      <h3>May 08, 2026</h3>
+	    <h4 id="pmhc-mds-update-v324">PMHC MDS Update v3.2.4</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v3.2.4 was released on 
+May 8, 2026.</p>
+
+<p>The following updates have been applied in the upload interface:</p>
+<ul>
+  <li>Fixed a bug where emails were not being sent after a successful upload.</li>
+  <li>Improved the error returned when the episode_tags column is missing in 
+an episodes worksheet/file.</li>
+</ul>
+
+<p>The following updates have been applied in the login interface:</p>
+<ul>
+  <li>Fixed a bug where new users couldn’t log in after accepting their invite.</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available
+at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.</p>
+
+    </div>
+  
+    <div class="post">
+      <div id="/2026/05/04/Update-to-the-PMHC-MDS-v-3-2-2/"><h2>Update to the PMHC MDS - 4/5/2026 (v3.2.2)</h2></div>
+      <h3>May 04, 2026</h3>
+	    <h4 id="pmhc-mds-update-v322">PMHC MDS Update v3.2.2</h4>
+
+<p>We are pleased to announce that PMHC MDS Update v3.2.2 was released on 
+May 4, 2026.</p>
+
+<p>As per the Department of Health, Disability and Ageing’s (DoHDA)
+Circular on 30 April, 2026 which is published at
+<a href="https://pmhc-mds.com/communications/#/2026/04/30/FOR-ACTION-New-MMHC-system-tags-in-the-PMHC-MDS/" target="_blank">https://pmhc-mds.com/communications/#/2026/04/30/FOR-ACTION-New-MMHC-system-tags-in-the-PMHC-MDS/</a>
+the tags <code class="language-plaintext highlighter-rouge">!rhcpsychology</code> and <code class="language-plaintext highlighter-rouge">!rhcpsychiatry</code> are now available through Data Entry,
+Upload and Data Extracts in the PMHC MDS.</p>
+
+<p>Version 5.0.3 of the base PMHC MDS data specification has been released to
+add additional validations to support these tags.</p>
+
+<p>Please refer to DoHDA’s Circular linked above for details about usage of these tags.</p>
+
+<p>The following updates have been applied in the data entry interface:</p>
+<ul>
+  <li>Fixed a bug in the add client form that could stop navigation away from the
+unsaved data modal.</li>
+</ul>
+
+<p>The following updates have been applied in the reporting interface:</p>
+<ul>
+  <li>Updated the table headers in the A16 report to clarify what each column is counting.</li>
+</ul>
+
+<p>The following updates have been applied in the data extract interface:</p>
+<ul>
+  <li>Fixed a bug in table pagination where the number of rows displayed would not change
+to more than 10.</li>
+</ul>
+
+<p>The user guides have been updated to reflect these updates. They are available
+at <a href="https://docs.pmhc-mds.com/" target="_blank">https://docs.pmhc-mds.com/</a>.</p>
+
+    </div>
+  
+    <div class="post">
       <div id="/2026/04/30/FOR-INFORMATION-PMHC-MDS-transition-to-the-AIHW-contact-information/"><h2>FOR INFORMATION&#58; PMHC MDS transition to the AIHW – contact information</h2></div>
       <h3>April 30, 2026</h3>
 	    <p>The below circular was sent to PHN CEOs on Thursday 30 April 2026.</p>
@@ -1219,7 +1293,7 @@ this response have been migrated to “8: MMHC”.</li>
   <li>References to The Way Back have been changed to Universal Aftercare.</li>
   <li>A Veteran field has been added to Intake and Episode records.</li>
   <li>A Practitioner Reason for Override field as been added to the IAR-DS.</li>
-  <li>A new system tag !uaooh has been introduced. Please refer to the DoHDA 
+  <li>A new system tag <code class="language-plaintext highlighter-rouge">!uaooh</code> has been introduced. Please refer to the DoHDA 
 circular above for information on how this tag can be used.</li>
 </ul>
 
@@ -1287,8 +1361,8 @@ UA episode record</li>
   <li>M10: Activity Report: Service contact duration</li>
 </ul>
 
-<p>Reports can now be filtered with the new !uaooh tag. Reports can no longer be 
-filtered with the !wayback tag.</p>
+<p>Reports can now be filtered with the new <code class="language-plaintext highlighter-rouge">!uaooh</code> tag. Reports can no longer be 
+filtered with the <code class="language-plaintext highlighter-rouge">!wayback</code> tag.</p>
 
 <h5 id="known-issues">Known Issues</h5>
 
@@ -1436,10 +1510,10 @@ the new ‘9: Universal Aftercare’ Program Type are included</p>
       <li>WHO-5</li>
     </ul>
   </li>
-  <li>Existing episodes tagged with !wayback will be migrated to the new Universal Aftercare
-Program Type. The !wayback tag will be retained for historical reference only.</li>
-  <li>A new system tag (!uaooh) will be introduced to distinguish episodes under the
-Universal Aftercare Outside of Hospital/Expanded Referral Pathway Trial. The !uaooh
+  <li>Existing episodes tagged with <code class="language-plaintext highlighter-rouge">!wayback</code> will be migrated to the new Universal Aftercare
+Program Type. The <code class="language-plaintext highlighter-rouge">!wayback</code> tag will be retained for historical reference only.</li>
+  <li>A new system tag (<code class="language-plaintext highlighter-rouge">!uaooh</code>) will be introduced to distinguish episodes under the
+Universal Aftercare Outside of Hospital/Expanded Referral Pathway Trial. The <code class="language-plaintext highlighter-rouge">!uaooh</code>
 tag will only be allowed on Episode records where the Program Type is ‘9: Universal
 Aftercare’. This tag should be applied to all episodes delivered under the Universal
 Aftercare Outside of Hospital/Expanded Referral Pathway Trial.</li>
@@ -1840,8 +1914,8 @@ Universal Aftercare</li>
   <li>A new IAR-DST - Practitioner Reason for Override will be added to the IAR-DST table</li>
 </ul>
 
-<p>When Version 5 is released, existing episodes tagged with !wayback will be migrated to the new
-Universal Aftercare Program Type. The !wayback tag will be retained for historical reference
+<p>When Version 5 is released, existing episodes tagged with <code class="language-plaintext highlighter-rouge">!wayback</code> will be migrated to the new
+Universal Aftercare Program Type. The <code class="language-plaintext highlighter-rouge">!wayback</code> tag will be retained for historical reference
 only.</p>
 
 <p>Uploading of both the new Version 5 specification as well as continued upload of the existing
@@ -1852,9 +1926,9 @@ Version 5 uploads will be accepted.</p>
 
 <h6 id="universal-aftercare-outside-of-hospitalexpanded-referral-pathway-trial">Universal Aftercare Outside of Hospital/Expanded Referral Pathway Trial</h6>
 
-<p>A new system tag (!uaooh) will be introduced at the same time as Version 5 to distinguish
+<p>A new system tag (<code class="language-plaintext highlighter-rouge">!uaooh</code>) will be introduced at the same time as Version 5 to distinguish
 episodes under the Universal Aftercare Outside of Hospital/Expanded Referral Pathway
-Trial. The !uaooh tag will only be allowed on Episode records where the Program Type is ‘9:
+Trial. The <code class="language-plaintext highlighter-rouge">!uaooh</code> tag will only be allowed on Episode records where the Program Type is ‘9:
 Universal Aftercare’.</p>
 
 <h6 id="reporting-2025x08x15">Reporting</h6>
@@ -2048,18 +2122,18 @@ in this circular.</li>
 
 <p>Some issues have been identified in relation to the tag field in the PMHC MDS. There are two types of tags available to users in the PMHC MDS; <em>system</em> tags that start with “!” and <em>user</em> tags that do not start with “!”. <em>System</em> tags beginning with an exclamation mark (!) are reserved for use by the department only.</p>
 
-<p><em>System</em> tags have been used to implement extension data specifications such as Wayback (!wayback) and headspace (!headspace). They have also been used to record data where extra partitioning of data was needed for reporting purposes. An example of this was for the bushfire response in 2020. A !br20 tag was implemented to track episodes where one or more services were funded through the bushfire response. The current list of reserved system tags is available at <a href="https://docs.pmhc-mds.com/projects/data-specification/en/v4/reserved-tags.html" target="_blank">https://docs.pmhc-mds.com/projects/data-specification/en/v4/reserved-tags.html</a>.</p>
+<p><em>System</em> tags have been used to implement extension data specifications such as Wayback (<code class="language-plaintext highlighter-rouge">!wayback</code>) and headspace (<code class="language-plaintext highlighter-rouge">!headspace</code>). They have also been used to record data where extra partitioning of data was needed for reporting purposes. An example of this was for the bushfire response in 2020. A <code class="language-plaintext highlighter-rouge">!br20</code> tag was implemented to track episodes where one or more services were funded through the bushfire response. The current list of reserved system tags is available at <a href="https://docs.pmhc-mds.com/projects/data-specification/en/v4/reserved-tags.html" target="_blank">https://docs.pmhc-mds.com/projects/data-specification/en/v4/reserved-tags.html</a>.</p>
 
 <p><em>User</em> tags can be used by PHNs/POs to tag records in order to partition data to accommodate local requirements as desired.</p>
 
 <h5 id="action-required">Action required</h5>
 
-<p>PHNs and their POs are asked to review and audit their tags in the PMHC MDS to ensure they have been entered correctly (e.g., no missing commas between tags). Of particular note, multiple tags can be added to a record by separating them with commas. Some of the existing tags may have been meant to have been multiple tags, but they have not been comma separated, so instead one long tag has been added. For example a record may have a tag ‘!covid19 this is an example !br20’ whereas the intention was to have the three tags:</p>
+<p>PHNs and their POs are asked to review and audit their tags in the PMHC MDS to ensure they have been entered correctly (e.g., no missing commas between tags). Of particular note, multiple tags can be added to a record by separating them with commas. Some of the existing tags may have been meant to have been multiple tags, but they have not been comma separated, so instead one long tag has been added. For example a record may have a tag <code class="language-plaintext highlighter-rouge">!covid19 this is an example !br20</code> whereas the intention was to have the three tags:</p>
 
 <ul>
-  <li>!covid19</li>
-  <li>this is an example</li>
-  <li>!br20</li>
+  <li><code class="language-plaintext highlighter-rouge">!covid19</code></li>
+  <li><code class="language-plaintext highlighter-rouge">this is an example</code></li>
+  <li><code class="language-plaintext highlighter-rouge">!br20</code></li>
 </ul>
 
 <p>Tags can contain lower case letters (or will get lowercased), numbers, dashes, spaces, and “!”. Leading and trailing spaces will be stripped.</p>
@@ -3067,16 +3141,16 @@ February 16, 2023.</p>
 
 <p>The following updates have been applied:</p>
 <ul>
-  <li>Episodes tagged with the ‘!covid19’ tag were being rejected. 
+  <li>Episodes tagged with the <code class="language-plaintext highlighter-rouge">!covid19</code> tag were being rejected. 
 This has been fixed.</li>
 </ul>
 
 <h5 id="reminder">Reminder</h5>
 
 <p>HeadtoHealth Episodes entered/uploaded in Version 4 no longer require 
-the ‘!covid19’ tag.</p>
+the <code class="language-plaintext highlighter-rouge">!covid19</code> tag.</p>
 
-<p>The !covid19 tag has now reverted to its original use to flag that an 
+<p>The <code class="language-plaintext highlighter-rouge">!covid19</code> tag has now reverted to its original use to flag that an 
 episode has occurred  as a result of the COVID-19 pandemic. For more 
 information please refer to 
 <a href="https://docs.pmhc-mds.com/projects/data-specification/en/v4/reserved-tags.html#covid19" target="_blank">https://docs.pmhc-mds.com/projects/data-specification/en/v4/reserved-tags.html#covid19</a></p>
@@ -3480,7 +3554,7 @@ Where the client has been referred via an intake process, an additional Intake E
 <ul>
   <li>
     <p>The “Psychosocial” response for the Principal Focus of Treatment plan has
-been re-enabled when creating “!wayback” tagged episodes.</p>
+been re-enabled when creating <code class="language-plaintext highlighter-rouge">!wayback</code> tagged episodes.</p>
 
     <p>The Wayback extension is currently being upgraded to be based on the PMHC
 Version 4.0 specification. Further advice will be provided when the upgraded
@@ -3513,7 +3587,7 @@ and the PMHC option will be removed again.</li>
   <li>Date picker no longer auto displays when hovering over a date field</li>
   <li>Duplicate a service contact was not prefilling the two practitioner fields</li>
   <li>Inactive practitioners selection was missing from the service contact add/edit forms</li>
-  <li>Service contact Start Time was not displaying for “!wayback” tagged episodes</li>
+  <li>Service contact Start Time was not displaying for <code class="language-plaintext highlighter-rouge">!wayback</code> tagged episodes</li>
   <li>Fixed an internal error for some data entry</li>
 </ul>
 
@@ -3551,7 +3625,7 @@ A4 and B2 reports</li>
 <ul>
   <li>The Suicide Referral icon was showing on summary details for episodes
 where the Suicide Referral flag was not recorded as <code class="language-plaintext highlighter-rouge">1: Yes</code></li>
-  <li>Intake-Episode data was not displayed when an episode had the tag !covid19</li>
+  <li>Intake-Episode data was not displayed when an episode had the tag <code class="language-plaintext highlighter-rouge">!covid19</code></li>
   <li>The ‘Roles of Assigned Users’ tab was not showing the correct roles</li>
   <li>The ‘Duplicate’ button was missing from the Service Contact ‘View Details’ tab</li>
 </ul>
@@ -4574,7 +4648,7 @@ services funded through the AMHC hubs contracts.</p>
     <p>Manual data entry by typing the tag <code class="language-plaintext highlighter-rouge">!amhc</code> to the tag field</p>
 
     <ul>
-      <li>When entering data directly, episodes will need to be tagged with the string !amhc. The data
+      <li>When entering data directly, episodes will need to be tagged with the string <code class="language-plaintext highlighter-rouge">!amhc</code>. The data
 entry system already allows for the tagging of records and therefore it is possible to
 implement this immediately by communicating the instructions to users.</li>
       <li>Please note the free text nature of the tag system increases the opportunity for errors
@@ -4627,7 +4701,7 @@ organisation control over the values that may be selected.</p>
 
 <p>In both of the above examples, development work would also be required in the data extraction process
 used to produce PMHC MDS compliant upload files. An endorsement of ‘Australian Government Adult
-Mental Health Centre’ via either method would be converted to the tag !amhc on the extracted episode
+Mental Health Centre’ via either method would be converted to the tag <code class="language-plaintext highlighter-rouge">!amhc</code> on the extracted episode
 records where appropriate.</p>
 
 <p>An alternative but not preferred option is that episode records could be uploaded and then subsequently
@@ -5069,7 +5143,7 @@ February 25, 2021.</p>
 <p>The following functionality has been added to the data entry interface:</p>
 <ul>
   <li>Added Practitioner Level of Care to the IAR-DST Measure which can be
-associated with a HeadtoHelp (!covid19) tagged episode.</li>
+associated with a HeadtoHelp (<code class="language-plaintext highlighter-rouge">!covid19</code>) tagged episode.</li>
 </ul>
 
 <p>The following functionality has been added to the upload interface:</p>
@@ -5849,7 +5923,7 @@ identified as HeadtoHelp hub clients will be assessed through the ‘HeadtoHelp 
 Hubs Intake Assessment and Referral Model of Care’ as outlined in the contract. Clients will be referred to
 the most suitable service, which may be at a HeadtoHelp hub.</p>
 
-<p>The PHN <em>must</em> apply ‘Australian Government HeadtoHelp hubs’ tag (!covid19) to episodes of care initiated
+<p>The PHN <em>must</em> apply ‘Australian Government HeadtoHelp hubs’ tag (<code class="language-plaintext highlighter-rouge">!covid19</code>) to episodes of care initiated
 for clients who have been referred to the hub through the IAR process and are receiving services funded
 through the HeadtoHelp hubs contracts.</p>
 
@@ -5927,7 +6001,7 @@ control over the values that may be selected.</p>
 
 <p>In both of the above examples, development work would also be required in the data extraction process
 used to produce PMHC MDS compliant upload files. An endorsement of ‘Australian Government
-HeadtoHelp hubs’ via either method would be converted to the tag !covid19 on the extracted episode
+HeadtoHelp hubs’ via either method would be converted to the tag <code class="language-plaintext highlighter-rouge">!covid19</code> on the extracted episode
 records where appropriate.</p>
 
 <p>An alternative but not preferred option is that episode records could be uploaded and then subsequently
@@ -6627,7 +6701,7 @@ Bushfire” option. This gives the organisation control over the values that may
 <p>In both of the above examples, development work would also be required in the data
 extraction process used to produce PMHC MDS compliant upload files. An endorsement of
 “Australian Government Mental Health Response to Bushfire” via either method would be
-converted to the tag !br20 on the extracted episode records where appropriate.</p>
+converted to the tag <code class="language-plaintext highlighter-rouge">!br20</code> on the extracted episode records where appropriate.</p>
 
 <p>An alternative but not preferred option is that episode records could be uploaded and then
 subsequently manually tagged via the data entry interface. This would require significant

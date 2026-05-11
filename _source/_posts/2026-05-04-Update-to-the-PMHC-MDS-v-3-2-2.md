@@ -10,7 +10,7 @@ May 4, 2026.
 As per the Department of Health, Disability and Ageing’s (DoHDA)
 Circular on 30 April, 2026 which is published at
 [https://pmhc-mds.com/communications/#/2026/04/30/FOR-ACTION-New-MMHC-system-tags-in-the-PMHC-MDS/](https://pmhc-mds.com/communications/#/2026/04/30/FOR-ACTION-New-MMHC-system-tags-in-the-PMHC-MDS/){:target="_blank"}
-the tags !rhcpsychology and !rhcpsychiatry are now available through Data Entry,
+the tags `!rhcpsychology` and `!rhcpsychiatry` are now available through Data Entry,
 Upload and Data Extracts in the PMHC MDS.
 
 Version 5.0.3 of the base PMHC MDS data specification has been released to

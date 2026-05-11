@@ -9,7 +9,7 @@ We are pleased to announce that PMHC MDS Update v2.0.6 was released on September
 The following changes have been applied in the data entry interface:
 
 * The “Psychosocial” response for the Principal Focus of Treatment plan has
-  been re-enabled when creating “!wayback” tagged episodes.
+  been re-enabled when creating `!wayback` tagged episodes.
 
   The Wayback extension is currently being upgraded to be based on the PMHC
   Version 4.0 specification. Further advice will be provided when the upgraded
@@ -35,7 +35,7 @@ The following bug fixes have been implemented in the data entry interface:
 * Date picker no longer auto displays when hovering over a date field
 * Duplicate a service contact was not prefilling the two practitioner fields
 * Inactive practitioners selection was missing from the service contact add/edit forms
-* Service contact Start Time was not displaying for “!wayback” tagged episodes
+* Service contact Start Time was not displaying for `!wayback` tagged episodes
 * Fixed an internal error for some data entry
 
 The user guides have been updated to reflect these updates. They are available

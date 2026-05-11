@@ -9,7 +9,7 @@ February 25, 2021.
 
 The following functionality has been added to the data entry interface:
 * Added Practitioner Level of Care to the IAR-DST Measure which can be
-  associated with a HeadtoHelp (!covid19) tagged episode.
+  associated with a HeadtoHelp (`!covid19`) tagged episode.
 
 The following functionality has been added to the upload interface:
 * Added Practitioner Level of Care to the IAR-DST Measure which is required
