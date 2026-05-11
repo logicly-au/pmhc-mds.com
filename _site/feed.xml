@@ -479,7 +479,7 @@ this response have been migrated to “8: MMHC”.&lt;/li&gt;
   &lt;li&gt;References to The Way Back have been changed to Universal Aftercare.&lt;/li&gt;
   &lt;li&gt;A Veteran field has been added to Intake and Episode records.&lt;/li&gt;
   &lt;li&gt;A Practitioner Reason for Override field as been added to the IAR-DS.&lt;/li&gt;
-  &lt;li&gt;A new system tag !uaooh has been introduced. Please refer to the DoHDA 
+  &lt;li&gt;A new system tag &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;!uaooh&lt;/code&gt; has been introduced. Please refer to the DoHDA 
 circular above for information on how this tag can be used.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -547,8 +547,8 @@ UA episode record&lt;/li&gt;
   &lt;li&gt;M10: Activity Report: Service contact duration&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Reports can now be filtered with the new !uaooh tag. Reports can no longer be 
-filtered with the !wayback tag.&lt;/p&gt;
+&lt;p&gt;Reports can now be filtered with the new &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;!uaooh&lt;/code&gt; tag. Reports can no longer be 
+filtered with the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;!wayback&lt;/code&gt; tag.&lt;/p&gt;
 
 &lt;h5 id=&quot;known-issues&quot;&gt;Known Issues&lt;/h5&gt;
 
@@ -706,10 +706,10 @@ the new ‘9: Universal Aftercare’ Program Type are included&lt;/p&gt;
       &lt;li&gt;WHO-5&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Existing episodes tagged with !wayback will be migrated to the new Universal Aftercare
-Program Type. The !wayback tag will be retained for historical reference only.&lt;/li&gt;
-  &lt;li&gt;A new system tag (!uaooh) will be introduced to distinguish episodes under the
-Universal Aftercare Outside of Hospital/Expanded Referral Pathway Trial. The !uaooh
+  &lt;li&gt;Existing episodes tagged with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;!wayback&lt;/code&gt; will be migrated to the new Universal Aftercare
+Program Type. The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;!wayback&lt;/code&gt; tag will be retained for historical reference only.&lt;/li&gt;
+  &lt;li&gt;A new system tag (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;!uaooh&lt;/code&gt;) will be introduced to distinguish episodes under the
+Universal Aftercare Outside of Hospital/Expanded Referral Pathway Trial. The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;!uaooh&lt;/code&gt;
 tag will only be allowed on Episode records where the Program Type is ‘9: Universal
 Aftercare’. This tag should be applied to all episodes delivered under the Universal
 Aftercare Outside of Hospital/Expanded Referral Pathway Trial.&lt;/li&gt;
