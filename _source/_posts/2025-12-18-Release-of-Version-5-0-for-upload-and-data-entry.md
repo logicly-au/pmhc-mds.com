@@ -34,7 +34,7 @@ The following changes have been made in the Data Entry interface:
 * References to The Way Back have been changed to Universal Aftercare.
 * A Veteran field has been added to Intake and Episode records.
 * A Practitioner Reason for Override field as been added to the IAR-DS.
-* A new system tag !uaooh has been introduced. Please refer to the DoHDA 
+* A new system tag `!uaooh` has been introduced. Please refer to the DoHDA 
   circular above for information on how this tag can be used.
 
 ##### Upload ##### {#upload-2025x12x18}
@@ -95,8 +95,8 @@ The following new reports have been implemented:
 * M9: Activity Report: Service contact type
 * M10: Activity Report: Service contact duration
 
-Reports can now be filtered with the new !uaooh tag. Reports can no longer be 
-filtered with the !wayback tag.
+Reports can now be filtered with the new `!uaooh` tag. Reports can no longer be 
+filtered with the `!wayback` tag.
 
 ##### Known Issues #####
 

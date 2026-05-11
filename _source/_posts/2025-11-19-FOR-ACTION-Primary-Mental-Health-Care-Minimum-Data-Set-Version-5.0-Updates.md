@@ -84,10 +84,10 @@ following changes:
   * UA Needs Identification (NI)
   * SIDAS
   * WHO-5
-* Existing episodes tagged with !wayback will be migrated to the new Universal Aftercare
-  Program Type. The !wayback tag will be retained for historical reference only.
-* A new system tag (!uaooh) will be introduced to distinguish episodes under the
-  Universal Aftercare Outside of Hospital/Expanded Referral Pathway Trial. The !uaooh
+* Existing episodes tagged with `!wayback` will be migrated to the new Universal Aftercare
+  Program Type. The `!wayback` tag will be retained for historical reference only.
+* A new system tag (`!uaooh`) will be introduced to distinguish episodes under the
+  Universal Aftercare Outside of Hospital/Expanded Referral Pathway Trial. The `!uaooh`
   tag will only be allowed on Episode records where the Program Type is ‘9: Universal
   Aftercare’. This tag should be applied to all episodes delivered under the Universal
   Aftercare Outside of Hospital/Expanded Referral Pathway Trial.

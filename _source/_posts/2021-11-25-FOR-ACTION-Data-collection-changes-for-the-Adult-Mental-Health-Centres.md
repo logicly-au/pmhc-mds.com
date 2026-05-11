@@ -47,7 +47,7 @@ data working group and further advice will be provided to in the next circular.
 The department has introduced an ‘Australian Government Adult Mental Health Centre’ tag to the PMHC
 MDS.
 
-The PHN _must_ apply ‘Australian Government Adult Mental Health Centre’ tag (``!amhc``) to episodes of care
+The PHN _must_ apply ‘Australian Government Adult Mental Health Centre’ tag (`!amhc`) to episodes of care
 initiated for clients who have been referred to the AMHC hub through the IAR process and are receiving
 services funded through the AMHC hubs contracts.
 
@@ -116,7 +116,7 @@ organisation control over the values that may be selected.
 
 In both of the above examples, development work would also be required in the data extraction process
 used to produce PMHC MDS compliant upload files. An endorsement of ‘Australian Government Adult
-Mental Health Centre’ via either method would be converted to the tag !amhc on the extracted episode
+Mental Health Centre’ via either method would be converted to the tag `!amhc` on the extracted episode
 records where appropriate.
 
 An alternative but not preferred option is that episode records could be uploaded and then subsequently
