@@ -69,7 +69,7 @@ There are two ways to apply the tag through the PMHC MDS data entry interface:
 
 1. Manual data entry by typing the tag `!amhc` to the tag field
 
-    * When entering data directly, episodes will need to be tagged with the string !amhc. The data
+    * When entering data directly, episodes will need to be tagged with the string `!amhc`. The data
       entry system already allows for the tagging of records and therefore it is possible to
       implement this immediately by communicating the instructions to users.
     * Please note the free text nature of the tag system increases the opportunity for errors

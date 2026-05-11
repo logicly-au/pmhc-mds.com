@@ -39,7 +39,7 @@ identified as HeadtoHelp hub clients will be assessed through the ‘HeadtoHelp 
 Hubs Intake Assessment and Referral Model of Care’ as outlined in the contract. Clients will be referred to
 the most suitable service, which may be at a HeadtoHelp hub.
 
-The PHN *must* apply ‘Australian Government HeadtoHelp hubs’ tag (!covid19) to episodes of care initiated
+The PHN *must* apply ‘Australian Government HeadtoHelp hubs’ tag (`!covid19`) to episodes of care initiated
 for clients who have been referred to the hub through the IAR process and are receiving services funded
 through the HeadtoHelp hubs contracts.
 
@@ -107,7 +107,7 @@ control over the values that may be selected.
 
 In both of the above examples, development work would also be required in the data extraction process
 used to produce PMHC MDS compliant upload files. An endorsement of ‘Australian Government
-HeadtoHelp hubs’ via either method would be converted to the tag !covid19 on the extracted episode
+HeadtoHelp hubs’ via either method would be converted to the tag `!covid19` on the extracted episode
 records where appropriate.
 
 An alternative but not preferred option is that episode records could be uploaded and then subsequently
