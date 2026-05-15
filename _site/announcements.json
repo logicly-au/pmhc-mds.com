@@ -1,6 +1,18 @@
 [
 
   {
+	"title": "Update to the PMHC MDS - 15/5/2026 (v3.2.5)",
+	"date": "May 15, 2026",
+	"content": "<h4 id=\"pmhc-mds-update-v325\">PMHC MDS Update v3.2.5</h4> <p>We are pleased to announce that PMHC MDS Update v3.2.5 was released on May 15, 2026.</p> <p>The following updates have been applied in the user management interface:</p> <ul> <li>User search and listing of users such as in the user audit emails, now excludes users who have no roles at relevant organisations.</li> </ul> <p>The following updates have been applied in the login interface:</p> <ul> <li>Fixed a bug where roles were not being assigned to new users.</li> </ul> <p>The user guides have been updated to reflect these updates. They are available at <a href=\"https://docs.pmhc-mds.com/\" target=\"_blank\">https://docs.pmhc-mds.com/</a>.</p>"
+  },
+
+  {
+	"title": "Reminder of the End of Life for PMHC MDS Version 4.1 Data Specification and The Way Back Version 3.0 Data Specifications",
+	"date": "May 11, 2026",
+	"content": "<p>The PMHC MDS currently supports uploads in the following data specifications:</p> <ul> <li>PMHC Version 4.1</li> <li>PMHC Version 5.0</li> <li>The Way Back Version 3.0 Extension</li> </ul> <p>These are documented at <a href=\"https://docs.pmhc-mds.com/data-specifications.html#current-versions\" target=\"_blank\">https://docs.pmhc-mds.com/data-specifications.html#current-versions</a></p> <p>After the 30th of June 2026 the PMHC MDS will no longer accept uploads using the Version 4.1 or The Way Back Version 3.0 Extension formats. Please ensure that your systems have been migrated to using the Version 5.0 upload format before this date.</p> <p>A summary of the changes between version 4.1 and 5.0 is available at <a href=\"https://docs.pmhc-mds.com/projects/data-specification/en/v5.0/upgrading-from-previous-versions.html\" target=\"_blank\">https://docs.pmhc-mds.com/projects/data-specification/en/v5.0/upgrading-from-previous-versions.html</a>.</p>"
+  },
+
+  {
 	"title": "Update to the PMHC MDS - 8/5/2026 (v3.2.4)",
 	"date": "May 08, 2026",
 	"content": "<h4 id=\"pmhc-mds-update-v324\">PMHC MDS Update v3.2.4</h4> <p>We are pleased to announce that PMHC MDS Update v3.2.4 was released on May 8, 2026.</p> <p>The following updates have been applied in the upload interface:</p> <ul> <li>Fixed a bug where emails were not being sent after a successful upload.</li> <li>Improved the error returned when the episode_tags column is missing in an episodes worksheet/file.</li> </ul> <p>The following updates have been applied in the login interface:</p> <ul> <li>Fixed a bug where new users couldn’t log in after accepting their invite.</li> </ul> <p>The user guides have been updated to reflect these updates. They are available at <a href=\"https://docs.pmhc-mds.com/\" target=\"_blank\">https://docs.pmhc-mds.com/</a>.</p>"
