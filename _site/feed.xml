@@ -7,6 +7,66 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Update to the PMHC MDS - 10/6/2026 (v3.3.0)</title>
+				        
+				
+					<description>&lt;h4 id=&quot;pmhc-mds-update-v330&quot;&gt;PMHC MDS Update v3.3.0&lt;/h4&gt;
+
+&lt;p&gt;We are pleased to announce that PMHC MDS Update v3.3.0 was released on 
+June 10, 2026.&lt;/p&gt;
+
+&lt;p&gt;The following updates have been applied in the reporting interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The following reports have been updated to allow grouping down to site level:
+    &lt;ul&gt;
+      &lt;li&gt;M1 — Client wait time&lt;/li&gt;
+      &lt;li&gt;M2 — Activity Reports by Age group&lt;/li&gt;
+      &lt;li&gt;M3 — Activity Reports by Gender&lt;/li&gt;
+      &lt;li&gt;M4 — Activity Reports by Aboriginal and Torres Strait Islander status&lt;/li&gt;
+      &lt;li&gt;M5 — IAR-DST - Recommended Level of Care&lt;/li&gt;
+      &lt;li&gt;M6 — IAR-DST - Recommended Level of Care, where intake referred to MMHC&lt;/li&gt;
+      &lt;li&gt;M9 — Activity Report: Service contact type&lt;/li&gt;
+      &lt;li&gt;M10 — Activity Report: Service contact duration&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The M1 has also been redefined to calculate client wait time as the number 
+of days between referral date as recorded on the episode record and the date 
+of the first contact, whether attended or not. The documentation has been 
+updated to reflect this.&lt;/li&gt;
+  &lt;li&gt;The following reports have temporarily been taken offline. They are also 
+being updated to allow grouping down to site level and will be released 
+shortly.
+    &lt;ul&gt;
+      &lt;li&gt;M7 — Monthly service activity&lt;/li&gt;
+      &lt;li&gt;M8 — Episode of care characteristics&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The W1 report has been updated so that the Safety Plan and Support Plan 
+KPIs are more compatible with other indicators. Since its introduction as 
+part of The Way Back trial, these KPIs have been based on the number of 
+Safety and Support Plans recorded (that is, ‘collection occasions’). On 
+review, it has been determined that a more appropriate basis for these KPIs 
+is the number of episodes that include at least one Safety or Support Plan. 
+The presence of at least one Safety or Support Plan within an episode is 
+sufficient to meet the KPI.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following updates have been applied in the user management interface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a bug stopping users with the user management role from seeing the 
+user audit table.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The user guides have been updated to reflect these updates. They are available
+at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 10 Jun 2026 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2026/06/10/Update-to-the-PMHC-MDS-v-3-3-0/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2026/06/10/Update-to-the-PMHC-MDS-v-3-3-0/</guid>
+			</item>
+		
+			<item>
 				<title>Update to the PMHC MDS - 15/5/2026 (v3.2.5)</title>
 				        
 				
@@ -635,33 +695,6 @@ at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&g
 				<pubDate>Thu, 18 Dec 2025 00:00:00 -0600</pubDate>
 				<link>http://0.0.0.0:4000/2025/12/18/Release-of-Version-5-0-for-upload-and-data-entry/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2025/12/18/Release-of-Version-5-0-for-upload-and-data-entry/</guid>
-			</item>
-		
-			<item>
-				<title>Release of Version 5.0 and scheduled outage for Wednesday 17 December 2025 - 15/12/2025</title>
-				        
-				
-					<description>&lt;p&gt;The PMHC MDS Version 5.0 updates explained in the Department of Health, 
-Disability and Ageing’s (DoHDA) Circular, which was sent to PHN CEOs on 
-Wednesday 19 November 2025, will be released to production during the 
-evening of Wednesday 17 December 2025.&lt;/p&gt;
-
-&lt;p&gt;The Circular has been published at 
-&lt;a href=&quot;https://pmhc-mds.com/communications/#/2025/11/19/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-Version-5.0-Updates/&quot; target=&quot;_blank&quot;&gt;https://pmhc-mds.com/communications/#/2025/11/19/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-Version-5.0-Updates/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;We will be migrating data for the Version 5.0 release on the evening of 
-Wednesday 17 December 2025. The PMHC MDS may be unavailable for several 
-hours during this period.&lt;/p&gt;
-
-&lt;p&gt;If you are planning on uploading or entering any data, we advise you to 
-complete your work before 8:00pm AEDT on Wednesday 17 December 2025.&lt;/p&gt;
-
-&lt;p&gt;Thank-you for your patience whilst this work is carried out.&lt;/p&gt;
-</description>
-				
-				<pubDate>Mon, 15 Dec 2025 00:00:00 -0600</pubDate>
-				<link>http://0.0.0.0:4000/2025/12/15/Release-of-Version-5-0-and-scheduled-outage/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2025/12/15/Release-of-Version-5-0-and-scheduled-outage/</guid>
 			</item>
 		
 	</channel>
