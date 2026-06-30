@@ -7,6 +7,38 @@
 		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Final reminder - End of life for PMHC MDS v4.1 and Way Back v3.0 specifications</title>
+				        
+				
+					<description>&lt;p&gt;The current version of the core PMHC MDS data specification is Version 5.0. 
+This has been available for upload since the 18th of December 2025.&lt;/p&gt;
+
+&lt;p&gt;Since the 18th of December 2026 there has been a transition period allowing 
+for uploads in PMHC MDS Version 4.1 and The Way Back Version 3.0 extension 
+formats. This transition period is intended to give organisations time to 
+understand and implement the change.&lt;/p&gt;
+
+&lt;p&gt;After the 30th of June 2026 the PMHC MDS will no longer accept uploads using 
+the Version 4.1 or The Way Back Version 3.0 Extension formats. If you are 
+able to upload in Version 5.0 now, please start using this format immediately.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: There is no requirement imposed by the system to wait until the 30th 
+of June 2026 before supplying in Version 5.0 format.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Please contact support@pmhc-mds.com if you will not be able to upload in the 
+PMHC MDS Version 5.0 format by 30th of June 2026.&lt;/p&gt;
+
+&lt;p&gt;PMHC MDS data specifications are documented at &lt;a href=&quot;https://docs.pmhc-mds.com/data-specifications.html#current-versions&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/data-specifications.html#current-versions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A summary of the changes between version 4.1 and 5.0 is available at &lt;a href=&quot;https://docs.pmhc-mds.com/projects/data-specification/en/v5.0/upgrading-from-previous-versions.html&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/projects/data-specification/en/v5.0/upgrading-from-previous-versions.html&lt;/a&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 23 Jun 2026 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:4000/2026/06/23/Final-Reminder-PMHC-4.1-Wayback-3.0-EOL/</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/2026/06/23/Final-Reminder-PMHC-4.1-Wayback-3.0-EOL/</guid>
+			</item>
+		
+			<item>
 				<title>Update to the PMHC MDS - 19/6/2026 (v3.3.3)</title>
 				        
 				
@@ -532,42 +564,6 @@ processes and double handling but it is a use case supported by the PMHC MDS.&lt
 				<pubDate>Thu, 30 Apr 2026 00:00:00 -0500</pubDate>
 				<link>http://0.0.0.0:4000/2026/04/30/FOR-ACTION-New-MMHC-system-tags-in-the-PMHC-MDS/</link>
 				<guid isPermaLink="true">http://0.0.0.0:4000/2026/04/30/FOR-ACTION-New-MMHC-system-tags-in-the-PMHC-MDS/</guid>
-			</item>
-		
-			<item>
-				<title>Update to the PMHC MDS - 20/3/2026 (v3.1.0)</title>
-				        
-				
-					<description>&lt;h4 id=&quot;pmhc-mds-update-v310&quot;&gt;PMHC MDS Update v3.1.0&lt;/h4&gt;
-
-&lt;p&gt;We are pleased to announce that PMHC MDS Update v3.1.0 was released on 
-March 20, 2026.&lt;/p&gt;
-
-&lt;p&gt;The following new reports have been implemented:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;A16: Data quality report — Volume of completed outcome measures report&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following features have been applied in the reporting interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Added ANZAC day (replacement) public holiday for NSW for reports that 
-count business days&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The following features have been applied in the user management interface:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Users with the User Management role can now see inactive organisations 
-and remove roles that users have at inactive organisations. Roles 
-cannot be added for a user at an inactive organisation.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The user guides have been updated to reflect these updates. They are available
-at &lt;a href=&quot;https://docs.pmhc-mds.com/&quot; target=&quot;_blank&quot;&gt;https://docs.pmhc-mds.com/&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 20 Mar 2026 00:00:00 -0500</pubDate>
-				<link>http://0.0.0.0:4000/2026/03/20/Update-to-the-PMHC-MDS-v-3-1-0/</link>
-				<guid isPermaLink="true">http://0.0.0.0:4000/2026/03/20/Update-to-the-PMHC-MDS-v-3-1-0/</guid>
 			</item>
 		
 	</channel>
