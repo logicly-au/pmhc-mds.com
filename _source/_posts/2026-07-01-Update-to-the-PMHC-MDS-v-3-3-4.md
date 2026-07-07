@@ -11,7 +11,8 @@ A reminder that the current version of the core data specification is
 PMHC Version 5.0.
 
 The currently supported data specifications are documented at
-https://docs.pmhc-mds.com/data-specifications.html#current-versions
+[https://docs.pmhc-mds.com/data-specifications.html#current-versions]
+(https://docs.pmhc-mds.com/data-specifications.html#current-versions)
 
 The PMHC MDS will no longer accept uploads using the PMHC Version 4.1 or
 The Way Back Version 3.0 Extension formats.
