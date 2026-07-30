@@ -4,3 +4,4 @@
 *.swp
 vendor/*
 _source/.jekyll-cache
+_site/
