@@ -2,11 +2,11 @@
 
 ## Build and view site
 
-`docker-compose up`
+`docker compose up`
 
 ## Update rubygems
 
-`docker-compose run site bundle update`
+`docker compose run site bundle update`
 
 ===========================================
 
