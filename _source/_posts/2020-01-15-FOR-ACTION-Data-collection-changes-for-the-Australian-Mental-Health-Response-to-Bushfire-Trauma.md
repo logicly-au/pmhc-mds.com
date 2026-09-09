@@ -162,7 +162,7 @@ manual processes and double handling but it is a use case supported by the PMHC 
 If you have queries about managing data upload processes please contact the PMHC MDS
 helpdesk at [support@pmhc-mds.com](mailto:support@pmhc-mds.com) or 03 9340 9020.
 
-#### Attachment B - Applying the bushfire response tag via PMHC-MDS data entry {#attachmentb-01x2020}
+#### Attachment B - Applying the bushfire response tag via PMHC MDS data entry {#attachmentb-01x2020}
 
 The checkbox is on the Episode edit screen: 
 

@@ -1,5 +1,5 @@
 ---
-title: Get Started - PMHC-MDS
+title: Get Started - PMHC MDS
 page-name: getstarted
 sub-heading: Getting Started on the PMHC MDS
 ---

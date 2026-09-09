@@ -2,11 +2,12 @@ $std-padding: 15px;
 $std-text-color:  #000;
 $contrast-text-color: #fff;
 
-$color-base-bright: #1150a5;
-$color-base-medium: #144ea1;
-$color-base-dark: #113184;
+$color-base-bright: #fff;
+$color-base-medium: #164F6E;
+$color-base-dark: #212529;
 
-$header-height: 255px;
-$header-gradient: linear-gradient(to bottom, #1179d2, #113184);
-
-$footer-height: 125px;
+$header-height: 180px;
+//$header-gradient: linear-gradient(90deg,#164F6E,#164F6E 50%,#164F6E);
+$header-gradient: linear-gradient(30deg, #164F6E 0%, #399DA6 100%);
+//$header-gradient: linear-gradient(90deg,#297d96,#41805b 50%,#528230);
+$footer-height: 90px;

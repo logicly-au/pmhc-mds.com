@@ -1,42 +1,50 @@
 ---
-title: Home - PMHC-MDS
+title: Home - PMHC MDS
 page-name: home
-sub-heading: About the PMHC-MDS
+sub-heading: About the Primary Mental Health Care Minimum Data Set
 layout: index
 ---
 
-Funding by the Australian Government Department of Health has been provided to
-Primary Health Networks (PHNs) through a Primary Mental Health Care flexible
-funding pool to support commissioning of mental health and suicide prevention
-services in six key service delivery areas:
+The Primary Mental Health Care Minimum Data Set (PMHC MDS) is Australia's 
+national data collection for Australian Government-funded primary mental 
+health care services commissioned by Primary Health Networks (PHNs). 
 
-* low intensity psychological interventions for people with, or at risk of,
-  mild mental illness;
-* psychological therapies delivered by mental health professionals to under
-  serviced groups;
-* early intervention services for children and young people with, or at risk of
-  mental illness;
-* services for people with severe and complex mental illness who are being
-  managed in a primary care setting;
-* enhanced Aboriginal and Torres Strait Islander mental health services; and
-* a regional approach to suicide prevention activities with a focus on improved
-  follow-up for people who have attempted suicide or are at high risk of suicide.
+Data collected through the PMHC MDS helps PHNs, governments, service 
+providers, researchers and the broader community better understand access 
+to services, the care provided, and outcomes achieved for consumers. 
+The collection also supports national and regional planning, evaluation of 
+mental health reforms, and evidence-informed decision-making. 
 
-The Primary Mental Health Care Minimum Data Set (PMHC MDS) will provide the
-basis for PHNs and the Department of Health to monitor and report on the quantity and quality of service delivery, and to inform future improvements in the planning and funding of primary mental health care services funded by the Australian Government.
+The <a href="https://www.aihw.gov.au/">Australian Institute of Health and Welfare (AIHW)</a> manages the PMHC MDS 
+on behalf of the <a href="https://health.gov.au/">Australian Government Department of Health, Disability and Ageing</a>.
 
-The data reported by PHNs through the PMHC MDS will form the basis for
-production of key performance indicators used to monitor services delivered
-across the 31 PHN regions covered by PHNs.
+The full <a href="/doc/PMHC-MDS-Purpose-Statement.pdf">PMHC MDS Purpose Statement</a> outlines the objectives of the collection 
+and how it supports regional and national decision-making in primary mental health care.
 
-<a href="//logicly.com.au/">Logicly</a> has been contracted by the Department of Health to manage the PMHC MDS on its behalf.
+## <a id="reporting"></a>Reporting to the PMHC MDS
+PHNs and commissioned service providers submit data to the PMHC MDS in accordance 
+with the PMHC MDS data specifications. The collection includes information about 
+consumers, referrals, episodes of care, service activities and selected outcome measures.
 
-A <a href="//docs.pmhc-mds.com/data-specifications.html">specification</a> of the data items to be collected in the PMHC MDS is available.
+## <a id="data-specifications"></a>Data specifications
+The <a href="//docs.pmhc-mds.com/data-specifications.html">PMHC MDS data specifications<a> 
+define the information to be collected and reported through the PMHC MDS.
 
-If you would like to be notified about updates to this specification or
-announcements about the rollout of the PMHC MDS please subscribe to the
-PMHC MDS mailing list by sending an email to
-[support@pmhc-mds.com](mailto:support@pmhc-mds.com?subject=subscribe%20news) with the subject "subscribe news@lists.pmhc-mds.com". This is not a general discussion list. Only moderated users can send
-messages to this list.
+The specifications are updated periodically to reflect changes to policy, service delivery 
+and information requirements.
 
-Information about <a href="/getstarted/">how to get started</a> on the PMHC MDS is available and will be regularly updated.
+## <a id="system"></a>System operation and support
+The AIHW is responsible for the management, governance and ongoing development of the PMHC MDS.
+
+<a href="https://logicly.com.au">Logicly</a> operates the PMHC MDS platform and provides 
+technical system administration and support services on behalf of the AIHW.
+
+## <a id="stay-informed"></a>Stay informed
+To receive notifications about PMHC MDS updates, specification changes and other 
+announcements, subscribe to the PMHC MDS mailing list by emailing 
+[support@pmhc-mds.com](mailto:support@pmhc-mds.com?subject=subscribe%20news) with the 
+subject line "subscribe news@lists.pmhc-mds.com"
+
+## <a id="getting-started"></a>Getting started
+Guidance for organisations using the PMHC MDS, including onboarding information, 
+reporting requirements and support resources, is available in the <a href="/getstarted/">Getting Started</a> section.

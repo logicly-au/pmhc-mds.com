@@ -1,5 +1,5 @@
 ---
-title: Resources - PMHC-MDS
+title: Resources - PMHC MDS
 page-name: resources
 sub-heading: Resources for working with the PMHC MDS
 ---

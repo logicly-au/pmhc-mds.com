@@ -1,0 +1,32 @@
+    <nav class="navbar navbar-inverse main-navigation navbar-expand-lg">
+      <div class="container-fluid">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#myNavbar" aria-controls="myNavbar" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="myNavbar">
+          <ul class="nav navbar-nav me-auto mb-2 mb-lg-0">
+            <li {% if page.url == '/' %} class="nav-item current" {% else %} class="nav-item"{% endif %}>
+              <a class="nav-link" href="/index.html">Home</a>
+            </li>
+            <li {% if page.url == '/getstarted/' %} class="nav-item current" {% else %} class="nav-item" {% endif %}>
+              <a class="nav-link" href="/getstarted/">Get Started</a>
+            </li>
+            <li {% if page.url == '/training/' %} class="nav-item current" {% else %} class="nav-item" {% endif %}>
+              <a class="nav-link" href="/training/">Training</a>
+            </li>
+            <li {% if page.url == '/resources/' %} class="nav-item current" {% else %} class="nav-item" {% endif %}>
+              <a class="nav-link" href="/resources/">Resources</a>
+            </li>
+            <li {% if page.url == '/communications/' %} class="nav-item current" {% else %} class="nav-item" {% endif %}>
+              <a class="nav-link" href="/communications/">Communications</a>
+            </li>
+          </ul>
+          <ul class="nav navbar-nav ms-auto">
+            <li class="nav-item">
+                <a class="bootstrap-icon" href="https://pmhc-mds.net/#/login"><i style="font-size: 2rem" class="bi bi-box-arrow-in-right"></i></a> 
+                <a href="https://pmhc-mds.net/#/login">Login</a>
+            </li> 
+          </div>
+        </div>
+      </div>
+    </nav>
