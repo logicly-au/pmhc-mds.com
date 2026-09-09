@@ -26,8 +26,8 @@ PHNs and commissioned service providers submit data to the PMHC MDS in accordanc
 with the PMHC MDS data specifications. The collection includes information about 
 consumers, referrals, episodes of care, service activities and selected outcome measures.
 
-## <a id="data-specifications"></a>Data specifications
-The <a href="//docs.pmhc-mds.com/data-specifications.html">PMHC MDS data specifications<a> 
+## Data specifications
+The <a href="//docs.pmhc-mds.com/data-specifications.html">PMHC MDS data specifications</a> 
 define the information to be collected and reported through the PMHC MDS.
 
 The specifications are updated periodically to reflect changes to policy, service delivery 
@@ -39,12 +39,12 @@ The AIHW is responsible for the management, governance and ongoing development o
 <a href="https://logicly.com.au">Logicly</a> operates the PMHC MDS platform and provides 
 technical system administration and support services on behalf of the AIHW.
 
-## <a id="stay-informed"></a>Stay informed
+## Stay informed
 To receive notifications about PMHC MDS updates, specification changes and other 
 announcements, subscribe to the PMHC MDS mailing list by emailing 
 [support@pmhc-mds.com](mailto:support@pmhc-mds.com?subject=subscribe%20news) with the 
 subject line "subscribe news@lists.pmhc-mds.com"
 
-## <a id="getting-started"></a>Getting started
+## Getting started
 Guidance for organisations using the PMHC MDS, including onboarding information, 
 reporting requirements and support resources, is available in the <a href="/getstarted/">Getting Started</a> section.
