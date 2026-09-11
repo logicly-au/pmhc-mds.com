@@ -1,43 +1,52 @@
 @import "variables";
 
 .banner-header {
-  /* height: $header-height;*/
-  width: 100%;
+//  width: 100%;
   background-image: $header-gradient;
 }
 
 .brand {
-  float: left;
-  height: 100%;
-  padding-top: 0;
+  height: $header-height;
+  //float: left;
+  //height: 100%;
+  //padding-top: 0;
 
-  .brand-link {
-    float: left;
-    height: 205px;
-    width: 233px;
-    background-color: $contrast-text-color;
+  //.brand-link {
+    //float: left;
+    //height: 205px;
+    //width: 233px;
+    //background-color: $contrast-text-color;
+  //}
+
+  .brand-logo {
+    //height: 100px;
+    width: 400px;
+    padding-left: 20px;
+    padding-top: 20px;
+    float:left;
   }
 }
 
+
 .brand-text {
-  display: inline-block;
-  padding-top: 6%;
-  padding-left: $std-padding * 2;
+  //display: inline-block;
+  //padding-top: 6%;
+  //padding-left: $std-padding * 2;
+  //padding-top: 1%;
 
   h2 {
-    font-size: $font-size-h4;
+    font-size: $h4-font-size;
   }
 }
 
 .navbar-wrapper {
   width: 100%;
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: rgba(255, 255, 255, 0.7);
 }
 
 .navbar {
   background: transparent;
   border: 0;
-
 
 }
 
@@ -66,10 +75,18 @@
   background-color: $color-base-dark;
 }
 .navbar-inverse .navbar-nav > li > a {
-  border-color: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.7);
   &:focus,
   &:hover {
     background: $color-base-bright;
-    color: $contrast-text-color
+    color: $color-base-dark;
   }
+}
+
+.bootstrap-icon {
+  margin-right: 5px;
+}
+
+.navbar-toggler-icon {
+  filter: invert(100%);
 }
