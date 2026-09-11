@@ -41,19 +41,12 @@
 
 .navbar-wrapper {
   width: 100%;
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: rgba(255, 255, 255, 0.7);
 }
 
 .navbar {
   background: transparent;
   border: 0;
-
-}
-
-.main-navigation {
-  a {
-      font-size: $h5-font-size;
-  }
 
 }
 
@@ -82,7 +75,7 @@
   background-color: $color-base-dark;
 }
 .navbar-inverse .navbar-nav > li > a {
-  border-color: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.7);
   &:focus,
   &:hover {
     background: $color-base-bright;
