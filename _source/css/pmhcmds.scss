@@ -2,6 +2,9 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+// Default variable overrides
+$navbar-nav-link-padding-x: 1.5rem;
+
 //$h1-font-size: 1rem;
 
 @import "bootstrap/bootstrap";
