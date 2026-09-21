@@ -11,6 +11,42 @@ h6 {
   font-family: 'Open Sans', sans-serif;
 }
 
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
+
+h2 {
+  font-size: 1.75rem;
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
+
+h4 {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
+
+h5 {
+  font-size: 1rem;
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
+
+h6 {
+  font-size: 0.75rem;
+  font-weight: normal;
+  margin-top: 0.5rem;
+}
+
 body {
   .main-container {
     padding-left: $std-padding * 2;
@@ -32,5 +68,10 @@ body {
 
   .subhead {
     margin-bottom: $std-padding * 2;
+  }
+
+  a {
+    color: #117a8b;
+    font-weight: bold;
   }
 }

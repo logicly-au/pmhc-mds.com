@@ -1,29 +1,49 @@
 ---
-title: Get Started - PMHC-MDS
+title: Get Started - PMHC MDS
 page-name: getstarted
 sub-heading: Getting Started on the PMHC MDS
 ---
-Primary contact users at all PHN's have now been provided with accounts.
+## <a id="new_user">My organisation already reports to the PMHC MDS
 
-PHN's should now be creating Provider Organisations and, if required, setting
-up users at these Provider Organisations.
+If you are a new user at a Provider Organisation that already reports data to the PMHC MDS, you will need to be invited to have access to the PMHC MDS. An existing user with the User Management role can complete this. Your provider organisation may have staff with this capability; otherwise, your commissioning PHN can manage user accounts and roles.
 
-Provided here is a list of steps required for users at Provider Organisations
-to obtain access and upload/enter data to the PMHC MDS.
+If your Provider Organisation is uploading data, you will need to request the 'Upload' role.
 
-## <a id="steps"></a>What steps does each Provider Organisation need to take before they can upload or enter data to the PMHC MDS?
+If your Provider Organisation is manually entering data, you will need to request the ‘Data Entry’ role.
 
-### <a id="step1"></a>Step 1. Decide whether to upload or manually enter data
+If you are unsure who to contact at your PHN please contact the [PMHC MDS Helpdesk](mailto:support@pmhc-mds.com).
 
-Data can either be uploaded via an Excel spreadsheet or CSV files, or manually entered into the PMHC MDS. Each organisation will need to decide which method they will use.
+Once your user account has been created and you have been granted the appropriate role, you are ready to upload/enter data.
 
-### <a id="step2"></a>Step 2. If uploading, decide how to create upload files for the PMHC MDS
+## <a id="new_po">My organisation has recently been contracted and needs to start reporting data to the PMHC MDS
 
-Before uploading data, each Provider Organisation, in conjunction with their PHN,
-will need to analyse the data requirements and either organise
-to have their client management systems altered to produce the files required
-for upload or understand how to manually create the required Excel spreadsheets.
-Please refer to the [Upload specification](https://docs.pmhc-mds.com/data-specification/upload-specification.html).
+Your commissioning organisation will organise for your Provider Organisation to be set up in the PMHC MDS by a PHN. This will create your reporting “Organisation Path”.
+
+### <a id="step1"></a>Step 1. Review the contexts for which you need to submit data
+
+Within the PMHC MDS there are three contexts in which data can be submitted. These are explained in the [Contexts](https://docs.pmhc-mds.com/projects/data-specification/en/latest/introduction.html#contexts) section of the core Data Specification.
+
+Each organisation will need to report the relevant data for each context in which their organisation provides commissioned services. For example, an organisation that is _only_ providing Intake services will only need to provide Intake context records, not Treatment context. Similarly, organisations _only_ providing treatment services will only need to provide Treatment context records, not Intake context. 
+
+The [Program Types](https://docs.pmhc-mds.com/projects/data-specification/en/v5.0/data-model-and-specifications.html#program-type) that your organisation is providing may also influence which records you need to provide.
+
+In conjunction with your PHN, you will need to analyse the data requirements for your organisation.
+
+### <a id="step2"></a>Step 2. Decide whether to upload or manually enter data
+
+Check in with your PHN before making this decision as they may have local requirements, otherwise each organisation will need to decide which method they will use.
+
+Data can either be uploaded via a file or through a data entry interface.
+
+For organisations that don't have a compatible internal Client Management System (CMS), users can enter their data directly into the PMHC MDS via online data entry forms. For more information on how to enter data manually please refer to the [User Documentation](https://docs.pmhc-mds.com/projects/user-documentation/en/latest/data-entry.html).
+
+Alternatively, organisations can upload their data where they have an internal Client Management System (CMS) with the ability to generate PMHC MDS formatted upload files, or where their CMS can be updated to generate these files. 
+ 
+For more information about upload file formats please refer to the [Upload specification](https://docs.pmhc-mds.com/data-specification/upload-specification.html).
+
+For more information on how to upload a file please refer to the [User Documentation](https://docs.pmhc-mds.com/projects/user-documentation/en/latest/upload.html).
+
+To assist developers of Client Information Management Systems interact with the components of the PMHC MDS, please visit [Third Party Developers Resources](https://docs.pmhc-mds.com/third-party-developers.html). 
 
 ### <a id="step3"></a>Step 3. Update client forms
 
@@ -34,27 +54,13 @@ and notes on [creating forms](https://docs.pmhc-mds.com/data-specification/form-
 
 ### <a id="step4"></a>Step 4. Obtain an account on the PMHC MDS
 
-A user at a Provider Organisation will need to contact a user at their PHN who has the 'User Management' role and request that they create a new user account.
+Please refer to <a href="/getstarted/#new_user">My organisation already reports to the PMHC MDS</a> above.
 
-If the Provider Organisation is uploading data, the user will need to request the 'Upload' role.
-
-If the Provider Organisation is manually entering data, the user will need to request the ‘Data Entry’ role.
-
-If you are unsure who to contact at your PHN please contact the [PMHC MDS Helpdesk](mailto:support@pmhc-mds.com).
-
-Once this user account has been created and you have been granted the appropriate role, you are ready to upload/enter data.
-
-Please note, A PHN may also decide to assign the ‘User Management’ role to a user at the Provider Organisation, which will allow the Provider Organisation to manage their users and users roles.
-
-### <a id="step5"></a>Step 5. Training and online user guide
+## <a id="training"></a>Training and online user guide
 
 The PMHC MDS offers various options for users to
 <a href="/training/">learn how to navigate and use the PMHC MDS</a>.
 
-## Feedback
+## Resources
 
-We are continually trying to improve the user experience and greatly appreciate
-your questions, feedback and suggestions. Please don't hesitate to contact us
-on [support@pmhc-mds.com](mailto:support@pmhc-mds.com).
-
-PMHC MDS Helpdesk open hours are from 10am - 6pm AEST/AEDT.  
+Additional documentation and resources, including user guides, data specifications and FAQ are available at the [PMHC MDS documentation website](https://docs.pmhc-mds.com/).

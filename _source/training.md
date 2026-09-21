@@ -70,7 +70,7 @@ currently offer and who it's for:
 </table>
 
 
-**Not sure which role you have?**
+### Not sure which role you have?
 
 You will be able to identify the roles you have been granted by the tabs you have access to when logged in. You can find more information about user roles at: [https://docs.pmhc-mds.com/user-documentation/users.html#users-roles](https://docs.pmhc-mds.com/user-documentation/users.html#users-roles).
 
@@ -81,18 +81,18 @@ training module is relevant, as well as having the ability to log in and begin u
 the PMHC MDS immediately after the session concludes. (For more information on obtaining
 a login, please refer to the PMHC MDS FAQs at: [https://docs.pmhc-mds.com/faqs/system/access.html](https://docs.pmhc-mds.com/faqs/system/access.html))
 
-**Are there other training topics?**
+### Are there other training topics?
 
 Can’t find the training you are after? Please reach out to us and we’ll do our
 best to develop customised training to accommodate your needs where possible.
 
-**How is training hosted?**
+### How is training hosted?
 
 Our online training sessions are conducted via Microsoft Teams and are available
 by request. Each session can include staff from a single organisation or a
 combination of users from various organisations across Australia.
 
-**How to Book Your Session?**
+### How to Book Your Session?
 
 To book in for an online training session, please email the PMHC Helpdesk at [support@pmhc-mds.com](mailto:support@pmhc-mds.com).
 In your email, please specify your preferred training session type and suggest

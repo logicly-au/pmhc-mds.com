@@ -1,7 +1,13 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-@import "_bootstrap";
+
+// Default variable overrides
+$navbar-nav-link-padding-x: 1.5rem;
+
+//$h1-font-size: 1rem;
+
+@import "bootstrap/bootstrap";
 
 @import "variables";
 @import "typography";
@@ -32,8 +38,10 @@
   min-height:100%;
   position:relative;
 }
+
 #main {
   padding-bottom: $footer-height; /* Height of the footer element */
+
 }
 
 .navbar-collapse {
@@ -77,19 +85,6 @@ div .post {
   border-top: 1px solid gainsboro;
 }
 
-/*  */
-.navbar-right {
-    color: #fff;
-    text-decoration: none;
-    padding: 1rem;
-    border-left: 1px solid;
-    border-color:rgba(255, 255, 255, 0.2);
-    padding-top: 15px;
-    padding-bottom: 15px;
-    a {
-    color:white!important;
-    }
-}
 
 /* Remove border-radius from navbar */
 @media (min-width: 768px) {
