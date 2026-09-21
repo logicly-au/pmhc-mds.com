@@ -61,6 +61,6 @@ Please refer to <a href="/getstarted/#new_user">My organisation already reports 
 The PMHC MDS offers various options for users to
 <a href="/training/">learn how to navigate and use the PMHC MDS</a>.
 
-## <a id="resources"></a>Resources
+## Resources
 
 Additional documentation and resources, including user guides, data specifications and FAQ are available at the [PMHC MDS documentation website](https://docs.pmhc-mds.com/).
