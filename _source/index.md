@@ -18,7 +18,7 @@ mental health reforms, and evidence-informed decision-making.
 The <a href="https://www.aihw.gov.au/">Australian Institute of Health and Welfare (AIHW)</a> manages the PMHC MDS 
 on behalf of the <a href="https://health.gov.au/">Australian Government Department of Health, Disability and Ageing</a>.
 
-The full <a href="/doc/PMHC-MDS-Purpose-Statement.pdf">PMHC MDS Purpose Statement</a> outlines the objectives of the collection 
+The full <a href="/purpose/">PMHC MDS Purpose Statement</a> outlines the objectives of the collection 
 and how it supports regional and national decision-making in primary mental health care.
 
 ## <a id="reporting"></a>Reporting to the PMHC MDS
