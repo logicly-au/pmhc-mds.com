@@ -6,13 +6,13 @@ sub-heading: Training and online user guide for the PMHC MDS
 
 The PMHC MDS offers various options for users to learn how to navigate and use the PMHC MDS.
 
-1. [Online User Guide](#user_guide)
+1. [Online user guide](#user_guide)
 2. [Online group training sessions](#group_training)
 3. [Video training library](#video_training_library)
 
-## <a id="user_guide"></a>Online User Guide
+## <a id="user_guide"></a>Online user guide
 
-The [Online User Guide](https://docs.pmhc-mds.com/user-documentation/index.html)
+The [online user guide](https://docs.pmhc-mds.com/user-documentation/index.html)
 is regularly updated to reflect each update release and outlines
 step by step instructions for each role within the PMHC MDS.
 
@@ -92,18 +92,31 @@ Our online training sessions are conducted via Microsoft Teams and are available
 by request. Each session can include staff from a single organisation or a
 combination of users from various organisations across Australia.
 
-### How to Book Your Session?
+### How to book your session?
 
 To book in for an online training session, please email the PMHC Helpdesk at [support@pmhc-mds.com](mailto:support@pmhc-mds.com).
 In your email, please specify your preferred training session type and suggest
 some preferred dates/times. We will then send attendees a Microsoft Teams link
 via a calendar invitation.
 
-## <a id="video_training_library"></a>Video Training library
+## <a id="video_training_library"></a>Video training library
 
 The following video training modules are available:
 
 * [Statistical Linkage Key (SLK)](https://youtu.be/YWv4pBOvntw)
+
+## <a id="support">Technical support and helpdesk
+
+If you require further technical assistance after completing your 
+training or while navigating the system, there are several support 
+options available to help your organisation:
+
+* Check the user guide: Visit the [online user guide](https://docs.pmhc-mds.com/user-documentation/index.html) 
+  to review step-by-step instructions and troubleshooting steps.
+
+* Frequently asked questions (FAQs): Check the [system FAQs](https://docs.pmhc-mds.com/projects/user-documentation/en/latest/faqs/system/index.html) for quick answers to common questions.
+
+* Contact the helpdesk: Email the PMHC helpdesk directly at [support@pmhc-mds.com](mailto:support@pmhc-mds.com) for tailored support and assistance. An easy way to reach us is via the "Contact support" button on the footer of the PMHC MDS site.
 
 ## Feedback
 
