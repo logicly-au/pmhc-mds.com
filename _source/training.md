@@ -16,7 +16,7 @@ The [Online User Guide](https://docs.pmhc-mds.com/user-documentation/index.html)
 is regularly updated to reflect each update release and outlines
 step by step instructions for each role within the PMHC MDS.
 
-## <a id="group_training"></a>Online group training
+## <a id="group_training"></a>Online Group Training
 
 Online training sessions are designed to help organisations make the most of the
 PMHC MDS! Our sessions are hosted by the PMHC Helpdesk and are available between
@@ -92,7 +92,7 @@ Our online training sessions are conducted via Microsoft Teams and are available
 by request. Each session can include staff from a single organisation or a
 combination of users from various organisations across Australia.
 
-### How to Book Your Session?
+### How to book your session?
 
 To book in for an online training session, please email the PMHC Helpdesk at [support@pmhc-mds.com](mailto:support@pmhc-mds.com).
 In your email, please specify your preferred training session type and suggest
@@ -104,6 +104,19 @@ via a calendar invitation.
 The following video training modules are available:
 
 * [Statistical Linkage Key (SLK)](https://youtu.be/YWv4pBOvntw)
+
+## <a id="support">Technical Support and Helpdesk
+
+If you require further technical assistance after completing your 
+training or while navigating the system, there are several support 
+options available to help your organisation:
+
+* Check the User Guide: Visit the [Online User Guide](https://docs.pmhc-mds.com/user-documentation/index.html) 
+  to review step-by-step instructions and troubleshooting steps.
+
+* Frequently Asked Questions (FAQs): Check the [system FAQs](https://docs.pmhc-mds.com/projects/user-documentation/en/latest/faqs/system/index.html) for quick answers to common questions.
+
+* Contact the Helpdesk: Email the PMHC Helpdesk directly at [support@pmhc-mds.com](mailto:support@pmhc-mds.com) for tailored support and assistance. An easy way to reach us is via the Contact Support button on the footer of the PMHC MDS site.
 
 ## Feedback
 
